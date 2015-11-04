@@ -1,0 +1,820 @@
+
+BA    1   CR         0   TR  0   CH 16   Time signature 2/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key Cb major
+BA    1   CR         0   TR  0   CH 16   Tempo 175
+BA    1   CR         0   TR  0   CH 16   Text type 6: "Phillip Dyte "Flippy_D""
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH 16   Text type 3: "The anaconda theme from Timesplitters 2"
+BA    1   CR         0   TR  1   CH  2   Instrument 81
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  2   CH 16   Text type 3: "constructed in cakewalk"
+BA    1   CR         0   TR  2   CH  1   Instrument 39
+BA    1   CR         0   TR  2   CH  1   NT  Db--          1/2   von=100
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Done by Phillip 'Flippy_D' Dyte"
+BA    1   CR         0   TR  4   CH  3   Instrument 82
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Mainly through boredom"
+BA    1   CR         0   TR  5   CH 16   End of track
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  6   CH 16   Text type 3: "GraalianHT@AOL.com"
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  7   CH 16   Text type 3: "OLD SKOOL!"
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA    1   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+
+BA    2   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA    2   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA    2   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA    3   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA    3   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA    3   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA    3   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA    4   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA    4   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA    4   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+
+BA    5   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA    5   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA    5   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA    6   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA    6   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA    6   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA    6   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA    7   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA    7   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA    7   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+
+BA    8   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA    8   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA    8   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA    9   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA    9   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA    9   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA    9   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   10   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   10   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   10   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+
+BA   11   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   11   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   11   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   12   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   12   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   12   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   12   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   13   CR         0   TR  0   CH 16   Text type 6: "change key"
+BA   13   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA   13   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA   13   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+
+BA   14   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA   14   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA   14   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA   15   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA   15   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   15   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA   15   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+
+BA   16   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA   16   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA   16   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+
+BA   17   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA   17   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA   17   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA   18   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA   18   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   18   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA   18   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+
+BA   19   CR         0   TR  0   CH 16   Text type 6: "revert"
+BA   19   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   19   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   19   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+
+BA   20   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   20   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   20   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   21   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   21   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   21   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   21   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   22   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   22   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   22   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+
+BA   23   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   23   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   23   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   24   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   24   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   24   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   24   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   25   CR         0   TR  2   CH  1   NT  Ab--          1/2
+BA   25   CR         1   TR  2   CH  1   NT  Ab-           1/2
+BA   25   CR     1+1/2   TR  2   CH  1   NT  Gb-           1/2
+BA   25   CR     1+2/3   TR  0   CH 16   Text type 6: "12 bar"
+
+BA   26   CR         0   TR  2   CH  1   NT  F-            1/2
+BA   26   CR       1/2   TR  2   CH  1   NT  Eb-           1/2
+BA   26   CR         1   TR  2   CH  1   NT  Ab--          1/2
+
+BA   27   CR         0   TR  2   CH  1   NT  Ab-           1/2
+BA   27   CR       1/2   TR  2   CH  1   NT  Gb-           1/2
+BA   27   CR         1   TR  2   CH  1   NT  F-            1/2
+BA   27   CR     1+1/2   TR  2   CH  1   NT  Eb-           1/2
+
+BA   28   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA   28   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA   28   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+
+BA   29   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA   29   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA   29   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA   30   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA   30   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   30   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA   30   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+
+BA   31   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   31   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   31   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+
+BA   32   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   32   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   32   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   33   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   33   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   33   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   33   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   34   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   34   CR         0   TR  3   CH 10   NT  Bbb--         1/2   von=100
+BA   34   CR       1/2   TR  3   CH 10   NT  Bbb--         1/2
+BA   34   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   34   CR         1   TR  3   CH 10   NT  Bbb--         1/2
+BA   34   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   34   CR     1+1/2   TR  3   CH 10   NT  Bbb--         1/2
+
+BA   35   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   35   CR         0   TR  3   CH 10   NT  Bbb--         1/2
+BA   35   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   35   CR       1/2   TR  3   CH 10   NT  Bbb--         1/2
+BA   35   CR         1   TR  2   CH  1   NT  Db--          1/2
+BA   35   CR         1   TR  3   CH 10   NT  Bbb--         1/2
+BA   35   CR     1+1/2   TR  3   CH 10   NT  Bbb--         1/2
+
+BA   36   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   36   CR         0   TR  3   CH 10   NT  Bbb--         1/2
+BA   36   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   36   CR       1/2   TR  3   CH 10   NT  Bbb--         1/2
+BA   36   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   36   CR         1   TR  3   CH 10   NT  Bbb--         1/2
+BA   36   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   36   CR     1+1/2   TR  3   CH 10   NT  Bbb--         1/2
+
+BA   37   CR         0   TR  0   CH 16   Text type 6: "repeat"
+BA   37   CR         0   TR  0   CH 16   End of track
+BA   37   CR         0   TR  1   CH  2   NT  Ab'             1   von=100
+BA   37   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   37   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   37   CR         1   TR  1   CH  2   NT  Gb'           1/2
+BA   37   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   37   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   37   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   37   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   38   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   38   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   38   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   38   CR         1   TR  1   CH  2   NT  F'              1
+BA   38   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   39   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   39   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   39   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   39   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   39   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   39   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   39   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   40   CR         0   TR  1   CH  2   NT  Db'             1
+BA   40   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   40   CR         1   TR  1   CH  2   NT  Bb            1/2
+BA   40   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   40   CR     1+1/2   TR  1   CH  2   NT  Db'             1
+BA   40   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   40   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   41   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   41   CR       1/2   TR  1   CH  2   NT  Bb            1/2
+BA   41   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   41   CR         1   TR  1   CH  2   NT  F'              1
+BA   41   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   42   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   42   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   42   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   42   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   42   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   42   CR         1   TR  3   CH 10   NT  Fb--          1/2
+BA   42   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   42   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   43   CR         0   TR  1   CH  2   NT  Ab'             1
+BA   43   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   43   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   43   CR         1   TR  1   CH  2   NT  Gb'           1/2
+BA   43   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   43   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   43   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   43   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   44   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   44   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   44   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   44   CR         1   TR  1   CH  2   NT  F'              1
+BA   44   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   45   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   45   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   45   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   45   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   45   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   45   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   45   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   46   CR         0   TR  1   CH  2   NT  Db'             1
+BA   46   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   46   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   46   CR         1   TR  1   CH  2   NT  Bb            1/2
+BA   46   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   46   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   46   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   46   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   47   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   47   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   47   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   47   CR         1   TR  1   CH  2   NT  Ab              1
+BA   47   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   48   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   48   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   48   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   48   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   48   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   49   CR         0   TR  1   CH  2   NT  Ab'             1
+BA   49   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA   49   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   49   CR         1   TR  1   CH  2   NT  Gb'           1/2
+BA   49   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA   49   CR     1+1/2   TR  1   CH  2   NT  Fb'             1
+BA   49   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   49   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   50   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA   50   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   50   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA   50   CR         1   TR  1   CH  2   NT  Fb'             1
+BA   50   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA   51   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   51   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA   51   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   51   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   51   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA   51   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   51   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+
+BA   52   CR         0   TR  1   CH  2   NT  Db'             1
+BA   52   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA   52   CR         1   TR  1   CH  2   NT  Bb            1/2
+BA   52   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA   52   CR     1+1/2   TR  1   CH  2   NT  Db'             1
+BA   52   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   52   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   53   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA   53   CR       1/2   TR  1   CH  2   NT  Bb            1/2
+BA   53   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA   53   CR         1   TR  1   CH  2   NT  Fb'             1
+BA   53   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA   54   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   54   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA   54   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   54   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   54   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA   54   CR         1   TR  3   CH 10   NT  Fb--          1/2
+BA   54   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+BA   54   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   55   CR         0   TR  1   CH  2   NT  Ab'             1
+BA   55   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   55   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   55   CR         1   TR  1   CH  2   NT  Gb'           1/2
+BA   55   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   55   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   55   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   55   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   56   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   56   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   56   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   56   CR         1   TR  1   CH  2   NT  F'              1
+BA   56   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   57   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   57   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   57   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   57   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   57   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   57   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   57   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   58   CR         0   TR  1   CH  2   NT  Db'             1
+BA   58   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   58   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   58   CR         1   TR  1   CH  2   NT  Bb            1/2
+BA   58   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   58   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   58   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   58   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   59   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   59   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   59   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   59   CR         1   TR  1   CH  2   NT  Ab              1
+BA   59   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   60   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   60   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   60   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   60   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   60   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   61   CR         0   TR  2   CH  1   NT  Ab--          1/2
+BA   61   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   61   CR         1   TR  1   CH  2   NT  Ab'           1/2
+BA   61   CR         1   TR  2   CH  1   NT  Ab-           1/2
+BA   61   CR     1+1/2   TR  1   CH  2   NT  Eb'         1+1/2
+BA   61   CR     1+1/2   TR  2   CH  1   NT  Gb-           1/2
+BA   61   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   62   CR         0   TR  2   CH  1   NT  F-            1/2
+BA   62   CR       1/2   TR  2   CH  1   NT  Eb-           1/2
+BA   62   CR         1   TR  1   CH  2   NT  Gb'         1+1/2
+BA   62   CR         1   TR  2   CH  1   NT  Ab--          1/2
+
+BA   63   CR         0   TR  2   CH  1   NT  Ab-           1/2
+BA   63   CR       1/2   TR  1   CH  2   NT  Ab'             1
+BA   63   CR       1/2   TR  2   CH  1   NT  Gb-           1/2
+BA   63   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   63   CR         1   TR  2   CH  1   NT  F-            1/2
+BA   63   CR     1+1/2   TR  2   CH  1   NT  Eb-           1/2
+
+BA   64   CR         0   TR  1   CH  2   NT  Gb'             1
+BA   64   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA   64   CR         1   TR  1   CH  2   NT  Fb'           1/2
+BA   64   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA   64   CR     1+1/2   TR  1   CH  2   NT  Db'           5/6
+BA   64   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   64   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   65   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA   65   CR       3/8   TR  1   CH  2   NT  Bb              1
+BA   65   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA   65   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA   66   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   66   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA   66   CR       1/2   TR  1   CH  2   NT  Fb'             1
+BA   66   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   66   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   66   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA   66   CR         1   TR  3   CH 10   NT  Fb--          1/2
+BA   66   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+BA   66   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   67   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   67   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   67   CR         1   TR  1   CH  2   NT  Db'           1/2
+BA   67   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   67   CR     1+1/2   TR  1   CH  2   NT  Db'             1
+BA   67   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   67   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   68   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   68   CR       1/2   TR  1   CH  2   NT  Bb            1/2
+BA   68   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   68   CR         1   TR  1   CH  2   NT  Db'             1
+BA   68   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   69   CR         0   TR  1   CH  2   NT  F'            1/2
+BA   69   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   69   CR       1/2   TR  1   CH  2   NT  Ab              1
+BA   69   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   69   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   69   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   69   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   69   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   70   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   70   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   70   CR         1   TR  1   CH  2   NT  Db'           1/2
+BA   70   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   70   CR     1+1/2   TR  1   CH  2   NT  Db'             1
+BA   70   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   70   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   71   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   71   CR       1/2   TR  1   CH  2   NT  Bb            1/2
+BA   71   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   71   CR         1   TR  1   CH  2   NT  Ab              1
+BA   71   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   72   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   72   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   72   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   72   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   72   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+
+BA   73   CR         0   TR  1   CH  2   NT  Ab'             1
+BA   73   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   73   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   73   CR         0   TR  4   CH  3   NT  Ab              1   von=100
+BA   73   CR         1   TR  1   CH  2   NT  Gb'           1/2
+BA   73   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   73   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   73   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   73   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   73   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   73   CR     1+1/2   TR  4   CH  3   NT  Db'           1/2
+
+BA   74   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   74   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   74   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   74   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   74   CR       1/2   TR  4   CH  3   NT  Db'           1/2
+BA   74   CR         1   TR  1   CH  2   NT  F'              1
+BA   74   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   75   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   75   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   75   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   75   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   75   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   75   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   75   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   75   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   75   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+
+BA   76   CR         0   TR  1   CH  2   NT  Db'             1
+BA   76   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   76   CR         1   TR  1   CH  2   NT  Bb            1/2
+BA   76   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   76   CR     1+1/2   TR  1   CH  2   NT  Db'             1
+BA   76   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   76   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   76   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   77   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   77   CR       1/2   TR  1   CH  2   NT  Bb            1/2
+BA   77   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   77   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   77   CR         1   TR  1   CH  2   NT  F'              1
+BA   77   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   78   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   78   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   78   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   78   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   78   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   78   CR       1/2   TR  4   CH  3   NT  Db'           1/2
+BA   78   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   78   CR         1   TR  3   CH 10   NT  Fb--          1/2
+BA   78   CR         1   TR  4   CH  3   NT  Cb'           1/2
+BA   78   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   78   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   78   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   78   CR     1+1/2   TR  4   CH  3   NT  Bb            1/2
+
+BA   79   CR         0   TR  1   CH  2   NT  Ab'             1
+BA   79   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   79   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   79   CR         0   TR  4   CH  3   NT  Ab              1
+BA   79   CR         1   TR  1   CH  2   NT  Gb'           1/2
+BA   79   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   79   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   79   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   79   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   79   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   79   CR     1+1/2   TR  4   CH  3   NT  Db'           1/2
+
+BA   80   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   80   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   80   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   80   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   80   CR       1/2   TR  4   CH  3   NT  Db'           1/2
+BA   80   CR         1   TR  1   CH  2   NT  F'              1
+BA   80   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   81   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   81   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   81   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   81   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   81   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   81   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   81   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   81   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   81   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+
+BA   82   CR         0   TR  1   CH  2   NT  Db'             1
+BA   82   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   82   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   82   CR         1   TR  1   CH  2   NT  Bb            1/2
+BA   82   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   82   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   82   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   82   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   82   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   83   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   83   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   83   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   83   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   83   CR         1   TR  1   CH  2   NT  Ab              1
+BA   83   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   84   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   84   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   84   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   84   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   84   CR       1/2   TR  4   CH  3   NT  Cb'           1/2
+BA   84   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   84   CR         1   TR  4   CH  3   NT  Bb            1/2
+BA   84   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   84   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   84   CR     1+1/2   TR  4   CH  3   NT  Ab            1/2
+
+BA   85   CR         0   TR  1   CH  2   NT  Ab'             1
+BA   85   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA   85   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   85   CR         0   TR  4   CH  3   NT  Gb              1
+BA   85   CR         1   TR  1   CH  2   NT  Gb'           1/2
+BA   85   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA   85   CR     1+1/2   TR  1   CH  2   NT  Fb'             1
+BA   85   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   85   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   85   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   85   CR     1+1/2   TR  4   CH  3   NT  Gb'           1/2
+
+BA   86   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA   86   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   86   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA   86   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   86   CR       1/2   TR  4   CH  3   NT  Gb'           1/2
+BA   86   CR         1   TR  1   CH  2   NT  Fb'             1
+BA   86   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA   87   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   87   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA   87   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   87   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   87   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   87   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA   87   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   87   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+BA   87   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+
+BA   88   CR         0   TR  1   CH  2   NT  Db'             1
+BA   88   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA   88   CR         1   TR  1   CH  2   NT  Bb            1/2
+BA   88   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA   88   CR     1+1/2   TR  1   CH  2   NT  Db'             1
+BA   88   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   88   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   88   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   89   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA   89   CR       1/2   TR  1   CH  2   NT  Bb            1/2
+BA   89   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA   89   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   89   CR         1   TR  1   CH  2   NT  Fb'             1
+BA   89   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA   90   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   90   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA   90   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA   90   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   90   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   90   CR       1/2   TR  4   CH  3   NT  Db'           1/2
+BA   90   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA   90   CR         1   TR  3   CH 10   NT  Fb--          1/2
+BA   90   CR         1   TR  4   CH  3   NT  Cb'           1/2
+BA   90   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+BA   90   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   90   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   90   CR     1+1/2   TR  4   CH  3   NT  Bb            1/2
+
+BA   91   CR         0   TR  1   CH  2   NT  Ab'             1
+BA   91   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   91   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   91   CR         0   TR  4   CH  3   NT  Ab              1
+BA   91   CR         1   TR  1   CH  2   NT  Gb'           1/2
+BA   91   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   91   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   91   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   91   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   91   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   91   CR     1+1/2   TR  4   CH  3   NT  Db'           1/2
+
+BA   92   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   92   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   92   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   92   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   92   CR       1/2   TR  4   CH  3   NT  Db'           1/2
+BA   92   CR         1   TR  1   CH  2   NT  F'              1
+BA   92   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   93   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA   93   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   93   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   93   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   93   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   93   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   93   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA   93   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   93   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+
+BA   94   CR         0   TR  1   CH  2   NT  Db'             1
+BA   94   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA   94   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   94   CR         1   TR  1   CH  2   NT  Bb            1/2
+BA   94   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA   94   CR     1+1/2   TR  1   CH  2   NT  F'              1
+BA   94   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   94   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   94   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA   95   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA   95   CR       1/2   TR  1   CH  2   NT  Db'           1/2
+BA   95   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   95   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   95   CR         1   TR  1   CH  2   NT  Ab              1
+BA   95   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA   96   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA   96   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA   96   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   96   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   96   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA   96   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA   96   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+
+BA   97   CR         0   TR  2   CH  1   NT  Ab--          1/2
+BA   97   CR         0   TR  3   CH 10   NT  Cb--            1
+BA   97   CR         0   TR  4   CH  3   NT  Db'           1/2
+BA   97   CR       1/2   TR  4   CH  3   NT  Db'           1/2
+BA   97   CR         1   TR  1   CH  2   NT  Ab'           1/2
+BA   97   CR         1   TR  2   CH  1   NT  Ab-           1/2
+BA   97   CR         1   TR  4   CH  3   NT  Db'           1/2
+BA   97   CR     1+1/2   TR  1   CH  2   NT  Eb'         1+1/2
+BA   97   CR     1+1/2   TR  2   CH  1   NT  Gb-           1/2
+BA   97   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   97   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   97   CR     1+1/2   TR  4   CH  3   NT  Db'           1/2
+
+BA   98   CR         0   TR  2   CH  1   NT  F-            1/2
+BA   98   CR         0   TR  4   CH  3   NT  Db'           1/2
+BA   98   CR       1/2   TR  2   CH  1   NT  Eb-           1/2
+BA   98   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   98   CR       1/2   TR  4   CH  3   NT  Db'           1/2
+BA   98   CR         1   TR  1   CH  2   NT  Gb'         1+1/2
+BA   98   CR         1   TR  2   CH  1   NT  Ab--          1/2
+BA   98   CR         1   TR  4   CH  3   NT  Cb'           1/2
+BA   98   CR     1+1/2   TR  4   CH  3   NT  Cb'           1/2
+
+BA   99   CR         0   TR  2   CH  1   NT  Ab-           1/2
+BA   99   CR         0   TR  4   CH  3   NT  Cb'           1/2
+BA   99   CR       1/2   TR  1   CH  2   NT  Ab'             1
+BA   99   CR       1/2   TR  2   CH  1   NT  Gb-           1/2
+BA   99   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   99   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA   99   CR       1/2   TR  4   CH  3   NT  Ab            1/2
+BA   99   CR         1   TR  2   CH  1   NT  F-            1/2
+BA   99   CR     1+1/2   TR  2   CH  1   NT  Eb-           1/2
+BA   99   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA   99   CR     1+1/2   TR  4   CH  3   NT  Ab            1/2
+
+BA  100   CR         0   TR  1   CH  2   NT  Gb'             1
+BA  100   CR         0   TR  2   CH  1   NT  Gb--          1/2
+BA  100   CR         0   TR  4   CH  3   NT  Fb            1/2
+BA  100   CR         1   TR  1   CH  2   NT  Fb'           1/2
+BA  100   CR         1   TR  2   CH  1   NT  Gb-           1/2
+BA  100   CR         1   TR  4   CH  3   NT  Db            1/2
+BA  100   CR     1+1/2   TR  1   CH  2   NT  Db'           5/6
+BA  100   CR     1+1/2   TR  2   CH  1   NT  Fb-           1/2
+BA  100   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  100   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+BA  100   CR     1+1/2   TR  4   CH 16   End of track
+
+BA  101   CR         0   TR  2   CH  1   NT  Eb-           1/2
+BA  101   CR       3/8   TR  1   CH  2   NT  Bb              1
+BA  101   CR       1/2   TR  2   CH  1   NT  Db-           1/2
+BA  101   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  101   CR         1   TR  2   CH  1   NT  Gb--          1/2
+
+BA  102   CR         0   TR  1   CH  2   NT  Db'           1/2
+BA  102   CR         0   TR  2   CH  1   NT  Gb-           1/2
+BA  102   CR       1/2   TR  1   CH  2   NT  Fb'             1
+BA  102   CR       1/2   TR  2   CH  1   NT  Fb-           1/2
+BA  102   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  102   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA  102   CR         1   TR  2   CH  1   NT  Eb-           1/2
+BA  102   CR         1   TR  3   CH 10   NT  Fb--          1/2
+BA  102   CR     1+1/2   TR  2   CH  1   NT  Db-           1/2
+BA  102   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  102   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA  103   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA  103   CR         0   TR  3   CH 10   NT  Cb--            1
+BA  103   CR         1   TR  1   CH  2   NT  Db'           1/2
+BA  103   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA  103   CR     1+1/2   TR  1   CH  2   NT  Db'             1
+BA  103   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA  103   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  103   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA  104   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA  104   CR       1/2   TR  1   CH  2   NT  Bb            1/2
+BA  104   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA  104   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  104   CR         1   TR  1   CH  2   NT  Db'             1
+BA  104   CR         1   TR  2   CH  1   NT  Db--          1/2
+
+BA  105   CR         0   TR  1   CH  2   NT  F'            1/2
+BA  105   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA  105   CR       1/2   TR  1   CH  2   NT  Ab              1
+BA  105   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA  105   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  105   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA  105   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA  105   CR     1+1/2   TR  1   CH  2   NT  Bb            1/2
+BA  105   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA  105   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+
+BA  106   CR         0   TR  2   CH  1   NT  Db--          1/2
+BA  106   CR         0   TR  3   CH 10   NT  Cb--            1
+BA  106   CR         1   TR  1   CH  2   NT  Db'           1/2
+BA  106   CR         1   TR  2   CH  1   NT  Db-           1/2
+BA  106   CR     1+1/2   TR  1   CH  2   NT  Db'             1
+BA  106   CR     1+1/2   TR  2   CH  1   NT  Cb-           1/2
+BA  106   CR     1+1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  106   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA  107   CR         0   TR  2   CH  1   NT  Bb--          1/2
+BA  107   CR       1/2   TR  1   CH  2   NT  Bb            1/2
+BA  107   CR       1/2   TR  2   CH  1   NT  Ab--          1/2
+BA  107   CR       1/2   TR  3   CH 10   NT  Eb--          1/2
+BA  107   CR         1   TR  1   CH  2   NT  Ab              1
+BA  107   CR         1   TR  2   CH  1   NT  Db--          1/2
+BA  107   CR         1   TR  3   CH 10   NT  Fb--          1/2
+BA  107   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA  108   CR         0   TR  1   CH 16   End of track
+BA  108   CR         0   TR  2   CH  1   NT  Db-           1/2
+BA  108   CR         0   TR  3   CH 10   NT  Eb--          1/2
+BA  108   CR         0   TR  3   CH 10   NT  Fb--          1/2
+BA  108   CR       1/2   TR  2   CH  1   NT  Cb-           1/2
+BA  108   CR       1/2   TR  3   CH 10   NT  Fb--          1/2
+BA  108   CR         1   TR  2   CH  1   NT  Bb--          1/2
+BA  108   CR         1   TR  3   CH 10   NT  Eb--          1/2
+BA  108   CR         1   TR  3   CH 10   NT  Fb--          1/2
+BA  108   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2
+BA  108   CR     1+1/2   TR  3   CH 10   NT  Fb--          1/2
+
+BA  109   CR         0   TR  2   CH 16   End of track
+BA  109   CR         0   TR  3   CH 16   End of track

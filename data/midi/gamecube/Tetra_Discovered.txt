@@ -1,0 +1,151 @@
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Tempo 106.0002
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Tremolo Strings"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 45
+BA    1   CR         0   TR  1   CH  1   Channel volume 41
+BA    1   CR         0   TR  1   CH  1   NT  D''     14+473/480   von=64
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Pizzicato Strings"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 46
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &3F
+BA    1   CR         0   TR  2   CH  2   Channel volume 96
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Orchetra Harp"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &00 &00
+BA    1   CR         0   TR  3   CH  3   Instrument 47
+BA    1   CR      7/32   TR  1   CH  1   Channel volume 44
+BA    1   CR     11/32   TR  1   CH  1   Channel volume 45
+BA    1   CR     13/32   TR  1   CH  1   Channel volume 46
+BA    1   CR     15/32   TR  1   CH  1   Channel volume 47
+BA    1   CR     19/32   TR  1   CH  1   Channel volume 48
+BA    1   CR     21/32   TR  1   CH  1   Channel volume 49
+BA    1   CR     23/32   TR  1   CH  1   Channel volume 50
+BA    1   CR     27/32   TR  1   CH  1   Channel volume 51
+BA    1   CR     29/32   TR  1   CH  1   Channel volume 52
+BA    1   CR     31/32   TR  1   CH  1   Channel volume 53
+BA    1   CR    1+3/32   TR  1   CH  1   Channel volume 54
+BA    1   CR    1+5/32   TR  1   CH  1   Channel volume 55
+BA    1   CR    1+7/32   TR  1   CH  1   Channel volume 56
+BA    1   CR   1+11/32   TR  1   CH  1   Channel volume 57
+BA    1   CR   1+13/32   TR  1   CH  1   Channel volume 58
+BA    1   CR   1+15/32   TR  1   CH  1   Channel volume 59
+BA    1   CR   1+19/32   TR  1   CH  1   Channel volume 60
+BA    1   CR   1+21/32   TR  1   CH  1   Channel volume 61
+BA    1   CR   1+23/32   TR  1   CH  1   Channel volume 62
+BA    1   CR   1+27/32   TR  1   CH  1   Channel volume 63
+BA    1   CR   1+29/32   TR  1   CH  1   Channel volume 64
+BA    1   CR   1+31/32   TR  1   CH  1   Channel volume 65
+BA    1   CR    2+3/32   TR  1   CH  1   Channel volume 66
+BA    1   CR    2+5/32   TR  1   CH  1   Channel volume 67
+BA    1   CR    2+7/32   TR  1   CH  1   Channel volume 68
+BA    1   CR   2+11/32   TR  1   CH  1   Channel volume 69
+BA    1   CR   2+13/32   TR  1   CH  1   Channel volume 70
+BA    1   CR   2+15/32   TR  1   CH  1   Channel volume 71
+BA    1   CR   2+19/32   TR  1   CH  1   Channel volume 72
+BA    1   CR   2+21/32   TR  1   CH  1   Channel volume 73
+BA    1   CR   2+23/32   TR  1   CH  1   Channel volume 74
+BA    1   CR   2+27/32   TR  1   CH  1   Channel volume 75
+BA    1   CR   2+29/32   TR  1   CH  1   Channel volume 76
+BA    1   CR   2+31/32   TR  1   CH  1   Channel volume 77
+BA    1   CR    3+3/32   TR  1   CH  1   Channel volume 78
+BA    1   CR    3+5/32   TR  1   CH  1   Channel volume 79
+BA    1   CR    3+7/32   TR  1   CH  1   Channel volume 80
+BA    1   CR   3+11/32   TR  1   CH  1   Channel volume 81
+BA    1   CR   3+13/32   TR  1   CH  1   Channel volume 82
+BA    1   CR   3+15/32   TR  1   CH  1   Channel volume 83
+BA    1   CR   3+19/32   TR  1   CH  1   Channel volume 84
+BA    1   CR   3+21/32   TR  1   CH  1   Channel volume 85
+BA    1   CR   3+23/32   TR  1   CH  1   Channel volume 86
+
+BA    3   CR         0   TR  2   CH  2   NT  A'        473/480   von=64
+BA    3   CR         0   TR  2   CH  2   NT  F#'       473/480
+BA    3   CR         0   TR  2   CH  2   NT  D'        473/480
+BA    3   CR         0   TR  2   CH  2   NT  C#'       473/480
+BA    3   CR         0   TR  3   CH  3   NT  C-         73/480   von=64
+BA    3   CR       1/6   TR  3   CH  3   NT  F#-        73/480
+BA    3   CR       1/3   TR  3   CH  3   NT  A-         73/480
+BA    3   CR       1/2   TR  3   CH  3   NT  C          73/480
+BA    3   CR       2/3   TR  3   CH  3   NT  Eb         73/480
+BA    3   CR       5/6   TR  3   CH  3   NT  F#         73/480
+BA    3   CR   473/480   TR  2   CH 16   End of track
+BA    3   CR         1   TR  3   CH  3   NT  A          73/480
+BA    3   CR     1+1/6   TR  3   CH  3   NT  Eb         73/480
+BA    3   CR     1+1/3   TR  3   CH  3   NT  F#         73/480
+BA    3   CR     1+1/2   TR  3   CH  3   NT  A          73/480
+BA    3   CR     1+2/3   TR  3   CH  3   NT  C'         73/480
+BA    3   CR     1+5/6   TR  3   CH  3   NT  F#'        73/480
+BA    3   CR         2   TR  3   CH  3   NT  A'        473/480
+BA    3   CR 2+473/480   TR  3   CH 16   End of track
+BA    3   CR    3+1/32   TR  1   CH  1   Channel volume 87
+BA    3   CR   3+21/32   TR  1   CH  1   Channel volume 82
+BA    3   CR   3+23/32   TR  1   CH  1   Channel volume 81
+BA    3   CR   3+25/32   TR  1   CH  1   Channel volume 80
+BA    3   CR   3+27/32   TR  1   CH  1   Channel volume 79
+BA    3   CR   3+29/32   TR  1   CH  1   Channel volume 78
+BA    3   CR   3+31/32   TR  1   CH  1   Channel volume 77
+
+BA    4   CR      1/32   TR  1   CH  1   Channel volume 76
+BA    4   CR      3/32   TR  1   CH  1   Channel volume 75
+BA    4   CR      5/32   TR  1   CH  1   Channel volume 74
+BA    4   CR      7/32   TR  1   CH  1   Channel volume 73
+BA    4   CR      9/32   TR  1   CH  1   Channel volume 72
+BA    4   CR     11/32   TR  1   CH  1   Channel volume 71
+BA    4   CR     13/32   TR  1   CH  1   Channel volume 70
+BA    4   CR     15/32   TR  1   CH  1   Channel volume 69
+BA    4   CR     17/32   TR  1   CH  1   Channel volume 68
+BA    4   CR     19/32   TR  1   CH  1   Channel volume 67
+BA    4   CR     21/32   TR  1   CH  1   Channel volume 66
+BA    4   CR     23/32   TR  1   CH  1   Channel volume 65
+BA    4   CR     25/32   TR  1   CH  1   Channel volume 64
+BA    4   CR     27/32   TR  1   CH  1   Channel volume 63
+BA    4   CR     29/32   TR  1   CH  1   Channel volume 62
+BA    4   CR     31/32   TR  1   CH  1   Channel volume 61
+BA    4   CR    1+1/32   TR  1   CH  1   Channel volume 60
+BA    4   CR    1+3/32   TR  1   CH  1   Channel volume 58
+BA    4   CR    1+5/32   TR  1   CH  1   Channel volume 57
+BA    4   CR    1+7/32   TR  1   CH  1   Channel volume 56
+BA    4   CR    1+9/32   TR  1   CH  1   Channel volume 55
+BA    4   CR   1+11/32   TR  1   CH  1   Channel volume 54
+BA    4   CR   1+13/32   TR  1   CH  1   Channel volume 53
+BA    4   CR   1+15/32   TR  1   CH  1   Channel volume 52
+BA    4   CR   1+17/32   TR  1   CH  1   Channel volume 51
+BA    4   CR   1+19/32   TR  1   CH  1   Channel volume 50
+BA    4   CR   1+21/32   TR  1   CH  1   Channel volume 49
+BA    4   CR   1+23/32   TR  1   CH  1   Channel volume 48
+BA    4   CR   1+25/32   TR  1   CH  1   Channel volume 47
+BA    4   CR   1+27/32   TR  1   CH  1   Channel volume 46
+BA    4   CR   1+29/32   TR  1   CH  1   Channel volume 45
+BA    4   CR   1+31/32   TR  1   CH  1   Channel volume 44
+BA    4   CR    2+1/32   TR  1   CH  1   Channel volume 43
+BA    4   CR    2+3/32   TR  1   CH  1   Channel volume 42
+BA    4   CR    2+5/32   TR  1   CH  1   Channel volume 41
+BA    4   CR    2+7/32   TR  1   CH  1   Channel volume 40
+BA    4   CR    2+9/32   TR  1   CH  1   Channel volume 39
+BA    4   CR   2+11/32   TR  1   CH  1   Channel volume 38
+BA    4   CR   2+13/32   TR  1   CH  1   Channel volume 37
+BA    4   CR   2+15/32   TR  1   CH  1   Channel volume 35
+BA    4   CR   2+17/32   TR  1   CH  1   Channel volume 34
+BA    4   CR   2+19/32   TR  1   CH  1   Channel volume 33
+BA    4   CR   2+21/32   TR  1   CH  1   Channel volume 32
+BA    4   CR   2+23/32   TR  1   CH  1   Channel volume 31
+BA    4   CR   2+25/32   TR  1   CH  1   Channel volume 30
+BA    4   CR   2+27/32   TR  1   CH  1   Channel volume 29
+BA    4   CR   2+29/32   TR  1   CH  1   Channel volume 28
+BA    4   CR   2+31/32   TR  1   CH  1   Channel volume 27
+BA    4   CR    3+1/32   TR  1   CH  1   Channel volume 26
+BA    4   CR    3+3/32   TR  1   CH  1   Channel volume 25
+BA    4   CR    3+5/32   TR  1   CH  1   Channel volume 24
+BA    4   CR    3+7/32   TR  1   CH  1   Channel volume 23
+BA    4   CR    3+9/32   TR  1   CH  1   Channel volume 22
+BA    4   CR   3+11/32   TR  1   CH  1   Channel volume 21
+BA    4   CR   3+13/32   TR  1   CH  1   Channel volume 20
+BA    4   CR   3+15/32   TR  1   CH  1   Channel volume 19
+BA    4   CR   3+17/32   TR  1   CH  1   Channel volume 18
+BA    4   CR   3+19/32   TR  1   CH  1   Channel volume 17
+BA    4   CR   3+21/32   TR  1   CH  1   Channel volume 16
+BA    4   CR   3+23/32   TR  1   CH  1   Channel volume 15
+BA    4   CR   3+25/32   TR  1   CH  1   Channel volume 14
+BA    4   CR   3+27/32   TR  1   CH  1   Channel volume 12
+BA    4   CR   3+27/32   TR  1   CH 16   End of track

@@ -1,0 +1,1132 @@
+
+BA    1   CR         0   TR  0   CH 16   Text type 1: "(C) composed by Kazumi Totaka, Shinobu Tanaka\r\nsequenced by Kooper909\r\ne-mail: kooper909@yahoo.com\r\n** Please! All questions/comments/requests welcome **\r\nvisit http://nmidi.vze.com/ for more Nintendo MIDIs."
+BA    1   CR         0   TR  0   CH 16   Text type 3: "E. Gadd's Lab"
+BA    1   CR         0   TR  0   CH 16   Text type 2: "(C) 2001 nMIDI.vze.com"
+BA    1   CR         0   TR  0   CH 16   Tempo 180
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Instrument 57
+BA    1   CR         0   TR  1   CH  1   ST &B0 &01 &08
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  2   CH  2   Channel volume 127
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Instrument 29
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  3   CH  3   Channel volume 107
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  3   CH  3   Instrument 33
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   3
+BA    1   CR         0   TR  4   CH  4   Channel volume 127
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  4   CH  4   Instrument 58
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &20   4
+BA    1   CR         0   TR  5   CH  5   Channel volume 127
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  5   CH  5   Instrument 39
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &20   5
+BA    1   CR         0   TR  6   CH  6   Channel volume 87
+BA    1   CR         0   TR  6   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  6   CH  6   Instrument 5
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &20   9
+BA    1   CR         0   TR  7   CH 10   Channel volume 127
+BA    1   CR         0   TR  7   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  7   CH 10   Instrument 1
+BA    1   CR       1/2   TR  2   CH  2   NT  C#'           1/4   von=100   voff=80
+BA    1   CR       1/2   TR  2   CH  2   NT  G#'           1/4   voff=80
+BA    1   CR       3/4   TR  2   CH  2   NT  C#'           1/4   voff=80
+BA    1   CR       3/4   TR  2   CH  2   NT  G#'           1/4   voff=80
+BA    1   CR         1   TR  2   CH  2   NT  C#'           1/4   voff=80
+BA    1   CR         1   TR  2   CH  2   NT  G#'           1/4   voff=80
+BA    1   CR     1+1/2   TR  2   CH  2   NT  C#'           1/4   voff=80
+BA    1   CR     1+1/2   TR  2   CH  2   NT  G#'           1/4   voff=80
+BA    1   CR         2   TR  2   CH  2   NT  C#'           1/4   voff=80
+BA    1   CR         2   TR  2   CH  2   NT  G#'           1/4   voff=80
+BA    1   CR     2+1/2   TR  2   CH  2   NT  C#'           1/4   voff=80
+BA    1   CR     2+1/2   TR  2   CH  2   NT  G#'           1/4   voff=80
+BA    1   CR         3   TR  2   CH  2   NT  C#'           1/4   voff=80
+BA    1   CR         3   TR  2   CH  2   NT  G#'           1/4   voff=80
+BA    1   CR     3+1/4   TR  2   CH 16   End of track
+
+BA    2   CR         0   TR  0   CH 16   Tempo 92.0001
+BA    2   CR         0   TR  3   CH  3   NT  Bb--          3/8   von=100   voff=80
+BA    2   CR         0   TR  7   CH 10   NT  F#--          1/4   von=100   voff=80
+BA    2   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    2   CR       1/2   TR  1   CH  1   NT  F'            1/4   von=100   voff=80
+BA    2   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    2   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA    2   CR         1   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    2   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    2   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    2   CR     1+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    2   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA    2   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    2   CR         2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    2   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    2   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    2   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA    2   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    2   CR         3   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA    2   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    2   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    2   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA    2   CR     3+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    2   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA    3   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA    3   CR         0   TR  1   CH  1   NT  E'            3/8   voff=80
+BA    3   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA    3   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    3   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    3   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    3   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA    3   CR         1   TR  1   CH  1   NT  C'            3/8   voff=80
+BA    3   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA    3   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    3   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    3   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA    3   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    3   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    3   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    3   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA    3   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    3   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    3   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    3   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA    3   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA    4   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA    4   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    4   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    4   CR       1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    4   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    4   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA    4   CR         1   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    4   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    4   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    4   CR     1+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    4   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA    4   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    4   CR         2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    4   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    4   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    4   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA    4   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    4   CR         3   TR  1   CH  1   NT  C'            1/4   voff=80
+BA    4   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    4   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    4   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA    4   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    4   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA    5   CR         0   TR  1   CH  1   NT  C#'           3/8   voff=80
+BA    5   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA    5   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    5   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    5   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    5   CR         1   TR  1   CH  1   NT  Bb            3/8   voff=80
+BA    5   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA    5   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    5   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    5   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    5   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    5   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    5   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    5   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    5   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    5   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA    6   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA    6   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    6   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    6   CR       1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    6   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    6   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA    6   CR         1   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    6   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    6   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    6   CR     1+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    6   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA    6   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    6   CR         2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    6   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    6   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    6   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA    6   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    6   CR         3   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA    6   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    6   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    6   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA    6   CR     3+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA    6   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA    7   CR         0   TR  1   CH  1   NT  E'            3/8   voff=80
+BA    7   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA    7   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA    7   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    7   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    7   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    7   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA    7   CR         1   TR  1   CH  1   NT  C'            3/8   voff=80
+BA    7   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA    7   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    7   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    7   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA    7   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    7   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    7   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    7   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA    7   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    7   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    7   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    7   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA    7   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA    8   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA    8   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    8   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    8   CR       1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    8   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    8   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA    8   CR         1   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    8   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    8   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    8   CR     1+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    8   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA    8   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    8   CR         2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    8   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    8   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    8   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA    8   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    8   CR         3   TR  1   CH  1   NT  C'            1/4   voff=80
+BA    8   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    8   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    8   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA    8   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    8   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA    9   CR         0   TR  1   CH  1   NT  C#'           3/8   voff=80
+BA    9   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA    9   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    9   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    9   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    9   CR         1   TR  1   CH  1   NT  Bb            3/8   voff=80
+BA    9   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA    9   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    9   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    9   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    9   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA    9   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    9   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    9   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA    9   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA    9   CR     3+1/2   TR  4   CH  4   NT  Bb--          1/4   von=100   voff=80
+BA    9   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   10   CR         0   TR  4   CH  4   NT  A--           1/4   voff=80
+BA   10   CR         0   TR  5   CH  5   NT  C---          3/4   von=100   voff=80
+BA   10   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   10   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   10   CR         0   TR  7   CH 10   NT  Eb--          1/4   voff=80
+BA   10   CR       1/2   TR  4   CH  4   NT  Bb--          1/4   voff=80
+BA   10   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   10   CR         1   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   10   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   10   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   10   CR     1+1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   10   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   10   CR         2   TR  4   CH  4   NT  Bb--          1/4   voff=80
+BA   10   CR         2   TR  5   CH  5   NT  C#---         3/4   voff=80
+BA   10   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   10   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   10   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   10   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   10   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   10   CR     3+1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   10   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   11   CR         0   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   11   CR         0   TR  5   CH  5   NT  Eb---         3/4   voff=80
+BA   11   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   11   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   11   CR       1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   11   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   11   CR         1   TR  4   CH  4   NT  Eb-           1/4   voff=80
+BA   11   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   11   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   11   CR     1+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   11   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   11   CR         2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   11   CR         2   TR  5   CH  5   NT  F---          3/4   voff=80
+BA   11   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   11   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   11   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   11   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   11   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   11   CR     3+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   11   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   12   CR         0   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   12   CR         0   TR  5   CH  5   NT  G---          3/4   voff=80
+BA   12   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   12   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   12   CR       1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   12   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   12   CR         1   TR  4   CH  4   NT  G-            1/4   voff=80
+BA   12   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   12   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   12   CR     1+1/2   TR  4   CH  4   NT  G#-           1/4   voff=80
+BA   12   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   12   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   12   CR         2   TR  5   CH  5   NT  G#---         3/4   voff=80
+BA   12   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   12   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   12   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   12   CR         3   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   12   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   12   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   12   CR     3+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   12   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   13   CR         0   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   13   CR         0   TR  5   CH  5   NT  Bb---         3/4   voff=80
+BA   13   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   13   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   13   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   13   CR         1   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   13   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   13   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   13   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   13   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   13   CR         2   TR  5   CH  5   NT  A---          3/4   voff=80
+BA   13   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   13   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   13   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   13   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   13   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   13   CR     3+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   13   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   14   CR         0   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   14   CR         0   TR  5   CH  5   NT  A---          3/4   voff=80
+BA   14   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   14   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   14   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   14   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   14   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   14   CR     1+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   14   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   14   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   14   CR         2   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   14   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   14   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   14   CR     2+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   14   CR     2+1/2   TR  5   CH  5   NT  E---          1/2   voff=80
+BA   14   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   14   CR         3   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   14   CR         3   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   14   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   14   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   14   CR     3+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   14   CR     3+1/2   TR  5   CH  5   NT  E---          1/2   voff=80
+BA   14   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   15   CR         0   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   15   CR         0   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   15   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   15   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   15   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   15   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   15   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   15   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   15   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   15   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   15   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   15   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   15   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   15   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   16   CR         0   TR  0   CH 16   Time signature 2/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   16   CR         0   TR  6   CH  6   NT  F--             2   von=100   voff=80
+BA   16   CR         0   TR  6   CH  6   NT  F-              2   voff=80
+BA   16   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   16   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   16   CR      1/40   TR  6   CH  6   Channel volume 89
+BA   16   CR      1/20   TR  6   CH  6   Channel volume 90
+BA   16   CR      3/40   TR  6   CH  6   Channel volume 91
+BA   16   CR      1/10   TR  6   CH  6   Channel volume 92
+BA   16   CR       1/8   TR  6   CH  6   Channel volume 93
+BA   16   CR      3/20   TR  6   CH  6   Channel volume 94
+BA   16   CR      7/40   TR  6   CH  6   Channel volume 95
+BA   16   CR       1/5   TR  6   CH  6   Channel volume 96
+BA   16   CR      9/40   TR  6   CH  6   Channel volume 97
+BA   16   CR       1/4   TR  6   CH  6   Channel volume 98
+BA   16   CR     11/40   TR  6   CH  6   Channel volume 99
+BA   16   CR      3/10   TR  6   CH  6   Channel volume 100
+BA   16   CR     13/40   TR  6   CH  6   Channel volume 101
+BA   16   CR      7/20   TR  6   CH  6   Channel volume 102
+BA   16   CR       3/8   TR  6   CH  6   Channel volume 103
+BA   16   CR       2/5   TR  6   CH  6   Channel volume 104
+BA   16   CR     17/40   TR  6   CH  6   Channel volume 105
+BA   16   CR      9/20   TR  6   CH  6   Channel volume 106
+BA   16   CR     19/40   TR  6   CH  6   Channel volume 107
+BA   16   CR       1/2   TR  6   CH  6   Channel volume 108
+BA   16   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   16   CR     21/40   TR  6   CH  6   Channel volume 109
+BA   16   CR     11/20   TR  6   CH  6   Channel volume 110
+BA   16   CR     23/40   TR  6   CH  6   Channel volume 111
+BA   16   CR       3/5   TR  6   CH  6   Channel volume 112
+BA   16   CR       5/8   TR  6   CH  6   Channel volume 113
+BA   16   CR     13/20   TR  6   CH  6   Channel volume 114
+BA   16   CR     27/40   TR  6   CH  6   Channel volume 115
+BA   16   CR      7/10   TR  6   CH  6   Channel volume 116
+BA   16   CR     29/40   TR  6   CH  6   Channel volume 117
+BA   16   CR       3/4   TR  6   CH  6   Channel volume 118
+BA   16   CR     31/40   TR  6   CH  6   Channel volume 119
+BA   16   CR       4/5   TR  6   CH  6   Channel volume 120
+BA   16   CR     33/40   TR  6   CH  6   Channel volume 121
+BA   16   CR     17/20   TR  6   CH  6   Channel volume 122
+BA   16   CR       7/8   TR  6   CH  6   Channel volume 123
+BA   16   CR      9/10   TR  6   CH  6   Channel volume 124
+BA   16   CR     37/40   TR  6   CH  6   Channel volume 125
+BA   16   CR     19/20   TR  6   CH  6   Channel volume 126
+BA   16   CR     39/40   TR  6   CH  6   Channel volume 127
+BA   16   CR         1   TR  6   CH  6   NT  F               1   voff=80
+BA   16   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   16   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   16   CR    1+1/40   TR  6   CH  6   Channel volume 125
+BA   16   CR    1+1/20   TR  6   CH  6   Channel volume 122
+BA   16   CR    1+3/40   TR  6   CH  6   Channel volume 119
+BA   16   CR    1+1/10   TR  6   CH  6   Channel volume 116
+BA   16   CR     1+1/8   TR  6   CH  6   Channel volume 113
+BA   16   CR    1+3/20   TR  6   CH  6   Channel volume 110
+BA   16   CR    1+7/40   TR  6   CH  6   Channel volume 107
+BA   16   CR     1+1/5   TR  6   CH  6   Channel volume 104
+BA   16   CR    1+9/40   TR  6   CH  6   Channel volume 101
+BA   16   CR     1+1/4   TR  6   CH  6   Channel volume 98
+BA   16   CR   1+11/40   TR  6   CH  6   Channel volume 95
+BA   16   CR    1+3/10   TR  6   CH  6   Channel volume 92
+BA   16   CR   1+13/40   TR  6   CH  6   Channel volume 89
+BA   16   CR    1+7/20   TR  6   CH  6   Channel volume 86
+BA   16   CR     1+3/8   TR  6   CH  6   Channel volume 83
+BA   16   CR     1+2/5   TR  6   CH  6   Channel volume 80
+BA   16   CR   1+17/40   TR  6   CH  6   Channel volume 77
+BA   16   CR    1+9/20   TR  6   CH  6   Channel volume 74
+BA   16   CR   1+19/40   TR  6   CH  6   Channel volume 71
+BA   16   CR     1+1/2   TR  6   CH  6   Channel volume 68
+BA   16   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   16   CR   1+21/40   TR  6   CH  6   Channel volume 65
+BA   16   CR   1+11/20   TR  6   CH  6   Channel volume 62
+BA   16   CR   1+23/40   TR  6   CH  6   Channel volume 59
+BA   16   CR     1+3/5   TR  6   CH  6   Channel volume 56
+BA   16   CR     1+5/8   TR  6   CH  6   Channel volume 53
+BA   16   CR   1+13/20   TR  6   CH  6   Channel volume 50
+BA   16   CR   1+27/40   TR  6   CH  6   Channel volume 47
+BA   16   CR    1+7/10   TR  6   CH  6   Channel volume 44
+BA   16   CR   1+29/40   TR  6   CH  6   Channel volume 41
+BA   16   CR     1+3/4   TR  6   CH  6   Channel volume 38
+BA   16   CR   1+31/40   TR  6   CH  6   Channel volume 35
+BA   16   CR     1+4/5   TR  6   CH  6   Channel volume 32
+BA   16   CR   1+33/40   TR  6   CH  6   Channel volume 29
+BA   16   CR   1+17/20   TR  6   CH  6   Channel volume 26
+BA   16   CR     1+7/8   TR  6   CH  6   Channel volume 23
+BA   16   CR    1+9/10   TR  6   CH  6   Channel volume 20
+BA   16   CR   1+37/40   TR  6   CH  6   Channel volume 17
+BA   16   CR   1+19/20   TR  6   CH  6   Channel volume 14
+BA   16   CR   1+39/40   TR  6   CH  6   Channel volume 11
+
+BA   17   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   17   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   17   CR         0   TR  6   CH  6   Channel volume 8
+BA   17   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   17   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   17   CR       1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   17   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   17   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   17   CR         1   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   17   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   17   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   17   CR     1+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   17   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   17   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   17   CR         2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   17   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   17   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   17   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   17   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   17   CR         3   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA   17   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   17   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   17   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   17   CR     3+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   17   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   18   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA   18   CR         0   TR  1   CH  1   NT  E'            3/8   voff=80
+BA   18   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   18   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   18   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   18   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   18   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   18   CR         1   TR  1   CH  1   NT  C'            3/8   voff=80
+BA   18   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA   18   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   18   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   18   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   18   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   18   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   18   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   18   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   18   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   18   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   18   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   18   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   18   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   19   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   19   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   19   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   19   CR       1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   19   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   19   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   19   CR         1   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   19   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   19   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   19   CR     1+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   19   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   19   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   19   CR         2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   19   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   19   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   19   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   19   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   19   CR         3   TR  1   CH  1   NT  C'            1/4   voff=80
+BA   19   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   19   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   19   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   19   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   20   CR         0   TR  1   CH  1   NT  C#'           3/8   voff=80
+BA   20   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA   20   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   20   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   20   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   20   CR         1   TR  1   CH  1   NT  Bb            3/8   voff=80
+BA   20   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA   20   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   20   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   20   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   20   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   20   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   20   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   20   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   20   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   20   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   21   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   21   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   21   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   21   CR       1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   21   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   21   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   21   CR         1   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   21   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   21   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   21   CR     1+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   21   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   21   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   21   CR         2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   21   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   21   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   21   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   21   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   21   CR         3   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA   21   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   21   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   21   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   21   CR     3+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   21   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   22   CR         0   TR  1   CH  1   NT  E'            3/8   voff=80
+BA   22   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA   22   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   22   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   22   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   22   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   22   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   22   CR         1   TR  1   CH  1   NT  C'            3/8   voff=80
+BA   22   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA   22   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   22   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   22   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   22   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   22   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   22   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   22   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   22   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   22   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   22   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   22   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   22   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   23   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   23   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   23   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   23   CR       1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   23   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   23   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   23   CR         1   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   23   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   23   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   23   CR     1+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   23   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   23   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   23   CR         2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   23   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   23   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   23   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   23   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   23   CR         3   TR  1   CH  1   NT  C'            1/4   voff=80
+BA   23   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   23   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   23   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   23   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   23   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   24   CR         0   TR  1   CH  1   NT  C#'           3/8   voff=80
+BA   24   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA   24   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   24   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   24   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   24   CR         1   TR  1   CH  1   NT  Bb            3/8   voff=80
+BA   24   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA   24   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   24   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   24   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   24   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   24   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   24   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   24   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   24   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   24   CR     3+1/2   TR  4   CH  4   NT  Bb--          1/4   voff=80
+BA   24   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   25   CR         0   TR  4   CH  4   NT  A--           1/4   voff=80
+BA   25   CR         0   TR  5   CH  5   NT  C---          3/4   voff=80
+BA   25   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   25   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   25   CR         0   TR  7   CH 10   NT  Eb--          1/4   voff=80
+BA   25   CR       1/2   TR  4   CH  4   NT  Bb--          1/4   voff=80
+BA   25   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   25   CR         1   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   25   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   25   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   25   CR     1+1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   25   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   25   CR         2   TR  4   CH  4   NT  Bb--          1/4   voff=80
+BA   25   CR         2   TR  5   CH  5   NT  C#---         3/4   voff=80
+BA   25   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   25   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   25   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   25   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   25   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   25   CR     3+1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   25   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   26   CR         0   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   26   CR         0   TR  5   CH  5   NT  Eb---         3/4   voff=80
+BA   26   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   26   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   26   CR       1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   26   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   26   CR         1   TR  4   CH  4   NT  Eb-           1/4   voff=80
+BA   26   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   26   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   26   CR     1+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   26   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   26   CR         2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   26   CR         2   TR  5   CH  5   NT  F---          3/4   voff=80
+BA   26   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   26   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   26   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   26   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   26   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   26   CR     3+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   26   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   27   CR         0   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   27   CR         0   TR  5   CH  5   NT  G---          3/4   voff=80
+BA   27   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   27   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   27   CR       1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   27   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   27   CR         1   TR  4   CH  4   NT  G-            1/4   voff=80
+BA   27   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   27   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   27   CR     1+1/2   TR  4   CH  4   NT  G#-           1/4   voff=80
+BA   27   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   27   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   27   CR         2   TR  5   CH  5   NT  G#---         3/4   voff=80
+BA   27   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   27   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   27   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   27   CR         3   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   27   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   27   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   27   CR     3+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   27   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   28   CR         0   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   28   CR         0   TR  5   CH  5   NT  Bb---         3/4   voff=80
+BA   28   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   28   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   28   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   28   CR         1   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   28   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   28   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   28   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   28   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   28   CR         2   TR  5   CH  5   NT  A---          3/4   voff=80
+BA   28   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   28   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   28   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   28   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   28   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   28   CR     3+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   28   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   29   CR         0   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   29   CR         0   TR  5   CH  5   NT  A---          3/4   voff=80
+BA   29   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   29   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   29   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   29   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   29   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   29   CR     1+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   29   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   29   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   29   CR         2   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   29   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   29   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   29   CR     2+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   29   CR     2+1/2   TR  5   CH  5   NT  E---          1/2   voff=80
+BA   29   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   29   CR         3   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   29   CR         3   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   29   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   29   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   29   CR     3+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   29   CR     3+1/2   TR  5   CH  5   NT  E---          1/2   voff=80
+BA   29   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   30   CR         0   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   30   CR         0   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   30   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   30   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   30   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   30   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   30   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   30   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   30   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   30   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   30   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   30   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   30   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   30   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   31   CR         0   TR  0   CH 16   Time signature 2/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   31   CR         0   TR  6   CH  6   NT  F--             2   voff=80
+BA   31   CR         0   TR  6   CH  6   NT  F-              2   voff=80
+BA   31   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   31   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   31   CR      1/40   TR  6   CH  6   Channel volume 89
+BA   31   CR      1/20   TR  6   CH  6   Channel volume 90
+BA   31   CR      3/40   TR  6   CH  6   Channel volume 91
+BA   31   CR      1/10   TR  6   CH  6   Channel volume 92
+BA   31   CR       1/8   TR  6   CH  6   Channel volume 93
+BA   31   CR      3/20   TR  6   CH  6   Channel volume 94
+BA   31   CR      7/40   TR  6   CH  6   Channel volume 95
+BA   31   CR       1/5   TR  6   CH  6   Channel volume 96
+BA   31   CR      9/40   TR  6   CH  6   Channel volume 97
+BA   31   CR       1/4   TR  6   CH  6   Channel volume 98
+BA   31   CR     11/40   TR  6   CH  6   Channel volume 99
+BA   31   CR      3/10   TR  6   CH  6   Channel volume 100
+BA   31   CR     13/40   TR  6   CH  6   Channel volume 101
+BA   31   CR      7/20   TR  6   CH  6   Channel volume 102
+BA   31   CR       3/8   TR  6   CH  6   Channel volume 103
+BA   31   CR       2/5   TR  6   CH  6   Channel volume 104
+BA   31   CR     17/40   TR  6   CH  6   Channel volume 105
+BA   31   CR      9/20   TR  6   CH  6   Channel volume 106
+BA   31   CR     19/40   TR  6   CH  6   Channel volume 107
+BA   31   CR       1/2   TR  6   CH  6   Channel volume 108
+BA   31   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   31   CR     21/40   TR  6   CH  6   Channel volume 109
+BA   31   CR     11/20   TR  6   CH  6   Channel volume 110
+BA   31   CR     23/40   TR  6   CH  6   Channel volume 111
+BA   31   CR       3/5   TR  6   CH  6   Channel volume 112
+BA   31   CR       5/8   TR  6   CH  6   Channel volume 113
+BA   31   CR     13/20   TR  6   CH  6   Channel volume 114
+BA   31   CR     27/40   TR  6   CH  6   Channel volume 115
+BA   31   CR      7/10   TR  6   CH  6   Channel volume 116
+BA   31   CR     29/40   TR  6   CH  6   Channel volume 117
+BA   31   CR       3/4   TR  6   CH  6   Channel volume 118
+BA   31   CR     31/40   TR  6   CH  6   Channel volume 119
+BA   31   CR       4/5   TR  6   CH  6   Channel volume 120
+BA   31   CR     33/40   TR  6   CH  6   Channel volume 121
+BA   31   CR     17/20   TR  6   CH  6   Channel volume 122
+BA   31   CR       7/8   TR  6   CH  6   Channel volume 123
+BA   31   CR      9/10   TR  6   CH  6   Channel volume 124
+BA   31   CR     37/40   TR  6   CH  6   Channel volume 125
+BA   31   CR     19/20   TR  6   CH  6   Channel volume 126
+BA   31   CR     39/40   TR  6   CH  6   Channel volume 127
+BA   31   CR         1   TR  6   CH  6   NT  F               1   voff=80
+BA   31   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   31   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   31   CR    1+1/40   TR  6   CH  6   Channel volume 125
+BA   31   CR    1+1/20   TR  6   CH  6   Channel volume 122
+BA   31   CR    1+3/40   TR  6   CH  6   Channel volume 119
+BA   31   CR    1+1/10   TR  6   CH  6   Channel volume 116
+BA   31   CR     1+1/8   TR  6   CH  6   Channel volume 113
+BA   31   CR    1+3/20   TR  6   CH  6   Channel volume 110
+BA   31   CR    1+7/40   TR  6   CH  6   Channel volume 107
+BA   31   CR     1+1/5   TR  6   CH  6   Channel volume 104
+BA   31   CR    1+9/40   TR  6   CH  6   Channel volume 101
+BA   31   CR     1+1/4   TR  6   CH  6   Channel volume 98
+BA   31   CR   1+11/40   TR  6   CH  6   Channel volume 95
+BA   31   CR    1+3/10   TR  6   CH  6   Channel volume 92
+BA   31   CR   1+13/40   TR  6   CH  6   Channel volume 89
+BA   31   CR    1+7/20   TR  6   CH  6   Channel volume 86
+BA   31   CR     1+3/8   TR  6   CH  6   Channel volume 83
+BA   31   CR     1+2/5   TR  6   CH  6   Channel volume 80
+BA   31   CR   1+17/40   TR  6   CH  6   Channel volume 77
+BA   31   CR    1+9/20   TR  6   CH  6   Channel volume 74
+BA   31   CR   1+19/40   TR  6   CH  6   Channel volume 71
+BA   31   CR     1+1/2   TR  6   CH  6   Channel volume 68
+BA   31   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   31   CR   1+21/40   TR  6   CH  6   Channel volume 65
+BA   31   CR   1+11/20   TR  6   CH  6   Channel volume 62
+BA   31   CR   1+23/40   TR  6   CH  6   Channel volume 59
+BA   31   CR     1+3/5   TR  6   CH  6   Channel volume 56
+BA   31   CR     1+5/8   TR  6   CH  6   Channel volume 53
+BA   31   CR   1+13/20   TR  6   CH  6   Channel volume 50
+BA   31   CR   1+27/40   TR  6   CH  6   Channel volume 47
+BA   31   CR    1+7/10   TR  6   CH  6   Channel volume 44
+BA   31   CR   1+29/40   TR  6   CH  6   Channel volume 41
+BA   31   CR     1+3/4   TR  6   CH  6   Channel volume 38
+BA   31   CR   1+31/40   TR  6   CH  6   Channel volume 35
+BA   31   CR     1+4/5   TR  6   CH  6   Channel volume 32
+BA   31   CR   1+33/40   TR  6   CH  6   Channel volume 29
+BA   31   CR   1+17/20   TR  6   CH  6   Channel volume 26
+BA   31   CR     1+7/8   TR  6   CH  6   Channel volume 23
+BA   31   CR    1+9/10   TR  6   CH  6   Channel volume 20
+BA   31   CR   1+37/40   TR  6   CH  6   Channel volume 17
+BA   31   CR   1+19/20   TR  6   CH  6   Channel volume 14
+BA   31   CR   1+39/40   TR  6   CH  6   Channel volume 11
+
+BA   32   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   32   CR         0   TR  0   CH 16   End of track
+BA   32   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   32   CR         0   TR  6   CH  6   Channel volume 8
+BA   32   CR         0   TR  6   CH 16   End of track
+BA   32   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   32   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   32   CR       1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   32   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   32   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   32   CR         1   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   32   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   32   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   32   CR     1+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   32   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   32   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   32   CR         2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   32   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   32   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   32   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   32   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   32   CR         3   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA   32   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   32   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   32   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   32   CR     3+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   32   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   33   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA   33   CR         0   TR  1   CH  1   NT  E'            3/8   voff=80
+BA   33   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   33   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   33   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   33   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   33   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   33   CR         1   TR  1   CH  1   NT  C'            3/8   voff=80
+BA   33   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA   33   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   33   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   33   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   33   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   33   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   33   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   33   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   33   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   33   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   33   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   33   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   33   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   34   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   34   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   34   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   34   CR       1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   34   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   34   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   34   CR         1   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   34   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   34   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   34   CR     1+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   34   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   34   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   34   CR         2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   34   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   34   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   34   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   34   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   34   CR         3   TR  1   CH  1   NT  C'            1/4   voff=80
+BA   34   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   34   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   34   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   34   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   34   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   35   CR         0   TR  1   CH  1   NT  C#'           3/8   voff=80
+BA   35   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA   35   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   35   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   35   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   35   CR         1   TR  1   CH  1   NT  Bb            3/8   voff=80
+BA   35   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA   35   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   35   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   35   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   35   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   35   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   35   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   35   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   35   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   35   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   36   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   36   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   36   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   36   CR       1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   36   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   36   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   36   CR         1   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   36   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   36   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   36   CR     1+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   36   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   36   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   36   CR         2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   36   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   36   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   36   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   36   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   36   CR         3   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA   36   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   36   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   36   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   36   CR     3+1/2   TR  1   CH  1   NT  F'            1/4   voff=80
+BA   36   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   37   CR         0   TR  1   CH  1   NT  E'            3/8   voff=80
+BA   37   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA   37   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   37   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   37   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   37   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   37   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   37   CR         1   TR  1   CH  1   NT  C'            3/8   voff=80
+BA   37   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA   37   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   37   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   37   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   37   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   37   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   37   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   37   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   37   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   37   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   37   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   37   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   37   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   38   CR         0   TR  3   CH  3   NT  Bb--          3/8   voff=80
+BA   38   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   38   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   38   CR       1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   38   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   38   CR       3/4   TR  3   CH  3   NT  F--           3/8   voff=80
+BA   38   CR         1   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   38   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   38   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   38   CR     1+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   38   CR     1+1/2   TR  3   CH  3   NT  C-            3/8   voff=80
+BA   38   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   38   CR         2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   38   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   38   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   38   CR     2+1/2   TR  3   CH  3   NT  F--           1/4   voff=80
+BA   38   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   38   CR         3   TR  1   CH  1   NT  C'            1/4   voff=80
+BA   38   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   38   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   38   CR     3+1/4   TR  3   CH  3   NT  G#--        39/80   voff=80
+BA   38   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   38   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   38   CR   3+59/80   TR  3   CH 16   End of track
+
+BA   39   CR         0   TR  1   CH  1   NT  C#'           3/8   voff=80
+BA   39   CR         0   TR  1   CH  1   ST &B0 &01 &7F
+BA   39   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   39   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   39   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   39   CR         1   TR  1   CH  1   NT  Bb            3/8   voff=80
+BA   39   CR         1   TR  1   CH  1   ST &B0 &01 &08
+BA   39   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   39   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   39   CR     1+3/8   TR  1   CH 16   End of track
+BA   39   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   39   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   39   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   39   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   39   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   39   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   39   CR     3+1/2   TR  4   CH  4   NT  Bb--          1/4   voff=80
+BA   39   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   40   CR         0   TR  4   CH  4   NT  A--           1/4   voff=80
+BA   40   CR         0   TR  5   CH  5   NT  C---          3/4   voff=80
+BA   40   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   40   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   40   CR         0   TR  7   CH 10   NT  Eb--          1/4   voff=80
+BA   40   CR       1/2   TR  4   CH  4   NT  Bb--          1/4   voff=80
+BA   40   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   40   CR         1   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   40   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   40   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   40   CR     1+1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   40   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   40   CR         2   TR  4   CH  4   NT  Bb--          1/4   voff=80
+BA   40   CR         2   TR  5   CH  5   NT  C#---         3/4   voff=80
+BA   40   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   40   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   40   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   40   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   40   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   40   CR     3+1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   40   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   41   CR         0   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   41   CR         0   TR  5   CH  5   NT  Eb---         3/4   voff=80
+BA   41   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   41   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   41   CR       1/2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   41   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   41   CR         1   TR  4   CH  4   NT  Eb-           1/4   voff=80
+BA   41   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   41   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   41   CR     1+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   41   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   41   CR         2   TR  4   CH  4   NT  C#-           1/4   voff=80
+BA   41   CR         2   TR  5   CH  5   NT  F---          3/4   voff=80
+BA   41   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   41   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   41   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   41   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   41   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   41   CR     3+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   41   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   42   CR         0   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   42   CR         0   TR  5   CH  5   NT  G---          3/4   voff=80
+BA   42   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   42   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   42   CR       1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   42   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   42   CR         1   TR  4   CH  4   NT  G-            1/4   voff=80
+BA   42   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   42   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   42   CR     1+1/2   TR  4   CH  4   NT  G#-           1/4   voff=80
+BA   42   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   42   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   42   CR         2   TR  5   CH  5   NT  G#---         3/4   voff=80
+BA   42   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   42   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   42   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   42   CR         3   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   42   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   42   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   42   CR     3+1/2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   42   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   43   CR         0   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   43   CR         0   TR  5   CH  5   NT  Bb---         3/4   voff=80
+BA   43   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   43   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   43   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   43   CR         1   TR  4   CH  4   NT  C-            1/4   voff=80
+BA   43   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   43   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   43   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   43   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   43   CR         2   TR  5   CH  5   NT  A---          3/4   voff=80
+BA   43   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   43   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   43   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   43   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   43   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   43   CR     3+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   43   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   44   CR         0   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   44   CR         0   TR  5   CH  5   NT  A---          3/4   voff=80
+BA   44   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   44   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   44   CR       1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   44   CR         1   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   44   CR         1   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   44   CR     1+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   44   CR     1+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   44   CR         2   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   44   CR         2   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   44   CR         2   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   44   CR         2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   44   CR     2+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   44   CR     2+1/2   TR  5   CH  5   NT  E---          1/2   voff=80
+BA   44   CR     2+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   44   CR         3   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   44   CR         3   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   44   CR         3   TR  7   CH 10   NT  E--           1/4   voff=80
+BA   44   CR         3   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   44   CR     3+1/2   TR  4   CH  4   NT  E-            1/4   voff=80
+BA   44   CR     3+1/2   TR  5   CH  5   NT  E---          1/2   voff=80
+BA   44   CR     3+1/2   TR  7   CH 10   NT  F#--          1/4   voff=80
+
+BA   45   CR         0   TR  4   CH  4   NT  F-            1/4   voff=80
+BA   45   CR         0   TR  5   CH  5   NT  F---          1/2   voff=80
+BA   45   CR         0   TR  7   CH 10   NT  F#--          1/4   voff=80
+BA   45   CR         0   TR  7   CH 10   NT  C--           1/4   voff=80
+BA   45   CR       1/4   TR  4   CH 16   End of track
+BA   45   CR       1/4   TR  7   CH 16   End of track
+BA   45   CR       1/2   TR  5   CH 16   End of track

@@ -1,0 +1,605 @@
+
+BA    1   CR         0   TR  0   CH 16   Tempo 120
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH  1   Instrument 33
+BA    1   CR         0   TR  1   CH  1   NT  C-          1+1/2   von=127   voff=0
+BA    1   CR         0   TR  2   CH 10   NT  E             1/4   von=127   voff=0
+BA    1   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    1   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    1   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    1   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA    2   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA    2   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA    2   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    2   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    2   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    2   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA    3   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA    3   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA    3   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    3   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    3   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    3   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA    4   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA    4   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA    4   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    4   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    4   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    4   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA    5   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA    5   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA    5   CR         0   TR  3   CH  3   Instrument 26
+BA    5   CR         0   TR  3   CH  3   NT  C               4   von=127   voff=0
+BA    5   CR         0   TR  4   CH  4   Instrument 26
+BA    5   CR         0   TR  4   CH  4   NT  E               4   von=127   voff=0
+BA    5   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    5   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    5   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    5   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA    6   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA    6   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA    6   CR         0   TR  3   CH  3   NT  E               1   voff=0
+BA    6   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    6   CR         1   TR  3   CH  3   NT  G-            1/2   voff=0
+BA    6   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    6   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    6   CR     1+1/2   TR  3   CH  3   NT  A-              5   voff=0
+BA    6   CR     2+1/2   TR  4   CH  4   NT  E               1   voff=0
+BA    6   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    6   CR     3+1/2   TR  4   CH  4   NT  G               3   voff=0
+
+BA    7   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA    7   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA    7   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    7   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    7   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    7   CR         2   TR  7   CH  7   Instrument 121
+BA    7   CR         2   TR  7   CH  7   NT  E             1/4   von=127   voff=0
+BA    7   CR         2   TR  8   CH  8   Instrument 121
+BA    7   CR         2   TR  8   CH  8   NT  C             1/4   von=127   voff=0
+BA    7   CR     2+1/2   TR  3   CH  3   NT  C           9+1/2   voff=0
+BA    7   CR     2+1/2   TR  4   CH  4   NT  E           9+1/2   voff=0
+BA    7   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA    8   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA    8   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA    8   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    8   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    8   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    8   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA    9   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA    9   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA    9   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA    9   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA    9   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA    9   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   10   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   10   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   10   CR         0   TR  3   CH  3   NT  G               3   voff=0
+BA   10   CR         0   TR  4   CH  4   NT  C               3   voff=0
+BA   10   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   10   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   10   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   10   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   10   CR         3   TR  3   CH  3   NT  G             1/2   voff=0
+BA   10   CR         3   TR  4   CH  4   NT  C             1/2   voff=0
+BA   10   CR     3+1/2   TR  3   CH  3   NT  A             1/2   voff=0
+BA   10   CR     3+1/2   TR  4   CH  4   NT  D             1/2   voff=0
+
+BA   11   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   11   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   11   CR         0   TR  3   CH  3   NT  G             1/4   voff=0
+BA   11   CR         0   TR  4   CH  4   NT  C             1/4   voff=0
+BA   11   CR       1/4   TR  3   CH  3   NT  A             1/4   voff=0
+BA   11   CR       1/4   TR  4   CH  4   NT  D             1/4   voff=0
+BA   11   CR       1/2   TR  3   CH  3   NT  G           1+1/2   voff=0
+BA   11   CR       1/2   TR  4   CH  4   NT  C           1+1/2   voff=0
+BA   11   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   11   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   11   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   11   CR         2   TR  3   CH  3   NT  F               1   voff=0
+BA   11   CR         2   TR  4   CH  4   NT  C               1   voff=0
+BA   11   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   11   CR         3   TR  3   CH  3   NT  C               1   voff=0
+BA   11   CR         3   TR  4   CH  4   NT  G-              1   voff=0
+
+BA   12   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   12   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   12   CR         0   TR  3   CH  3   NT  G               7   voff=0
+BA   12   CR         0   TR  4   CH  4   NT  C               7   voff=0
+BA   12   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   12   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   12   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   12   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   13   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   13   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   13   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   13   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   13   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   13   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   13   CR         3   TR  3   CH  3   NT  E             1/4   voff=0
+BA   13   CR     3+1/4   TR  3   CH  3   NT  G             1/2   voff=0
+BA   13   CR     3+3/4   TR  3   CH  3   NT  E             1/4   voff=0
+
+BA   14   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   14   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   14   CR         0   TR  3   CH  3   NT  A           1+1/2   voff=0
+BA   14   CR         0   TR  4   CH  4   NT  E           1+1/2   voff=0
+BA   14   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   14   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   14   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   14   CR     1+1/2   TR  3   CH  3   NT  E           1+1/2   voff=0
+BA   14   CR     1+1/2   TR  4   CH  4   NT  C           1+1/2   voff=0
+BA   14   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   14   CR         3   TR  3   CH  3   NT  C               5   voff=0
+BA   14   CR         3   TR  4   CH  4   NT  A-              5   voff=0
+
+BA   15   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   15   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   15   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   15   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   15   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   15   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   15   CR         3   TR  7   CH  7   NT  C             1/4   voff=0
+BA   15   CR         3   TR  8   CH  8   NT  G             1/4   voff=0
+
+BA   16   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   16   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   16   CR         0   TR  3   CH  3   NT  G           1+1/2   voff=0
+BA   16   CR         0   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA   16   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   16   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   16   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   16   CR     1+1/2   TR  3   CH  3   NT  D           6+1/2   voff=0
+BA   16   CR     1+1/2   TR  4   CH  4   NT  Bb-         6+1/2   voff=0
+BA   16   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   17   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   17   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   17   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   17   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   17   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   17   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   18   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   18   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   18   CR         0   TR  3   CH  3   NT  A           1+1/2   voff=0
+BA   18   CR         0   TR  4   CH  4   NT  E           1+1/2   voff=0
+BA   18   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   18   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   18   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   18   CR     1+1/2   TR  3   CH  3   NT  E           1+1/2   voff=0
+BA   18   CR     1+1/2   TR  4   CH  4   NT  C           1+1/2   voff=0
+BA   18   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   18   CR         3   TR  3   CH  3   NT  C               5   voff=0
+BA   18   CR         3   TR  4   CH  4   NT  A-              5   voff=0
+
+BA   19   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   19   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   19   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   19   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   19   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   19   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   19   CR         3   TR  7   CH  7   NT  D             1/4   voff=0
+BA   19   CR         3   TR  8   CH  8   NT  G             1/4   voff=0
+
+BA   20   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   20   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   20   CR         0   TR  3   CH  3   NT  G           1+1/2   voff=0
+BA   20   CR         0   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA   20   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   20   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   20   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   20   CR     1+1/2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA   20   CR     1+1/2   TR  4   CH  4   NT  Bb-         1+1/2   voff=0
+BA   20   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   20   CR         3   TR  3   CH  3   NT  B-              5   voff=0
+BA   20   CR         3   TR  4   CH  4   NT  G-              5   voff=0
+
+BA   21   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   21   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   21   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   21   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   21   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   21   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   22   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   22   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   22   CR         0   TR  3   CH  3   NT  G-            1/4   voff=0
+BA   22   CR       1/4   TR  3   CH  3   NT  B-            1/4   voff=0
+BA   22   CR       1/2   TR  3   CH  3   NT  A-          7+1/2   voff=0
+BA   22   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   22   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   22   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   22   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   23   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   23   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   23   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   23   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   23   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   23   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   24   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   24   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   24   CR         0   TR  3   CH  3   NT  G-          2+1/2   voff=0
+BA   24   CR         0   TR  4   CH  4   NT  E-          2+1/2   voff=0
+BA   24   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   24   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   24   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   24   CR     2+1/2   TR  3   CH  3   NT  Eb            3/4   voff=0
+BA   24   CR     2+1/2   TR  4   CH  4   NT  C             3/4   voff=0
+BA   24   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   24   CR     3+1/4   TR  3   CH  3   NT  Eb            3/4   voff=0
+BA   24   CR     3+1/4   TR  4   CH  4   NT  C             3/4   voff=0
+
+BA   25   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   25   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   25   CR         0   TR  3   CH  3   NT  C               2   voff=0
+BA   25   CR         0   TR  4   CH  4   NT  A-              2   voff=0
+BA   25   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   25   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   25   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   25   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA   25   CR         2   TR  4   CH  4   NT  E-              2   voff=0
+BA   25   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   26   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   26   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   26   CR         0   TR  3   CH  3   NT  G-              3   voff=0
+BA   26   CR         0   TR  4   CH  4   NT  E-              3   voff=0
+BA   26   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   26   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   26   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   26   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   26   CR         3   TR  3   CH  3   NT  F             1/2   voff=0
+BA   26   CR         3   TR  4   CH  4   NT  C             1/2   voff=0
+BA   26   CR     3+1/2   TR  3   CH  3   NT  G             1/2   voff=0
+BA   26   CR     3+1/2   TR  4   CH  4   NT  D             1/2   voff=0
+
+BA   27   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   27   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   27   CR         0   TR  3   CH  3   NT  F             1/4   voff=0
+BA   27   CR         0   TR  4   CH  4   NT  C             1/4   voff=0
+BA   27   CR       1/4   TR  3   CH  3   NT  G             1/4   voff=0
+BA   27   CR       1/4   TR  4   CH  4   NT  D             1/4   voff=0
+BA   27   CR       1/2   TR  3   CH  3   NT  F           1+1/2   voff=0
+BA   27   CR       1/2   TR  4   CH  4   NT  C           1+1/2   voff=0
+BA   27   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   27   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   27   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   27   CR         2   TR  3   CH  3   NT  Eb              1   voff=0
+BA   27   CR         2   TR  4   CH  4   NT  Bb-             1   voff=0
+BA   27   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   27   CR         3   TR  3   CH  3   NT  C               1   voff=0
+BA   27   CR         3   TR  4   CH  4   NT  G-              1   voff=0
+
+BA   28   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   28   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   28   CR         0   TR  3   CH  3   NT  F               4   voff=0
+BA   28   CR         0   TR  4   CH  4   NT  C               4   voff=0
+BA   28   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   28   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   28   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   28   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   29   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   29   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   29   CR         0   TR  3   CH  3   NT  Eb              8   voff=0
+BA   29   CR         0   TR  4   CH  4   NT  Bb-             8   voff=0
+BA   29   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   29   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   29   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   29   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   30   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   30   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   30   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   30   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   30   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   30   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   31   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   31   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   31   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   31   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   31   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   31   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   32   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   32   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   32   CR         0   TR  3   CH  3   NT  C               4   voff=0
+BA   32   CR         0   TR  4   CH  4   NT  E               4   voff=0
+BA   32   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   32   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   32   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   32   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   33   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   33   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   33   CR         0   TR  3   CH  3   NT  E               1   voff=0
+BA   33   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   33   CR         1   TR  3   CH  3   NT  G-            1/2   voff=0
+BA   33   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   33   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   33   CR     1+1/2   TR  3   CH  3   NT  A-              5   voff=0
+BA   33   CR     2+1/2   TR  4   CH  4   NT  E               1   voff=0
+BA   33   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   33   CR     3+1/2   TR  4   CH  4   NT  G               3   voff=0
+
+BA   34   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   34   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   34   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   34   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   34   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   34   CR         2   TR  7   CH  7   NT  E             1/4   voff=0
+BA   34   CR         2   TR  8   CH  8   NT  C             1/4   voff=0
+BA   34   CR     2+1/2   TR  3   CH  3   NT  C           9+1/2   voff=0
+BA   34   CR     2+1/2   TR  4   CH  4   NT  E           9+1/2   voff=0
+BA   34   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   35   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   35   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   35   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   35   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   35   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   35   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   36   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   36   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   36   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   36   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   36   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   36   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   37   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   37   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   37   CR         0   TR  3   CH  3   NT  G               3   voff=0
+BA   37   CR         0   TR  4   CH  4   NT  C               3   voff=0
+BA   37   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   37   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   37   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   37   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   37   CR         3   TR  3   CH  3   NT  G             1/2   voff=0
+BA   37   CR         3   TR  4   CH  4   NT  C             1/2   voff=0
+BA   37   CR     3+1/2   TR  3   CH  3   NT  A             1/2   voff=0
+BA   37   CR     3+1/2   TR  4   CH  4   NT  D             1/2   voff=0
+
+BA   38   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   38   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   38   CR         0   TR  3   CH  3   NT  G             1/4   voff=0
+BA   38   CR         0   TR  4   CH  4   NT  C             1/4   voff=0
+BA   38   CR       1/4   TR  3   CH  3   NT  A             1/4   voff=0
+BA   38   CR       1/4   TR  4   CH  4   NT  D             1/4   voff=0
+BA   38   CR       1/2   TR  3   CH  3   NT  G           1+1/2   voff=0
+BA   38   CR       1/2   TR  4   CH  4   NT  C           1+1/2   voff=0
+BA   38   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   38   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   38   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   38   CR         2   TR  3   CH  3   NT  F               1   voff=0
+BA   38   CR         2   TR  4   CH  4   NT  C               1   voff=0
+BA   38   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   38   CR         3   TR  3   CH  3   NT  C               1   voff=0
+BA   38   CR         3   TR  4   CH  4   NT  G-              1   voff=0
+
+BA   39   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   39   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   39   CR         0   TR  3   CH  3   NT  G               7   voff=0
+BA   39   CR         0   TR  4   CH  4   NT  C               7   voff=0
+BA   39   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   39   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   39   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   39   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   40   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   40   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   40   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   40   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   40   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   40   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   40   CR         3   TR  3   CH  3   NT  E             1/4   voff=0
+BA   40   CR     3+1/4   TR  3   CH  3   NT  G             1/2   voff=0
+BA   40   CR     3+3/4   TR  3   CH  3   NT  E             1/4   voff=0
+
+BA   41   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   41   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   41   CR         0   TR  3   CH  3   NT  A           1+1/2   voff=0
+BA   41   CR         0   TR  4   CH  4   NT  E           1+1/2   voff=0
+BA   41   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   41   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   41   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   41   CR     1+1/2   TR  3   CH  3   NT  E           1+1/2   voff=0
+BA   41   CR     1+1/2   TR  4   CH  4   NT  C           1+1/2   voff=0
+BA   41   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   41   CR         3   TR  3   CH  3   NT  C               5   voff=0
+BA   41   CR         3   TR  4   CH  4   NT  A-              5   voff=0
+
+BA   42   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   42   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   42   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   42   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   42   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   42   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   42   CR         3   TR  7   CH  7   NT  C             1/4   voff=0
+BA   42   CR         3   TR  8   CH  8   NT  G             1/4   voff=0
+
+BA   43   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   43   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   43   CR         0   TR  3   CH  3   NT  G           1+1/2   voff=0
+BA   43   CR         0   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA   43   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   43   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   43   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   43   CR     1+1/2   TR  3   CH  3   NT  D           6+1/2   voff=0
+BA   43   CR     1+1/2   TR  4   CH  4   NT  Bb-         6+1/2   voff=0
+BA   43   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   44   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   44   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   44   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   44   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   44   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   44   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   45   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   45   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   45   CR         0   TR  3   CH  3   NT  A           1+1/2   voff=0
+BA   45   CR         0   TR  4   CH  4   NT  E           1+1/2   voff=0
+BA   45   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   45   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   45   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   45   CR     1+1/2   TR  3   CH  3   NT  E           1+1/2   voff=0
+BA   45   CR     1+1/2   TR  4   CH  4   NT  C           1+1/2   voff=0
+BA   45   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   45   CR         3   TR  3   CH  3   NT  C               5   voff=0
+BA   45   CR         3   TR  4   CH  4   NT  A-              5   voff=0
+
+BA   46   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   46   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   46   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   46   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   46   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   46   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   46   CR         3   TR  7   CH  7   NT  D             1/4   voff=0
+BA   46   CR         3   TR  8   CH  8   NT  G             1/4   voff=0
+
+BA   47   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   47   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   47   CR         0   TR  3   CH  3   NT  G           1+1/2   voff=0
+BA   47   CR         0   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA   47   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   47   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   47   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   47   CR     1+1/2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA   47   CR     1+1/2   TR  4   CH  4   NT  Bb-         1+1/2   voff=0
+BA   47   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   47   CR         3   TR  3   CH  3   NT  B-              5   voff=0
+BA   47   CR         3   TR  4   CH  4   NT  G-              5   voff=0
+
+BA   48   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   48   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   48   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   48   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   48   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   48   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   49   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   49   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   49   CR         0   TR  3   CH  3   NT  G-            1/4   voff=0
+BA   49   CR       1/4   TR  3   CH  3   NT  B-            1/4   voff=0
+BA   49   CR       1/2   TR  3   CH  3   NT  A-          7+1/2   voff=0
+BA   49   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   49   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   49   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   49   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   50   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   50   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   50   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   50   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   50   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   50   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   51   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   51   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   51   CR         0   TR  3   CH  3   NT  G-          2+1/2   voff=0
+BA   51   CR         0   TR  4   CH  4   NT  E-          2+1/2   voff=0
+BA   51   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   51   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   51   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   51   CR     2+1/2   TR  3   CH  3   NT  Eb            3/4   voff=0
+BA   51   CR     2+1/2   TR  4   CH  4   NT  C             3/4   voff=0
+BA   51   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   51   CR     3+1/4   TR  3   CH  3   NT  Eb            3/4   voff=0
+BA   51   CR     3+1/4   TR  4   CH  4   NT  C             3/4   voff=0
+
+BA   52   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   52   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   52   CR         0   TR  3   CH  3   NT  C               2   voff=0
+BA   52   CR         0   TR  4   CH  4   NT  A-              2   voff=0
+BA   52   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   52   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   52   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   52   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA   52   CR         2   TR  4   CH  4   NT  E-              2   voff=0
+BA   52   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   53   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   53   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   53   CR         0   TR  3   CH  3   NT  G-              3   voff=0
+BA   53   CR         0   TR  4   CH  4   NT  E-              3   voff=0
+BA   53   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   53   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   53   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   53   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   53   CR         3   TR  3   CH  3   NT  F             1/2   voff=0
+BA   53   CR         3   TR  4   CH  4   NT  C             1/2   voff=0
+BA   53   CR     3+1/2   TR  3   CH  3   NT  G             1/2   voff=0
+BA   53   CR     3+1/2   TR  4   CH  4   NT  D             1/2   voff=0
+
+BA   54   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   54   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   54   CR         0   TR  3   CH  3   NT  F             1/4   voff=0
+BA   54   CR         0   TR  4   CH  4   NT  C             1/4   voff=0
+BA   54   CR       1/4   TR  3   CH  3   NT  G             1/4   voff=0
+BA   54   CR       1/4   TR  4   CH  4   NT  D             1/4   voff=0
+BA   54   CR       1/2   TR  3   CH  3   NT  F           1+1/2   voff=0
+BA   54   CR       1/2   TR  4   CH  4   NT  C           1+1/2   voff=0
+BA   54   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   54   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   54   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   54   CR         2   TR  3   CH  3   NT  Eb              1   voff=0
+BA   54   CR         2   TR  4   CH  4   NT  Bb-             1   voff=0
+BA   54   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   54   CR         3   TR  3   CH  3   NT  C               1   voff=0
+BA   54   CR         3   TR  4   CH  4   NT  G-              1   voff=0
+
+BA   55   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   55   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   55   CR         0   TR  3   CH  3   NT  F               4   voff=0
+BA   55   CR         0   TR  4   CH  4   NT  C               4   voff=0
+BA   55   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   55   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   55   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   55   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   56   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   56   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   56   CR         0   TR  3   CH  3   NT  Eb              8   voff=0
+BA   56   CR         0   TR  4   CH  4   NT  Bb-             8   voff=0
+BA   56   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   56   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   56   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   56   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   57   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   57   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   57   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   57   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   57   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   57   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   58   CR         0   TR  1   CH  1   NT  C-          1+1/2   voff=0
+BA   58   CR         0   TR  2   CH 10   NT  E             1/4   voff=0
+BA   58   CR         1   TR  2   CH 10   NT  F#-           1/4   voff=0
+BA   58   CR     1+1/2   TR  1   CH  1   NT  Bb--        2+1/2   voff=0
+BA   58   CR     1+1/2   TR  2   CH 10   NT  E             1/4   voff=0
+BA   58   CR         3   TR  2   CH 10   NT  F#-           1/4   voff=0
+
+BA   59   CR         0   TR  1   CH 16   End of track
+BA   59   CR         0   TR  2   CH 16   End of track
+BA   59   CR         0   TR  3   CH 16   End of track
+BA   59   CR         0   TR  4   CH 16   End of track
+BA   59   CR         0   TR  5   CH 16   End of track
+BA   59   CR         0   TR  6   CH 16   End of track
+BA   59   CR         0   TR  7   CH 16   End of track
+BA   59   CR         0   TR  8   CH 16   End of track

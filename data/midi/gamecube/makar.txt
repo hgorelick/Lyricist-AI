@@ -1,0 +1,73 @@
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 116
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Grand Piano"
+BA    1   CR         0   TR  1   CH  1   Instrument 1
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Violin"
+BA    1   CR         0   TR  2   CH 15   Instrument 41
+BA    1   CR         0   TR  2   CH 15   NT  G               1   von=101   voff=0
+BA    1   CR         1   TR  2   CH 15   NT  C'              1   voff=0
+BA    1   CR         2   TR  2   CH 15   NT  G               1   voff=0
+BA    1   CR         3   TR  2   CH 15   NT  G               1   voff=0
+
+BA    2   CR         0   TR  2   CH 15   NT  E'              1   voff=0
+BA    2   CR         1   TR  2   CH 15   NT  C'              1   voff=0
+BA    2   CR         2   TR  2   CH 15   NT  C'              1   voff=0
+BA    2   CR         3   TR  2   CH 15   NT  D'              1   voff=0
+
+BA    3   CR         0   TR  2   CH 15   NT  E'              1   voff=0
+BA    3   CR         1   TR  2   CH 15   NT  D'              1   voff=0
+BA    3   CR     1+7/8   TR  2   CH 15   NT  B             1/8   voff=0
+BA    3   CR         2   TR  2   CH 15   NT  A               1   voff=0
+BA    3   CR         3   TR  2   CH 15   NT  G               1   voff=0
+
+BA    4   CR         0   TR  2   CH 15   NT  A               1   voff=0
+BA    4   CR         1   TR  2   CH 15   NT  C'              1   voff=0
+BA    4   CR         2   TR  2   CH 15   NT  D'              1   voff=0
+BA    4   CR         3   TR  2   CH 15   NT  C'              1   voff=0
+
+BA    5   CR         0   TR  2   CH 15   NT  A               1   voff=0
+BA    5   CR         1   TR  2   CH 15   NT  G               1   voff=0
+BA    5   CR         2   TR  2   CH 15   NT  A               1   voff=0
+BA    5   CR         3   TR  2   CH 15   NT  E'              1   voff=0
+
+BA    6   CR         0   TR  2   CH 15   NT  C'              1   voff=0
+BA    6   CR         1   TR  2   CH 15   NT  C'              1   voff=0
+BA    6   CR         2   TR  2   CH 15   NT  A               1   voff=0
+BA    6   CR         3   TR  2   CH 15   NT  G               1   voff=0
+
+BA    7   CR         0   TR  2   CH 15   NT  A               1   voff=0
+BA    7   CR         1   TR  2   CH 15   NT  C'              1   voff=0
+BA    7   CR         2   TR  2   CH 15   NT  G               1   voff=0
+BA    7   CR         3   TR  2   CH 15   NT  G               1   voff=0
+
+BA    8   CR         0   TR  2   CH 15   NT  E'              1   voff=0
+BA    8   CR         1   TR  2   CH 15   NT  C'              1   voff=0
+BA    8   CR         2   TR  2   CH 15   NT  C'              1   voff=0
+BA    8   CR         3   TR  2   CH 15   NT  D'              1   voff=0
+
+BA    9   CR         0   TR  2   CH 15   NT  E'              1   voff=0
+BA    9   CR         1   TR  2   CH 15   NT  D'              1   voff=0
+BA    9   CR     1+7/8   TR  2   CH 15   NT  B             1/8   voff=0
+BA    9   CR         2   TR  2   CH 15   NT  A               1   voff=0
+BA    9   CR         3   TR  2   CH 15   NT  G               1   voff=0
+
+BA   10   CR         0   TR  2   CH 15   NT  A               1   voff=0
+BA   10   CR         1   TR  2   CH 15   NT  C'              1   voff=0
+BA   10   CR         2   TR  2   CH 15   NT  D'              1   voff=0
+BA   10   CR         3   TR  2   CH 15   NT  C'              1   voff=0
+
+BA   11   CR         0   TR  2   CH 15   NT  E'              1   voff=0
+BA   11   CR         1   TR  2   CH 15   NT  E'              1   voff=0
+BA   11   CR         2   TR  2   CH 15   NT  G'              1   voff=0
+BA   11   CR         3   TR  2   CH 15   NT  F#'             1   voff=0
+
+BA   12   CR         0   TR  2   CH 15   NT  D'              1   voff=0
+BA   12   CR         1   TR  2   CH 15   NT  B               1   voff=0
+BA   12   CR         2   TR  2   CH 15   NT  E               2   voff=0
+BA   12   CR         2   TR  2   CH 15   NT  A               2   voff=0
+
+BA   21   CR    1/1024   TR  0   CH 16   End of track
+BA   21   CR    1/1024   TR  1   CH 16   End of track
+BA   21   CR    1/1024   TR  2   CH 16   End of track

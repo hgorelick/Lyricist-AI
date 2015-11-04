@@ -1,0 +1,1359 @@
+
+BA    1   CR         0   TR  0   CH 16   Tempo 120
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "MIDI Ch. 1"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  1   CH  1   Instrument 102
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  1   CH  1   Instrument 102
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  1   CH  1   Instrument 102
+BA    1   CR         0   TR  1   CH  1   NT  F        15+95/96   von=127
+BA    1   CR         0   TR  2   CH 16   Text type 3: "MIDI Ch. 2"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &06 &0C
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   Instrument 49
+BA    1   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &06 &0C
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   Instrument 49
+BA    1   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &06 &0C
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   Instrument 49
+BA    1   CR         0   TR  3   CH 16   Text type 3: "MIDI Ch. 3"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  3   CH  3   Channel volume 100
+BA    1   CR         0   TR  3   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  3   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &64 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &06 &0C
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  3   CH  3   Channel volume 100
+BA    1   CR         0   TR  3   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  3   CH  3   Instrument 31
+BA    1   CR         0   TR  3   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &64 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &06 &0C
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  3   CH  3   Channel volume 100
+BA    1   CR         0   TR  3   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  3   CH  3   Instrument 31
+BA    1   CR         0   TR  3   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &64 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &06 &0C
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  3   CH  3   Channel volume 100
+BA    1   CR         0   TR  3   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  3   CH  3   Instrument 31
+BA    1   CR         0   TR  4   CH 16   Text type 3: "MIDI Ch. 4"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  4   CH  4   Channel volume 100
+BA    1   CR         0   TR  4   CH  4   ST &E3 &00 &40
+BA    1   CR         0   TR  4   CH  4   ST &B3 &65 &00
+BA    1   CR         0   TR  4   CH  4   ST &B3 &64 &00
+BA    1   CR         0   TR  4   CH  4   ST &B3 &06 &0C
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  4   CH  4   Channel volume 100
+BA    1   CR         0   TR  4   CH  4   ST &E3 &00 &40
+BA    1   CR         0   TR  4   CH  4   Instrument 84
+BA    1   CR         0   TR  4   CH  4   ST &B3 &65 &00
+BA    1   CR         0   TR  4   CH  4   ST &B3 &64 &00
+BA    1   CR         0   TR  4   CH  4   ST &B3 &06 &0C
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  4   CH  4   Channel volume 100
+BA    1   CR         0   TR  4   CH  4   ST &E3 &00 &40
+BA    1   CR         0   TR  4   CH  4   Instrument 84
+BA    1   CR         0   TR  4   CH  4   ST &B3 &65 &00
+BA    1   CR         0   TR  4   CH  4   ST &B3 &64 &00
+BA    1   CR         0   TR  4   CH  4   ST &B3 &06 &0C
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  4   CH  4   Channel volume 100
+BA    1   CR         0   TR  4   CH  4   ST &E3 &00 &40
+BA    1   CR         0   TR  4   CH  4   Instrument 84
+BA    1   CR         0   TR  5   CH 16   Text type 3: "MIDI Ch. 5"
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  5   CH  5   Channel volume 100
+BA    1   CR         0   TR  5   CH  5   ST &E4 &00 &40
+BA    1   CR         0   TR  5   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  5   CH  5   ST &B4 &64 &00
+BA    1   CR         0   TR  5   CH  5   ST &B4 &06 &0C
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  5   CH  5   Channel volume 100
+BA    1   CR         0   TR  5   CH  5   ST &E4 &00 &40
+BA    1   CR         0   TR  5   CH  5   Instrument 71
+BA    1   CR         0   TR  5   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  5   CH  5   ST &B4 &64 &00
+BA    1   CR         0   TR  5   CH  5   ST &B4 &06 &0C
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  5   CH  5   Channel volume 100
+BA    1   CR         0   TR  5   CH  5   ST &E4 &00 &40
+BA    1   CR         0   TR  5   CH  5   Instrument 71
+BA    1   CR         0   TR  5   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  5   CH  5   ST &B4 &64 &00
+BA    1   CR         0   TR  5   CH  5   ST &B4 &06 &0C
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  5   CH  5   Channel volume 100
+BA    1   CR         0   TR  5   CH  5   ST &E4 &00 &40
+BA    1   CR         0   TR  5   CH  5   Instrument 71
+BA    1   CR         0   TR  6   CH 16   Text type 3: "MIDI Ch. 6"
+BA    1   CR         0   TR  6   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  6   CH  6   Channel volume 100
+BA    1   CR         0   TR  6   CH  6   ST &E5 &00 &40
+BA    1   CR         0   TR  6   CH  6   ST &B5 &65 &00
+BA    1   CR         0   TR  6   CH  6   ST &B5 &64 &00
+BA    1   CR         0   TR  6   CH  6   ST &B5 &06 &0C
+BA    1   CR         0   TR  6   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  6   CH  6   Channel volume 100
+BA    1   CR         0   TR  6   CH  6   ST &E5 &00 &40
+BA    1   CR         0   TR  6   CH  6   Instrument 81
+BA    1   CR         0   TR  6   CH  6   ST &B5 &65 &00
+BA    1   CR         0   TR  6   CH  6   ST &B5 &64 &00
+BA    1   CR         0   TR  6   CH  6   ST &B5 &06 &0C
+BA    1   CR         0   TR  6   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  6   CH  6   Channel volume 100
+BA    1   CR         0   TR  6   CH  6   ST &E5 &00 &40
+BA    1   CR         0   TR  6   CH  6   Instrument 81
+BA    1   CR         0   TR  6   CH  6   ST &B5 &65 &00
+BA    1   CR         0   TR  6   CH  6   ST &B5 &64 &00
+BA    1   CR         0   TR  6   CH  6   ST &B5 &06 &0C
+BA    1   CR         0   TR  6   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  6   CH  6   Channel volume 100
+BA    1   CR         0   TR  6   CH  6   ST &E5 &00 &40
+BA    1   CR         0   TR  6   CH  6   Instrument 81
+BA    1   CR         0   TR  7   CH 16   Text type 3: "MIDI Ch. 7"
+BA    1   CR         0   TR  7   CH  7   ST &B6 &0A &40
+BA    1   CR         0   TR  7   CH  7   Channel volume 100
+BA    1   CR         0   TR  7   CH  7   ST &E6 &00 &40
+BA    1   CR         0   TR  7   CH  7   ST &B6 &65 &00
+BA    1   CR         0   TR  7   CH  7   ST &B6 &64 &00
+BA    1   CR         0   TR  7   CH  7   ST &B6 &06 &0C
+BA    1   CR         0   TR  7   CH  7   ST &B6 &0A &40
+BA    1   CR         0   TR  7   CH  7   Channel volume 100
+BA    1   CR         0   TR  7   CH  7   ST &E6 &00 &40
+BA    1   CR         0   TR  7   CH  7   Instrument 69
+BA    1   CR         0   TR  7   CH  7   ST &B6 &65 &00
+BA    1   CR         0   TR  7   CH  7   ST &B6 &64 &00
+BA    1   CR         0   TR  7   CH  7   ST &B6 &06 &0C
+BA    1   CR         0   TR  7   CH  7   ST &B6 &0A &40
+BA    1   CR         0   TR  7   CH  7   Channel volume 100
+BA    1   CR         0   TR  7   CH  7   ST &E6 &00 &40
+BA    1   CR         0   TR  7   CH  7   Instrument 69
+BA    1   CR         0   TR  7   CH  7   ST &B6 &65 &00
+BA    1   CR         0   TR  7   CH  7   ST &B6 &64 &00
+BA    1   CR         0   TR  7   CH  7   ST &B6 &06 &0C
+BA    1   CR         0   TR  7   CH  7   ST &B6 &0A &40
+BA    1   CR         0   TR  7   CH  7   Channel volume 100
+BA    1   CR         0   TR  7   CH  7   ST &E6 &00 &40
+BA    1   CR         0   TR  7   CH  7   Instrument 69
+BA    1   CR         0   TR  8   CH 16   Text type 3: "MIDI Ch. 8"
+BA    1   CR         0   TR  8   CH  8   ST &B7 &0A &40
+BA    1   CR         0   TR  8   CH  8   Channel volume 100
+BA    1   CR         0   TR  8   CH  8   ST &E7 &00 &40
+BA    1   CR         0   TR  8   CH  8   ST &B7 &65 &00
+BA    1   CR         0   TR  8   CH  8   ST &B7 &64 &00
+BA    1   CR         0   TR  8   CH  8   ST &B7 &06 &0C
+BA    1   CR         0   TR  8   CH  8   ST &B7 &0A &40
+BA    1   CR         0   TR  8   CH  8   Channel volume 100
+BA    1   CR         0   TR  8   CH  8   ST &E7 &00 &40
+BA    1   CR         0   TR  8   CH  8   Instrument 33
+BA    1   CR         0   TR  8   CH  8   ST &B7 &65 &00
+BA    1   CR         0   TR  8   CH  8   ST &B7 &64 &00
+BA    1   CR         0   TR  8   CH  8   ST &B7 &06 &0C
+BA    1   CR         0   TR  8   CH  8   ST &B7 &0A &40
+BA    1   CR         0   TR  8   CH  8   Channel volume 100
+BA    1   CR         0   TR  8   CH  8   ST &E7 &00 &40
+BA    1   CR         0   TR  8   CH  8   Instrument 33
+BA    1   CR         0   TR  8   CH  8   ST &B7 &65 &00
+BA    1   CR         0   TR  8   CH  8   ST &B7 &64 &00
+BA    1   CR         0   TR  8   CH  8   ST &B7 &06 &0C
+BA    1   CR         0   TR  8   CH  8   ST &B7 &0A &40
+BA    1   CR         0   TR  8   CH  8   Channel volume 100
+BA    1   CR         0   TR  8   CH  8   ST &E7 &00 &40
+BA    1   CR         0   TR  8   CH  8   Instrument 33
+BA    1   CR         0   TR  9   CH 16   Text type 3: "MIDI Ch. 9"
+BA    1   CR         0   TR  9   CH  9   ST &B8 &0A &40
+BA    1   CR         0   TR  9   CH  9   Channel volume 100
+BA    1   CR         0   TR  9   CH  9   ST &E8 &00 &40
+BA    1   CR         0   TR  9   CH  9   ST &B8 &65 &00
+BA    1   CR         0   TR  9   CH  9   ST &B8 &64 &00
+BA    1   CR         0   TR  9   CH  9   ST &B8 &06 &0C
+BA    1   CR         0   TR  9   CH  9   ST &B8 &0A &40
+BA    1   CR         0   TR  9   CH  9   Channel volume 100
+BA    1   CR         0   TR  9   CH  9   ST &E8 &00 &40
+BA    1   CR         0   TR  9   CH  9   ST &B8 &65 &00
+BA    1   CR         0   TR  9   CH  9   ST &B8 &64 &00
+BA    1   CR         0   TR  9   CH  9   ST &B8 &06 &0C
+BA    1   CR         0   TR  9   CH  9   ST &B8 &0A &40
+BA    1   CR         0   TR  9   CH  9   Channel volume 100
+BA    1   CR         0   TR  9   CH  9   ST &E8 &00 &40
+BA    1   CR         0   TR  9   CH  9   ST &B8 &65 &00
+BA    1   CR         0   TR  9   CH  9   ST &B8 &64 &00
+BA    1   CR         0   TR  9   CH  9   ST &B8 &06 &0C
+BA    1   CR         0   TR  9   CH  9   ST &B8 &0A &40
+BA    1   CR         0   TR  9   CH  9   Channel volume 100
+BA    1   CR         0   TR  9   CH  9   ST &E8 &00 &40
+BA    1   CR         0   TR 10   CH 16   Text type 3: "MIDI Drums"
+BA    1   CR         0   TR 10   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR 10   CH 10   Channel volume 100
+BA    1   CR         0   TR 10   CH 10   ST &E9 &00 &40
+BA    1   CR         0   TR 10   CH 10   ST &B9 &65 &00
+BA    1   CR         0   TR 10   CH 10   ST &B9 &64 &00
+BA    1   CR         0   TR 10   CH 10   ST &B9 &06 &0C
+BA    1   CR         0   TR 10   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR 10   CH 10   Channel volume 100
+BA    1   CR         0   TR 10   CH 10   ST &E9 &00 &40
+BA    1   CR         0   TR 10   CH 10   ST &B9 &65 &00
+BA    1   CR         0   TR 10   CH 10   ST &B9 &64 &00
+BA    1   CR         0   TR 10   CH 10   ST &B9 &06 &0C
+BA    1   CR         0   TR 10   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR 10   CH 10   Channel volume 100
+BA    1   CR         0   TR 10   CH 10   ST &E9 &00 &40
+BA    1   CR         0   TR 10   CH 10   ST &B9 &65 &00
+BA    1   CR         0   TR 10   CH 10   ST &B9 &64 &00
+BA    1   CR         0   TR 10   CH 10   ST &B9 &06 &0C
+BA    1   CR         0   TR 10   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR 10   CH 10   Channel volume 100
+BA    1   CR         0   TR 10   CH 10   ST &E9 &00 &40
+BA    1   CR         0   TR 11   CH 16   Text type 3: "MIDI Ch. 11"
+BA    1   CR         0   TR 11   CH 11   ST &BA &0A &40
+BA    1   CR         0   TR 11   CH 11   Channel volume 100
+BA    1   CR         0   TR 11   CH 11   ST &EA &00 &40
+BA    1   CR         0   TR 11   CH 11   ST &BA &65 &00
+BA    1   CR         0   TR 11   CH 11   ST &BA &64 &00
+BA    1   CR         0   TR 11   CH 11   ST &BA &06 &0C
+BA    1   CR         0   TR 11   CH 11   ST &BA &0A &40
+BA    1   CR         0   TR 11   CH 11   Channel volume 100
+BA    1   CR         0   TR 11   CH 11   ST &EA &00 &40
+BA    1   CR         0   TR 11   CH 11   Instrument 49
+BA    1   CR         0   TR 11   CH 11   ST &BA &65 &00
+BA    1   CR         0   TR 11   CH 11   ST &BA &64 &00
+BA    1   CR         0   TR 11   CH 11   ST &BA &06 &0C
+BA    1   CR         0   TR 11   CH 11   ST &BA &0A &40
+BA    1   CR         0   TR 11   CH 11   Channel volume 100
+BA    1   CR         0   TR 11   CH 11   ST &EA &00 &40
+BA    1   CR         0   TR 11   CH 11   Instrument 49
+BA    1   CR         0   TR 11   CH 11   ST &BA &65 &00
+BA    1   CR         0   TR 11   CH 11   ST &BA &64 &00
+BA    1   CR         0   TR 11   CH 11   ST &BA &06 &0C
+BA    1   CR         0   TR 11   CH 11   ST &BA &0A &40
+BA    1   CR         0   TR 11   CH 11   Channel volume 100
+BA    1   CR         0   TR 11   CH 11   ST &EA &00 &40
+BA    1   CR         0   TR 11   CH 11   Instrument 49
+BA    1   CR         0   TR 12   CH 16   Text type 3: "MIDI Ch. 12"
+BA    1   CR         0   TR 12   CH 12   ST &BB &0A &40
+BA    1   CR         0   TR 12   CH 12   Channel volume 100
+BA    1   CR         0   TR 12   CH 12   ST &EB &00 &40
+BA    1   CR         0   TR 12   CH 12   ST &BB &65 &00
+BA    1   CR         0   TR 12   CH 12   ST &BB &64 &00
+BA    1   CR         0   TR 12   CH 12   ST &BB &06 &0C
+BA    1   CR         0   TR 12   CH 12   ST &BB &0A &40
+BA    1   CR         0   TR 12   CH 12   Channel volume 100
+BA    1   CR         0   TR 12   CH 12   ST &EB &00 &40
+BA    1   CR         0   TR 12   CH 12   Instrument 99
+BA    1   CR         0   TR 12   CH 12   ST &BB &65 &00
+BA    1   CR         0   TR 12   CH 12   ST &BB &64 &00
+BA    1   CR         0   TR 12   CH 12   ST &BB &06 &0C
+BA    1   CR         0   TR 12   CH 12   ST &BB &0A &40
+BA    1   CR         0   TR 12   CH 12   Channel volume 100
+BA    1   CR         0   TR 12   CH 12   ST &EB &00 &40
+BA    1   CR         0   TR 12   CH 12   Instrument 99
+BA    1   CR         0   TR 12   CH 12   ST &BB &65 &00
+BA    1   CR         0   TR 12   CH 12   ST &BB &64 &00
+BA    1   CR         0   TR 12   CH 12   ST &BB &06 &0C
+BA    1   CR         0   TR 12   CH 12   ST &BB &0A &40
+BA    1   CR         0   TR 12   CH 12   Channel volume 100
+BA    1   CR         0   TR 12   CH 12   ST &EB &00 &40
+BA    1   CR         0   TR 12   CH 12   Instrument 99
+BA    1   CR         0   TR 13   CH 16   Text type 3: "MIDI Ch. 13"
+BA    1   CR         0   TR 13   CH 13   ST &BC &0A &40
+BA    1   CR         0   TR 13   CH 13   Channel volume 100
+BA    1   CR         0   TR 13   CH 13   ST &EC &00 &40
+BA    1   CR         0   TR 13   CH 13   ST &BC &65 &00
+BA    1   CR         0   TR 13   CH 13   ST &BC &64 &00
+BA    1   CR         0   TR 13   CH 13   ST &BC &06 &0C
+BA    1   CR         0   TR 13   CH 13   ST &BC &0A &40
+BA    1   CR         0   TR 13   CH 13   Channel volume 100
+BA    1   CR         0   TR 13   CH 13   ST &EC &00 &40
+BA    1   CR         0   TR 13   CH 13   ST &BC &65 &00
+BA    1   CR         0   TR 13   CH 13   ST &BC &64 &00
+BA    1   CR         0   TR 13   CH 13   ST &BC &06 &0C
+BA    1   CR         0   TR 13   CH 13   ST &BC &0A &40
+BA    1   CR         0   TR 13   CH 13   Channel volume 100
+BA    1   CR         0   TR 13   CH 13   ST &EC &00 &40
+BA    1   CR         0   TR 13   CH 13   ST &BC &65 &00
+BA    1   CR         0   TR 13   CH 13   ST &BC &64 &00
+BA    1   CR         0   TR 13   CH 13   ST &BC &06 &0C
+BA    1   CR         0   TR 13   CH 13   ST &BC &0A &40
+BA    1   CR         0   TR 13   CH 13   Channel volume 100
+BA    1   CR         0   TR 13   CH 13   ST &EC &00 &40
+BA    1   CR         0   TR 14   CH 16   Text type 3: "MIDI Ch. 14"
+BA    1   CR         0   TR 14   CH 14   ST &BD &0A &40
+BA    1   CR         0   TR 14   CH 14   Channel volume 100
+BA    1   CR         0   TR 14   CH 14   ST &ED &00 &40
+BA    1   CR         0   TR 14   CH 14   ST &BD &65 &00
+BA    1   CR         0   TR 14   CH 14   ST &BD &64 &00
+BA    1   CR         0   TR 14   CH 14   ST &BD &06 &0C
+BA    1   CR         0   TR 14   CH 14   ST &BD &0A &40
+BA    1   CR         0   TR 14   CH 14   Channel volume 100
+BA    1   CR         0   TR 14   CH 14   ST &ED &00 &40
+BA    1   CR         0   TR 14   CH 14   ST &BD &65 &00
+BA    1   CR         0   TR 14   CH 14   ST &BD &64 &00
+BA    1   CR         0   TR 14   CH 14   ST &BD &06 &0C
+BA    1   CR         0   TR 14   CH 14   ST &BD &0A &40
+BA    1   CR         0   TR 14   CH 14   Channel volume 100
+BA    1   CR         0   TR 14   CH 14   ST &ED &00 &40
+BA    1   CR         0   TR 14   CH 14   ST &BD &65 &00
+BA    1   CR         0   TR 14   CH 14   ST &BD &64 &00
+BA    1   CR         0   TR 14   CH 14   ST &BD &06 &0C
+BA    1   CR         0   TR 14   CH 14   ST &BD &0A &40
+BA    1   CR         0   TR 14   CH 14   Channel volume 100
+BA    1   CR         0   TR 14   CH 14   ST &ED &00 &40
+BA    1   CR         0   TR 15   CH 16   Text type 3: "MIDI Ch. 15"
+BA    1   CR         0   TR 15   CH 15   ST &BE &0A &40
+BA    1   CR         0   TR 15   CH 15   Channel volume 100
+BA    1   CR         0   TR 15   CH 15   ST &EE &00 &40
+BA    1   CR         0   TR 15   CH 15   ST &BE &65 &00
+BA    1   CR         0   TR 15   CH 15   ST &BE &64 &00
+BA    1   CR         0   TR 15   CH 15   ST &BE &06 &0C
+BA    1   CR         0   TR 15   CH 15   ST &BE &0A &40
+BA    1   CR         0   TR 15   CH 15   Channel volume 100
+BA    1   CR         0   TR 15   CH 15   ST &EE &00 &40
+BA    1   CR         0   TR 15   CH 15   ST &BE &65 &00
+BA    1   CR         0   TR 15   CH 15   ST &BE &64 &00
+BA    1   CR         0   TR 15   CH 15   ST &BE &06 &0C
+BA    1   CR         0   TR 15   CH 15   ST &BE &0A &40
+BA    1   CR         0   TR 15   CH 15   Channel volume 100
+BA    1   CR         0   TR 15   CH 15   ST &EE &00 &40
+BA    1   CR         0   TR 15   CH 15   ST &BE &65 &00
+BA    1   CR         0   TR 15   CH 15   ST &BE &64 &00
+BA    1   CR         0   TR 15   CH 15   ST &BE &06 &0C
+BA    1   CR         0   TR 15   CH 15   ST &BE &0A &40
+BA    1   CR         0   TR 15   CH 15   Channel volume 100
+BA    1   CR         0   TR 15   CH 15   ST &EE &00 &40
+BA    1   CR         0   TR 16   CH 16   Text type 3: "MIDI Ch. 16"
+BA    1   CR         0   TR 16   CH 16   ST &BF &0A &40
+BA    1   CR         0   TR 16   CH 16   Channel volume 100
+BA    1   CR         0   TR 16   CH 16   ST &EF &00 &40
+BA    1   CR         0   TR 16   CH 16   ST &BF &65 &00
+BA    1   CR         0   TR 16   CH 16   ST &BF &64 &00
+BA    1   CR         0   TR 16   CH 16   ST &BF &06 &0C
+BA    1   CR         0   TR 16   CH 16   ST &BF &0A &40
+BA    1   CR         0   TR 16   CH 16   Channel volume 100
+BA    1   CR         0   TR 16   CH 16   ST &EF &00 &40
+BA    1   CR         0   TR 16   CH 16   ST &BF &65 &00
+BA    1   CR         0   TR 16   CH 16   ST &BF &64 &00
+BA    1   CR         0   TR 16   CH 16   ST &BF &06 &0C
+BA    1   CR         0   TR 16   CH 16   ST &BF &0A &40
+BA    1   CR         0   TR 16   CH 16   Channel volume 100
+BA    1   CR         0   TR 16   CH 16   ST &EF &00 &40
+BA    1   CR         0   TR 16   CH 16   ST &BF &65 &00
+BA    1   CR         0   TR 16   CH 16   ST &BF &64 &00
+BA    1   CR         0   TR 16   CH 16   ST &BF &06 &0C
+BA    1   CR         0   TR 16   CH 16   ST &BF &0A &40
+BA    1   CR         0   TR 16   CH 16   Channel volume 100
+BA    1   CR         0   TR 16   CH 16   ST &EF &00 &40
+
+BA    3   CR         0   TR  2   CH  2   NT  D--         71/96   von=127
+
+BA    4   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA    5   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA    6   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA    7   CR         0   TR  2   CH  2   NT  D--         71/96
+BA    7   CR         0   TR  4   CH  4   NT  G--       1+95/96   von=127
+BA    7   CR         0   TR  4   CH  4   NT  G---      1+95/96
+BA    7   CR         2   TR  4   CH  4   NT  F#--        95/96
+BA    7   CR         2   TR  4   CH  4   NT  F#---       95/96
+BA    7   CR         3   TR  4   CH  4   NT  G#--        95/96
+BA    7   CR         3   TR  4   CH  4   NT  G#---       95/96
+
+BA    8   CR         0   TR  2   CH  2   NT  D--         71/96
+BA    8   CR         0   TR  4   CH  4   NT  G--       1+95/96
+BA    8   CR         0   TR  4   CH  4   NT  G---      1+95/96
+BA    8   CR         2   TR  4   CH  4   NT  C-        2+95/96
+BA    8   CR         2   TR  4   CH  4   NT  C--       2+95/96
+
+BA    9   CR         0   TR  2   CH  2   NT  D--         71/96
+BA    9   CR         1   TR  4   CH  4   NT  C#-         95/96
+BA    9   CR         1   TR  4   CH  4   NT  C#--        95/96
+BA    9   CR         1   TR  4   CH  4   NT  C#--        95/96
+BA    9   CR         1   TR  4   CH  4   NT  C#--        95/96
+BA    9   CR         2   TR  4   CH  4   NT  C-          95/96
+BA    9   CR         2   TR  4   CH  4   NT  C--         95/96
+BA    9   CR         2   TR  4   CH  4   NT  C--         95/96
+BA    9   CR         2   TR  4   CH  4   NT  C--         95/96
+BA    9   CR         3   TR  4   CH  4   NT  E-          95/96
+BA    9   CR         3   TR  4   CH  4   NT  E--         95/96
+BA    9   CR         3   TR  4   CH  4   NT  E--         95/96
+BA    9   CR         3   TR  4   CH  4   NT  E--         95/96
+
+BA   10   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   10   CR         0   TR  4   CH  4   NT  Eb-       1+95/96
+BA   10   CR         0   TR  4   CH  4   NT  Eb--      1+95/96
+BA   10   CR         0   TR  4   CH  4   NT  Eb--      1+95/96
+BA   10   CR         0   TR  4   CH  4   NT  Eb--      1+95/96
+BA   10   CR         2   TR  4   CH  4   NT  C-        5+95/96
+BA   10   CR         2   TR  4   CH  4   NT  C--       5+95/96
+BA   10   CR         2   TR  4   CH  4   NT  C--       5+95/96
+BA   10   CR         2   TR  4   CH  4   NT  C--       5+95/96
+
+BA   11   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   12   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   13   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   14   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   14   CR         0   TR  3   CH  3   NT  G--       1+95/96   von=69
+BA   14   CR         0   TR  3   CH  3   NT  G--       1+95/96
+BA   14   CR         0   TR  4   CH  4   NT  G--       1+95/96
+BA   14   CR         0   TR  4   CH  4   NT  G---      1+95/96
+BA   14   CR         2   TR  3   CH  3   NT  F#--        95/96
+BA   14   CR         2   TR  3   CH  3   NT  F#--        95/96
+BA   14   CR         2   TR  4   CH  4   NT  F#--        95/96
+BA   14   CR         2   TR  4   CH  4   NT  F#---       95/96
+BA   14   CR         3   TR  3   CH  3   NT  G#--        95/96
+BA   14   CR         3   TR  3   CH  3   NT  G#--        95/96
+BA   14   CR         3   TR  4   CH  4   NT  G#--        95/96
+BA   14   CR         3   TR  4   CH  4   NT  G#---       95/96
+
+BA   15   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   15   CR         0   TR  3   CH  3   NT  G--       1+95/96
+BA   15   CR         0   TR  3   CH  3   NT  G--       1+95/96
+BA   15   CR         0   TR  4   CH  4   NT  G--       1+95/96
+BA   15   CR         0   TR  4   CH  4   NT  G---      1+95/96
+BA   15   CR         2   TR  3   CH  3   NT  C-        2+95/96   von=68
+BA   15   CR         2   TR  3   CH  3   NT  C-        2+95/96
+BA   15   CR         2   TR  4   CH  4   NT  C-        2+95/96
+BA   15   CR         2   TR  4   CH  4   NT  C--       2+95/96
+
+BA   16   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   16   CR         1   TR  3   CH  3   NT  C#-         95/96
+BA   16   CR         1   TR  3   CH  3   NT  C#-         95/96
+BA   16   CR         1   TR  4   CH  4   NT  C#-         95/96
+BA   16   CR         1   TR  4   CH  4   NT  C#--        95/96
+BA   16   CR         1   TR  4   CH  4   NT  C#--        95/96
+BA   16   CR         1   TR  4   CH  4   NT  C#--        95/96
+BA   16   CR         2   TR  3   CH  3   NT  C-          95/96   von=70
+BA   16   CR         2   TR  3   CH  3   NT  C-          95/96
+BA   16   CR         2   TR  4   CH  4   NT  C-          95/96
+BA   16   CR         2   TR  4   CH  4   NT  C--         95/96
+BA   16   CR         2   TR  4   CH  4   NT  C--         95/96
+BA   16   CR         2   TR  4   CH  4   NT  C--         95/96
+BA   16   CR         3   TR  3   CH  3   NT  E-          95/96   von=78
+BA   16   CR         3   TR  3   CH  3   NT  E-          95/96
+BA   16   CR         3   TR  4   CH  4   NT  E-          95/96
+BA   16   CR         3   TR  4   CH  4   NT  E--         95/96
+BA   16   CR         3   TR  4   CH  4   NT  E--         95/96
+BA   16   CR         3   TR  4   CH  4   NT  E--         95/96
+
+BA   17   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   17   CR         0   TR  3   CH  3   NT  Eb-       1+95/96
+BA   17   CR         0   TR  3   CH  3   NT  Eb-       1+95/96
+BA   17   CR         0   TR  4   CH  4   NT  Eb-       1+95/96
+BA   17   CR         0   TR  4   CH  4   NT  Eb--      1+95/96
+BA   17   CR         0   TR  4   CH  4   NT  Eb--      1+95/96
+BA   17   CR         0   TR  4   CH  4   NT  Eb--      1+95/96
+BA   17   CR         2   TR  3   CH  3   NT  C-        5+95/96   von=77
+BA   17   CR         2   TR  3   CH  3   NT  C-        5+95/96
+BA   17   CR         2   TR  4   CH  4   NT  C-        5+95/96
+BA   17   CR         2   TR  4   CH  4   NT  C--       5+95/96
+BA   17   CR         2   TR  4   CH  4   NT  C--       5+95/96
+BA   17   CR         2   TR  4   CH  4   NT  C--       5+95/96
+
+BA   18   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   19   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   20   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   20   CR         0   TR  5   CH  5   NT  A         7+95/96   von=127
+BA   20   CR         0   TR  5   CH  5   NT  B         7+95/96
+BA   20   CR         0   TR  5   CH  5   NT  F         7+95/96
+BA   20   CR         0   TR  5   CH  5   NT  C'        7+95/96
+
+BA   21   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   22   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   23   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   24   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   24   CR         0   TR  6   CH  6   NT  C'          23/96   von=127
+BA   24   CR       1/4   TR  6   CH  6   NT  F#'         23/96
+BA   24   CR       1/2   TR  6   CH  6   NT  C''         23/96
+BA   24   CR       3/4   TR  6   CH  6   NT  Eb''        23/96
+BA   24   CR         1   TR  6   CH  6   NT  F'          23/96
+BA   24   CR     1+1/4   TR  6   CH  6   NT  E'          23/96
+BA   24   CR     1+1/2   TR  6   CH  6   NT  A'          23/96
+BA   24   CR     1+3/4   TR  6   CH  6   NT  C#''        23/96
+BA   24   CR         2   TR  6   CH  6   NT  C#''        23/96
+BA   24   CR     2+1/4   TR  6   CH  6   NT  Bb'         23/96
+BA   24   CR     2+1/2   TR  6   CH  6   NT  G''         23/96
+BA   24   CR     2+3/4   TR  6   CH  6   NT  A'          23/96
+BA   24   CR         3   TR  6   CH  6   NT  C#'         23/96
+BA   24   CR     3+1/4   TR  6   CH  6   NT  F'          23/96
+BA   24   CR     3+1/2   TR  6   CH  6   NT  C#''        23/96
+BA   24   CR     3+3/4   TR  6   CH  6   NT  F#''        23/96
+
+BA   25   CR         0   TR  6   CH  6   NT  D'          23/96
+BA   25   CR       1/4   TR  6   CH  6   NT  G           23/96
+BA   25   CR       1/2   TR  6   CH  6   NT  C#'         23/96
+BA   25   CR       3/4   TR  6   CH  6   NT  F#'         23/96
+BA   25   CR         1   TR  6   CH  6   NT  C#''        23/96
+BA   25   CR     1+1/4   TR  6   CH  6   NT  F#'         23/96
+BA   25   CR     1+1/2   TR  6   CH  6   NT  Eb'         23/96
+BA   25   CR     1+3/4   TR  6   CH  6   NT  D'          23/96
+BA   25   CR         2   TR  6   CH  6   NT  Bb          23/96
+BA   25   CR     2+1/4   TR  6   CH  6   NT  C''         23/96
+BA   25   CR     2+1/2   TR  6   CH  6   NT  G'          23/96
+BA   25   CR     2+3/4   TR  6   CH  6   NT  B'          23/96
+BA   25   CR         3   TR  6   CH  6   NT  G'          23/96
+BA   25   CR     3+1/4   TR  6   CH  6   NT  Eb'         23/96
+BA   25   CR     3+1/2   TR  6   CH  6   NT  C'          23/96
+BA   25   CR     3+3/4   TR  6   CH  6   NT  A'          23/96
+
+BA   26   CR         0   TR  6   CH  6   NT  C'          23/96
+BA   26   CR         0   TR  7   CH  7   NT  D'          23/96   von=2
+BA   26   CR         0   TR  7   CH  7   NT  G           23/96
+BA   26   CR         0   TR  7   CH  7   NT  C#'         23/96
+BA   26   CR         0   TR  7   CH  7   NT  Bb          23/96
+BA   26   CR       1/8   TR  7   CH  7   NT  D'          11/96   von=6
+BA   26   CR       1/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR       1/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR       1/8   TR  7   CH  7   NT  G           11/96
+BA   26   CR       1/4   TR  6   CH  6   NT  F#'         23/96
+BA   26   CR       1/4   TR  7   CH  7   NT  Bb          11/96   von=9
+BA   26   CR       1/4   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR       1/4   TR  7   CH  7   NT  G           11/96
+BA   26   CR       1/4   TR  7   CH  7   NT  D'          11/96
+BA   26   CR       3/8   TR  7   CH  7   NT  G           11/96   von=12
+BA   26   CR       3/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR       3/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR       3/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR       1/2   TR  6   CH  6   NT  C''         23/96
+BA   26   CR       1/2   TR  7   CH  7   NT  D'          11/96   von=14
+BA   26   CR       1/2   TR  7   CH  7   NT  G           11/96
+BA   26   CR       1/2   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR       1/2   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR       5/8   TR  7   CH  7   NT  D'          11/96   von=16
+BA   26   CR       5/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR       5/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR       5/8   TR  7   CH  7   NT  G           11/96
+BA   26   CR       3/4   TR  6   CH  6   NT  Eb''        23/96
+BA   26   CR       3/4   TR  7   CH  7   NT  Bb          11/96   von=17
+BA   26   CR       3/4   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR       3/4   TR  7   CH  7   NT  G           11/96
+BA   26   CR       3/4   TR  7   CH  7   NT  D'          11/96
+BA   26   CR       7/8   TR  7   CH  7   NT  G           11/96   von=18
+BA   26   CR       7/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR       7/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR       7/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR         1   TR  6   CH  6   NT  F'          23/96
+BA   26   CR         1   TR  7   CH  7   NT  D'          11/96
+BA   26   CR         1   TR  7   CH  7   NT  G           11/96
+BA   26   CR         1   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR         1   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     1+1/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     1+1/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     1+1/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     1+1/8   TR  7   CH  7   NT  G           11/96
+BA   26   CR     1+1/4   TR  6   CH  6   NT  E'          23/96
+BA   26   CR     1+1/4   TR  7   CH  7   NT  Bb          11/96   von=20
+BA   26   CR     1+1/4   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     1+1/4   TR  7   CH  7   NT  G           11/96
+BA   26   CR     1+1/4   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     1+3/8   TR  7   CH  7   NT  G           11/96   von=22
+BA   26   CR     1+3/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     1+3/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     1+3/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     1+1/2   TR  6   CH  6   NT  A'          23/96
+BA   26   CR     1+1/2   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     1+1/2   TR  7   CH  7   NT  G           11/96
+BA   26   CR     1+1/2   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     1+1/2   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     1+5/8   TR  7   CH  7   NT  D'          11/96   von=23
+BA   26   CR     1+5/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     1+5/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     1+5/8   TR  7   CH  7   NT  G           11/96
+BA   26   CR     1+3/4   TR  6   CH  6   NT  C#''        23/96
+BA   26   CR     1+3/4   TR  7   CH  7   NT  Bb          11/96   von=24
+BA   26   CR     1+3/4   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     1+3/4   TR  7   CH  7   NT  G           11/96
+BA   26   CR     1+3/4   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     1+7/8   TR  7   CH  7   NT  G           11/96   von=27
+BA   26   CR     1+7/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     1+7/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     1+7/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR         2   TR  6   CH  6   NT  C#''        23/96
+BA   26   CR         2   TR  7   CH  7   NT  D'          11/96   von=29
+BA   26   CR         2   TR  7   CH  7   NT  G           11/96
+BA   26   CR         2   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR         2   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     2+1/8   TR  7   CH  7   NT  D'          11/96   von=33
+BA   26   CR     2+1/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     2+1/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     2+1/8   TR  7   CH  7   NT  G           11/96
+BA   26   CR     2+1/4   TR  6   CH  6   NT  Bb'         23/96
+BA   26   CR     2+1/4   TR  7   CH  7   NT  Bb          11/96   von=34
+BA   26   CR     2+1/4   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     2+1/4   TR  7   CH  7   NT  G           11/96
+BA   26   CR     2+1/4   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     2+3/8   TR  7   CH  7   NT  G           11/96   von=35
+BA   26   CR     2+3/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     2+3/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     2+3/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     2+1/2   TR  6   CH  6   NT  G''         23/96
+BA   26   CR     2+1/2   TR  7   CH  7   NT  D'          11/96   von=36
+BA   26   CR     2+1/2   TR  7   CH  7   NT  G           11/96
+BA   26   CR     2+1/2   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     2+1/2   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     2+5/8   TR  7   CH  7   NT  D'          11/96   von=37
+BA   26   CR     2+5/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     2+5/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     2+5/8   TR  7   CH  7   NT  G           11/96
+BA   26   CR     2+3/4   TR  6   CH  6   NT  A'          23/96
+BA   26   CR     2+3/4   TR  7   CH  7   NT  Bb          11/96   von=40
+BA   26   CR     2+3/4   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     2+3/4   TR  7   CH  7   NT  G           11/96
+BA   26   CR     2+3/4   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     2+7/8   TR  7   CH  7   NT  G           11/96   von=42
+BA   26   CR     2+7/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     2+7/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     2+7/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR         3   TR  6   CH  6   NT  C#'         23/96
+BA   26   CR         3   TR  7   CH  7   NT  Bb          11/96   von=44
+BA   26   CR         3   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR         3   TR  7   CH  7   NT  G           11/96
+BA   26   CR         3   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     3+1/8   TR  7   CH  7   NT  G           11/96   von=47
+BA   26   CR     3+1/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     3+1/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     3+1/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     3+1/4   TR  6   CH  6   NT  F'          23/96
+BA   26   CR     3+1/4   TR  7   CH  7   NT  Bb          11/96   von=52
+BA   26   CR     3+1/4   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     3+1/4   TR  7   CH  7   NT  G           11/96
+BA   26   CR     3+1/4   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     3+3/8   TR  7   CH  7   NT  G           11/96   von=54
+BA   26   CR     3+3/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     3+3/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     3+3/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     3+1/2   TR  6   CH  6   NT  C#''        23/96
+BA   26   CR     3+1/2   TR  7   CH  7   NT  Bb          11/96   von=58
+BA   26   CR     3+1/2   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     3+1/2   TR  7   CH  7   NT  G           11/96
+BA   26   CR     3+1/2   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     3+5/8   TR  7   CH  7   NT  G           11/96   von=62
+BA   26   CR     3+5/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     3+5/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     3+5/8   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     3+3/4   TR  6   CH  6   NT  F#''        23/96
+BA   26   CR     3+3/4   TR  7   CH  7   NT  Bb          11/96   von=64
+BA   26   CR     3+3/4   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     3+3/4   TR  7   CH  7   NT  G           11/96
+BA   26   CR     3+3/4   TR  7   CH  7   NT  D'          11/96
+BA   26   CR     3+7/8   TR  7   CH  7   NT  G           11/96   von=68
+BA   26   CR     3+7/8   TR  7   CH  7   NT  Bb          11/96
+BA   26   CR     3+7/8   TR  7   CH  7   NT  C#'         11/96
+BA   26   CR     3+7/8   TR  7   CH  7   NT  D'          11/96
+
+BA   27   CR         0   TR  6   CH  6   NT  D'          23/96
+BA   27   CR         0   TR  7   CH  7   NT  Bb          11/96   von=71
+BA   27   CR         0   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR         0   TR  7   CH  7   NT  G           11/96
+BA   27   CR         0   TR  7   CH  7   NT  D'          11/96
+BA   27   CR       1/8   TR  7   CH  7   NT  G           11/96   von=76
+BA   27   CR       1/8   TR  7   CH  7   NT  Bb          11/96
+BA   27   CR       1/8   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR       1/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR       1/4   TR  6   CH  6   NT  G           23/96
+BA   27   CR       1/4   TR  7   CH  7   NT  Bb          11/96   von=79
+BA   27   CR       1/4   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR       1/4   TR  7   CH  7   NT  G           11/96
+BA   27   CR       1/4   TR  7   CH  7   NT  D'          11/96
+BA   27   CR       3/8   TR  7   CH  7   NT  G           11/96   von=84
+BA   27   CR       3/8   TR  7   CH  7   NT  Bb          11/96
+BA   27   CR       3/8   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR       3/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR       1/2   TR  6   CH  6   NT  C#'         23/96
+BA   27   CR       1/2   TR  7   CH  7   NT  Bb          11/96   von=88
+BA   27   CR       1/2   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR       1/2   TR  7   CH  7   NT  G           11/96
+BA   27   CR       1/2   TR  7   CH  7   NT  D'          11/96
+BA   27   CR       5/8   TR  7   CH  7   NT  G           11/96   von=92
+BA   27   CR       5/8   TR  7   CH  7   NT  Bb          11/96
+BA   27   CR       5/8   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR       5/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR       3/4   TR  6   CH  6   NT  F#'         23/96
+BA   27   CR       3/4   TR  7   CH  7   NT  Bb          11/96   von=95
+BA   27   CR       3/4   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR       3/4   TR  7   CH  7   NT  G           11/96
+BA   27   CR       3/4   TR  7   CH  7   NT  D'          11/96
+BA   27   CR       7/8   TR  7   CH  7   NT  G           11/96   von=97
+BA   27   CR       7/8   TR  7   CH  7   NT  Bb          11/96
+BA   27   CR       7/8   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR       7/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR         1   TR  6   CH  6   NT  C#''        23/96
+BA   27   CR         1   TR  7   CH  7   NT  Bb          11/96   von=100
+BA   27   CR         1   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR         1   TR  7   CH  7   NT  G           11/96
+BA   27   CR         1   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     1+1/8   TR  7   CH  7   NT  G           11/96   von=102
+BA   27   CR     1+1/8   TR  7   CH  7   NT  Bb          11/96
+BA   27   CR     1+1/8   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR     1+1/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     1+1/4   TR  6   CH  6   NT  F#'         23/96
+BA   27   CR     1+1/4   TR  7   CH  7   NT  Bb          11/96   von=107
+BA   27   CR     1+1/4   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR     1+1/4   TR  7   CH  7   NT  G           11/96
+BA   27   CR     1+1/4   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     1+3/8   TR  7   CH  7   NT  G           11/96   von=110
+BA   27   CR     1+3/8   TR  7   CH  7   NT  Bb          11/96
+BA   27   CR     1+3/8   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR     1+3/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     1+1/2   TR  6   CH  6   NT  Eb'         23/96
+BA   27   CR     1+1/2   TR  7   CH  7   NT  Bb          11/96   von=114
+BA   27   CR     1+1/2   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR     1+1/2   TR  7   CH  7   NT  G           11/96
+BA   27   CR     1+1/2   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     1+5/8   TR  7   CH  7   NT  G           11/96   von=117
+BA   27   CR     1+5/8   TR  7   CH  7   NT  Bb          11/96
+BA   27   CR     1+5/8   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR     1+5/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     1+3/4   TR  6   CH  6   NT  D'          23/96
+BA   27   CR     1+3/4   TR  7   CH  7   NT  Bb          11/96   von=121
+BA   27   CR     1+3/4   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR     1+3/4   TR  7   CH  7   NT  G           11/96
+BA   27   CR     1+3/4   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     1+7/8   TR  7   CH  7   NT  G           11/96   von=125
+BA   27   CR     1+7/8   TR  7   CH  7   NT  Bb          11/96
+BA   27   CR     1+7/8   TR  7   CH  7   NT  C#'         11/96
+BA   27   CR     1+7/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR         2   TR  6   CH  6   NT  Bb          23/96
+BA   27   CR         2   TR  7   CH  7   NT  B           23/96   von=127
+BA   27   CR         2   TR  7   CH  7   NT  D'          11/96
+BA   27   CR         2   TR  7   CH  7   NT  G#          23/96
+BA   27   CR         2   TR  7   CH  7   NT  Eb'         23/96
+BA   27   CR     2+1/8   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     2+1/8   TR  7   CH  7   NT  B           11/96
+BA   27   CR     2+1/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     2+1/8   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     2+1/4   TR  6   CH  6   NT  C''         23/96
+BA   27   CR     2+1/4   TR  7   CH  7   NT  B           11/96
+BA   27   CR     2+1/4   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     2+1/4   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     2+1/4   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     2+3/8   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     2+3/8   TR  7   CH  7   NT  B           11/96
+BA   27   CR     2+3/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     2+3/8   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     2+1/2   TR  6   CH  6   NT  G'          23/96
+BA   27   CR     2+1/2   TR  7   CH  7   NT  B           11/96
+BA   27   CR     2+1/2   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     2+1/2   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     2+1/2   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     2+5/8   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     2+5/8   TR  7   CH  7   NT  B           11/96
+BA   27   CR     2+5/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     2+5/8   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     2+3/4   TR  6   CH  6   NT  B'          23/96
+BA   27   CR     2+3/4   TR  7   CH  7   NT  B           11/96
+BA   27   CR     2+3/4   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     2+3/4   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     2+3/4   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     2+7/8   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     2+7/8   TR  7   CH  7   NT  B           11/96
+BA   27   CR     2+7/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     2+7/8   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR         3   TR  6   CH  6   NT  G'          23/96
+BA   27   CR         3   TR  7   CH  7   NT  B           11/96
+BA   27   CR         3   TR  7   CH  7   NT  D'          11/96
+BA   27   CR         3   TR  7   CH  7   NT  G#          11/96
+BA   27   CR         3   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     3+1/8   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     3+1/8   TR  7   CH  7   NT  B           11/96
+BA   27   CR     3+1/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     3+1/8   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     3+1/4   TR  6   CH  6   NT  Eb'         23/96
+BA   27   CR     3+1/4   TR  7   CH  7   NT  B           11/96
+BA   27   CR     3+1/4   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     3+1/4   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     3+1/4   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     3+3/8   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     3+3/8   TR  7   CH  7   NT  B           11/96
+BA   27   CR     3+3/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     3+3/8   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     3+1/2   TR  6   CH  6   NT  C'          23/96
+BA   27   CR     3+1/2   TR  7   CH  7   NT  B           11/96
+BA   27   CR     3+1/2   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     3+1/2   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     3+1/2   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     3+5/8   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     3+5/8   TR  7   CH  7   NT  B           11/96
+BA   27   CR     3+5/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     3+5/8   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     3+3/4   TR  6   CH  6   NT  A'          23/96
+BA   27   CR     3+3/4   TR  7   CH  7   NT  B           11/96
+BA   27   CR     3+3/4   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     3+3/4   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     3+3/4   TR  7   CH  7   NT  Eb'         11/96
+BA   27   CR     3+7/8   TR  7   CH  7   NT  G#          11/96
+BA   27   CR     3+7/8   TR  7   CH  7   NT  B           11/96
+BA   27   CR     3+7/8   TR  7   CH  7   NT  D'          11/96
+BA   27   CR     3+7/8   TR  7   CH  7   NT  Eb'         11/96
+
+BA   28   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   28   CR         0   TR  7   CH  7   NT  B           11/96
+BA   28   CR         0   TR  7   CH  7   NT  D'          11/96
+BA   28   CR         0   TR  7   CH  7   NT  G#          11/96
+BA   28   CR         0   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR       1/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR       1/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR       1/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR       1/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR       1/4   TR  7   CH  7   NT  B           11/96
+BA   28   CR       1/4   TR  7   CH  7   NT  D'          11/96
+BA   28   CR       1/4   TR  7   CH  7   NT  G#          11/96
+BA   28   CR       1/4   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR       3/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR       3/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR       3/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR       3/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR       1/2   TR  7   CH  7   NT  B           11/96
+BA   28   CR       1/2   TR  7   CH  7   NT  D'          11/96
+BA   28   CR       1/2   TR  7   CH  7   NT  G#          11/96
+BA   28   CR       1/2   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR       5/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR       5/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR       5/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR       5/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR       3/4   TR  7   CH  7   NT  B           11/96
+BA   28   CR       3/4   TR  7   CH  7   NT  D'          11/96
+BA   28   CR       3/4   TR  7   CH  7   NT  G#          11/96
+BA   28   CR       3/4   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR       7/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR       7/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR       7/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR       7/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR         1   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR         1   TR  7   CH  7   NT  G#          11/96
+BA   28   CR         1   TR  7   CH  7   NT  D'          11/96
+BA   28   CR         1   TR  7   CH  7   NT  B           11/96
+BA   28   CR     1+1/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     1+1/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     1+1/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     1+1/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     1+1/4   TR  7   CH  7   NT  B           11/96
+BA   28   CR     1+1/4   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     1+1/4   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     1+1/4   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     1+3/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     1+3/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     1+3/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     1+3/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     1+1/2   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     1+1/2   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     1+1/2   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     1+1/2   TR  7   CH  7   NT  B           11/96
+BA   28   CR     1+5/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     1+5/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     1+5/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     1+5/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     1+3/4   TR  7   CH  7   NT  B           11/96
+BA   28   CR     1+3/4   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     1+3/4   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     1+3/4   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     1+7/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     1+7/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     1+7/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     1+7/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR         2   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR         2   TR  7   CH  7   NT  G#          11/96
+BA   28   CR         2   TR  7   CH  7   NT  D'          11/96
+BA   28   CR         2   TR  7   CH  7   NT  B           11/96
+BA   28   CR     2+1/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     2+1/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     2+1/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     2+1/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     2+1/4   TR  7   CH  7   NT  B           11/96
+BA   28   CR     2+1/4   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     2+1/4   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     2+1/4   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     2+3/8   TR  7   CH  7   NT  G#          11/96   von=122
+BA   28   CR     2+3/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     2+3/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     2+3/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     2+1/2   TR  7   CH  7   NT  Eb'         11/96   von=127
+BA   28   CR     2+1/2   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     2+1/2   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     2+1/2   TR  7   CH  7   NT  B           11/96
+BA   28   CR     2+5/8   TR  7   CH  7   NT  Eb'         11/96   von=123
+BA   28   CR     2+5/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     2+5/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     2+5/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     2+3/4   TR  7   CH  7   NT  B           11/96   von=118
+BA   28   CR     2+3/4   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     2+3/4   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     2+3/4   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     2+7/8   TR  7   CH  7   NT  G#          11/96   von=111
+BA   28   CR     2+7/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     2+7/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     2+7/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR         3   TR  7   CH  7   NT  Eb'         11/96   von=106
+BA   28   CR         3   TR  7   CH  7   NT  G#          11/96
+BA   28   CR         3   TR  7   CH  7   NT  D'          11/96
+BA   28   CR         3   TR  7   CH  7   NT  B           11/96
+BA   28   CR     3+1/8   TR  7   CH  7   NT  Eb'         11/96   von=97
+BA   28   CR     3+1/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     3+1/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     3+1/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     3+1/4   TR  7   CH  7   NT  B           11/96   von=87
+BA   28   CR     3+1/4   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     3+1/4   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     3+1/4   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     3+3/8   TR  7   CH  7   NT  G#          11/96   von=80
+BA   28   CR     3+3/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     3+3/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     3+3/8   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     3+1/2   TR  7   CH  7   NT  Eb'         11/96   von=69
+BA   28   CR     3+1/2   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     3+1/2   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     3+1/2   TR  7   CH  7   NT  B           11/96
+BA   28   CR     3+5/8   TR  7   CH  7   NT  Eb'         11/96   von=52
+BA   28   CR     3+5/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     3+5/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     3+5/8   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     3+3/4   TR  7   CH  7   NT  B           11/96   von=42
+BA   28   CR     3+3/4   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     3+3/4   TR  7   CH  7   NT  G#          11/96
+BA   28   CR     3+3/4   TR  7   CH  7   NT  Eb'         11/96
+BA   28   CR     3+7/8   TR  7   CH  7   NT  G#          11/96   von=32
+BA   28   CR     3+7/8   TR  7   CH  7   NT  B           11/96
+BA   28   CR     3+7/8   TR  7   CH  7   NT  D'          11/96
+BA   28   CR     3+7/8   TR  7   CH  7   NT  Eb'         11/96
+
+BA   29   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   30   CR         0   TR  2   CH  2   NT  D--         71/96
+
+BA   31   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   31   CR         0   TR  3   CH  3   NT  G#--      1+95/96   von=69
+BA   31   CR         0   TR  3   CH  3   NT  G#--      1+95/96
+BA   31   CR         0   TR  4   CH  4   NT  G#--      1+95/96
+BA   31   CR         0   TR  4   CH  4   NT  G#---     1+95/96
+BA   31   CR         2   TR  3   CH  3   NT  G--         95/96
+BA   31   CR         2   TR  3   CH  3   NT  G--         95/96
+BA   31   CR         2   TR  4   CH  4   NT  G--         95/96
+BA   31   CR         2   TR  4   CH  4   NT  G---        95/96
+BA   31   CR         3   TR  3   CH  3   NT  A--         95/96
+BA   31   CR         3   TR  3   CH  3   NT  A--         95/96
+BA   31   CR         3   TR  4   CH  4   NT  A--         95/96
+BA   31   CR         3   TR  4   CH  4   NT  A---        95/96
+
+BA   32   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   32   CR         0   TR  3   CH  3   NT  G#--      1+95/96
+BA   32   CR         0   TR  3   CH  3   NT  G#--      1+95/96
+BA   32   CR         0   TR  4   CH  4   NT  G#--      1+95/96
+BA   32   CR         0   TR  4   CH  4   NT  G#---     1+95/96
+BA   32   CR         2   TR  3   CH  3   NT  C#-       2+95/96   von=68
+BA   32   CR         2   TR  3   CH  3   NT  C#-       2+95/96
+BA   32   CR         2   TR  4   CH  4   NT  C#-       2+95/96
+BA   32   CR         2   TR  4   CH  4   NT  C#--      2+95/96
+
+BA   33   CR         0   TR  2   CH  2   NT  D--         71/96
+BA   33   CR         1   TR  3   CH  3   NT  D-          95/96
+BA   33   CR         1   TR  3   CH  3   NT  D-          95/96
+BA   33   CR         1   TR  4   CH  4   NT  D-          95/96
+BA   33   CR         1   TR  4   CH  4   NT  D--         95/96
+BA   33   CR         1   TR  4   CH  4   NT  D--         95/96
+BA   33   CR         1   TR  4   CH  4   NT  D--         95/96
+BA   33   CR         2   TR  3   CH  3   NT  C#-         95/96   von=70
+BA   33   CR         2   TR  3   CH  3   NT  C#-         95/96
+BA   33   CR         2   TR  4   CH  4   NT  C#-         95/96
+BA   33   CR         2   TR  4   CH  4   NT  C#--        95/96
+BA   33   CR         2   TR  4   CH  4   NT  C#--        95/96
+BA   33   CR         2   TR  4   CH  4   NT  C#--        95/96
+BA   33   CR         3   TR  9   CH  9   NT  G#--      3+95/96   von=127
+BA   33   CR         3   TR  9   CH  9   NT  G#---     3+95/96
+BA   33   CR         3   TR  9   CH  9   NT  Eb-       3+95/96
+BA   33   CR         3   TR  9   CH  9   NT  B--       3+95/96
+BA   33   CR         3   TR  9   CH  9   NT  A-        3+95/96
+BA   33   CR         3   TR  9   CH  9   NT  D--       3+95/96
+BA   33   CR         3   TR  9   CH  9   NT  F--       3+95/96
+
+BA   34   CR         3   TR  9   CH  9   NT  G#--      3+95/96
+BA   34   CR         3   TR  9   CH  9   NT  G#---     3+95/96
+BA   34   CR         3   TR  9   CH  9   NT  Eb-       3+95/96
+BA   34   CR         3   TR  9   CH  9   NT  D--       3+95/96
+BA   34   CR         3   TR  9   CH  9   NT  F--       3+95/96
+BA   34   CR         3   TR  9   CH  9   NT  B--       3+95/96
+BA   34   CR         3   TR  9   CH  9   NT  A-        3+95/96
+
+BA   35   CR         3   TR  1   CH  1   ST &B0 &65 &00
+BA   35   CR         3   TR  1   CH  1   ST &B0 &64 &00
+BA   35   CR         3   TR  1   CH  1   ST &B0 &06 &0C
+BA   35   CR         3   TR  1   CH  1   ST &B0 &0A &40
+BA   35   CR         3   TR  1   CH  1   Channel volume 100
+BA   35   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA   35   CR         3   TR  1   CH  1   Instrument 102
+BA   35   CR         3   TR  2   CH  2   ST &B1 &65 &00
+BA   35   CR         3   TR  2   CH  2   ST &B1 &64 &00
+BA   35   CR         3   TR  2   CH  2   ST &B1 &06 &0C
+BA   35   CR         3   TR  2   CH  2   ST &B1 &0A &40
+BA   35   CR         3   TR  2   CH  2   Channel volume 100
+BA   35   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA   35   CR         3   TR  2   CH  2   Instrument 49
+BA   35   CR         3   TR  3   CH  3   ST &B2 &65 &00
+BA   35   CR         3   TR  3   CH  3   ST &B2 &64 &00
+BA   35   CR         3   TR  3   CH  3   ST &B2 &06 &0C
+BA   35   CR         3   TR  3   CH  3   ST &B2 &0A &40
+BA   35   CR         3   TR  3   CH  3   Channel volume 100
+BA   35   CR         3   TR  3   CH  3   ST &E2 &00 &40
+BA   35   CR         3   TR  3   CH  3   Instrument 31
+BA   35   CR         3   TR  4   CH  4   ST &B3 &65 &00
+BA   35   CR         3   TR  4   CH  4   ST &B3 &64 &00
+BA   35   CR         3   TR  4   CH  4   ST &B3 &06 &0C
+BA   35   CR         3   TR  4   CH  4   ST &B3 &0A &40
+BA   35   CR         3   TR  4   CH  4   Channel volume 100
+BA   35   CR         3   TR  4   CH  4   ST &E3 &00 &40
+BA   35   CR         3   TR  4   CH  4   Instrument 84
+BA   35   CR         3   TR  5   CH  5   ST &B4 &65 &00
+BA   35   CR         3   TR  5   CH  5   ST &B4 &64 &00
+BA   35   CR         3   TR  5   CH  5   ST &B4 &06 &0C
+BA   35   CR         3   TR  5   CH  5   ST &B4 &0A &40
+BA   35   CR         3   TR  5   CH  5   Channel volume 100
+BA   35   CR         3   TR  5   CH  5   ST &E4 &00 &40
+BA   35   CR         3   TR  5   CH  5   Instrument 71
+BA   35   CR         3   TR  6   CH  6   ST &B5 &65 &00
+BA   35   CR         3   TR  6   CH  6   ST &B5 &64 &00
+BA   35   CR         3   TR  6   CH  6   ST &B5 &06 &0C
+BA   35   CR         3   TR  6   CH  6   ST &B5 &0A &40
+BA   35   CR         3   TR  6   CH  6   Channel volume 100
+BA   35   CR         3   TR  6   CH  6   ST &E5 &00 &40
+BA   35   CR         3   TR  6   CH  6   Instrument 81
+BA   35   CR         3   TR  7   CH  7   ST &B6 &65 &00
+BA   35   CR         3   TR  7   CH  7   ST &B6 &64 &00
+BA   35   CR         3   TR  7   CH  7   ST &B6 &06 &0C
+BA   35   CR         3   TR  7   CH  7   ST &B6 &0A &40
+BA   35   CR         3   TR  7   CH  7   Channel volume 100
+BA   35   CR         3   TR  7   CH  7   ST &E6 &00 &40
+BA   35   CR         3   TR  7   CH  7   Instrument 69
+BA   35   CR         3   TR  8   CH  8   ST &B7 &65 &00
+BA   35   CR         3   TR  8   CH  8   ST &B7 &64 &00
+BA   35   CR         3   TR  8   CH  8   ST &B7 &06 &0C
+BA   35   CR         3   TR  8   CH  8   ST &B7 &0A &40
+BA   35   CR         3   TR  8   CH  8   Channel volume 100
+BA   35   CR         3   TR  8   CH  8   ST &E7 &00 &40
+BA   35   CR         3   TR  8   CH  8   Instrument 33
+BA   35   CR         3   TR  9   CH  9   ST &B8 &65 &00
+BA   35   CR         3   TR  9   CH  9   ST &B8 &64 &00
+BA   35   CR         3   TR  9   CH  9   ST &B8 &06 &0C
+BA   35   CR         3   TR  9   CH  9   ST &B8 &0A &40
+BA   35   CR         3   TR  9   CH  9   Channel volume 100
+BA   35   CR         3   TR  9   CH  9   ST &E8 &00 &40
+BA   35   CR         3   TR 10   CH 10   ST &B9 &65 &00
+BA   35   CR         3   TR 10   CH 10   ST &B9 &64 &00
+BA   35   CR         3   TR 10   CH 10   ST &B9 &06 &0C
+BA   35   CR         3   TR 10   CH 10   ST &B9 &0A &40
+BA   35   CR         3   TR 10   CH 10   Channel volume 100
+BA   35   CR         3   TR 10   CH 10   ST &E9 &00 &40
+BA   35   CR         3   TR 11   CH 11   ST &BA &65 &00
+BA   35   CR         3   TR 11   CH 11   ST &BA &64 &00
+BA   35   CR         3   TR 11   CH 11   ST &BA &06 &0C
+BA   35   CR         3   TR 11   CH 11   ST &BA &0A &40
+BA   35   CR         3   TR 11   CH 11   Channel volume 100
+BA   35   CR         3   TR 11   CH 11   ST &EA &00 &40
+BA   35   CR         3   TR 11   CH 11   Instrument 49
+BA   35   CR         3   TR 12   CH 12   ST &BB &65 &00
+BA   35   CR         3   TR 12   CH 12   ST &BB &64 &00
+BA   35   CR         3   TR 12   CH 12   ST &BB &06 &0C
+BA   35   CR         3   TR 12   CH 12   ST &BB &0A &40
+BA   35   CR         3   TR 12   CH 12   Channel volume 100
+BA   35   CR         3   TR 12   CH 12   ST &EB &00 &40
+BA   35   CR         3   TR 12   CH 12   Instrument 99
+BA   35   CR         3   TR 13   CH 13   ST &BC &65 &00
+BA   35   CR         3   TR 13   CH 13   ST &BC &64 &00
+BA   35   CR         3   TR 13   CH 13   ST &BC &06 &0C
+BA   35   CR         3   TR 13   CH 13   ST &BC &0A &40
+BA   35   CR         3   TR 13   CH 13   Channel volume 100
+BA   35   CR         3   TR 13   CH 13   ST &EC &00 &40
+BA   35   CR         3   TR 14   CH 14   ST &BD &65 &00
+BA   35   CR         3   TR 14   CH 14   ST &BD &64 &00
+BA   35   CR         3   TR 14   CH 14   ST &BD &06 &0C
+BA   35   CR         3   TR 14   CH 14   ST &BD &0A &40
+BA   35   CR         3   TR 14   CH 14   Channel volume 100
+BA   35   CR         3   TR 14   CH 14   ST &ED &00 &40
+BA   35   CR         3   TR 15   CH 15   ST &BE &65 &00
+BA   35   CR         3   TR 15   CH 15   ST &BE &64 &00
+BA   35   CR         3   TR 15   CH 15   ST &BE &06 &0C
+BA   35   CR         3   TR 15   CH 15   ST &BE &0A &40
+BA   35   CR         3   TR 15   CH 15   Channel volume 100
+BA   35   CR         3   TR 15   CH 15   ST &EE &00 &40
+BA   35   CR         3   TR 16   CH 16   ST &BF &65 &00
+BA   35   CR         3   TR 16   CH 16   ST &BF &64 &00
+BA   35   CR         3   TR 16   CH 16   ST &BF &06 &0C
+BA   35   CR         3   TR 16   CH 16   ST &BF &0A &40
+BA   35   CR         3   TR 16   CH 16   Channel volume 100
+BA   35   CR         3   TR 16   CH 16   ST &EF &00 &40
+BA   35   CR    3+1/96   TR  1   CH  1   ST &B0 &65 &00
+BA   35   CR    3+1/96   TR  1   CH  1   ST &B0 &64 &00
+BA   35   CR    3+1/96   TR  1   CH  1   ST &B0 &06 &0C
+BA   35   CR    3+1/96   TR  1   CH  1   ST &B0 &0A &40
+BA   35   CR    3+1/96   TR  1   CH  1   Channel volume 100
+BA   35   CR    3+1/96   TR  1   CH  1   ST &E0 &00 &40
+BA   35   CR    3+1/96   TR  1   CH  1   Instrument 102
+BA   35   CR    3+1/96   TR  1   CH  1   ST &B0 &65 &00
+BA   35   CR    3+1/96   TR  1   CH  1   ST &B0 &64 &00
+BA   35   CR    3+1/96   TR  1   CH  1   ST &B0 &06 &0C
+BA   35   CR    3+1/96   TR  1   CH  1   ST &B0 &0A &40
+BA   35   CR    3+1/96   TR  1   CH  1   Channel volume 100
+BA   35   CR    3+1/96   TR  1   CH  1   ST &E0 &00 &40
+BA   35   CR    3+1/96   TR  1   CH  1   Instrument 102
+BA   35   CR    3+1/96   TR  1   CH 16   End of track
+BA   35   CR    3+1/96   TR  2   CH  2   ST &B1 &65 &00
+BA   35   CR    3+1/96   TR  2   CH  2   ST &B1 &64 &00
+BA   35   CR    3+1/96   TR  2   CH  2   ST &B1 &06 &0C
+BA   35   CR    3+1/96   TR  2   CH  2   ST &B1 &0A &40
+BA   35   CR    3+1/96   TR  2   CH  2   Channel volume 100
+BA   35   CR    3+1/96   TR  2   CH  2   ST &E1 &00 &40
+BA   35   CR    3+1/96   TR  2   CH  2   Instrument 49
+BA   35   CR    3+1/96   TR  2   CH  2   ST &B1 &65 &00
+BA   35   CR    3+1/96   TR  2   CH  2   ST &B1 &64 &00
+BA   35   CR    3+1/96   TR  2   CH  2   ST &B1 &06 &0C
+BA   35   CR    3+1/96   TR  2   CH  2   ST &B1 &0A &40
+BA   35   CR    3+1/96   TR  2   CH  2   Channel volume 100
+BA   35   CR    3+1/96   TR  2   CH  2   ST &E1 &00 &40
+BA   35   CR    3+1/96   TR  2   CH  2   Instrument 49
+BA   35   CR    3+1/96   TR  2   CH 16   End of track
+BA   35   CR    3+1/96   TR  3   CH  3   ST &B2 &65 &00
+BA   35   CR    3+1/96   TR  3   CH  3   ST &B2 &64 &00
+BA   35   CR    3+1/96   TR  3   CH  3   ST &B2 &06 &0C
+BA   35   CR    3+1/96   TR  3   CH  3   ST &B2 &0A &40
+BA   35   CR    3+1/96   TR  3   CH  3   Channel volume 100
+BA   35   CR    3+1/96   TR  3   CH  3   ST &E2 &00 &40
+BA   35   CR    3+1/96   TR  3   CH  3   Instrument 31
+BA   35   CR    3+1/96   TR  3   CH  3   ST &B2 &65 &00
+BA   35   CR    3+1/96   TR  3   CH  3   ST &B2 &64 &00
+BA   35   CR    3+1/96   TR  3   CH  3   ST &B2 &06 &0C
+BA   35   CR    3+1/96   TR  3   CH  3   ST &B2 &0A &40
+BA   35   CR    3+1/96   TR  3   CH  3   Channel volume 100
+BA   35   CR    3+1/96   TR  3   CH  3   ST &E2 &00 &40
+BA   35   CR    3+1/96   TR  3   CH  3   Instrument 31
+BA   35   CR    3+1/96   TR  3   CH 16   End of track
+BA   35   CR    3+1/96   TR  4   CH  4   ST &B3 &65 &00
+BA   35   CR    3+1/96   TR  4   CH  4   ST &B3 &64 &00
+BA   35   CR    3+1/96   TR  4   CH  4   ST &B3 &06 &0C
+BA   35   CR    3+1/96   TR  4   CH  4   ST &B3 &0A &40
+BA   35   CR    3+1/96   TR  4   CH  4   Channel volume 100
+BA   35   CR    3+1/96   TR  4   CH  4   ST &E3 &00 &40
+BA   35   CR    3+1/96   TR  4   CH  4   Instrument 84
+BA   35   CR    3+1/96   TR  4   CH  4   ST &B3 &65 &00
+BA   35   CR    3+1/96   TR  4   CH  4   ST &B3 &64 &00
+BA   35   CR    3+1/96   TR  4   CH  4   ST &B3 &06 &0C
+BA   35   CR    3+1/96   TR  4   CH  4   ST &B3 &0A &40
+BA   35   CR    3+1/96   TR  4   CH  4   Channel volume 100
+BA   35   CR    3+1/96   TR  4   CH  4   ST &E3 &00 &40
+BA   35   CR    3+1/96   TR  4   CH  4   Instrument 84
+BA   35   CR    3+1/96   TR  4   CH 16   End of track
+BA   35   CR    3+1/96   TR  5   CH  5   ST &B4 &65 &00
+BA   35   CR    3+1/96   TR  5   CH  5   ST &B4 &64 &00
+BA   35   CR    3+1/96   TR  5   CH  5   ST &B4 &06 &0C
+BA   35   CR    3+1/96   TR  5   CH  5   ST &B4 &0A &40
+BA   35   CR    3+1/96   TR  5   CH  5   Channel volume 100
+BA   35   CR    3+1/96   TR  5   CH  5   ST &E4 &00 &40
+BA   35   CR    3+1/96   TR  5   CH  5   Instrument 71
+BA   35   CR    3+1/96   TR  5   CH  5   ST &B4 &65 &00
+BA   35   CR    3+1/96   TR  5   CH  5   ST &B4 &64 &00
+BA   35   CR    3+1/96   TR  5   CH  5   ST &B4 &06 &0C
+BA   35   CR    3+1/96   TR  5   CH  5   ST &B4 &0A &40
+BA   35   CR    3+1/96   TR  5   CH  5   Channel volume 100
+BA   35   CR    3+1/96   TR  5   CH  5   ST &E4 &00 &40
+BA   35   CR    3+1/96   TR  5   CH  5   Instrument 71
+BA   35   CR    3+1/96   TR  5   CH 16   End of track
+BA   35   CR    3+1/96   TR  6   CH  6   ST &B5 &65 &00
+BA   35   CR    3+1/96   TR  6   CH  6   ST &B5 &64 &00
+BA   35   CR    3+1/96   TR  6   CH  6   ST &B5 &06 &0C
+BA   35   CR    3+1/96   TR  6   CH  6   ST &B5 &0A &40
+BA   35   CR    3+1/96   TR  6   CH  6   Channel volume 100
+BA   35   CR    3+1/96   TR  6   CH  6   ST &E5 &00 &40
+BA   35   CR    3+1/96   TR  6   CH  6   Instrument 81
+BA   35   CR    3+1/96   TR  6   CH  6   ST &B5 &65 &00
+BA   35   CR    3+1/96   TR  6   CH  6   ST &B5 &64 &00
+BA   35   CR    3+1/96   TR  6   CH  6   ST &B5 &06 &0C
+BA   35   CR    3+1/96   TR  6   CH  6   ST &B5 &0A &40
+BA   35   CR    3+1/96   TR  6   CH  6   Channel volume 100
+BA   35   CR    3+1/96   TR  6   CH  6   ST &E5 &00 &40
+BA   35   CR    3+1/96   TR  6   CH  6   Instrument 81
+BA   35   CR    3+1/96   TR  6   CH 16   End of track
+BA   35   CR    3+1/96   TR  7   CH  7   ST &B6 &65 &00
+BA   35   CR    3+1/96   TR  7   CH  7   ST &B6 &64 &00
+BA   35   CR    3+1/96   TR  7   CH  7   ST &B6 &06 &0C
+BA   35   CR    3+1/96   TR  7   CH  7   ST &B6 &0A &40
+BA   35   CR    3+1/96   TR  7   CH  7   Channel volume 100
+BA   35   CR    3+1/96   TR  7   CH  7   ST &E6 &00 &40
+BA   35   CR    3+1/96   TR  7   CH  7   Instrument 69
+BA   35   CR    3+1/96   TR  7   CH  7   ST &B6 &65 &00
+BA   35   CR    3+1/96   TR  7   CH  7   ST &B6 &64 &00
+BA   35   CR    3+1/96   TR  7   CH  7   ST &B6 &06 &0C
+BA   35   CR    3+1/96   TR  7   CH  7   ST &B6 &0A &40
+BA   35   CR    3+1/96   TR  7   CH  7   Channel volume 100
+BA   35   CR    3+1/96   TR  7   CH  7   ST &E6 &00 &40
+BA   35   CR    3+1/96   TR  7   CH  7   Instrument 69
+BA   35   CR    3+1/96   TR  7   CH 16   End of track
+BA   35   CR    3+1/96   TR  8   CH  8   ST &B7 &65 &00
+BA   35   CR    3+1/96   TR  8   CH  8   ST &B7 &64 &00
+BA   35   CR    3+1/96   TR  8   CH  8   ST &B7 &06 &0C
+BA   35   CR    3+1/96   TR  8   CH  8   ST &B7 &0A &40
+BA   35   CR    3+1/96   TR  8   CH  8   Channel volume 100
+BA   35   CR    3+1/96   TR  8   CH  8   ST &E7 &00 &40
+BA   35   CR    3+1/96   TR  8   CH  8   Instrument 33
+BA   35   CR    3+1/96   TR  8   CH  8   ST &B7 &65 &00
+BA   35   CR    3+1/96   TR  8   CH  8   ST &B7 &64 &00
+BA   35   CR    3+1/96   TR  8   CH  8   ST &B7 &06 &0C
+BA   35   CR    3+1/96   TR  8   CH  8   ST &B7 &0A &40
+BA   35   CR    3+1/96   TR  8   CH  8   Channel volume 100
+BA   35   CR    3+1/96   TR  8   CH  8   ST &E7 &00 &40
+BA   35   CR    3+1/96   TR  8   CH  8   Instrument 33
+BA   35   CR    3+1/96   TR  8   CH 16   End of track
+BA   35   CR    3+1/96   TR  9   CH  9   ST &B8 &65 &00
+BA   35   CR    3+1/96   TR  9   CH  9   ST &B8 &64 &00
+BA   35   CR    3+1/96   TR  9   CH  9   ST &B8 &06 &0C
+BA   35   CR    3+1/96   TR  9   CH  9   ST &B8 &0A &40
+BA   35   CR    3+1/96   TR  9   CH  9   Channel volume 100
+BA   35   CR    3+1/96   TR  9   CH  9   ST &E8 &00 &40
+BA   35   CR    3+1/96   TR  9   CH  9   ST &B8 &65 &00
+BA   35   CR    3+1/96   TR  9   CH  9   ST &B8 &64 &00
+BA   35   CR    3+1/96   TR  9   CH  9   ST &B8 &06 &0C
+BA   35   CR    3+1/96   TR  9   CH  9   ST &B8 &0A &40
+BA   35   CR    3+1/96   TR  9   CH  9   Channel volume 100
+BA   35   CR    3+1/96   TR  9   CH  9   ST &E8 &00 &40
+BA   35   CR    3+1/96   TR  9   CH 16   End of track
+BA   35   CR    3+1/96   TR 10   CH 10   ST &B9 &65 &00
+BA   35   CR    3+1/96   TR 10   CH 10   ST &B9 &64 &00
+BA   35   CR    3+1/96   TR 10   CH 10   ST &B9 &06 &0C
+BA   35   CR    3+1/96   TR 10   CH 10   ST &B9 &0A &40
+BA   35   CR    3+1/96   TR 10   CH 10   Channel volume 100
+BA   35   CR    3+1/96   TR 10   CH 10   ST &E9 &00 &40
+BA   35   CR    3+1/96   TR 10   CH 10   ST &B9 &65 &00
+BA   35   CR    3+1/96   TR 10   CH 10   ST &B9 &64 &00
+BA   35   CR    3+1/96   TR 10   CH 10   ST &B9 &06 &0C
+BA   35   CR    3+1/96   TR 10   CH 10   ST &B9 &0A &40
+BA   35   CR    3+1/96   TR 10   CH 10   Channel volume 100
+BA   35   CR    3+1/96   TR 10   CH 10   ST &E9 &00 &40
+BA   35   CR    3+1/96   TR 10   CH 16   End of track
+BA   35   CR    3+1/96   TR 11   CH 11   ST &BA &65 &00
+BA   35   CR    3+1/96   TR 11   CH 11   ST &BA &64 &00
+BA   35   CR    3+1/96   TR 11   CH 11   ST &BA &06 &0C
+BA   35   CR    3+1/96   TR 11   CH 11   ST &BA &0A &40
+BA   35   CR    3+1/96   TR 11   CH 11   Channel volume 100
+BA   35   CR    3+1/96   TR 11   CH 11   ST &EA &00 &40
+BA   35   CR    3+1/96   TR 11   CH 11   Instrument 49
+BA   35   CR    3+1/96   TR 11   CH 11   ST &BA &65 &00
+BA   35   CR    3+1/96   TR 11   CH 11   ST &BA &64 &00
+BA   35   CR    3+1/96   TR 11   CH 11   ST &BA &06 &0C
+BA   35   CR    3+1/96   TR 11   CH 11   ST &BA &0A &40
+BA   35   CR    3+1/96   TR 11   CH 11   Channel volume 100
+BA   35   CR    3+1/96   TR 11   CH 11   ST &EA &00 &40
+BA   35   CR    3+1/96   TR 11   CH 11   Instrument 49
+BA   35   CR    3+1/96   TR 11   CH 16   End of track
+BA   35   CR    3+1/96   TR 12   CH 12   ST &BB &65 &00
+BA   35   CR    3+1/96   TR 12   CH 12   ST &BB &64 &00
+BA   35   CR    3+1/96   TR 12   CH 12   ST &BB &06 &0C
+BA   35   CR    3+1/96   TR 12   CH 12   ST &BB &0A &40
+BA   35   CR    3+1/96   TR 12   CH 12   Channel volume 100
+BA   35   CR    3+1/96   TR 12   CH 12   ST &EB &00 &40
+BA   35   CR    3+1/96   TR 12   CH 12   Instrument 99
+BA   35   CR    3+1/96   TR 12   CH 12   ST &BB &65 &00
+BA   35   CR    3+1/96   TR 12   CH 12   ST &BB &64 &00
+BA   35   CR    3+1/96   TR 12   CH 12   ST &BB &06 &0C
+BA   35   CR    3+1/96   TR 12   CH 12   ST &BB &0A &40
+BA   35   CR    3+1/96   TR 12   CH 12   Channel volume 100
+BA   35   CR    3+1/96   TR 12   CH 12   ST &EB &00 &40
+BA   35   CR    3+1/96   TR 12   CH 12   Instrument 99
+BA   35   CR    3+1/96   TR 12   CH 16   End of track
+BA   35   CR    3+1/96   TR 13   CH 13   ST &BC &65 &00
+BA   35   CR    3+1/96   TR 13   CH 13   ST &BC &64 &00
+BA   35   CR    3+1/96   TR 13   CH 13   ST &BC &06 &0C
+BA   35   CR    3+1/96   TR 13   CH 13   ST &BC &0A &40
+BA   35   CR    3+1/96   TR 13   CH 13   Channel volume 100
+BA   35   CR    3+1/96   TR 13   CH 13   ST &EC &00 &40
+BA   35   CR    3+1/96   TR 13   CH 13   ST &BC &65 &00
+BA   35   CR    3+1/96   TR 13   CH 13   ST &BC &64 &00
+BA   35   CR    3+1/96   TR 13   CH 13   ST &BC &06 &0C
+BA   35   CR    3+1/96   TR 13   CH 13   ST &BC &0A &40
+BA   35   CR    3+1/96   TR 13   CH 13   Channel volume 100
+BA   35   CR    3+1/96   TR 13   CH 13   ST &EC &00 &40
+BA   35   CR    3+1/96   TR 13   CH 16   End of track
+BA   35   CR    3+1/96   TR 14   CH 14   ST &BD &65 &00
+BA   35   CR    3+1/96   TR 14   CH 14   ST &BD &64 &00
+BA   35   CR    3+1/96   TR 14   CH 14   ST &BD &06 &0C
+BA   35   CR    3+1/96   TR 14   CH 14   ST &BD &0A &40
+BA   35   CR    3+1/96   TR 14   CH 14   Channel volume 100
+BA   35   CR    3+1/96   TR 14   CH 14   ST &ED &00 &40
+BA   35   CR    3+1/96   TR 14   CH 14   ST &BD &65 &00
+BA   35   CR    3+1/96   TR 14   CH 14   ST &BD &64 &00
+BA   35   CR    3+1/96   TR 14   CH 14   ST &BD &06 &0C
+BA   35   CR    3+1/96   TR 14   CH 14   ST &BD &0A &40
+BA   35   CR    3+1/96   TR 14   CH 14   Channel volume 100
+BA   35   CR    3+1/96   TR 14   CH 14   ST &ED &00 &40
+BA   35   CR    3+1/96   TR 14   CH 16   End of track
+BA   35   CR    3+1/96   TR 15   CH 15   ST &BE &65 &00
+BA   35   CR    3+1/96   TR 15   CH 15   ST &BE &64 &00
+BA   35   CR    3+1/96   TR 15   CH 15   ST &BE &06 &0C
+BA   35   CR    3+1/96   TR 15   CH 15   ST &BE &0A &40
+BA   35   CR    3+1/96   TR 15   CH 15   Channel volume 100
+BA   35   CR    3+1/96   TR 15   CH 15   ST &EE &00 &40
+BA   35   CR    3+1/96   TR 15   CH 15   ST &BE &65 &00
+BA   35   CR    3+1/96   TR 15   CH 15   ST &BE &64 &00
+BA   35   CR    3+1/96   TR 15   CH 15   ST &BE &06 &0C
+BA   35   CR    3+1/96   TR 15   CH 15   ST &BE &0A &40
+BA   35   CR    3+1/96   TR 15   CH 15   Channel volume 100
+BA   35   CR    3+1/96   TR 15   CH 15   ST &EE &00 &40
+BA   35   CR    3+1/96   TR 15   CH 16   End of track
+BA   35   CR    3+1/96   TR 16   CH 16   ST &BF &65 &00
+BA   35   CR    3+1/96   TR 16   CH 16   ST &BF &64 &00
+BA   35   CR    3+1/96   TR 16   CH 16   ST &BF &06 &0C
+BA   35   CR    3+1/96   TR 16   CH 16   ST &BF &0A &40
+BA   35   CR    3+1/96   TR 16   CH 16   Channel volume 100
+BA   35   CR    3+1/96   TR 16   CH 16   ST &EF &00 &40
+BA   35   CR    3+1/96   TR 16   CH 16   ST &BF &65 &00
+BA   35   CR    3+1/96   TR 16   CH 16   ST &BF &64 &00
+BA   35   CR    3+1/96   TR 16   CH 16   ST &BF &06 &0C
+BA   35   CR    3+1/96   TR 16   CH 16   ST &BF &0A &40
+BA   35   CR    3+1/96   TR 16   CH 16   Channel volume 100
+BA   35   CR    3+1/96   TR 16   CH 16   ST &EF &00 &40
+BA   35   CR    3+1/96   TR 16   CH 16   End of track

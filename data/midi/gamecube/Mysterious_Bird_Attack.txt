@@ -1,0 +1,268 @@
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Tempo 240
+BA    1   CR         0   TR  0   CH 16   Key Bb major
+BA    1   CR         0   TR  1   CH 16   Text type 3: "High Brass"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 61
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Low Brass"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 59
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Pizzicato Strings"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &00 &00
+BA    1   CR         0   TR  3   CH  3   Instrument 46
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &3F
+BA    1   CR         0   TR  3   CH  3   Channel volume 96
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Flute"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  4   CH  4   Instrument 74
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &3F
+BA    1   CR         0   TR  4   CH  4   Channel volume 96
+BA    1   CR         0   TR  4   CH  4   NT  A'        473/480   von=64
+BA    1   CR         0   TR  4   CH  4   NT  D'        473/480
+BA    1   CR         0   TR  4   CH  4   NT  Db'       473/480
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Tremolo Strings"
+BA    1   CR         0   TR  5   CH  5   ST &B4 &00 &00
+BA    1   CR         0   TR  5   CH  5   Instrument 45
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &3F
+BA    1   CR         0   TR  5   CH  5   Channel volume 96
+BA    1   CR     21/32   TR  0   CH 16   Tempo 90.0001
+BA    1   CR         2   TR  3   CH  3   NT  Db        113/480   von=64
+BA    1   CR         2   TR  3   CH  3   NT  G         113/480
+BA    1   CR     2+1/4   TR  3   CH  3   NT  Bb        113/480
+BA    1   CR     2+1/4   TR  3   CH  3   NT  F'        113/480
+BA    1   CR     2+1/2   TR  3   CH  3   NT  Db        113/480
+BA    1   CR     2+1/2   TR  3   CH  3   NT  G         113/480
+BA    1   CR     2+3/4   TR  3   CH  3   NT  Bb        113/480
+BA    1   CR     2+3/4   TR  3   CH  3   NT  F'        113/480
+BA    1   CR   3+31/32   TR  0   CH 16   Tempo 60
+
+BA    2   CR         0   TR  0   CH 16   Time signature 3/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    2   CR         0   TR  1   CH  1   NT  G-        473/480   von=64
+BA    2   CR         0   TR  2   CH  2   NT  G--     5+473/480   von=64
+BA    2   CR         1   TR  1   CH  1   NT  A-        473/480
+BA    2   CR         2   TR  1   CH  1   NT  D         473/480
+
+BA    3   CR         0   TR  1   CH  1   NT  Eb      2+473/480
+BA    3   CR         0   TR  1   CH  1   NT  Ab      2+473/480
+BA    3   CR   2+31/32   TR  0   CH 16   Tempo 138.0003
+BA    3   CR 2+479/480   TR  2   CH  2   Instrument 61
+
+BA    4   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    4   CR         0   TR  0   CH 16   End of track
+BA    4   CR         0   TR  1   CH  1   Instrument 62
+BA    4   CR         0   TR  2   CH  2   NT  G--       233/480
+BA    4   CR       1/2   TR  1   CH  1   NT  Ab        233/480
+BA    4   CR       1/2   TR  1   CH  1   NT  Eb        233/480
+BA    4   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA    4   CR       1/2   TR  2   CH  2   NT  G-        233/480
+BA    4   CR         1   TR  2   CH  2   NT  G--       233/480
+BA    4   CR     1+1/2   TR  2   CH  2   NT  G--       233/480
+BA    4   CR         2   TR  1   CH  1   NT  Ab        473/480
+BA    4   CR         2   TR  1   CH  1   NT  Eb        473/480
+BA    4   CR         2   TR  1   CH  1   NT  D         473/480
+BA    4   CR         2   TR  2   CH  2   NT  G-        233/480
+BA    4   CR     2+1/2   TR  2   CH  2   NT  G--       233/480
+BA    4   CR         3   TR  2   CH  2   NT  G--       233/480
+BA    4   CR     3+1/2   TR  1   CH  1   NT  D         233/480
+BA    4   CR     3+1/2   TR  1   CH  1   NT  Eb        233/480
+BA    4   CR     3+1/2   TR  1   CH  1   NT  Ab        233/480
+BA    4   CR     3+1/2   TR  2   CH  2   NT  G-        233/480
+
+BA    5   CR         0   TR  2   CH  2   NT  G--       233/480
+BA    5   CR       1/2   TR  1   CH  1   NT  Ab        233/480
+BA    5   CR       1/2   TR  1   CH  1   NT  Eb        233/480
+BA    5   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA    5   CR       1/2   TR  2   CH  2   NT  G-        233/480
+BA    5   CR         1   TR  2   CH  2   NT  G--       233/480
+BA    5   CR     1+1/2   TR  2   CH  2   NT  G--       233/480
+BA    5   CR         2   TR  1   CH  1   NT  Ab        473/480
+BA    5   CR         2   TR  1   CH  1   NT  Eb        473/480
+BA    5   CR         2   TR  1   CH  1   NT  D         473/480
+BA    5   CR         2   TR  2   CH  2   NT  G-        233/480
+BA    5   CR     2+1/2   TR  2   CH  2   NT  G--       233/480
+BA    5   CR         3   TR  1   CH  1   NT  D         233/480
+BA    5   CR         3   TR  1   CH  1   NT  Ab        233/480
+BA    5   CR         3   TR  2   CH  2   NT  G--       233/480
+BA    5   CR     3+1/2   TR  1   CH  1   NT  E         113/480
+BA    5   CR     3+1/2   TR  1   CH  1   NT  Bb        113/480
+BA    5   CR     3+1/2   TR  2   CH  2   NT  Bb--      113/480
+BA    5   CR     3+3/4   TR  1   CH  1   NT  F         113/480
+BA    5   CR     3+3/4   TR  1   CH  1   NT  B         113/480
+BA    5   CR     3+3/4   TR  2   CH  2   NT  B--       113/480
+
+BA    6   CR         0   TR  2   CH  2   NT  G--       233/480
+BA    6   CR       1/2   TR  1   CH  1   NT  Ab        233/480
+BA    6   CR       1/2   TR  1   CH  1   NT  Eb        233/480
+BA    6   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA    6   CR       1/2   TR  2   CH  2   NT  G-        233/480
+BA    6   CR         1   TR  2   CH  2   NT  G--       233/480
+BA    6   CR     1+1/2   TR  2   CH  2   NT  G--       233/480
+BA    6   CR         2   TR  1   CH  1   NT  Ab        473/480
+BA    6   CR         2   TR  1   CH  1   NT  Eb        473/480
+BA    6   CR         2   TR  1   CH  1   NT  D         473/480
+BA    6   CR         2   TR  2   CH  2   NT  G-        233/480
+BA    6   CR     2+1/2   TR  2   CH  2   NT  G--       233/480
+BA    6   CR         3   TR  2   CH  2   NT  G--       233/480
+BA    6   CR     3+1/2   TR  1   CH  1   NT  D         233/480
+BA    6   CR     3+1/2   TR  1   CH  1   NT  Eb        233/480
+BA    6   CR     3+1/2   TR  1   CH  1   NT  Ab        233/480
+BA    6   CR     3+1/2   TR  2   CH  2   NT  G-        233/480
+
+BA    7   CR         0   TR  2   CH  2   NT  G--       233/480
+BA    7   CR       1/2   TR  1   CH  1   NT  Ab        233/480
+BA    7   CR       1/2   TR  1   CH  1   NT  Eb        233/480
+BA    7   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA    7   CR       1/2   TR  2   CH  2   NT  G-        233/480
+BA    7   CR         1   TR  2   CH  2   NT  G--       233/480
+BA    7   CR     1+1/2   TR  2   CH  2   NT  G--       233/480
+BA    7   CR         2   TR  1   CH  1   NT  Ab        473/480
+BA    7   CR         2   TR  1   CH  1   NT  Eb        473/480
+BA    7   CR         2   TR  1   CH  1   NT  D         473/480
+BA    7   CR         2   TR  2   CH  2   NT  G-        233/480
+BA    7   CR     2+1/2   TR  2   CH  2   NT  G--       233/480
+BA    7   CR         3   TR  1   CH  1   NT  D         233/480
+BA    7   CR         3   TR  1   CH  1   NT  Ab        233/480
+BA    7   CR         3   TR  2   CH  2   NT  G--       233/480
+BA    7   CR     3+1/2   TR  1   CH  1   NT  E         113/480
+BA    7   CR     3+1/2   TR  1   CH  1   NT  Bb        113/480
+BA    7   CR     3+1/2   TR  2   CH  2   NT  Bb--      113/480
+BA    7   CR     3+3/4   TR  1   CH  1   NT  F         113/480
+BA    7   CR     3+3/4   TR  1   CH  1   NT  B         113/480
+BA    7   CR     3+3/4   TR  2   CH  2   NT  B--       113/480
+
+BA    8   CR         0   TR  2   CH  2   NT  G--       233/480
+BA    8   CR       1/2   TR  1   CH  1   NT  Ab        233/480
+BA    8   CR       1/2   TR  1   CH  1   NT  Eb        233/480
+BA    8   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA    8   CR       1/2   TR  2   CH  2   NT  G-        233/480
+BA    8   CR         1   TR  2   CH  2   NT  G--       233/480
+BA    8   CR     1+1/2   TR  2   CH  2   NT  G--       233/480
+BA    8   CR         2   TR  1   CH  1   NT  Ab        473/480
+BA    8   CR         2   TR  1   CH  1   NT  Eb        473/480
+BA    8   CR         2   TR  1   CH  1   NT  D         473/480
+BA    8   CR         2   TR  2   CH  2   NT  G-        233/480
+BA    8   CR     2+1/2   TR  2   CH  2   NT  G--       233/480
+BA    8   CR         3   TR  2   CH  2   NT  G--       233/480
+BA    8   CR     3+1/2   TR  1   CH  1   NT  D         233/480
+BA    8   CR     3+1/2   TR  1   CH  1   NT  Eb        233/480
+BA    8   CR     3+1/2   TR  1   CH  1   NT  Ab        233/480
+BA    8   CR     3+1/2   TR  2   CH  2   NT  G-        233/480
+
+BA    9   CR         0   TR  2   CH  2   NT  G--       233/480
+BA    9   CR       1/2   TR  1   CH  1   NT  Ab        233/480
+BA    9   CR       1/2   TR  1   CH  1   NT  Eb        233/480
+BA    9   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA    9   CR       1/2   TR  2   CH  2   NT  G-        233/480
+BA    9   CR         1   TR  2   CH  2   NT  G--       233/480
+BA    9   CR     1+1/2   TR  2   CH  2   NT  G--       233/480
+BA    9   CR         2   TR  1   CH  1   NT  Ab        473/480
+BA    9   CR         2   TR  1   CH  1   NT  Eb        473/480
+BA    9   CR         2   TR  1   CH  1   NT  D         473/480
+BA    9   CR         2   TR  2   CH  2   NT  G-        233/480
+BA    9   CR     2+1/2   TR  2   CH  2   NT  G--       233/480
+BA    9   CR         3   TR  1   CH  1   NT  D         233/480
+BA    9   CR         3   TR  1   CH  1   NT  Ab        233/480
+BA    9   CR         3   TR  2   CH  2   NT  G--       233/480
+BA    9   CR     3+1/2   TR  1   CH  1   NT  E         113/480
+BA    9   CR     3+1/2   TR  1   CH  1   NT  Bb        113/480
+BA    9   CR     3+1/2   TR  2   CH  2   NT  Bb--      113/480
+BA    9   CR     3+3/4   TR  1   CH  1   NT  F         113/480
+BA    9   CR     3+3/4   TR  1   CH  1   NT  B         113/480
+BA    9   CR     3+3/4   TR  2   CH  2   NT  B--       113/480
+
+BA   10   CR         0   TR  2   CH  2   NT  G--       233/480
+BA   10   CR       1/2   TR  1   CH  1   NT  Ab        233/480
+BA   10   CR       1/2   TR  1   CH  1   NT  Eb        233/480
+BA   10   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA   10   CR       1/2   TR  2   CH  2   NT  G-        233/480
+BA   10   CR         1   TR  2   CH  2   NT  G--       233/480
+BA   10   CR     1+1/2   TR  2   CH  2   NT  G--       233/480
+BA   10   CR         2   TR  1   CH  1   NT  Ab        473/480
+BA   10   CR         2   TR  1   CH  1   NT  Eb        473/480
+BA   10   CR         2   TR  1   CH  1   NT  D         473/480
+BA   10   CR         2   TR  2   CH  2   NT  G-        233/480
+BA   10   CR     2+1/2   TR  2   CH  2   NT  G--       233/480
+BA   10   CR         3   TR  2   CH  2   NT  G--       233/480
+BA   10   CR     3+1/2   TR  1   CH  1   NT  D         233/480
+BA   10   CR     3+1/2   TR  1   CH  1   NT  Eb        233/480
+BA   10   CR     3+1/2   TR  1   CH  1   NT  Ab        233/480
+BA   10   CR     3+1/2   TR  2   CH  2   NT  G-        233/480
+
+BA   11   CR         0   TR  2   CH  2   NT  G--       233/480
+BA   11   CR       1/2   TR  1   CH  1   NT  Eb        233/480
+BA   11   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA   11   CR       1/2   TR  1   CH  1   NT  Ab        233/480
+BA   11   CR       1/2   TR  2   CH  2   NT  G-        233/480
+BA   11   CR         1   TR  2   CH  2   NT  G--       233/480
+BA   11   CR     1+1/2   TR  2   CH  2   NT  G--       233/480
+BA   11   CR         2   TR  1   CH  1   NT  E         473/480
+BA   11   CR         2   TR  1   CH  1   NT  Eb        473/480
+BA   11   CR         2   TR  1   CH  1   NT  A         473/480
+BA   11   CR         2   TR  2   CH  2   NT  G-        233/480
+BA   11   CR     2+1/2   TR  2   CH  2   NT  G--       233/480
+BA   11   CR         3   TR  1   CH  1   NT  Bb        233/480
+BA   11   CR         3   TR  1   CH  1   NT  E         233/480
+BA   11   CR         3   TR  2   CH  2   NT  G--       233/480
+BA   11   CR     3+1/2   TR  1   CH  1   NT  G         233/480
+BA   11   CR     3+1/2   TR  1   CH  1   NT  Db'       233/480
+BA   11   CR     3+1/2   TR  2   CH  2   NT  Bb--      113/480
+BA   11   CR     3+3/4   TR  2   CH  2   NT  B--       113/480
+BA   11   CR 3+473/480   TR  1   CH 16   End of track
+BA   11   CR 3+473/480   TR  2   CH 16   End of track
+
+BA   13   CR         0   TR  4   CH  4   NT  A'      3+473/480
+BA   13   CR         0   TR  4   CH  4   NT  A       3+473/480
+BA   13   CR         0   TR  4   CH  4   NT  F'      3+473/480
+BA   13   CR         0   TR  4   CH  4   NT  F#'     3+473/480
+BA   13   CR 3+473/480   TR  4   CH 16   End of track
+
+BA   14   CR         0   TR  5   CH  5   NT  Db''      113/480   von=64
+BA   14   CR       1/4   TR  5   CH  5   NT  A'        113/480
+BA   14   CR       1/2   TR  5   CH  5   NT  F'        113/480
+BA   14   CR       3/4   TR  5   CH  5   NT  C''       113/480
+BA   14   CR         1   TR  5   CH  5   NT  Ab'       113/480
+BA   14   CR     1+1/4   TR  5   CH  5   NT  E'        113/480
+BA   14   CR     1+1/2   TR  5   CH  5   NT  B'        113/480
+BA   14   CR     1+3/4   TR  5   CH  5   NT  G'        113/480
+BA   14   CR         2   TR  5   CH  5   NT  Eb'       113/480
+BA   14   CR     2+1/4   TR  5   CH  5   NT  Bb'       113/480
+BA   14   CR     2+1/2   TR  5   CH  5   NT  F#'       113/480
+BA   14   CR     2+3/4   TR  5   CH  5   NT  D'        113/480
+BA   14   CR         3   TR  5   CH  5   NT  A'        113/480
+BA   14   CR     3+1/4   TR  5   CH  5   NT  F'        113/480
+BA   14   CR     3+1/2   TR  5   CH  5   NT  Db'       113/480
+BA   14   CR     3+3/4   TR  5   CH  5   NT  Ab'       113/480
+
+BA   15   CR         0   TR  5   CH  5   NT  E'        113/480
+BA   15   CR       1/4   TR  5   CH  5   NT  C'        113/480
+BA   15   CR       1/2   TR  5   CH  5   NT  G'        113/480
+BA   15   CR       3/4   TR  5   CH  5   NT  Eb'       113/480
+BA   15   CR         1   TR  5   CH  5   NT  B         113/480
+BA   15   CR     1+1/4   TR  5   CH  5   NT  F#'       113/480
+BA   15   CR     1+1/2   TR  5   CH  5   NT  D'        113/480
+BA   15   CR     1+3/4   TR  5   CH  5   NT  Bb        113/480
+BA   15   CR         2   TR  5   CH  5   NT  F'        113/480
+BA   15   CR     2+1/4   TR  5   CH  5   NT  Db'       113/480
+BA   15   CR     2+1/2   TR  5   CH  5   NT  A         113/480
+BA   15   CR     2+3/4   TR  5   CH  5   NT  E'        113/480
+BA   15   CR         3   TR  5   CH  5   NT  C'        113/480
+BA   15   CR     3+1/4   TR  5   CH  5   NT  Ab        113/480
+BA   15   CR     3+1/2   TR  5   CH  5   NT  Eb'       113/480
+BA   15   CR     3+3/4   TR  5   CH  5   NT  B         113/480
+
+BA   16   CR         0   TR  5   CH  5   NT  G         113/480
+BA   16   CR       1/4   TR  5   CH  5   NT  D'        113/480
+BA   16   CR       1/2   TR  5   CH  5   NT  Bb        113/480
+BA   16   CR       3/4   TR  5   CH  5   NT  F#        113/480
+BA   16   CR         1   TR  5   CH  5   NT  Db'       473/480
+BA   16   CR 1+473/480   TR  5   CH 16   End of track
+BA   16   CR         3   TR  3   CH  3   NT  Ab        473/480
+BA   16   CR         3   TR  3   CH  3   NT  F'        473/480
+BA   16   CR         3   TR  3   CH  3   NT  B'        473/480
+BA   16   CR         3   TR  3   CH  3   NT  Eb''      473/480
+
+BA   17   CR         0   TR  3   CH  3   NT  F-        473/480
+BA   17   CR         2   TR  3   CH  3   NT  Db-       473/480
+BA   17   CR         3   TR  3   CH  3   NT  F--       473/480
+BA   17   CR 3+473/480   TR  3   CH 16   End of track

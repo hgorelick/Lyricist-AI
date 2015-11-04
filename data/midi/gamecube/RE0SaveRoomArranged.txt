@@ -1,0 +1,317 @@
+
+BA    1   CR         0   TR  0   CH 16   Tempo 100
+BA    1   CR         0   TR  0   CH 16   Tempo 100
+BA    1   CR         0   TR  0   CH 16   Tempo 100
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "MIDI out #3"
+BA    1   CR         0   TR  1   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  1   CH  3   Channel volume 90
+BA    1   CR         0   TR  1   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  1   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  1   CH  3   ST &B2 &64 &00
+BA    1   CR         0   TR  1   CH  3   ST &B2 &06 &0C
+BA    1   CR         0   TR  1   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  1   CH  3   Channel volume 90
+BA    1   CR         0   TR  1   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  1   CH  3   Instrument 1
+BA    1   CR         0   TR  1   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  1   CH  3   Channel volume 90
+BA    1   CR         0   TR  1   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  1   CH  3   Instrument 1
+BA    1   CR         0   TR  1   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  1   CH  3   Channel volume 90
+BA    1   CR         0   TR  1   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  1   CH  3   Instrument 1
+BA    1   CR         0   TR  1   CH  3   NT  Eb-       3+31/32   von=97   voff=97
+BA    1   CR         0   TR  2   CH 16   Text type 3: "MIDI out #2"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &06 &0C
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   Instrument 47
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   Instrument 47
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   Instrument 47
+BA    1   CR         0   TR  2   CH  2   NT  Eb-       3+31/32   von=97   voff=97
+BA    1   CR         0   TR  3   CH 16   Text type 3: "MIDI out"
+BA    1   CR         0   TR  3   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  3   CH  1   Channel volume 51
+BA    1   CR         0   TR  3   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  3   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  3   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  3   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  3   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  3   CH  1   Channel volume 51
+BA    1   CR         0   TR  3   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  3   CH  1   Instrument 49
+BA    1   CR         0   TR  3   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  3   CH  1   Channel volume 51
+BA    1   CR         0   TR  3   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  3   CH  1   Instrument 49
+BA    1   CR         0   TR  3   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  3   CH  1   Channel volume 51
+BA    1   CR         0   TR  3   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  3   CH  1   Instrument 49
+BA    1   CR         0   TR  3   CH  1   NT  C#'       7+31/32   von=97   voff=97
+BA    1   CR         0   TR  3   CH  1   NT  C#        7+31/32   voff=97
+BA    1   CR       1/2   TR  1   CH  3   NT  Bb          31/32   voff=97
+BA    1   CR       1/2   TR  2   CH  2   NT  Bb          31/32   voff=97
+BA    1   CR         1   TR  1   CH  3   NT  B           31/32   voff=97
+BA    1   CR         1   TR  2   CH  2   NT  B           31/32   voff=97
+BA    1   CR     1+1/2   TR  1   CH  3   NT  F#'       2+15/32   voff=97
+BA    1   CR     1+1/2   TR  2   CH  2   NT  F#'       2+15/32   von=96   voff=97
+BA    1   CR         2   TR  2   CH  2   NT  Bb          31/32   von=64
+BA    1   CR     2+1/2   TR  2   CH  2   NT  B           31/32   von=81   voff=81
+BA    1   CR         3   TR  2   CH  2   NT  F#'         31/32   von=97   voff=97
+
+BA    2   CR         0   TR  1   CH  3   NT  F#''      1+31/32   voff=97
+BA    2   CR         0   TR  1   CH  3   NT  F#'       1+31/32   voff=97
+BA    2   CR         2   TR  1   CH  3   NT  C#''      1+31/32   voff=97
+BA    2   CR         2   TR  1   CH  3   NT  C#'       1+31/32   voff=97
+
+BA    3   CR         0   TR  1   CH  3   NT  B--       7+31/32   voff=97
+BA    3   CR         0   TR  2   CH  2   NT  B--       7+31/32   voff=97
+BA    3   CR         0   TR  3   CH  1   NT  B-        7+31/32   voff=97
+BA    3   CR         0   TR  3   CH  1   NT  B         7+31/32   voff=97
+BA    3   CR       1/2   TR  1   CH  3   NT  F           31/32   voff=97
+BA    3   CR       1/2   TR  2   CH  2   NT  F           31/32   voff=97
+BA    3   CR         1   TR  1   CH  3   NT  F#          31/32   voff=97
+BA    3   CR         1   TR  2   CH  2   NT  F#          31/32   voff=97
+BA    3   CR     1+1/2   TR  1   CH  3   NT  C#'       2+15/32   voff=97
+BA    3   CR     1+1/2   TR  2   CH  2   NT  C#'       2+15/32   von=96   voff=98
+BA    3   CR         2   TR  2   CH  2   NT  F           31/32   von=68   voff=68
+BA    3   CR     2+1/2   TR  2   CH  2   NT  F#          31/32   von=79   voff=79
+BA    3   CR         3   TR  2   CH  2   NT  C#'         31/32   von=98   voff=98
+
+BA    4   CR         0   TR  1   CH  3   NT  Bb        1+31/32   voff=97
+BA    4   CR         0   TR  1   CH  3   NT  Bb'       1+31/32   voff=97
+BA    4   CR         2   TR  1   CH  3   NT  B         1+31/32   voff=97
+BA    4   CR         2   TR  1   CH  3   NT  B'        1+31/32   voff=97
+
+BA    5   CR         0   TR  1   CH  3   NT  Eb-       7+31/32   voff=97
+BA    5   CR         0   TR  2   CH  2   NT  Eb-       7+31/32   von=97   voff=97
+BA    5   CR         0   TR  3   CH  1   NT  C#'       7+31/32   voff=97
+BA    5   CR         0   TR  3   CH  1   NT  C#        7+31/32   voff=97
+BA    5   CR       1/2   TR  1   CH  3   NT  Bb          31/32   voff=97
+BA    5   CR       1/2   TR  2   CH  2   NT  Bb          31/32   voff=97
+BA    5   CR         1   TR  1   CH  3   NT  B           31/32   voff=97
+BA    5   CR         1   TR  2   CH  2   NT  B           31/32   voff=97
+BA    5   CR     1+1/2   TR  1   CH  3   NT  F#'       2+15/32   voff=97
+BA    5   CR     1+1/2   TR  2   CH  2   NT  F#'       2+15/32   von=96   voff=97
+BA    5   CR         2   TR  2   CH  2   NT  Bb          31/32   von=64
+BA    5   CR     2+1/2   TR  2   CH  2   NT  B           31/32   von=81   voff=81
+BA    5   CR         3   TR  2   CH  2   NT  F#'         31/32   von=97   voff=97
+
+BA    6   CR         0   TR  1   CH  3   NT  F#''      1+31/32   voff=97
+BA    6   CR         0   TR  1   CH  3   NT  F#'       1+31/32   voff=97
+BA    6   CR         0   TR  2   CH  2   NT  F            7/32   von=33   voff=33
+BA    6   CR       1/2   TR  2   CH  2   NT  F#           7/32   von=32   voff=32
+BA    6   CR         1   TR  2   CH  2   NT  C#'          7/32   voff=32
+BA    6   CR     1+1/2   TR  2   CH  2   NT  F            7/32   voff=32
+BA    6   CR         2   TR  1   CH  3   NT  C#''      1+31/32   voff=97
+BA    6   CR         2   TR  1   CH  3   NT  C#'       1+31/32   voff=97
+BA    6   CR         2   TR  2   CH  2   NT  F#           7/32   von=33   voff=33
+BA    6   CR     2+1/2   TR  2   CH  2   NT  C#'          7/32   voff=33
+BA    6   CR         3   TR  2   CH  2   NT  F            7/32   voff=33
+BA    6   CR     3+1/2   TR  2   CH  2   NT  F#           7/32   voff=33
+
+BA    7   CR         0   TR  1   CH  3   NT  B--       7+31/32   voff=97
+BA    7   CR         0   TR  2   CH  2   NT  C#'          7/32   voff=33
+BA    7   CR         0   TR  2   CH  2   NT  B--       7+31/32   von=97   voff=97
+BA    7   CR         0   TR  3   CH  1   NT  B-        7+31/32   voff=97
+BA    7   CR         0   TR  3   CH  1   NT  B         7+31/32   voff=97
+BA    7   CR       1/2   TR  1   CH  3   NT  F           31/32   voff=97
+BA    7   CR       1/2   TR  2   CH  2   NT  F           31/32   voff=97
+BA    7   CR         1   TR  1   CH  3   NT  F#          31/32   voff=97
+BA    7   CR         1   TR  2   CH  2   NT  F#          31/32   voff=97
+BA    7   CR     1+1/2   TR  1   CH  3   NT  C#'       2+15/32   voff=97
+BA    7   CR     1+1/2   TR  2   CH  2   NT  C#'       2+15/32   von=96   voff=98
+BA    7   CR         2   TR  2   CH  2   NT  F           31/32   von=68   voff=68
+BA    7   CR     2+1/2   TR  2   CH  2   NT  F#          31/32   von=79   voff=79
+BA    7   CR         3   TR  2   CH  2   NT  C#'         31/32   von=98   voff=98
+
+BA    8   CR         0   TR  1   CH  3   NT  Bb        1+31/32   voff=97
+BA    8   CR         0   TR  1   CH  3   NT  Bb'       1+31/32   voff=97
+BA    8   CR         2   TR  1   CH  3   NT  B         1+31/32   voff=97
+BA    8   CR         2   TR  1   CH  3   NT  B'        1+31/32   voff=97
+
+BA    9   CR         0   TR  1   CH  3   NT  Eb-       7+31/32   voff=97
+BA    9   CR         0   TR  2   CH  2   NT  Eb-       7+31/32   von=97   voff=97
+BA    9   CR         0   TR  3   CH  1   NT  C#        7+31/32   voff=97
+BA    9   CR         0   TR  3   CH  1   NT  C#'       7+31/32   voff=97
+BA    9   CR       1/2   TR  1   CH  3   NT  Bb          31/32   voff=97
+BA    9   CR       1/2   TR  2   CH  2   NT  Bb          31/32   voff=97
+BA    9   CR         1   TR  1   CH  3   NT  B           31/32   voff=97
+BA    9   CR         1   TR  2   CH  2   NT  B           31/32   voff=97
+BA    9   CR     1+1/2   TR  1   CH  3   NT  F#'       2+15/32   voff=97
+BA    9   CR     1+1/2   TR  2   CH  2   NT  F#'       2+15/32   von=96   voff=97
+BA    9   CR         2   TR  2   CH  2   NT  Bb          31/32   von=64
+BA    9   CR         2   TR  2   CH  2   NT  F''         31/32   von=81   voff=81
+BA    9   CR     2+1/2   TR  2   CH  2   NT  B           31/32   voff=81
+BA    9   CR         3   TR  2   CH  2   NT  F#'         31/32   von=97   voff=97
+
+BA   10   CR         0   TR  1   CH  3   NT  F#'       1+31/32   voff=97
+BA   10   CR         0   TR  2   CH  2   NT  F            7/32   von=33   voff=33
+BA   10   CR         0   TR  2   CH  2   NT  C#''        31/32   von=81   voff=81
+BA   10   CR       1/2   TR  2   CH  2   NT  F#           7/32   von=32   voff=32
+BA   10   CR         1   TR  2   CH  2   NT  C#'          7/32   voff=32
+BA   10   CR     1+1/2   TR  2   CH  2   NT  F            7/32   voff=32
+BA   10   CR         2   TR  1   CH  3   NT  C#'       1+31/32   voff=97
+BA   10   CR         2   TR  2   CH  2   NT  F#           7/32   von=33   voff=33
+BA   10   CR         2   TR  2   CH  2   NT  Bb'         31/32   von=81   voff=81
+BA   10   CR     2+1/2   TR  2   CH  2   NT  C#'          7/32   von=33   voff=33
+BA   10   CR         3   TR  2   CH  2   NT  F            7/32   voff=33
+BA   10   CR     3+1/2   TR  2   CH  2   NT  F#           7/32   voff=33
+
+BA   11   CR         0   TR  1   CH  3   NT  B--       7+31/32   voff=97
+BA   11   CR         0   TR  2   CH  2   NT  B--       7+31/32   von=97   voff=97
+BA   11   CR         0   TR  2   CH  2   NT  C#'          7/32   von=33   voff=33
+BA   11   CR         0   TR  3   CH  1   NT  B         7+31/32   voff=97
+BA   11   CR         0   TR  3   CH  1   NT  B-        7+31/32   voff=97
+BA   11   CR       1/2   TR  1   CH  3   NT  F           31/32   voff=97
+BA   11   CR       1/2   TR  2   CH  2   NT  F           31/32   von=97   voff=97
+BA   11   CR         1   TR  1   CH  3   NT  F#          31/32   voff=97
+BA   11   CR         1   TR  2   CH  2   NT  F#          31/32   voff=97
+BA   11   CR     1+1/2   TR  1   CH  3   NT  C#'       2+15/32   voff=97
+BA   11   CR     1+1/2   TR  2   CH  2   NT  C#'       2+15/32   von=96   voff=98
+BA   11   CR         2   TR  2   CH  2   NT  F           31/32   von=68   voff=68
+BA   11   CR     2+1/2   TR  2   CH  2   NT  F#          31/32   von=79   voff=79
+BA   11   CR         3   TR  2   CH  2   NT  C#'         31/32   von=98   voff=98
+
+BA   12   CR         0   TR  1   CH  3   NT  Bb'       1+31/32   voff=97
+BA   12   CR         0   TR  1   CH  3   NT  Bb        1+31/32   voff=97
+BA   12   CR         2   TR  1   CH  3   NT  B'        1+31/32   voff=97
+BA   12   CR         2   TR  1   CH  3   NT  B         1+31/32   voff=97
+
+BA   13   CR         0   TR  1   CH  3   NT  Eb-       7+31/32   voff=97
+BA   13   CR         0   TR  2   CH  2   NT  Eb-       7+31/32   von=97   voff=97
+BA   13   CR         0   TR  3   CH  1   NT  C#'       7+31/32   voff=97
+BA   13   CR         0   TR  3   CH  1   NT  C#        7+31/32   voff=97
+BA   13   CR       1/2   TR  1   CH  3   NT  Bb          31/32   voff=97
+BA   13   CR       1/2   TR  2   CH  2   NT  Bb          31/32   voff=97
+BA   13   CR         1   TR  1   CH  3   NT  B           31/32   voff=97
+BA   13   CR         1   TR  2   CH  2   NT  B           31/32   voff=97
+BA   13   CR     1+1/2   TR  1   CH  3   NT  F#'       2+15/32   voff=97
+BA   13   CR     1+1/2   TR  2   CH  2   NT  F#'       2+15/32   von=96   voff=97
+BA   13   CR         2   TR  2   CH  2   NT  Bb          31/32   von=64
+BA   13   CR     2+1/2   TR  2   CH  2   NT  B           31/32   von=81   voff=81
+BA   13   CR         3   TR  2   CH  2   NT  F#'         31/32   von=97   voff=97
+
+BA   14   CR         0   TR  1   CH  3   NT  F#''      1+31/32   voff=97
+BA   14   CR         0   TR  1   CH  3   NT  F#'       1+31/32   voff=97
+BA   14   CR         0   TR  2   CH  2   NT  F            7/32   von=33   voff=33
+BA   14   CR       1/2   TR  2   CH  2   NT  F#           7/32   von=32   voff=32
+BA   14   CR         1   TR  2   CH  2   NT  C#'          7/32   voff=32
+BA   14   CR     1+1/2   TR  2   CH  2   NT  F            7/32   voff=32
+BA   14   CR         2   TR  1   CH  3   NT  C#''      1+31/32   voff=97
+BA   14   CR         2   TR  1   CH  3   NT  C#'       1+31/32   voff=97
+BA   14   CR         2   TR  2   CH  2   NT  F#           7/32   von=33   voff=33
+BA   14   CR     2+1/2   TR  2   CH  2   NT  C#'          7/32   voff=33
+BA   14   CR         3   TR  2   CH  2   NT  F            7/32   voff=33
+BA   14   CR     3+1/2   TR  2   CH  2   NT  F#           7/32   voff=33
+
+BA   15   CR         0   TR  1   CH  3   NT  B--       7+31/32   voff=97
+BA   15   CR         0   TR  2   CH  2   NT  C#'          7/32   voff=33
+BA   15   CR         0   TR  2   CH  2   NT  B--       7+31/32   von=97   voff=97
+BA   15   CR         0   TR  3   CH  1   NT  B-        7+31/32   voff=97
+BA   15   CR         0   TR  3   CH  1   NT  B         7+31/32   voff=97
+BA   15   CR       1/2   TR  1   CH  3   NT  F           31/32   voff=97
+BA   15   CR       1/2   TR  2   CH  2   NT  F           31/32   voff=97
+BA   15   CR         1   TR  1   CH  3   NT  F#          31/32   voff=97
+BA   15   CR         1   TR  2   CH  2   NT  F#          31/32   voff=97
+BA   15   CR     1+1/2   TR  1   CH  3   NT  C#'       2+15/32   voff=97
+BA   15   CR     1+1/2   TR  2   CH  2   NT  C#'       2+15/32   von=96   voff=98
+BA   15   CR         2   TR  2   CH  2   NT  F           31/32   von=68   voff=68
+BA   15   CR     2+1/2   TR  2   CH  2   NT  F#          31/32   von=79   voff=79
+BA   15   CR         3   TR  2   CH  2   NT  C#'         31/32   von=98   voff=98
+
+BA   16   CR         0   TR  1   CH  3   NT  Bb        1+31/32   voff=97
+BA   16   CR         0   TR  1   CH  3   NT  Bb'       1+31/32   voff=97
+BA   16   CR         2   TR  1   CH  3   NT  B         1+31/32   voff=97
+BA   16   CR         2   TR  1   CH  3   NT  B'        1+31/32   voff=97
+
+BA   17   CR         0   TR  1   CH  3   NT  Eb-       7+31/32   voff=97
+BA   17   CR         0   TR  2   CH  2   NT  Eb-       7+31/32   von=97   voff=97
+BA   17   CR         0   TR  3   CH  1   NT  C#        7+31/32   voff=97
+BA   17   CR         0   TR  3   CH  1   NT  C#'       7+31/32   voff=97
+BA   17   CR       1/2   TR  1   CH  3   NT  Bb          31/32   voff=97
+BA   17   CR       1/2   TR  2   CH  2   NT  Bb          31/32   voff=97
+BA   17   CR         1   TR  1   CH  3   NT  B           31/32   voff=97
+BA   17   CR         1   TR  2   CH  2   NT  B           31/32   voff=97
+BA   17   CR     1+1/2   TR  1   CH  3   NT  F#'       2+15/32   voff=97
+BA   17   CR     1+1/2   TR  2   CH  2   NT  F#'       2+15/32   von=96   voff=97
+BA   17   CR         2   TR  2   CH  2   NT  Bb          31/32   von=64
+BA   17   CR         2   TR  2   CH  2   NT  F''         31/32   von=81   voff=81
+BA   17   CR     2+1/2   TR  2   CH  2   NT  B           31/32   voff=81
+BA   17   CR         3   TR  2   CH  2   NT  F#'         31/32   von=97   voff=97
+
+BA   18   CR         0   TR  1   CH  3   NT  F#'       1+31/32   voff=97
+BA   18   CR         0   TR  2   CH  2   NT  F            7/32   von=33   voff=33
+BA   18   CR         0   TR  2   CH  2   NT  C#''        31/32   von=81   voff=81
+BA   18   CR       1/2   TR  2   CH  2   NT  F#           7/32   von=32   voff=32
+BA   18   CR         1   TR  2   CH  2   NT  C#'          7/32   voff=32
+BA   18   CR     1+1/2   TR  2   CH  2   NT  F            7/32   voff=32
+BA   18   CR         2   TR  1   CH  3   NT  C#'       1+31/32   voff=97
+BA   18   CR         2   TR  2   CH  2   NT  F#           7/32   von=33   voff=33
+BA   18   CR         2   TR  2   CH  2   NT  Bb'         31/32   von=81   voff=81
+BA   18   CR     2+1/2   TR  2   CH  2   NT  C#'          7/32   von=33   voff=33
+BA   18   CR         3   TR  2   CH  2   NT  F            7/32   voff=33
+BA   18   CR     3+1/2   TR  2   CH  2   NT  F#           7/32   voff=33
+
+BA   19   CR         0   TR  1   CH  3   NT  B--       7+31/32   voff=97
+BA   19   CR         0   TR  2   CH  2   NT  B--       7+31/32   von=97   voff=97
+BA   19   CR         0   TR  2   CH  2   NT  C#'          7/32   von=33   voff=33
+BA   19   CR         0   TR  3   CH  1   NT  B         7+31/32   voff=97
+BA   19   CR         0   TR  3   CH  1   NT  B-        7+31/32   voff=97
+BA   19   CR       1/2   TR  1   CH  3   NT  F           31/32   voff=97
+BA   19   CR       1/2   TR  2   CH  2   NT  F           31/32   von=97   voff=97
+BA   19   CR         1   TR  1   CH  3   NT  F#          31/32   voff=97
+BA   19   CR         1   TR  2   CH  2   NT  F#          31/32   voff=97
+BA   19   CR     1+1/2   TR  1   CH  3   NT  C#'       2+15/32   voff=97
+BA   19   CR     1+1/2   TR  2   CH  2   NT  C#'       2+15/32   von=96   voff=98
+BA   19   CR         2   TR  2   CH  2   NT  F           31/32   von=68   voff=68
+BA   19   CR     2+1/2   TR  2   CH  2   NT  F#          31/32   von=79   voff=79
+BA   19   CR         3   TR  2   CH  2   NT  C#'         31/32   von=98   voff=98
+
+BA   20   CR         0   TR  1   CH  3   NT  Bb        1+31/32   voff=97
+BA   20   CR         0   TR  1   CH  3   NT  Bb'       1+31/32   voff=97
+BA   20   CR         2   TR  1   CH  3   NT  B'        1+31/32   voff=97
+BA   20   CR         2   TR  1   CH  3   NT  B         1+31/32   voff=97
+
+BA   21   CR         0   TR  1   CH  3   ST &B2 &79 &00
+BA   21   CR         0   TR  1   CH  3   ST &B2 &65 &00
+BA   21   CR         0   TR  1   CH  3   ST &B2 &64 &00
+BA   21   CR         0   TR  1   CH  3   ST &B2 &06 &0C
+BA   21   CR         0   TR  1   CH  3   ST &B2 &0A &40
+BA   21   CR         0   TR  1   CH  3   Channel volume 90
+BA   21   CR         0   TR  1   CH  3   ST &E2 &00 &40
+BA   21   CR         0   TR  1   CH  3   Instrument 1
+BA   21   CR         0   TR  1   CH 16   End of track
+BA   21   CR         0   TR  2   CH  2   ST &B1 &79 &00
+BA   21   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA   21   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA   21   CR         0   TR  2   CH  2   ST &B1 &06 &0C
+BA   21   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA   21   CR         0   TR  2   CH  2   Channel volume 100
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   Instrument 47
+BA   21   CR         0   TR  2   CH 16   End of track
+BA   21   CR         0   TR  3   CH  1   ST &B0 &79 &00
+BA   21   CR         0   TR  3   CH  1   ST &B0 &65 &00
+BA   21   CR         0   TR  3   CH  1   ST &B0 &64 &00
+BA   21   CR         0   TR  3   CH  1   ST &B0 &06 &0C
+BA   21   CR         0   TR  3   CH  1   ST &B0 &0A &40
+BA   21   CR         0   TR  3   CH  1   Channel volume 51
+BA   21   CR         0   TR  3   CH  1   ST &E0 &00 &40
+BA   21   CR         0   TR  3   CH  1   Instrument 49
+BA   21   CR         0   TR  3   CH 16   End of track

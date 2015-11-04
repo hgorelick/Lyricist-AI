@@ -1,0 +1,143 @@
+
+BA    1   CR         0   TR  0   CH 16   Text type 3: "untitled"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Michael Foster\n"
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 119
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Woodblock"
+BA    1   CR         0   TR  1   CH  1   Instrument 116
+BA    1   CR         0   TR  1   CH  1   Channel volume 101
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5B &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5D &00
+BA    1   CR         0   TR  1   CH  1   NT  D''             1   von=100
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Sax"
+BA    1   CR         0   TR  2   CH  2   Instrument 72
+BA    1   CR         0   TR  2   CH  2   Channel volume 127
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Flute"
+BA    1   CR         0   TR  3   CH  3   Instrument 74
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Cuica"
+BA    1   CR         0   TR  4   CH 10   Instrument 1
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Maraca"
+BA    1   CR         0   TR  5   CH 10   Instrument 1
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Created by:"
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Mike Foster"
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR         2   TR  1   CH  1   NT  D'              1
+BA    1   CR     3+1/2   TR  5   CH 10   NT  Bb            1/2   von=100
+
+BA    2   CR         0   TR  0   CH 16   Time signature 2/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    2   CR         0   TR  5   CH 10   NT  Bb            1/2
+
+BA    3   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    3   CR         0   TR  1   CH  1   NT  D'              1
+BA    3   CR         0   TR  2   CH  2   NT  E-            1/4   von=100
+BA    3   CR       1/2   TR  2   CH  2   NT  B--           1/4
+BA    3   CR         1   TR  2   CH  2   NT  Bb--          1/4
+BA    3   CR         2   TR  1   CH  1   NT  D''             1
+BA    3   CR         3   TR  2   CH  2   NT  Bb--          1/2
+BA    3   CR     3+1/2   TR  2   CH  2   NT  B--           1/2
+BA    3   CR     3+1/2   TR  5   CH 10   NT  Bb            1/2
+
+BA    4   CR         0   TR  2   CH  2   NT  E-            1/4
+BA    4   CR         0   TR  5   CH 10   NT  Bb            1/2
+BA    4   CR       1/2   TR  2   CH  2   NT  B--           1/4
+BA    4   CR         1   TR  2   CH  2   NT  Bb--          1/4
+BA    4   CR         2   TR  1   CH  1   NT  D''             1
+
+BA    5   CR         0   TR  1   CH  1   NT  D'              1
+BA    5   CR         2   TR  1   CH  1   NT  D''             1
+BA    5   CR         2   TR  2   CH  2   NT  E-            1/4
+BA    5   CR     2+1/2   TR  2   CH  2   NT  B--           1/4
+BA    5   CR         3   TR  2   CH  2   NT  Bb--          1/4
+BA    5   CR     3+1/2   TR  5   CH 10   NT  Bb            1/2
+
+BA    6   CR         0   TR  5   CH 10   NT  Bb            1/2
+BA    6   CR         1   TR  1   CH  1   NT  D'              1
+BA    6   CR         2   TR  4   CH 10   NT  F#'             1   von=100
+
+BA    7   CR         0   TR  1   CH  1   NT  D'              1
+BA    7   CR         0   TR  2   CH  2   NT  F#--          1/2
+BA    7   CR       1/2   TR  2   CH  2   NT  G--           1/4
+BA    7   CR         2   TR  1   CH  1   NT  D''             1
+BA    7   CR     3+1/2   TR  5   CH 10   NT  Bb            1/2
+
+BA    8   CR         0   TR  5   CH 10   NT  Bb            1/2
+BA    8   CR         1   TR  1   CH  1   NT  D'              1
+BA    8   CR         2   TR  1   CH  1   NT  D''             1
+
+BA    9   CR         0   TR  1   CH  1   NT  D'              1
+BA    9   CR         2   TR  1   CH  1   NT  D''             1
+BA    9   CR         2   TR  3   CH  3   NT  A             5/6   von=45
+BA    9   CR         2   TR  3   CH  3   NT  Bb            5/6   von=100
+BA    9   CR     3+1/2   TR  5   CH 10   NT  Bb            1/2
+
+BA   10   CR         0   TR  5   CH 10   NT  Bb            1/2
+BA   10   CR         2   TR  4   CH 10   NT  F#'             1
+
+BA   11   CR         0   TR  0   CH 16   Tempo 119
+BA   11   CR         0   TR  1   CH  1   NT  D''             1
+BA   11   CR         2   TR  1   CH  1   NT  D'              1
+BA   11   CR   3+13/24   TR  5   CH 10   NT  Bb            1/2
+
+BA   12   CR         0   TR  0   CH 16   Time signature 2/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   12   CR      1/24   TR  5   CH 10   NT  Bb            1/2
+
+BA   13   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   13   CR         0   TR  0   CH 16   End of track
+BA   13   CR         0   TR  1   CH  1   NT  D'              1
+BA   13   CR         0   TR  2   CH  2   NT  E-            1/4
+BA   13   CR       1/2   TR  2   CH  2   NT  B--           1/4
+BA   13   CR         1   TR  2   CH  2   NT  Bb--          1/4
+BA   13   CR         2   TR  1   CH  1   NT  D''             1
+BA   13   CR         3   TR  2   CH  2   NT  Bb--          1/2
+BA   13   CR     3+1/2   TR  2   CH  2   NT  B--           1/2
+BA   13   CR   3+13/24   TR  5   CH 10   NT  Bb            1/2
+
+BA   14   CR         0   TR  2   CH  2   NT  E-            1/4
+BA   14   CR      1/24   TR  5   CH 10   NT  Bb            1/2
+BA   14   CR       1/2   TR  2   CH  2   NT  B--           1/4
+BA   14   CR         1   TR  2   CH  2   NT  Bb--          1/4
+BA   14   CR         2   TR  1   CH  1   NT  D''             1
+
+BA   15   CR         0   TR  1   CH  1   NT  D'              1
+BA   15   CR         2   TR  1   CH  1   NT  D''             1
+BA   15   CR         2   TR  2   CH  2   NT  E-            1/4
+BA   15   CR     2+1/2   TR  2   CH  2   NT  B--           1/4
+BA   15   CR         3   TR  2   CH  2   NT  Bb--          1/4
+BA   15   CR   3+13/24   TR  5   CH 10   NT  Bb            1/2
+
+BA   16   CR      1/24   TR  5   CH 10   NT  Bb            1/2
+BA   16   CR         1   TR  1   CH  1   NT  D'              1
+BA   16   CR         2   TR  4   CH 10   NT  F#'             1
+
+BA   17   CR         0   TR  1   CH  1   NT  D'              1
+BA   17   CR         0   TR  2   CH  2   NT  F#--          1/2
+BA   17   CR       1/2   TR  2   CH  2   NT  G--           1/4
+BA   17   CR       3/4   TR  2   CH 16   End of track
+BA   17   CR         2   TR  1   CH  1   NT  D''             1
+BA   17   CR   3+13/24   TR  5   CH 10   NT  Bb            1/2
+
+BA   18   CR      1/24   TR  5   CH 10   NT  Bb            1/2
+BA   18   CR         1   TR  1   CH  1   NT  D'              1
+BA   18   CR         2   TR  1   CH  1   NT  D''             1
+
+BA   19   CR         0   TR  1   CH  1   NT  D'              1
+BA   19   CR         0   TR  3   CH  3   NT  A             5/6   von=45
+BA   19   CR         0   TR  3   CH  3   NT  Bb            5/6   von=100
+BA   19   CR       5/6   TR  3   CH 16   End of track
+BA   19   CR         2   TR  1   CH  1   NT  D''             1
+BA   19   CR         3   TR  1   CH 16   End of track
+BA   19   CR   3+13/24   TR  5   CH 10   NT  Bb            1/2
+
+BA   20   CR      1/24   TR  5   CH 10   NT  Bb            1/2
+BA   20   CR     13/24   TR  5   CH 16   End of track
+BA   20   CR         2   TR  4   CH 10   NT  F#'             1
+BA   20   CR         3   TR  4   CH 16   End of track

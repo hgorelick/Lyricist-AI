@@ -1,0 +1,138 @@
+
+BA    1   CR         0   TR  0   CH 16   Tempo 100
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  1   CH 16   Text type 3: "GetItemJingle"
+BA    1   CR         0   TR  1   CH  1   Instrument 49
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   NT  F             1/2   von=100
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Metroid Prime"
+BA    1   CR         0   TR  2   CH  2   Instrument 59
+BA    1   CR         0   TR  2   CH  2   Channel volume 80
+BA    1   CR         0   TR  2   CH  2   NT  Bb--            2   von=100
+BA    1   CR         0   TR  2   CH  2   NT  Bb---           2
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Sequenced by:"
+BA    1   CR         0   TR  3   CH  3   Instrument 41
+BA    1   CR         0   TR  3   CH  3   Channel volume 80
+BA    1   CR         0   TR  3   CH  3   NT  Bb--            2   von=100
+BA    1   CR         0   TR  3   CH  3   NT  Bb---           2
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Tyler Prevost"
+BA    1   CR         0   TR  4   CH  4   Instrument 53
+BA    1   CR         0   TR  4   CH  4   Channel volume 80
+BA    1   CR         0   TR  4   CH  4   NT  D'              2   von=70
+BA    1   CR         0   TR  4   CH  4   NT  Bb-             2   von=100
+BA    1   CR         0   TR  4   CH  4   NT  F               2
+BA    1   CR         0   TR  4   CH  4   NT  D               2
+BA    1   CR         0   TR  4   CH  4   NT  F-              2
+BA    1   CR       1/2   TR  1   CH  1   NT  Bb            1/2
+BA    1   CR         1   TR  1   CH  1   NT  C'            1/2
+BA    1   CR     1+1/2   TR  1   CH  1   NT  D'            1/2
+BA    1   CR         2   TR  1   CH  1   NT  E'            1/2
+BA    1   CR         2   TR  2   CH  2   NT  A--             2
+BA    1   CR         2   TR  2   CH  2   NT  A---            2
+BA    1   CR         2   TR  3   CH  3   NT  A--             2
+BA    1   CR         2   TR  3   CH  3   NT  A---            2
+BA    1   CR         2   TR  4   CH  4   NT  C'              2   von=70
+BA    1   CR         2   TR  4   CH  4   NT  E               2   von=100
+BA    1   CR         2   TR  4   CH  4   NT  C               2
+BA    1   CR         2   TR  4   CH  4   NT  G-      1+191/192
+BA    1   CR         2   TR  4   CH  4   NT  E-              2
+BA    1   CR     2+1/2   TR  1   CH  1   NT  C'            1/2
+BA    1   CR         3   TR  1   CH  1   NT  G             1/2
+BA    1   CR     3+1/2   TR  1   CH  1   NT  C'            1/2
+
+BA    2   CR         0   TR  1   CH  1   NT  F'            1/2
+BA    2   CR         0   TR  2   CH  2   NT  G--             2
+BA    2   CR         0   TR  2   CH  2   NT  G---            2
+BA    2   CR         0   TR  3   CH  3   NT  G--             2
+BA    2   CR         0   TR  3   CH  3   NT  G---            2
+BA    2   CR         0   TR  4   CH  4   NT  D       1+191/192
+BA    2   CR         0   TR  4   CH  4   NT  G               2
+BA    2   CR         0   TR  4   CH  4   NT  G'              2   von=70
+BA    2   CR         0   TR  4   CH  4   NT  G-              2   von=100
+BA    2   CR         0   TR  4   CH  4   NT  Bb-             2
+BA    2   CR       1/2   TR  1   CH  1   NT  D'            1/2
+BA    2   CR         1   TR  0   CH 16   Tempo 70.0001
+BA    2   CR         1   TR  1   CH  1   NT  Bb            1/2
+BA    2   CR     1+1/2   TR  1   CH  1   NT  G             1/2
+BA    2   CR         2   TR  0   CH 16   Tempo 40
+BA    2   CR         2   TR  1   CH  1   NT  A               2
+BA    2   CR         2   TR  2   CH  2   NT  D--             2
+BA    2   CR         2   TR  2   CH  2   NT  D---            2
+BA    2   CR         2   TR  3   CH  3   NT  D--             2
+BA    2   CR         2   TR  3   CH  3   NT  D---            2
+BA    2   CR         2   TR  4   CH  4   NT  D               2
+BA    2   CR         2   TR  4   CH  4   NT  A               2
+BA    2   CR         2   TR  4   CH  4   NT  A'              2   von=60
+BA    2   CR         2   TR  4   CH  4   NT  F#              2   von=100
+BA    2   CR         2   TR  4   CH  4   NT  A-              2
+BA    2   CR     3+1/2   TR  1   CH  1   Channel volume 100
+BA    2   CR     3+1/2   TR  2   CH  2   Channel volume 80
+BA    2   CR     3+1/2   TR  3   CH  3   Channel volume 80
+BA    2   CR     3+1/2   TR  4   CH  4   Channel volume 80
+BA    2   CR   3+25/48   TR  1   CH  1   Channel volume 96
+BA    2   CR   3+25/48   TR  2   CH  2   Channel volume 76
+BA    2   CR   3+25/48   TR  3   CH  3   Channel volume 76
+BA    2   CR   3+25/48   TR  4   CH  4   Channel volume 76
+BA    2   CR   3+13/24   TR  1   CH  1   Channel volume 92
+BA    2   CR   3+13/24   TR  2   CH  2   Channel volume 72
+BA    2   CR   3+13/24   TR  3   CH  3   Channel volume 72
+BA    2   CR   3+13/24   TR  4   CH  4   Channel volume 72
+BA    2   CR    3+9/16   TR  1   CH  1   Channel volume 88
+BA    2   CR    3+9/16   TR  2   CH  2   Channel volume 68
+BA    2   CR    3+9/16   TR  3   CH  3   Channel volume 68
+BA    2   CR    3+9/16   TR  4   CH  4   Channel volume 68
+BA    2   CR    3+7/12   TR  1   CH  1   Channel volume 84
+BA    2   CR    3+7/12   TR  2   CH  2   Channel volume 64
+BA    2   CR    3+7/12   TR  3   CH  3   Channel volume 64
+BA    2   CR    3+7/12   TR  4   CH  4   Channel volume 64
+BA    2   CR   3+29/48   TR  1   CH  1   Channel volume 80
+BA    2   CR   3+29/48   TR  2   CH  2   Channel volume 60
+BA    2   CR   3+29/48   TR  3   CH  3   Channel volume 60
+BA    2   CR   3+29/48   TR  4   CH  4   Channel volume 60
+BA    2   CR     3+5/8   TR  1   CH  1   Channel volume 76
+BA    2   CR     3+5/8   TR  2   CH  2   Channel volume 56
+BA    2   CR     3+5/8   TR  3   CH  3   Channel volume 56
+BA    2   CR     3+5/8   TR  4   CH  4   Channel volume 56
+BA    2   CR   3+31/48   TR  1   CH  1   Channel volume 72
+BA    2   CR   3+31/48   TR  2   CH  2   Channel volume 52
+BA    2   CR   3+31/48   TR  3   CH  3   Channel volume 52
+BA    2   CR   3+31/48   TR  4   CH  4   Channel volume 52
+BA    2   CR     3+2/3   TR  1   CH  1   Channel volume 68
+BA    2   CR     3+2/3   TR  2   CH  2   Channel volume 48
+BA    2   CR     3+2/3   TR  3   CH  3   Channel volume 48
+BA    2   CR     3+2/3   TR  4   CH  4   Channel volume 48
+BA    2   CR   3+11/16   TR  1   CH  1   Channel volume 64
+BA    2   CR   3+11/16   TR  2   CH  2   Channel volume 44
+BA    2   CR   3+11/16   TR  3   CH  3   Channel volume 44
+BA    2   CR   3+11/16   TR  4   CH  4   Channel volume 44
+BA    2   CR   3+17/24   TR  1   CH  1   Channel volume 60
+BA    2   CR   3+17/24   TR  2   CH  2   Channel volume 40
+BA    2   CR   3+17/24   TR  3   CH  3   Channel volume 40
+BA    2   CR   3+17/24   TR  4   CH  4   Channel volume 40
+BA    2   CR   3+35/48   TR  1   CH  1   Channel volume 56
+BA    2   CR   3+35/48   TR  2   CH  2   Channel volume 36
+BA    2   CR   3+35/48   TR  3   CH  3   Channel volume 36
+BA    2   CR   3+35/48   TR  4   CH  4   Channel volume 36
+BA    2   CR     3+3/4   TR  1   CH  1   Channel volume 52
+BA    2   CR     3+3/4   TR  2   CH  2   Channel volume 32
+BA    2   CR     3+3/4   TR  3   CH  3   Channel volume 32
+BA    2   CR     3+3/4   TR  4   CH  4   Channel volume 32
+BA    2   CR   3+37/48   TR  1   CH  1   Channel volume 48
+BA    2   CR   3+37/48   TR  2   CH  2   Channel volume 28
+BA    2   CR   3+37/48   TR  3   CH  3   Channel volume 28
+BA    2   CR   3+37/48   TR  4   CH  4   Channel volume 28
+BA    2   CR   3+19/24   TR  1   CH  1   Channel volume 44
+BA    2   CR   3+19/24   TR  2   CH  2   Channel volume 24
+BA    2   CR   3+19/24   TR  3   CH  3   Channel volume 24
+BA    2   CR   3+19/24   TR  4   CH  4   Channel volume 24
+BA    2   CR   3+13/16   TR  0   CH 16   Tempo 200
+BA    2   CR   3+13/16   TR  0   CH 16   End of track
+BA    2   CR   3+13/16   TR  1   CH  1   Channel volume 30
+
+BA    3   CR         0   TR  2   CH 16   End of track
+BA    3   CR         0   TR  3   CH 16   End of track
+BA    3   CR         0   TR  4   CH 16   End of track
+BA    3   CR     3+7/8   TR  1   CH  1   NT  C-----        1/8   von=1
+
+BA    4   CR         0   TR  1   CH 16   End of track

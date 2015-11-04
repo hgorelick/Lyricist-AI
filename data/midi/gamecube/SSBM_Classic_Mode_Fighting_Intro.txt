@@ -1,0 +1,31 @@
+
+BA    1   CR         0   TR  0   CH 16   Tempo 100
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "unbenannt1"
+BA    1   CR         0   TR  1   CH  1   Instrument 56
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  1   CH  1   NT  G             1/4   von=100   voff=100
+BA    1   CR         0   TR  1   CH  1   NT  Eb'           1/4   voff=100
+BA    1   CR         0   TR  2   CH 16   Text type 3: "unbenannt4"
+BA    1   CR         0   TR  2   CH  2   Instrument 74
+BA    1   CR         0   TR  2   CH  2   Channel volume 127
+BA    1   CR         0   TR  2   CH  2   NT  G             1/8   von=100   voff=100
+BA    1   CR         0   TR  2   CH  2   NT  Eb'           1/8   voff=100
+BA    1   CR         0   TR  3   CH 16   Text type 3: "unbenannt3"
+BA    1   CR         0   TR  3   CH  3   Instrument 48
+BA    1   CR         0   TR  3   CH  3   Channel volume 127
+BA    1   CR         0   TR  4   CH 16   Text type 3: "unbenannt2"
+BA    1   CR         0   TR  4   CH  4   Instrument 128
+BA    1   CR         0   TR  4   CH  4   Channel volume 85
+BA    1   CR       1/4   TR  1   CH  1   NT  Bb          7+3/4   voff=100
+BA    1   CR       1/4   TR  1   CH  1   NT  F'          7+3/4   voff=100
+BA    1   CR       1/4   TR  2   CH  2   NT  Bb            1/8   voff=100
+BA    1   CR       1/4   TR  2   CH  2   NT  F'            1/8   voff=100
+BA    1   CR       3/8   TR  2   CH 16   End of track
+BA    1   CR     1+1/4   TR  3   CH  3   NT  C--         6+3/4   von=100   voff=100
+BA    1   CR     1+1/4   TR  4   CH  4   NT  F-----      6+3/4   von=100   voff=100
+
+BA    3   CR         0   TR  1   CH 16   End of track
+BA    3   CR         0   TR  3   CH 16   End of track
+BA    3   CR         0   TR  4   CH 16   End of track

@@ -1,0 +1,957 @@
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 18 0 0 127 127 0
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Track 0"
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 28 50 48 48 49 46 48 55 46 48 52
+BA    1   CR         0   TR  0   CH 16   Tempo 72
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Thorntail Hollow (Night; Unlit Beacons)"
+BA    1   CR         0   TR  1   CH  1   Instrument 50
+BA    1   CR         0   TR  1   CH  1   Channel volume 74
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  1   CH  1   NT  D               4   von=127
+BA    1   CR         0   TR  1   CH  1   NT  F               4
+BA    1   CR         0   TR  1   CH  1   NT  A-              4
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Star Fox Adventures"
+BA    1   CR         0   TR  2   CH  2   Channel volume 95
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  2   CH  2   Instrument 47
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Sequenced by Stacy Anne Christiansen"
+BA    1   CR         0   TR  3   CH  3   Channel volume 97
+BA    1   CR         0   TR  3   CH  3   Instrument 78
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &2E
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  4   CH 16   Text type 3: "--"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &4A
+BA    1   CR         0   TR  4   CH  4   Channel volume 113
+BA    1   CR         0   TR  4   CH  4   Instrument 61
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   3
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  5   CH 16   Text type 3: "--"
+BA    1   CR         0   TR  5   CH  5   Channel volume 72
+BA    1   CR         0   TR  5   CH  5   Instrument 70
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &2B
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &20   4
+BA    1   CR         0   TR  6   CH 16   Text type 3: "--"
+BA    1   CR         0   TR  6   CH  6   Channel volume 75
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  6   CH  6   Instrument 90
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &20   5
+BA    1   CR         0   TR  7   CH 16   Text type 3: "--"
+BA    1   CR         0   TR  7   CH  7   Channel volume 81
+BA    1   CR         0   TR  7   CH  7   Instrument 89
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  7   CH  7   ST &B6 &0A &26
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &20   6
+BA    1   CR         0   TR  8   CH 16   Text type 3: "--"
+BA    1   CR         0   TR  8   CH  8   Channel volume 81
+BA    1   CR         0   TR  8   CH  8   Instrument 89
+BA    1   CR         0   TR  8   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  8   CH  8   ST &B7 &0A &59
+BA    1   CR         0   TR  8   CH 16   Meta Event   type &20   7
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Track 7"
+BA    1   CR         0   TR  8   CH 16   Meta Event   type &20   6
+BA    1   CR         0   TR  9   CH 16   Text type 3: "--"
+BA    1   CR         0   TR  9   CH  9   Channel volume 72
+BA    1   CR         0   TR  9   CH  9   Instrument 9
+BA    1   CR         0   TR  9   CH 16   Meta Event   type &20   8
+BA    1   CR         0   TR  9   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  9   CH  9   ST &B8 &0A &26
+BA    1   CR         0   TR  9   CH 16   Text type 3: "Track 7"
+BA    1   CR         0   TR  9   CH 16   Meta Event   type &20   6
+BA    1   CR         0   TR 10   CH 16   Text type 3: "--"
+BA    1   CR         0   TR 10   CH 11   Channel volume 72
+BA    1   CR         0   TR 10   CH 11   Instrument 9
+BA    1   CR         0   TR 10   CH 16   Meta Event   type &20   10
+BA    1   CR         0   TR 10   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR 10   CH 11   ST &BA &0A &59
+BA    1   CR         0   TR 10   CH 16   Text type 3: "Track 8"
+BA    1   CR         0   TR 10   CH 16   Meta Event   type &20   7
+BA    1   CR         0   TR 10   CH 16   Text type 3: "Track 7"
+BA    1   CR         0   TR 10   CH 16   Meta Event   type &20   6
+BA    1   CR         0   TR 11   CH 16   Text type 3: "--"
+BA    1   CR         0   TR 11   CH 12   Channel volume 48
+BA    1   CR         0   TR 11   CH 12   ST &BB &0A &34
+BA    1   CR         0   TR 11   CH 12   Instrument 47
+BA    1   CR         0   TR 11   CH 16   Meta Event   type &20   11
+BA    1   CR         0   TR 11   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR 11   CH 16   Text type 3: "Track 2"
+BA    1   CR         0   TR 11   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR 12   CH 16   Text type 3: "--"
+BA    1   CR         0   TR 12   CH 13   Channel volume 53
+BA    1   CR         0   TR 12   CH 13   ST &BC &0A &56
+BA    1   CR         0   TR 12   CH 13   Instrument 78
+BA    1   CR         0   TR 12   CH 16   Meta Event   type &20   12
+BA    1   CR         0   TR 12   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR 12   CH 16   Text type 3: "Track 3"
+BA    1   CR         0   TR 12   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR 13   CH 16   Text type 3: "--"
+BA    1   CR         0   TR 13   CH 15   ST &BE &0A &51
+BA    1   CR         0   TR 13   CH 15   Channel volume 48
+BA    1   CR         0   TR 13   CH 15   Instrument 70
+BA    1   CR         0   TR 13   CH 16   Meta Event   type &20   14
+BA    1   CR         0   TR 13   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR 13   CH 16   Text type 3: "Track 7"
+BA    1   CR         0   TR 13   CH 16   Meta Event   type &20   4
+BA    1   CR         0   TR 14   CH 16   Text type 3: "--"
+BA    1   CR         0   TR 14   CH 16   Channel volume 57
+BA    1   CR         0   TR 14   CH 16   Meta Event   type &7F   5 15 9 0 8
+BA    1   CR         0   TR 14   CH 16   ST &BF &0A &35
+BA    1   CR         0   TR 14   CH 16   Instrument 61
+BA    1   CR         0   TR 14   CH 16   Meta Event   type &20   15
+BA    1   CR         0   TR 14   CH 16   Text type 3: "Track 4"
+BA    1   CR         0   TR 14   CH 16   Meta Event   type &20   3
+BA    1   CR         0   TR 14   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+
+BA    2   CR         0   TR  1   CH  1   NT  D               4
+BA    2   CR         0   TR  1   CH  1   NT  G               4
+BA    2   CR         0   TR  1   CH  1   NT  B-              4
+
+BA    3   CR         0   TR  1   CH  1   NT  D               4
+BA    3   CR         0   TR  1   CH  1   NT  F               4
+BA    3   CR         0   TR  1   CH  1   NT  A-              4
+BA    3   CR         0   TR  2   CH  2   NT  D-            1/2   von=127
+BA    3   CR       1/4   TR 11   CH 12   NT  D-            1/2   von=127
+BA    3   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA    3   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA    3   CR         1   TR  2   CH  2   NT  A-            1/2
+BA    3   CR     1+1/4   TR 11   CH 12   NT  A-            1/2
+BA    3   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA    3   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA    3   CR         2   TR  2   CH  2   NT  F             1/2
+BA    3   CR     2+1/4   TR 11   CH 12   NT  F             1/2
+BA    3   CR     2+1/2   TR  2   CH  2   NT  D             1/2
+BA    3   CR     2+3/4   TR 11   CH 12   NT  D             1/2
+BA    3   CR         3   TR  2   CH  2   NT  A-            1/2
+BA    3   CR     3+1/4   TR 11   CH 12   NT  A-            1/2
+BA    3   CR     3+1/2   TR  2   CH  2   NT  F-            1/2
+BA    3   CR     3+3/4   TR 11   CH 12   NT  F-            1/2
+
+BA    4   CR         0   TR  1   CH  1   NT  D               4
+BA    4   CR         0   TR  1   CH  1   NT  G               4
+BA    4   CR         0   TR  1   CH  1   NT  B-              4
+BA    4   CR         0   TR  2   CH  2   NT  G-            1/2
+BA    4   CR       1/4   TR 11   CH 12   NT  G-            1/2
+BA    4   CR       1/2   TR  2   CH  2   NT  B-            1/2
+BA    4   CR       3/4   TR 11   CH 12   NT  B-            1/2
+BA    4   CR         1   TR  2   CH  2   NT  D             1/2
+BA    4   CR     1+1/4   TR 11   CH 12   NT  D             1/2
+BA    4   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA    4   CR     1+3/4   TR 11   CH 12   NT  G             1/2
+BA    4   CR         2   TR  2   CH  2   NT  B             1/2
+BA    4   CR     2+1/4   TR 11   CH 12   NT  B             1/2
+BA    4   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA    4   CR     2+3/4   TR 11   CH 12   NT  G             1/2
+BA    4   CR         3   TR  2   CH  2   NT  D             1/2
+BA    4   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA    4   CR     3+1/2   TR  2   CH  2   NT  B-            1/2
+BA    4   CR     3+1/2   TR  3   CH  3   NT  A             1/2   von=127
+BA    4   CR     3+3/4   TR 11   CH 12   NT  B-            1/2
+BA    4   CR     3+3/4   TR 12   CH 13   NT  A             1/2   von=127
+
+BA    5   CR         0   TR  1   CH  1   NT  D               4
+BA    5   CR         0   TR  1   CH  1   NT  F               4
+BA    5   CR         0   TR  1   CH  1   NT  A-              4
+BA    5   CR         0   TR  2   CH  2   NT  D-            1/2
+BA    5   CR         0   TR  3   CH  3   NT  D'        107/120
+BA    5   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA    5   CR       1/4   TR 12   CH 13   NT  D'        107/120
+BA    5   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA    5   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA    5   CR         1   TR  2   CH  2   NT  A-            1/2
+BA    5   CR         1   TR  3   CH  3   NT  D'          11/16
+BA    5   CR     1+1/4   TR 11   CH 12   NT  A-            1/2
+BA    5   CR     1+1/4   TR 12   CH 13   NT  D'          11/16
+BA    5   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA    5   CR     1+3/4   TR  3   CH  3   NT  C'            1/4
+BA    5   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA    5   CR         2   TR  2   CH  2   NT  F             1/2
+BA    5   CR         2   TR  3   CH  3   NT  D'            1/4
+BA    5   CR         2   TR 12   CH 13   NT  C'            1/4
+BA    5   CR     2+1/4   TR  3   CH  3   NT  C'            1/4
+BA    5   CR     2+1/4   TR 11   CH 12   NT  F             1/2
+BA    5   CR     2+1/4   TR 12   CH 13   NT  D'            1/4
+BA    5   CR     2+1/2   TR  2   CH  2   NT  D             1/2
+BA    5   CR     2+1/2   TR  3   CH  3   NT  F'          19/40
+BA    5   CR     2+1/2   TR 12   CH 13   NT  C'            1/4
+BA    5   CR     2+3/4   TR 11   CH 12   NT  D             1/2
+BA    5   CR     2+3/4   TR 12   CH 13   NT  F'          19/40
+BA    5   CR         3   TR  2   CH  2   NT  A-            1/2
+BA    5   CR         3   TR  3   CH  3   NT  E'            1/4
+BA    5   CR     3+1/4   TR  3   CH  3   NT  D'            1/4
+BA    5   CR     3+1/4   TR 11   CH 12   NT  A-            1/2
+BA    5   CR     3+1/4   TR 12   CH 13   NT  E'            1/4
+BA    5   CR     3+1/2   TR  2   CH  2   NT  F-            1/2
+BA    5   CR     3+1/2   TR  3   CH  3   NT  C'         59/120
+BA    5   CR     3+1/2   TR 12   CH 13   NT  D'            1/4
+BA    5   CR     3+3/4   TR 11   CH 12   NT  F-            1/2
+BA    5   CR     3+3/4   TR 12   CH 13   NT  C'         59/120
+
+BA    6   CR         0   TR  1   CH  1   NT  D               4
+BA    6   CR         0   TR  1   CH  1   NT  G               4
+BA    6   CR         0   TR  1   CH  1   NT  B-              4
+BA    6   CR         0   TR  2   CH  2   NT  G-            1/2
+BA    6   CR         0   TR  3   CH  3   NT  D'         3+8/15
+BA    6   CR         0   TR  4   CH  4   NT  D         1+19/40   von=127
+BA    6   CR       1/4   TR 11   CH 12   NT  G-            1/2
+BA    6   CR       1/4   TR 12   CH 13   NT  D'         3+8/15
+BA    6   CR       1/4   TR 14   CH 16   NT  D         1+19/40   von=127
+BA    6   CR       1/2   TR  2   CH  2   NT  B-            1/2
+BA    6   CR       3/4   TR 11   CH 12   NT  B-            1/2
+BA    6   CR         1   TR  2   CH  2   NT  D             1/2
+BA    6   CR     1+1/4   TR 11   CH 12   NT  D             1/2
+BA    6   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA    6   CR     1+1/2   TR  4   CH  4   NT  C             1/2
+BA    6   CR     1+3/4   TR 11   CH 12   NT  G             1/2
+BA    6   CR     1+3/4   TR 14   CH 16   NT  C             1/2
+BA    6   CR         2   TR  2   CH  2   NT  B             1/2
+BA    6   CR         2   TR  4   CH  4   NT  B-            1/2
+BA    6   CR     2+1/4   TR 11   CH 12   NT  B             1/2
+BA    6   CR     2+1/4   TR 14   CH 16   NT  B-            1/2
+BA    6   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA    6   CR     2+1/2   TR  4   CH  4   NT  G-       1+59/120
+BA    6   CR     2+3/4   TR 11   CH 12   NT  G             1/2
+BA    6   CR     2+3/4   TR 14   CH 16   NT  G-       1+59/120
+BA    6   CR         3   TR  2   CH  2   NT  D             1/2
+BA    6   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA    6   CR     3+1/2   TR  2   CH  2   NT  B-            1/2
+BA    6   CR     3+1/2   TR  3   CH  3   NT  A             1/2
+BA    6   CR     3+3/4   TR 11   CH 12   NT  B-            1/2
+BA    6   CR     3+3/4   TR 12   CH 13   NT  A             1/2
+
+BA    7   CR         0   TR  1   CH  1   NT  D               4
+BA    7   CR         0   TR  1   CH  1   NT  F               4
+BA    7   CR         0   TR  1   CH  1   NT  A-              4
+BA    7   CR         0   TR  2   CH  2   NT  D-            1/2
+BA    7   CR         0   TR  3   CH  3   NT  D'          47/60
+BA    7   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA    7   CR       1/4   TR 12   CH 13   NT  D'          47/60
+BA    7   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA    7   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA    7   CR         1   TR  2   CH  2   NT  A-            1/2
+BA    7   CR         1   TR  3   CH  3   NT  D'            2/3
+BA    7   CR     1+1/4   TR 11   CH 12   NT  A-            1/2
+BA    7   CR     1+1/4   TR 12   CH 13   NT  D'            2/3
+BA    7   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA    7   CR     1+3/4   TR  3   CH  3   NT  C'            1/4
+BA    7   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA    7   CR         2   TR  2   CH  2   NT  F             1/2
+BA    7   CR         2   TR  3   CH  3   NT  D'            1/4
+BA    7   CR         2   TR 12   CH 13   NT  C'            1/4
+BA    7   CR     2+1/4   TR  3   CH  3   NT  C'            1/4
+BA    7   CR     2+1/4   TR 11   CH 12   NT  F             1/2
+BA    7   CR     2+1/4   TR 12   CH 13   NT  D'            1/4
+BA    7   CR     2+1/2   TR  2   CH  2   NT  D             1/2
+BA    7   CR     2+1/2   TR  3   CH  3   NT  F'            7/8
+BA    7   CR     2+1/2   TR 12   CH 13   NT  C'            1/4
+BA    7   CR     2+3/4   TR 11   CH 12   NT  D             1/2
+BA    7   CR     2+3/4   TR 12   CH 13   NT  F'            7/8
+BA    7   CR         3   TR  2   CH  2   NT  A-            1/2
+BA    7   CR     3+1/4   TR 11   CH 12   NT  A-            1/2
+BA    7   CR     3+1/2   TR  2   CH  2   NT  F-            1/2
+BA    7   CR     3+1/2   TR  3   CH  3   NT  D'            1/4
+BA    7   CR     3+3/4   TR  3   CH  3   NT  F'            1/4
+BA    7   CR     3+3/4   TR 11   CH 12   NT  F-            1/2
+BA    7   CR     3+3/4   TR 12   CH 13   NT  D'            1/4
+
+BA    8   CR         0   TR  1   CH  1   NT  D               4
+BA    8   CR         0   TR  1   CH  1   NT  G               4
+BA    8   CR         0   TR  1   CH  1   NT  B-              4
+BA    8   CR         0   TR  2   CH  2   NT  G-            1/2
+BA    8   CR         0   TR  3   CH  3   NT  G'        1+21/80
+BA    8   CR         0   TR 12   CH 13   NT  F'            1/4
+BA    8   CR       1/4   TR 11   CH 12   NT  G-            1/2
+BA    8   CR       1/4   TR 12   CH 13   NT  G'        1+21/80
+BA    8   CR       1/2   TR  2   CH  2   NT  B-            1/2
+BA    8   CR       1/2   TR  4   CH  4   NT  G-              1
+BA    8   CR       3/4   TR 11   CH 12   NT  B-            1/2
+BA    8   CR       3/4   TR 14   CH 16   NT  G-              1
+BA    8   CR         1   TR  2   CH  2   NT  D             1/2
+BA    8   CR     1+1/4   TR 11   CH 12   NT  D             1/2
+BA    8   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA    8   CR     1+1/2   TR  3   CH  3   NT  F'            1/4
+BA    8   CR     1+1/2   TR  4   CH  4   NT  A-            1/2
+BA    8   CR     1+3/4   TR  3   CH  3   NT  E'            1/4
+BA    8   CR     1+3/4   TR 11   CH 12   NT  G             1/2
+BA    8   CR     1+3/4   TR 12   CH 13   NT  F'            1/4
+BA    8   CR     1+3/4   TR 14   CH 16   NT  A-            1/2
+BA    8   CR         2   TR  2   CH  2   NT  B             1/2
+BA    8   CR         2   TR  3   CH  3   NT  D'       1+41/120
+BA    8   CR         2   TR  4   CH  4   NT  B-              1
+BA    8   CR         2   TR 12   CH 13   NT  E'            1/4
+BA    8   CR     2+1/4   TR 11   CH 12   NT  B             1/2
+BA    8   CR     2+1/4   TR 12   CH 13   NT  D'       1+41/120
+BA    8   CR     2+1/4   TR 14   CH 16   NT  B-              1
+BA    8   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA    8   CR     2+3/4   TR 11   CH 12   NT  G             1/2
+BA    8   CR         3   TR  2   CH  2   NT  D             1/2
+BA    8   CR         3   TR  4   CH  4   NT  C               1
+BA    8   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA    8   CR     3+1/4   TR 14   CH 16   NT  C               1
+BA    8   CR     3+1/2   TR  2   CH  2   NT  B-            1/2
+BA    8   CR     3+3/4   TR 11   CH 12   NT  B-            1/2
+
+BA    9   CR         0   TR  1   CH  1   NT  Bb              4
+BA    9   CR         0   TR  1   CH  1   NT  F               4
+BA    9   CR         0   TR  1   CH  1   NT  D               4
+BA    9   CR         0   TR  2   CH  2   NT  D-            1/2
+BA    9   CR         0   TR  4   CH  4   NT  D               1
+BA    9   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA    9   CR       1/4   TR 14   CH 16   NT  D               1
+BA    9   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA    9   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA    9   CR         1   TR  2   CH  2   NT  Bb-           1/2
+BA    9   CR         1   TR  4   CH  4   NT  D            7/10
+BA    9   CR     1+1/4   TR 11   CH 12   NT  Bb-           1/2
+BA    9   CR     1+1/4   TR 14   CH 16   NT  D            7/10
+BA    9   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA    9   CR     1+3/4   TR  4   CH  4   NT  C             1/4
+BA    9   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA    9   CR         2   TR  2   CH  2   NT  Bb            1/2
+BA    9   CR         2   TR  4   CH  4   NT  D           11/24
+BA    9   CR         2   TR 14   CH 16   NT  C             1/4
+BA    9   CR     2+1/4   TR 11   CH 12   NT  Bb            1/2
+BA    9   CR     2+1/4   TR 14   CH 16   NT  D           11/24
+BA    9   CR     2+1/2   TR  2   CH  2   NT  F             1/2
+BA    9   CR     2+1/2   TR  4   CH  4   NT  F         109/120
+BA    9   CR     2+3/4   TR 11   CH 12   NT  F             1/2
+BA    9   CR     2+3/4   TR 14   CH 16   NT  F         109/120
+BA    9   CR         3   TR  2   CH  2   NT  D             1/2
+BA    9   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA    9   CR     3+1/2   TR  2   CH  2   NT  Bb-           1/2
+BA    9   CR     3+1/2   TR  4   CH  4   NT  E             1/4
+BA    9   CR     3+3/4   TR  4   CH  4   NT  D             1/4
+BA    9   CR     3+3/4   TR 11   CH 12   NT  Bb-           1/2
+BA    9   CR     3+3/4   TR 14   CH 16   NT  E             1/4
+
+BA   10   CR         0   TR  1   CH  1   NT  A               4
+BA   10   CR         0   TR  1   CH  1   NT  F               4
+BA   10   CR         0   TR  1   CH  1   NT  C               4
+BA   10   CR         0   TR  2   CH  2   NT  F-            1/2
+BA   10   CR         0   TR  4   CH  4   NT  C        1+61/120
+BA   10   CR         0   TR 14   CH 16   NT  D             1/4
+BA   10   CR       1/4   TR 11   CH 12   NT  F-            1/2
+BA   10   CR       1/4   TR 14   CH 16   NT  C        1+61/120
+BA   10   CR       1/2   TR  2   CH  2   NT  A-            1/2
+BA   10   CR       3/4   TR 11   CH 12   NT  A-            1/2
+BA   10   CR         1   TR  2   CH  2   NT  C             1/2
+BA   10   CR     1+1/4   TR 11   CH 12   NT  C             1/2
+BA   10   CR     1+1/2   TR  2   CH  2   NT  F             1/2
+BA   10   CR     1+1/2   TR  4   CH  4   NT  A-            1/4
+BA   10   CR     1+3/4   TR  4   CH  4   NT  D             1/4
+BA   10   CR     1+3/4   TR 11   CH 12   NT  F             1/2
+BA   10   CR     1+3/4   TR 14   CH 16   NT  A-            1/4
+BA   10   CR         2   TR  2   CH  2   NT  A             1/2
+BA   10   CR         2   TR  4   CH  4   NT  C       1+119/120
+BA   10   CR         2   TR 14   CH 16   NT  D             1/4
+BA   10   CR     2+1/4   TR 11   CH 12   NT  A             1/2
+BA   10   CR     2+1/4   TR 14   CH 16   NT  C       1+119/120
+BA   10   CR     2+1/2   TR  2   CH  2   NT  F             1/2
+BA   10   CR     2+3/4   TR 11   CH 12   NT  F             1/2
+BA   10   CR         3   TR  2   CH  2   NT  C             1/2
+BA   10   CR     3+1/4   TR 11   CH 12   NT  C             1/2
+BA   10   CR     3+1/2   TR  2   CH  2   NT  A-            1/2
+BA   10   CR     3+1/2   TR  5   CH  5   NT  A             1/4   von=127
+BA   10   CR     3+3/4   TR  5   CH  5   NT  C'            1/4
+BA   10   CR     3+3/4   TR 11   CH 12   NT  A-            1/2
+BA   10   CR     3+3/4   TR 13   CH 15   NT  A             1/4   von=127
+BA   10   CR 3+119/120   TR  4   CH 16   End of track
+
+BA   11   CR         0   TR  1   CH  1   NT  G               4
+BA   11   CR         0   TR  1   CH  1   NT  D               4
+BA   11   CR         0   TR  1   CH  1   NT  B-              4
+BA   11   CR         0   TR  2   CH  2   NT  G-            1/2
+BA   11   CR         0   TR  5   CH  5   NT  D'            1/4
+BA   11   CR         0   TR 13   CH 15   NT  C'            1/4
+BA   11   CR    29/120   TR 14   CH 16   End of track
+BA   11   CR       1/4   TR  5   CH  5   NT  C'            1/4
+BA   11   CR       1/4   TR 11   CH 12   NT  G-            1/2
+BA   11   CR       1/4   TR 13   CH 15   NT  D'            1/4
+BA   11   CR       1/2   TR  2   CH  2   NT  B-            1/2
+BA   11   CR       1/2   TR  5   CH  5   NT  D'              1
+BA   11   CR       1/2   TR 13   CH 15   NT  C'            1/4
+BA   11   CR       3/4   TR 11   CH 12   NT  B-            1/2
+BA   11   CR       3/4   TR 13   CH 15   NT  D'              1
+BA   11   CR         1   TR  2   CH  2   NT  D             1/2
+BA   11   CR     1+1/4   TR 11   CH 12   NT  D             1/2
+BA   11   CR     1+1/2   TR  2   CH  2   NT  C'            1/2
+BA   11   CR     1+1/2   TR  5   CH  5   NT  C'            1/2
+BA   11   CR     1+3/4   TR 11   CH 12   NT  C'            1/2
+BA   11   CR     1+3/4   TR 13   CH 15   NT  C'            1/2
+BA   11   CR         2   TR  2   CH  2   NT  B             1/2
+BA   11   CR         2   TR  5   CH  5   NT  B             1/4
+BA   11   CR     2+1/4   TR  5   CH  5   NT  G             1/4
+BA   11   CR     2+1/4   TR 11   CH 12   NT  B             1/2
+BA   11   CR     2+1/4   TR 13   CH 15   NT  B             1/4
+BA   11   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA   11   CR     2+1/2   TR  5   CH  5   NT  D        1+43/120
+BA   11   CR     2+1/2   TR 13   CH 15   NT  G             1/4
+BA   11   CR     2+3/4   TR 11   CH 12   NT  G             1/2
+BA   11   CR     2+3/4   TR 13   CH 15   NT  D        1+43/120
+BA   11   CR         3   TR  2   CH  2   NT  D             1/2
+BA   11   CR         3   TR  5   CH 16   Meta Event   type &7F   5 15 10
+BA   11   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA   11   CR     3+1/4   TR 13   CH 16   Meta Event   type &7F   5 15 10
+BA   11   CR     3+1/2   TR  2   CH  2   NT  B-            1/2
+BA   11   CR     3+1/2   TR  3   CH  3   NT  D'            1/4
+BA   11   CR     3+3/4   TR  3   CH  3   NT  E'            1/4
+BA   11   CR     3+3/4   TR 11   CH 12   NT  B-            1/2
+BA   11   CR     3+3/4   TR 12   CH 13   NT  D'            1/4
+BA   11   CR 3+103/120   TR  5   CH 16   End of track
+
+BA   12   CR         0   TR  1   CH  1   NT  Bb-             2
+BA   12   CR         0   TR  1   CH  1   NT  D               2
+BA   12   CR         0   TR  1   CH  1   NT  F               2
+BA   12   CR         0   TR  2   CH  2   NT  Bb-           1/2
+BA   12   CR         0   TR  3   CH  3   NT  F'            1/4
+BA   12   CR         0   TR 12   CH 13   NT  E'            1/4
+BA   12   CR    13/120   TR 13   CH 16   End of track
+BA   12   CR       1/4   TR  3   CH  3   NT  E'            1/4
+BA   12   CR       1/4   TR 11   CH 12   NT  Bb-           1/2
+BA   12   CR       1/4   TR 12   CH 13   NT  F'            1/4
+BA   12   CR       1/2   TR  2   CH  2   NT  D             1/2
+BA   12   CR       1/2   TR  3   CH  3   NT  F'              1
+BA   12   CR       1/2   TR 12   CH 13   NT  E'            1/4
+BA   12   CR       3/4   TR 11   CH 12   NT  D             1/2
+BA   12   CR       3/4   TR 12   CH 13   NT  F'              1
+BA   12   CR         1   TR  2   CH  2   NT  F             1/2
+BA   12   CR     1+1/4   TR 11   CH 12   NT  F             1/2
+BA   12   CR     1+1/2   TR  2   CH  2   NT  Bb            1/2
+BA   12   CR     1+1/2   TR  3   CH  3   NT  D'            1/2
+BA   12   CR     1+3/4   TR 11   CH 12   NT  Bb            1/2
+BA   12   CR     1+3/4   TR 12   CH 13   NT  D'            1/2
+BA   12   CR         2   TR  1   CH  1   NT  C               2
+BA   12   CR         2   TR  1   CH  1   NT  E               2
+BA   12   CR         2   TR  1   CH  1   NT  G               2
+BA   12   CR         2   TR  2   CH  2   NT  C             1/2
+BA   12   CR         2   TR  3   CH  3   NT  G'       1+77/120
+BA   12   CR     2+1/4   TR 11   CH 12   NT  C             1/2
+BA   12   CR     2+1/4   TR 12   CH 13   NT  G'       1+77/120
+BA   12   CR     2+1/2   TR  2   CH  2   NT  E             1/2
+BA   12   CR     2+3/4   TR 11   CH 12   NT  E             1/2
+BA   12   CR         3   TR  2   CH  2   NT  G             1/2
+BA   12   CR     3+1/4   TR 11   CH 12   NT  G             1/2
+BA   12   CR     3+1/2   TR  2   CH  2   NT  C'            1/2
+BA   12   CR  3+77/120   TR  3   CH 16   End of track
+BA   12   CR     3+3/4   TR 11   CH 12   NT  C'            1/2
+BA   12   CR 3+107/120   TR 12   CH 16   End of track
+
+BA   13   CR         0   TR  1   CH  1   Channel volume 74
+BA   13   CR         0   TR  1   CH  1   NT  D               8
+BA   13   CR         0   TR  1   CH  1   NT  F               8
+BA   13   CR         0   TR  1   CH  1   NT  A-              8
+BA   13   CR         0   TR  2   CH  2   NT  D-            1/2
+BA   13   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA   13   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA   13   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA   13   CR         1   TR  2   CH  2   NT  A-            1/2
+BA   13   CR     1+1/4   TR 11   CH 12   NT  A-            1/2
+BA   13   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA   13   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA   13   CR         2   TR  2   CH  2   NT  F             1/2
+BA   13   CR     2+1/4   TR 11   CH 12   NT  F             1/2
+BA   13   CR     2+1/2   TR  2   CH  2   NT  D             1/2
+BA   13   CR     2+3/4   TR 11   CH 12   NT  D             1/2
+BA   13   CR         3   TR  2   CH  2   NT  A-            1/2
+BA   13   CR     3+1/4   TR 11   CH 12   NT  A-            1/2
+BA   13   CR     3+1/2   TR  2   CH  2   NT  F-            1/2
+BA   13   CR     3+3/4   TR 11   CH 12   NT  F-            1/2
+
+BA   14   CR         0   TR  1   CH  1   Channel volume 74
+BA   14   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   14   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 62 127 0
+BA   14   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 57 127 0
+BA   14   CR         0   TR  2   CH  2   NT  A-            1/2
+BA   14   CR       1/4   TR 11   CH 12   NT  A-            1/2
+BA   14   CR       1/2   TR  2   CH  2   NT  D             1/2
+BA   14   CR       3/4   TR 11   CH 12   NT  D             1/2
+BA   14   CR         1   TR  2   CH  2   NT  F             1/2
+BA   14   CR     1+1/4   TR 11   CH 12   NT  F             1/2
+BA   14   CR     1+1/2   TR  2   CH  2   NT  A             1/2
+BA   14   CR     1+3/4   TR 11   CH 12   NT  A             1/2
+BA   14   CR         2   TR  2   CH  2   NT  D'         1+1/10
+BA   14   CR     2+1/4   TR 11   CH 12   NT  D'         1+1/10
+
+BA   15   CR         0   TR  1   CH 16   End of track
+BA   15   CR         0   TR  6   CH  6   NT  D'              4   von=127
+BA   15   CR         0   TR  6   CH  6   NT  A               4
+BA   15   CR         0   TR  6   CH  6   NT  F               4
+BA   15   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 1 4 1
+BA   15   CR         1   TR  7   CH  7   NT  A             1/2   von=127
+BA   15   CR         1   TR  9   CH  9   NT  A'            1/2   von=127
+BA   15   CR     1+1/2   TR  8   CH  8   NT  A             1/2   von=99
+BA   15   CR     1+1/2   TR 10   CH 11   NT  A'            1/2   von=99
+BA   15   CR         2   TR  7   CH  7   NT  D'          31/80
+BA   15   CR         2   TR  9   CH  9   NT  D''         31/80
+BA   15   CR     2+1/2   TR  8   CH  8   NT  D'            1/2
+BA   15   CR     2+1/2   TR 10   CH 11   NT  D''           1/2
+BA   15   CR         3   TR  7   CH  7   NT  D'            1/2   von=66
+BA   15   CR         3   TR  9   CH  9   NT  D''           1/2   von=66
+
+BA   16   CR         0   TR  6   CH  6   NT  D'              4
+BA   16   CR         0   TR  6   CH  6   NT  B               4
+BA   16   CR         0   TR  6   CH  6   NT  G               4
+BA   16   CR         1   TR  7   CH  7   NT  G             1/2   von=127
+BA   16   CR         1   TR  9   CH  9   NT  G'            1/2   von=127
+BA   16   CR     1+1/2   TR  8   CH  8   NT  G             1/2
+BA   16   CR     1+1/2   TR 10   CH 11   NT  G'            1/2
+BA   16   CR         2   TR  7   CH  7   NT  G'            1/2
+BA   16   CR         2   TR  9   CH  9   NT  G''           1/2
+BA   16   CR     2+1/2   TR  8   CH  8   NT  G'            1/2
+BA   16   CR     2+1/2   TR 10   CH 11   NT  G''           1/2
+BA   16   CR         3   TR  7   CH  7   NT  G'            1/2   von=66
+BA   16   CR         3   TR  9   CH  9   NT  G''           1/2   von=66
+
+BA   17   CR         0   TR  6   CH  6   NT  D'              4
+BA   17   CR         0   TR  6   CH  6   NT  A               4
+BA   17   CR         0   TR  6   CH  6   NT  F               4
+BA   17   CR         1   TR  7   CH  7   NT  A             1/2   von=127
+BA   17   CR         1   TR  9   CH  9   NT  A'            1/2   von=127
+BA   17   CR     1+1/2   TR  8   CH  8   NT  A             1/2
+BA   17   CR     1+1/2   TR 10   CH 11   NT  A'            1/2
+BA   17   CR         2   TR  7   CH  7   NT  D'            1/2
+BA   17   CR         2   TR  9   CH  9   NT  D''           1/2
+BA   17   CR     2+1/2   TR  8   CH  8   NT  D'            1/2
+BA   17   CR     2+1/2   TR 10   CH 11   NT  D''           1/2
+BA   17   CR         3   TR  7   CH  7   NT  D'            1/2   von=66
+BA   17   CR         3   TR  9   CH  9   NT  D''           1/2   von=66
+BA   17   CR     3+1/2   TR  8   CH  8   NT  C'            1/2   von=127
+BA   17   CR     3+1/2   TR 10   CH 11   NT  C''           1/2   von=127
+
+BA   18   CR         0   TR  6   CH  6   NT  B               4
+BA   18   CR         0   TR  6   CH  6   NT  D'              4
+BA   18   CR         0   TR  6   CH  6   NT  G               4
+BA   18   CR         0   TR  7   CH  7   NT  B             1/2   von=127
+BA   18   CR         0   TR  9   CH  9   NT  B'            1/2   von=127
+BA   18   CR       1/2   TR  8   CH  8   NT  B             1/2   von=99
+BA   18   CR       1/2   TR 10   CH 11   NT  B'            1/2   von=99
+BA   18   CR         1   TR  7   CH  7   NT  G             1/2
+BA   18   CR         1   TR  9   CH  9   NT  G'            1/2
+BA   18   CR     1+1/2   TR  8   CH  8   NT  G             1/2
+BA   18   CR     1+1/2   TR 10   CH 11   NT  G'            1/2
+BA   18   CR         2   TR  7   CH  7   NT  D             1/2
+BA   18   CR         2   TR  9   CH  9   NT  D'            1/2
+BA   18   CR     2+1/2   TR  8   CH  8   NT  D             1/2
+BA   18   CR     2+1/2   TR 10   CH 11   NT  D'            1/2
+BA   18   CR         3   TR  7   CH  7   NT  D             1/2   von=58
+BA   18   CR         3   TR  9   CH  9   NT  D'            1/2   von=58
+
+BA   19   CR         0   TR  6   CH  6   NT  D'              4
+BA   19   CR         0   TR  6   CH  6   NT  A               4
+BA   19   CR         0   TR  6   CH  6   NT  F               4
+BA   19   CR         1   TR  7   CH  7   NT  A             1/2   von=127
+BA   19   CR         1   TR  9   CH  9   NT  A'            1/2   von=127
+BA   19   CR     1+1/2   TR  8   CH  8   NT  A             1/2
+BA   19   CR     1+1/2   TR 10   CH 11   NT  A'            1/2
+BA   19   CR         2   TR  7   CH  7   NT  D'          31/80
+BA   19   CR         2   TR  9   CH  9   NT  D''         31/80
+BA   19   CR     2+1/2   TR  8   CH  8   NT  D'            1/2
+BA   19   CR     2+1/2   TR 10   CH 11   NT  D''           1/2
+BA   19   CR         3   TR  7   CH  7   NT  D'            1/2   von=66
+BA   19   CR         3   TR  9   CH  9   NT  D''           1/2   von=66
+
+BA   20   CR         0   TR  6   CH  6   NT  D'              4
+BA   20   CR         0   TR  6   CH  6   NT  B               4
+BA   20   CR         0   TR  6   CH  6   NT  G               4
+BA   20   CR         1   TR  7   CH  7   NT  G             1/2   von=127
+BA   20   CR         1   TR  9   CH  9   NT  G'            1/2   von=127
+BA   20   CR     1+1/2   TR  8   CH  8   NT  G             1/2
+BA   20   CR     1+1/2   TR 10   CH 11   NT  G'            1/2
+BA   20   CR         2   TR  7   CH  7   NT  G'            1/2
+BA   20   CR         2   TR  9   CH  9   NT  G''           1/2
+BA   20   CR     2+1/2   TR  8   CH  8   NT  G'            1/2
+BA   20   CR     2+1/2   TR 10   CH 11   NT  G''           1/2
+BA   20   CR         3   TR  7   CH  7   NT  G'            1/2   von=66
+BA   20   CR         3   TR  9   CH  9   NT  G''           1/2   von=66
+
+BA   21   CR         0   TR  6   CH  6   NT  D'              4
+BA   21   CR         0   TR  6   CH  6   NT  A               4
+BA   21   CR         0   TR  6   CH  6   NT  F               4
+BA   21   CR         1   TR  7   CH  7   NT  A             1/2   von=127
+BA   21   CR         1   TR  9   CH  9   NT  A'            1/2   von=127
+BA   21   CR     1+1/2   TR  8   CH  8   NT  A             1/2
+BA   21   CR     1+1/2   TR 10   CH 11   NT  A'            1/2
+BA   21   CR         2   TR  7   CH  7   NT  D'            1/2
+BA   21   CR         2   TR  9   CH  9   NT  D''           1/2
+BA   21   CR     2+1/2   TR  8   CH  8   NT  D'            1/2
+BA   21   CR     2+1/2   TR 10   CH 11   NT  D''           1/2
+BA   21   CR         3   TR  7   CH  7   NT  D'            1/2   von=66
+BA   21   CR         3   TR  9   CH  9   NT  D''           1/2   von=66
+BA   21   CR     3+1/2   TR  8   CH  8   NT  C'            1/2   von=127
+BA   21   CR     3+1/2   TR 10   CH 11   NT  C''           1/2   von=127
+
+BA   22   CR         0   TR  6   CH  6   NT  B               4
+BA   22   CR         0   TR  6   CH  6   NT  D'              4
+BA   22   CR         0   TR  6   CH  6   NT  G               4
+BA   22   CR         0   TR  7   CH  7   NT  B             1/2   von=127
+BA   22   CR         0   TR  9   CH  9   NT  B'            1/2   von=127
+BA   22   CR       1/2   TR  8   CH  8   NT  B             1/2   von=99
+BA   22   CR       1/2   TR 10   CH 11   NT  B'            1/2   von=99
+BA   22   CR         1   TR  7   CH  7   NT  G             1/2
+BA   22   CR         1   TR  9   CH  9   NT  G'            1/2
+BA   22   CR     1+1/2   TR  8   CH  8   NT  G             1/2
+BA   22   CR     1+1/2   TR 10   CH 11   NT  G'            1/2
+BA   22   CR         2   TR  7   CH  7   NT  D             1/2
+BA   22   CR         2   TR  9   CH  9   NT  D'            1/2
+BA   22   CR     2+1/2   TR  8   CH  8   NT  D             1/2
+BA   22   CR     2+1/2   TR 10   CH 11   NT  D'            1/2
+BA   22   CR         3   TR  7   CH  7   NT  D             1/2   von=58
+BA   22   CR         3   TR  9   CH  9   NT  D'            1/2   von=58
+BA   22   CR     3+1/2   TR  7   CH  7   NT  E             1/2   von=127
+BA   22   CR     3+1/2   TR  9   CH  9   NT  E'            1/2   von=127
+
+BA   23   CR         0   TR  6   CH  6   NT  Bb              4
+BA   23   CR         0   TR  6   CH  6   NT  F               4
+BA   23   CR         0   TR  6   CH  6   NT  D               4
+BA   23   CR         0   TR  7   CH  7   NT  F             1/2
+BA   23   CR         0   TR  9   CH  9   NT  F'            1/2
+BA   23   CR       1/2   TR  8   CH  8   NT  F             1/2
+BA   23   CR       1/2   TR 10   CH 11   NT  F'            1/2
+BA   23   CR         1   TR  7   CH  7   NT  D'            1/2
+BA   23   CR         1   TR  9   CH  9   NT  D''           1/2
+BA   23   CR     1+1/2   TR  8   CH  8   NT  D'            1/2
+BA   23   CR     1+1/2   TR 10   CH 11   NT  D''           1/2
+BA   23   CR         2   TR  7   CH  7   NT  F'            1/2
+BA   23   CR         2   TR  9   CH  9   NT  F''           1/2
+BA   23   CR     2+1/2   TR  8   CH  8   NT  F'            1/2
+BA   23   CR     2+1/2   TR 10   CH 11   NT  F''           1/2
+BA   23   CR         3   TR  7   CH  7   NT  F'            1/2   von=58
+BA   23   CR         3   TR  9   CH  9   NT  F''           1/2   von=58
+
+BA   24   CR         0   TR  6   CH  6   NT  A               4
+BA   24   CR         0   TR  6   CH  6   NT  F               4
+BA   24   CR         0   TR  6   CH  6   NT  C               4
+BA   24   CR         0   TR  7   CH  7   NT  A             1/2   von=127
+BA   24   CR         0   TR  9   CH  9   NT  A'            1/2   von=127
+BA   24   CR       1/2   TR  8   CH  8   NT  A             1/2
+BA   24   CR       1/2   TR 10   CH 11   NT  A'            1/2
+BA   24   CR         1   TR  7   CH  7   NT  C'            1/2
+BA   24   CR         1   TR  9   CH  9   NT  C''           1/2
+BA   24   CR     1+1/2   TR  8   CH  8   NT  C'            1/2
+BA   24   CR     1+1/2   TR 10   CH 11   NT  C''           1/2
+BA   24   CR         2   TR  7   CH  7   NT  F'            1/2
+BA   24   CR         2   TR  9   CH  9   NT  F''           1/2
+BA   24   CR     2+1/2   TR  8   CH  8   NT  F'            1/2
+BA   24   CR     2+1/2   TR 10   CH 11   NT  F''           1/2
+BA   24   CR         3   TR  7   CH  7   NT  F'            1/2   von=58
+BA   24   CR         3   TR  9   CH  9   NT  F''           1/2   von=58
+
+BA   25   CR         0   TR  2   CH  2   NT  C             1/2
+BA   25   CR         0   TR  6   CH  6   NT  D'              4
+BA   25   CR         0   TR  6   CH  6   NT  B               4
+BA   25   CR         0   TR  6   CH  6   NT  G               4
+BA   25   CR         0   TR  7   CH  7   NT  G'            1/2   von=127
+BA   25   CR         0   TR  9   CH  9   NT  G''           1/2   von=127
+BA   25   CR       1/4   TR 11   CH 12   NT  C             1/2
+BA   25   CR       1/2   TR  2   CH  2   NT  D             1/2
+BA   25   CR       1/2   TR  8   CH  8   NT  G'            1/2
+BA   25   CR       1/2   TR 10   CH 11   NT  G''           1/2
+BA   25   CR       3/4   TR 11   CH 12   NT  D             1/2
+BA   25   CR         1   TR  2   CH  2   NT  G             1/2
+BA   25   CR         1   TR  7   CH  7   NT  C'            1/2
+BA   25   CR         1   TR  9   CH  9   NT  C''           1/2
+BA   25   CR     1+1/4   TR 11   CH 12   NT  G             1/2
+BA   25   CR     1+1/2   TR  2   CH  2   NT  C'            1/2
+BA   25   CR     1+1/2   TR  8   CH  8   NT  C'            1/2
+BA   25   CR     1+1/2   TR 10   CH 11   NT  C''           1/2
+BA   25   CR     1+3/4   TR 11   CH 12   NT  C'            1/2
+BA   25   CR         2   TR  2   CH  2   NT  D'            1/2
+BA   25   CR         2   TR  7   CH  7   NT  D'            1/2
+BA   25   CR         2   TR  9   CH  9   NT  D''           1/2
+BA   25   CR     2+1/4   TR 11   CH 12   NT  D'            1/2
+BA   25   CR     2+1/2   TR  2   CH  2   NT  C'            1/2
+BA   25   CR     2+1/2   TR  8   CH  8   NT  D'            1/2
+BA   25   CR     2+1/2   TR  8   CH 16   Meta Event   type &7F   5 15 10
+BA   25   CR     2+1/2   TR 10   CH 11   NT  D''           1/2
+BA   25   CR     2+1/2   TR 10   CH 16   Meta Event   type &7F   5 15 10
+BA   25   CR     2+3/4   TR 11   CH 12   NT  C'            1/2
+BA   25   CR         3   TR  2   CH  2   NT  G             1/2
+BA   25   CR     3+1/4   TR 11   CH 12   NT  G             1/2
+BA   25   CR     3+1/2   TR  2   CH  2   NT  D             1/2
+BA   25   CR     3+1/2   TR  7   CH  7   NT  F'            1/2
+BA   25   CR     3+1/2   TR  7   CH 16   Meta Event   type &7F   5 15 10
+BA   25   CR     3+1/2   TR  9   CH  9   NT  F''           1/2
+BA   25   CR     3+1/2   TR  9   CH 16   Meta Event   type &7F   5 15 10
+BA   25   CR     3+3/4   TR 11   CH 12   NT  D             1/2
+
+BA   26   CR         0   TR  2   CH  2   NT  B-            1/2
+BA   26   CR         0   TR  6   CH  6   NT  B               4
+BA   26   CR         0   TR  6   CH  6   NT  G               4
+BA   26   CR         0   TR  6   CH  6   NT  D               4
+BA   26   CR         0   TR  7   CH  7   NT  G'            1/2
+BA   26   CR         0   TR  9   CH  9   NT  G''           1/2
+BA   26   CR       1/4   TR 11   CH 12   NT  B-            1/2
+BA   26   CR       1/2   TR  2   CH  2   NT  D             1/2
+BA   26   CR       1/2   TR  8   CH  8   NT  G'            1/2
+BA   26   CR       1/2   TR 10   CH 11   NT  G''           1/2
+BA   26   CR       3/4   TR 11   CH 12   NT  D             1/2
+BA   26   CR         1   TR  2   CH  2   NT  G             1/2
+BA   26   CR         1   TR  7   CH  7   NT  G'            1/2   von=58
+BA   26   CR         1   TR  8   CH 16   End of track
+BA   26   CR         1   TR  9   CH  9   NT  G''           1/2   von=58
+BA   26   CR         1   TR 10   CH 16   End of track
+BA   26   CR     1+1/4   TR 11   CH 12   NT  G             1/2
+BA   26   CR     1+1/2   TR  2   CH  2   NT  B             1/2
+BA   26   CR     1+1/2   TR  7   CH 16   End of track
+BA   26   CR     1+1/2   TR  9   CH 16   End of track
+BA   26   CR     1+3/4   TR 11   CH 12   NT  B             1/2
+BA   26   CR         2   TR  2   CH  2   NT  D'            1/2
+BA   26   CR     2+1/4   TR 11   CH 12   NT  D'            1/2
+BA   26   CR     2+1/2   TR  2   CH  2   NT  B             1/2
+BA   26   CR     2+3/4   TR 11   CH 12   NT  B             1/2
+BA   26   CR         3   TR  2   CH  2   NT  G             1/2
+BA   26   CR     3+1/4   TR 11   CH 12   NT  G             1/2
+BA   26   CR     3+1/2   TR  2   CH  2   NT  D             1/2
+BA   26   CR     3+3/4   TR 11   CH 12   NT  D             1/2
+
+BA   27   CR         0   TR  2   CH  2   NT  D-            1/2
+BA   27   CR         0   TR  6   CH  6   Channel volume 74
+BA   27   CR         0   TR  6   CH  6   NT  D'              4
+BA   27   CR         0   TR  6   CH  6   NT  F'              4
+BA   27   CR         0   TR  6   CH  6   NT  A               4
+BA   27   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA   27   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA   27   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA   27   CR         1   TR  2   CH  2   NT  A-            1/2
+BA   27   CR     1+1/4   TR 11   CH 12   NT  A-            1/2
+BA   27   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA   27   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA   27   CR         2   TR  2   CH  2   NT  F             1/2
+BA   27   CR     2+1/4   TR 11   CH 12   NT  F             1/2
+BA   27   CR     2+1/2   TR  2   CH  2   NT  D             1/2
+BA   27   CR     2+3/4   TR 11   CH 12   NT  D             1/2
+BA   27   CR         3   TR  2   CH  2   NT  A-            1/2
+BA   27   CR     3+1/4   TR 11   CH 12   NT  A-            1/2
+BA   27   CR     3+1/2   TR  2   CH  2   NT  F-            1/2
+BA   27   CR     3+3/4   TR 11   CH 12   NT  F-            1/2
+
+BA   28   CR         0   TR  2   CH  2   NT  G-            1/2
+BA   28   CR         0   TR  6   CH  6   NT  D'              4
+BA   28   CR         0   TR  6   CH  6   NT  G'              4
+BA   28   CR         0   TR  6   CH  6   NT  B               4
+BA   28   CR       1/4   TR 11   CH 12   NT  G-            1/2
+BA   28   CR       1/2   TR  2   CH  2   NT  B-            1/2
+BA   28   CR       3/4   TR 11   CH 12   NT  B-            1/2
+BA   28   CR         1   TR  2   CH  2   NT  D             1/2
+BA   28   CR     1+1/4   TR 11   CH 12   NT  D             1/2
+BA   28   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA   28   CR     1+3/4   TR 11   CH 12   NT  G             1/2
+BA   28   CR         2   TR  2   CH  2   NT  B             1/2
+BA   28   CR     2+1/4   TR 11   CH 12   NT  B             1/2
+BA   28   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA   28   CR     2+3/4   TR 11   CH 12   NT  G             1/2
+BA   28   CR         3   TR  2   CH  2   NT  D             1/2
+BA   28   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA   28   CR     3+1/2   TR  2   CH  2   NT  B-            1/2
+BA   28   CR     3+3/4   TR 11   CH 12   NT  B-            1/2
+
+BA   29   CR         0   TR  2   CH  2   NT  D-            1/2
+BA   29   CR         0   TR  6   CH  6   NT  D'              4
+BA   29   CR         0   TR  6   CH  6   NT  F'              4
+BA   29   CR         0   TR  6   CH  6   NT  A               4
+BA   29   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA   29   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA   29   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA   29   CR         1   TR  2   CH  2   NT  A-            1/2
+BA   29   CR     1+1/4   TR 11   CH 12   NT  A-            1/2
+BA   29   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA   29   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA   29   CR         2   TR  2   CH  2   NT  F             1/2
+BA   29   CR     2+1/4   TR 11   CH 12   NT  F             1/2
+BA   29   CR     2+1/2   TR  2   CH  2   NT  D             1/2
+BA   29   CR     2+3/4   TR 11   CH 12   NT  D             1/2
+BA   29   CR         3   TR  2   CH  2   NT  A-            1/2
+BA   29   CR     3+1/4   TR 11   CH 12   NT  A-            1/2
+BA   29   CR     3+1/2   TR  2   CH  2   NT  F-            1/2
+BA   29   CR     3+3/4   TR 11   CH 12   NT  F-            1/2
+
+BA   30   CR         0   TR  2   CH  2   NT  G-            1/2
+BA   30   CR         0   TR  6   CH  6   NT  D'              4
+BA   30   CR         0   TR  6   CH  6   NT  G'              4
+BA   30   CR         0   TR  6   CH  6   NT  B               4
+BA   30   CR       1/4   TR 11   CH 12   NT  G-            1/2
+BA   30   CR       1/2   TR  2   CH  2   NT  B-            1/2
+BA   30   CR       3/4   TR 11   CH 12   NT  B-            1/2
+BA   30   CR         1   TR  2   CH  2   NT  D             1/2
+BA   30   CR     1+1/4   TR 11   CH 12   NT  D             1/2
+BA   30   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA   30   CR     1+3/4   TR 11   CH 12   NT  G             1/2
+BA   30   CR         2   TR  2   CH  2   NT  B             1/2
+BA   30   CR     2+1/4   TR 11   CH 12   NT  B             1/2
+BA   30   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA   30   CR     2+3/4   TR 11   CH 12   NT  G             1/2
+BA   30   CR         3   TR  2   CH  2   NT  D             1/2
+BA   30   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA   30   CR     3+1/2   TR  2   CH  2   NT  B-            1/2
+BA   30   CR     3+3/4   TR 11   CH 12   NT  B-            1/2
+
+BA   31   CR         0   TR  2   CH  2   NT  D-            1/2
+BA   31   CR         0   TR  6   CH  6   NT  D'              4
+BA   31   CR         0   TR  6   CH  6   NT  F'              4
+BA   31   CR         0   TR  6   CH  6   NT  A               4
+BA   31   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA   31   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA   31   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA   31   CR         1   TR  2   CH  2   NT  A-            1/2
+BA   31   CR     1+1/4   TR 11   CH 12   NT  A-            1/2
+BA   31   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA   31   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA   31   CR         2   TR  2   CH  2   NT  F             1/2
+BA   31   CR     2+1/4   TR 11   CH 12   NT  F             1/2
+BA   31   CR     2+1/2   TR  2   CH  2   NT  D             1/2
+BA   31   CR     2+3/4   TR 11   CH 12   NT  D             1/2
+BA   31   CR         3   TR  2   CH  2   NT  A-            1/2
+BA   31   CR     3+1/4   TR 11   CH 12   NT  A-            1/2
+BA   31   CR     3+1/2   TR  2   CH  2   NT  F-            1/2
+BA   31   CR     3+3/4   TR 11   CH 12   NT  F-            1/2
+
+BA   32   CR         0   TR  2   CH  2   NT  G-            1/2
+BA   32   CR         0   TR  6   CH  6   NT  D'              4
+BA   32   CR         0   TR  6   CH  6   NT  G'              4
+BA   32   CR         0   TR  6   CH  6   NT  B               4
+BA   32   CR       1/4   TR 11   CH 12   NT  G-            1/2
+BA   32   CR       1/2   TR  2   CH  2   NT  B-            1/2
+BA   32   CR       3/4   TR 11   CH 12   NT  B-            1/2
+BA   32   CR         1   TR  2   CH  2   NT  D             1/2
+BA   32   CR     1+1/4   TR 11   CH 12   NT  D             1/2
+BA   32   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA   32   CR     1+3/4   TR 11   CH 12   NT  G             1/2
+BA   32   CR         2   TR  2   CH  2   NT  B             1/2
+BA   32   CR     2+1/4   TR 11   CH 12   NT  B             1/2
+BA   32   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA   32   CR     2+3/4   TR 11   CH 12   NT  G             1/2
+BA   32   CR         3   TR  2   CH  2   NT  D             1/2
+BA   32   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA   32   CR     3+1/2   TR  2   CH  2   NT  B-            1/2
+BA   32   CR     3+3/4   TR 11   CH 12   NT  B-            1/2
+
+BA   33   CR         0   TR  2   CH  2   NT  D-            1/2
+BA   33   CR         0   TR  6   CH  6   NT  Bb'             4
+BA   33   CR         0   TR  6   CH  6   NT  F'              4
+BA   33   CR         0   TR  6   CH  6   NT  D'              4
+BA   33   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA   33   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA   33   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA   33   CR         1   TR  2   CH  2   NT  Bb-           1/2
+BA   33   CR     1+1/4   TR 11   CH 12   NT  Bb-           1/2
+BA   33   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA   33   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA   33   CR         2   TR  2   CH  2   NT  Bb            1/2
+BA   33   CR     2+1/4   TR 11   CH 12   NT  Bb            1/2
+BA   33   CR     2+1/2   TR  2   CH  2   NT  F             1/2
+BA   33   CR     2+3/4   TR 11   CH 12   NT  F             1/2
+BA   33   CR         3   TR  2   CH  2   NT  D             1/2
+BA   33   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA   33   CR     3+1/2   TR  2   CH  2   NT  Bb-           1/2
+BA   33   CR     3+3/4   TR 11   CH 12   NT  Bb-           1/2
+
+BA   34   CR         0   TR  2   CH  2   NT  F-            1/2
+BA   34   CR         0   TR  6   CH  6   NT  A'              4
+BA   34   CR         0   TR  6   CH  6   NT  F'              4
+BA   34   CR         0   TR  6   CH  6   NT  C'              4
+BA   34   CR       1/4   TR 11   CH 12   NT  F-            1/2
+BA   34   CR       1/2   TR  2   CH  2   NT  A-            1/2
+BA   34   CR       3/4   TR 11   CH 12   NT  A-            1/2
+BA   34   CR         1   TR  2   CH  2   NT  C             1/2
+BA   34   CR     1+1/4   TR 11   CH 12   NT  C             1/2
+BA   34   CR     1+1/2   TR  2   CH  2   NT  F             1/2
+BA   34   CR     1+3/4   TR 11   CH 12   NT  F             1/2
+BA   34   CR         2   TR  2   CH  2   NT  A             1/2
+BA   34   CR     2+1/4   TR 11   CH 12   NT  A             1/2
+BA   34   CR     2+1/2   TR  2   CH  2   NT  F             1/2
+BA   34   CR     2+3/4   TR 11   CH 12   NT  F             1/2
+BA   34   CR         3   TR  2   CH  2   NT  C             1/2
+BA   34   CR     3+1/4   TR 11   CH 12   NT  C             1/2
+BA   34   CR     3+1/2   TR  2   CH  2   NT  A-            1/2
+BA   34   CR     3+3/4   TR 11   CH 12   NT  A-            1/2
+
+BA   35   CR         0   TR  2   CH  2   NT  G-            1/2
+BA   35   CR         0   TR  6   CH  6   NT  G'              4
+BA   35   CR         0   TR  6   CH  6   NT  D'              4
+BA   35   CR         0   TR  6   CH  6   NT  B               4
+BA   35   CR       1/4   TR 11   CH 12   NT  G-            1/2
+BA   35   CR       1/2   TR  2   CH  2   NT  B-            1/2
+BA   35   CR       3/4   TR 11   CH 12   NT  B-            1/2
+BA   35   CR         1   TR  2   CH  2   NT  D             1/2
+BA   35   CR     1+1/4   TR 11   CH 12   NT  D             1/2
+BA   35   CR     1+1/2   TR  2   CH  2   NT  C'            1/2
+BA   35   CR     1+3/4   TR 11   CH 12   NT  C'            1/2
+BA   35   CR         2   TR  2   CH  2   NT  B             1/2
+BA   35   CR     2+1/4   TR 11   CH 12   NT  B             1/2
+BA   35   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA   35   CR     2+3/4   TR 11   CH 12   NT  G             1/2
+BA   35   CR         3   TR  2   CH  2   NT  D             1/2
+BA   35   CR     3+1/4   TR 11   CH 12   NT  D             1/2
+BA   35   CR     3+1/2   TR  2   CH  2   NT  B-            1/2
+BA   35   CR     3+3/4   TR 11   CH 12   NT  B-            1/2
+
+BA   36   CR         0   TR  2   CH  2   NT  Bb-           1/2
+BA   36   CR         0   TR  6   CH  6   NT  Bb              2
+BA   36   CR         0   TR  6   CH  6   NT  D'              2
+BA   36   CR         0   TR  6   CH  6   NT  F'              2
+BA   36   CR       1/4   TR 11   CH 12   NT  Bb-           1/2
+BA   36   CR       1/2   TR  2   CH  2   NT  D             1/2
+BA   36   CR       3/4   TR 11   CH 12   NT  D             1/2
+BA   36   CR         1   TR  2   CH  2   NT  F             1/2
+BA   36   CR     1+1/4   TR 11   CH 12   NT  F             1/2
+BA   36   CR     1+1/2   TR  2   CH  2   NT  Bb            1/2
+BA   36   CR     1+3/4   TR 11   CH 12   NT  Bb            1/2
+BA   36   CR         2   TR  2   CH  2   NT  C             1/2
+BA   36   CR         2   TR  6   CH  6   NT  C'              2
+BA   36   CR         2   TR  6   CH  6   NT  E'              2
+BA   36   CR         2   TR  6   CH  6   NT  G'              2
+BA   36   CR     2+1/4   TR 11   CH 12   NT  C             1/2
+BA   36   CR     2+1/2   TR  2   CH  2   NT  E             1/2
+BA   36   CR     2+3/4   TR 11   CH 12   NT  E             1/2
+BA   36   CR         3   TR  2   CH  2   NT  G             1/2
+BA   36   CR     3+1/4   TR 11   CH 12   NT  G             1/2
+BA   36   CR     3+1/2   TR  2   CH  2   NT  C'            1/2
+BA   36   CR     3+3/4   TR 11   CH 12   NT  C'            1/2
+
+BA   37   CR         0   TR  2   CH  2   NT  D-            1/2
+BA   37   CR         0   TR  6   CH  6   Channel volume 74
+BA   37   CR         0   TR  6   CH  6   NT  D'              8
+BA   37   CR         0   TR  6   CH  6   NT  F'              8
+BA   37   CR         0   TR  6   CH  6   NT  A               8
+BA   37   CR       1/4   TR 11   CH 12   NT  D-            1/2
+BA   37   CR       1/2   TR  2   CH  2   NT  F-            1/2
+BA   37   CR       3/4   TR 11   CH 12   NT  F-            1/2
+BA   37   CR         1   TR  2   CH  2   NT  A-            1/2
+BA   37   CR     1+1/4   TR 11   CH 12   NT  A-            1/2
+BA   37   CR     1+1/2   TR  2   CH  2   NT  D             1/2
+BA   37   CR     1+3/4   TR 11   CH 12   NT  D             1/2
+BA   37   CR         2   TR  2   CH  2   NT  F             1/2
+BA   37   CR     2+1/4   TR 11   CH 12   NT  F             1/2
+BA   37   CR     2+1/2   TR  2   CH  2   NT  D             1/2
+BA   37   CR     2+3/4   TR 11   CH 12   NT  D             1/2
+BA   37   CR         3   TR  2   CH  2   NT  A-            1/2
+BA   37   CR     3+1/4   TR 11   CH 12   NT  A-            1/2
+BA   37   CR     3+1/2   TR  2   CH  2   NT  F-            1/2
+BA   37   CR     3+3/4   TR 11   CH 12   NT  F-            1/2
+
+BA   38   CR         0   TR  2   CH  2   NT  A-            1/2
+BA   38   CR         0   TR  6   CH  6   Channel volume 74
+BA   38   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 13 62 127 5
+BA   38   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 13 77 127 5
+BA   38   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 13 81 127 5
+BA   38   CR       1/4   TR 11   CH 12   NT  A-            1/2
+BA   38   CR       1/2   TR  2   CH  2   NT  D             1/2
+BA   38   CR       3/4   TR 11   CH 12   NT  D             1/2
+BA   38   CR         1   TR  2   CH  2   NT  F             1/2
+BA   38   CR     1+1/4   TR 11   CH 12   NT  F             1/2
+BA   38   CR     1+1/2   TR  2   CH  2   NT  A             1/2
+BA   38   CR     1+3/4   TR 11   CH 12   NT  A             1/2
+BA   38   CR         2   TR  2   CH  2   NT  D'         1+1/10
+BA   38   CR     2+1/4   TR 11   CH 12   NT  D'         1+1/10
+
+BA   39   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 10
+BA   39   CR         0   TR  6   CH 16   End of track
+
+BA   41   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 10
+BA   41   CR         0   TR  2   CH 16   End of track
+BA   41   CR       1/4   TR 11   CH 16   Meta Event   type &7F   5 15 10
+BA   41   CR       1/4   TR 11   CH 16   End of track

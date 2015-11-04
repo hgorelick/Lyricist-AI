@@ -1,0 +1,1256 @@
+
+BA    1   CR         0   TR  0   CH 16   Text type 2: "Seq. By Andrew Shand."
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH  1   Sysex event &F0  &00 &11 &00 &7F &00 &65 &00 &00 &38 &03 &51 &71 &2C &00 &3C &00 &00 &10 &00 &04 &00 &01 &00 &00 &00 &00 &00 &F7
+BA    1   CR         0   TR  0   CH 16   Tempo 92.0001
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Nintendo Gamecube"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &20 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 9
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Animal Crossing"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &08
+BA    1   CR         0   TR  2   CH  2   ST &B1 &20 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 17
+BA    1   CR         0   TR  2   CH  2   Channel volume 127
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &50
+BA    1   CR         0   TR  2   CH  2   NT  Bb           9/16   von=115
+BA    1   CR         0   TR  2   CH  2   NT  D'           9/16
+BA    1   CR         0   TR  3   CH 16   Text type 3: "7:00am"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &00 &08
+BA    1   CR         0   TR  3   CH  3   ST &B2 &20 &00
+BA    1   CR         0   TR  3   CH  3   Instrument 17
+BA    1   CR         0   TR  3   CH  3   Channel volume 127
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &30
+BA    1   CR         0   TR  3   CH  3   NT  G            9/16   von=115
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Acoustic Fretless Bass"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  4   CH  4   ST &B3 &20 &00
+BA    1   CR         0   TR  4   CH  4   Instrument 33
+BA    1   CR         0   TR  4   CH  4   Channel volume 127
+BA    1   CR         0   TR  4   CH  4   NT  Eb--         9/16   von=125
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Standard Kit"
+BA    1   CR         0   TR  5   CH 10   ST &B9 &00 &00
+BA    1   CR         0   TR  5   CH 10   ST &B9 &20 &00
+BA    1   CR         0   TR  5   CH 10   Instrument 1
+BA    1   CR         0   TR  5   CH 10   Channel volume 127
+BA    1   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    1   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    1   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA    1   CR       1/2   TR  1   CH  1   NT  Bb'           1/2   von=125
+BA    1   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    1   CR         1   TR  1   CH  1   NT  Bb''          1/2
+BA    1   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    1   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    1   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA    1   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    1   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    1   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA    1   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA    1   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA    1   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA    1   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    1   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    1   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    1   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    1   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA    2   CR         0   TR  2   CH  2   NT  C'           9/16
+BA    2   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA    2   CR         0   TR  3   CH  3   NT  G#           9/16
+BA    2   CR         0   TR  4   CH  4   NT  F--          9/16
+BA    2   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    2   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    2   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA    2   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    2   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    2   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    2   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    2   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA    2   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA    2   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA    2   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA    2   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    2   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    2   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    2   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    2   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA    3   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA    3   CR         0   TR  2   CH  2   NT  D'           9/16
+BA    3   CR         0   TR  3   CH  3   NT  G            9/16
+BA    3   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA    3   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    3   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    3   CR       1/2   TR  1   CH  1   NT  Bb'           1/2
+BA    3   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA    3   CR         1   TR  1   CH  1   NT  Bb''          1/2
+BA    3   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    3   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    3   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA    3   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    3   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    3   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA    3   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA    3   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA    3   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA    3   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    3   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    3   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    3   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    3   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA    4   CR         0   TR  2   CH  2   NT  C'           9/16
+BA    4   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA    4   CR         0   TR  3   CH  3   NT  G#           9/16
+BA    4   CR         0   TR  4   CH  4   NT  F--          9/16
+BA    4   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    4   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    4   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA    4   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    4   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    4   CR     1+1/2   TR  2   CH  2   NT  B           2+1/2
+BA    4   CR     1+1/2   TR  2   CH  2   NT  Eb'         2+1/2
+BA    4   CR     1+1/2   TR  3   CH  3   NT  G#          2+1/2
+BA    4   CR     1+1/2   TR  4   CH  4   NT  E--         2+1/2
+BA    4   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    4   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    4   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    4   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    4   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    4   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    4   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA    5   CR         0   TR  1   CH  1   NT  Bb'           1/2
+BA    5   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA    5   CR         0   TR  2   CH  2   NT  D'           9/16
+BA    5   CR         0   TR  3   CH  3   NT  G            9/16
+BA    5   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA    5   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    5   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    5   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA    5   CR       1/2   TR  1   CH  1   NT  G'            1/2
+BA    5   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    5   CR         1   TR  1   CH  1   NT  G#'           1/2
+BA    5   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    5   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    5   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA    5   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    5   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    5   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA    5   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA    5   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA    5   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA    5   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    5   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    5   CR         3   TR  1   CH  1   NT  Bb            1/2
+BA    5   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    5   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    5   CR     3+1/2   TR  1   CH  1   NT  G#'           1/2
+BA    5   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA    6   CR         0   TR  2   CH  2   NT  C'           9/16
+BA    6   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA    6   CR         0   TR  3   CH  3   NT  G#           9/16
+BA    6   CR         0   TR  4   CH  4   NT  F--          9/16
+BA    6   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    6   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    6   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA    6   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    6   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    6   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    6   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    6   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA    6   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA    6   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA    6   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA    6   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    6   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    6   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    6   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    6   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA    7   CR         0   TR  1   CH  1   NT  G'            1/2
+BA    7   CR         0   TR  2   CH  2   NT  D'           9/16
+BA    7   CR         0   TR  2   CH  2   NT  F'           9/16
+BA    7   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA    7   CR         0   TR  4   CH  4   NT  G--          9/16
+BA    7   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    7   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    7   CR       1/2   TR  1   CH  1   NT  Eb'           1/2
+BA    7   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA    7   CR         1   TR  1   CH  1   NT  F'            1/2
+BA    7   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    7   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    7   CR     1+1/2   TR  1   CH  1   NT  G'            1/2
+BA    7   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    7   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    7   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA    7   CR     2+1/2   TR  2   CH  2   NT  F'           9/16
+BA    7   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA    7   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA    7   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    7   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    7   CR         3   TR  1   CH  1   NT  G'            1/2
+BA    7   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    7   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    7   CR     3+1/2   TR  1   CH  1   NT  C''           1/2
+BA    7   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA    8   CR         0   TR  2   CH  2   NT  D'           9/16
+BA    8   CR         0   TR  2   CH  2   NT  E'           9/16
+BA    8   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA    8   CR         0   TR  4   CH  4   NT  C-           9/16
+BA    8   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    8   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    8   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA    8   CR         1   TR  1   CH  1   NT  Bb'           1/2
+BA    8   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    8   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    8   CR     1+1/2   TR  1   CH  1   NT  G'            1/2
+BA    8   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    8   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    8   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA    8   CR     2+1/2   TR  2   CH  2   NT  E'           9/16
+BA    8   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA    8   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA    8   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    8   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    8   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    8   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    8   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA    9   CR         0   TR  1   CH  1   NT  Bb'           1/2
+BA    9   CR         0   TR  2   CH  2   NT  C'           9/16
+BA    9   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA    9   CR         0   TR  3   CH  3   NT  G#           9/16
+BA    9   CR         0   TR  4   CH  4   NT  F--          9/16
+BA    9   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA    9   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    9   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA    9   CR       1/2   TR  1   CH  1   NT  G'            1/2
+BA    9   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    9   CR         1   TR  1   CH  1   NT  G#'           1/2
+BA    9   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA    9   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    9   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA    9   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA    9   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA    9   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA    9   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA    9   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA    9   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA    9   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA    9   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA    9   CR         3   TR  1   CH  1   NT  C''           1/2
+BA    9   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA    9   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA    9   CR     3+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA    9   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   10   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   10   CR         0   TR  2   CH  2   NT  F'           9/16
+BA   10   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   10   CR         0   TR  4   CH  4   NT  G--          9/16
+BA   10   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   10   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   10   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   10   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   10   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   10   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   10   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   10   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   10   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   10   CR     2+1/2   TR  2   CH  2   NT  F'           9/16
+BA   10   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   10   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   10   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   10   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   10   CR         3   TR  1   CH  1   NT  C'            1/2
+BA   10   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   10   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   10   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   10   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   11   CR         0   TR  1   CH  1   NT  F'            1/2
+BA   11   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   11   CR         0   TR  2   CH  2   NT  G'           9/16
+BA   11   CR         0   TR  3   CH  3   NT  C'           9/16
+BA   11   CR         0   TR  4   CH  4   NT  G#--         9/16
+BA   11   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   11   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   11   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   11   CR         1   TR  1   CH  1   NT  G'            1/2
+BA   11   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   11   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   11   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   11   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   11   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   11   CR     2+1/2   TR  1   CH  1   NT  G'            1/2
+BA   11   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   11   CR     2+1/2   TR  2   CH  2   NT  G'           9/16
+BA   11   CR     2+1/2   TR  3   CH  3   NT  C'           9/16
+BA   11   CR     2+1/2   TR  4   CH  4   NT  G#--         9/16
+BA   11   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   11   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   11   CR         3   TR  1   CH  1   NT  F'            1/2
+BA   11   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   11   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   11   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   11   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   12   CR         0   TR  1   CH  1   NT  F'            1/2
+BA   12   CR         0   TR  2   CH  2   NT  Eb'             8
+BA   12   CR         0   TR  2   CH  2   NT  G'              8
+BA   12   CR         0   TR  3   CH  3   NT  C'              8
+BA   12   CR         0   TR  4   CH  4   NT  Bb--        1+1/2
+BA   12   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   12   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   12   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   12   CR         1   TR  1   CH  1   NT  Eb'           1/2
+BA   12   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   12   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   12   CR     1+1/2   TR  1   CH  1   NT  C'            1/2
+BA   12   CR     1+1/2   TR  4   CH  4   NT  F--             1
+BA   12   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   12   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   12   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   12   CR     2+1/2   TR  4   CH  4   NT  Bb---         1/2
+BA   12   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   12   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   12   CR         3   TR  4   CH  4   NT  Bb--            5
+BA   12   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   12   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   12   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   13   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   13   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   13   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   13   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   13   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   13   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   13   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   13   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   13   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   13   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   13   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   13   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   14   CR         0   TR  1   CH  1   NT  Bb'           1/2
+BA   14   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   14   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   14   CR         0   TR  3   CH  3   NT  G            9/16
+BA   14   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   14   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   14   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   14   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   14   CR       1/2   TR  1   CH  1   NT  G'            1/2
+BA   14   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   14   CR         1   TR  1   CH  1   NT  G#'           1/2
+BA   14   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   14   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   14   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   14   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   14   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   14   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   14   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   14   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   14   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   14   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   14   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   14   CR         3   TR  1   CH  1   NT  Bb            1/2
+BA   14   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   14   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   14   CR     3+1/2   TR  1   CH  1   NT  G#'           1/2
+BA   14   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   15   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   15   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   15   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   15   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   15   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   15   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   15   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   15   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   15   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   15   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   15   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   15   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   15   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   15   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   15   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   15   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   15   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   15   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   15   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   15   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   16   CR         0   TR  1   CH  1   NT  G'            1/2
+BA   16   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   16   CR         0   TR  2   CH  2   NT  F'           9/16
+BA   16   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   16   CR         0   TR  4   CH  4   NT  G--          9/16
+BA   16   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   16   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   16   CR       1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   16   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   16   CR         1   TR  1   CH  1   NT  F'            1/2
+BA   16   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   16   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   16   CR     1+1/2   TR  1   CH  1   NT  G'            1/2
+BA   16   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   16   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   16   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   16   CR     2+1/2   TR  2   CH  2   NT  F'           9/16
+BA   16   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   16   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   16   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   16   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   16   CR         3   TR  1   CH  1   NT  G'            1/2
+BA   16   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   16   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   16   CR     3+1/2   TR  1   CH  1   NT  C''           1/2
+BA   16   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   17   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   17   CR         0   TR  2   CH  2   NT  E'           9/16
+BA   17   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   17   CR         0   TR  4   CH  4   NT  C-           9/16
+BA   17   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   17   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   17   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   17   CR         1   TR  1   CH  1   NT  Bb'           1/2
+BA   17   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   17   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   17   CR     1+1/2   TR  1   CH  1   NT  G'            1/2
+BA   17   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   17   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   17   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   17   CR     2+1/2   TR  2   CH  2   NT  E'           9/16
+BA   17   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   17   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   17   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   17   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   17   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   17   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   17   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   18   CR         0   TR  1   CH  1   NT  Bb'           1/2
+BA   18   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   18   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   18   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   18   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   18   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   18   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   18   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   18   CR       1/2   TR  1   CH  1   NT  G'            1/2
+BA   18   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   18   CR         1   TR  1   CH  1   NT  G#'           1/2
+BA   18   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   18   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   18   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   18   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   18   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   18   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   18   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   18   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   18   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   18   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   18   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   18   CR         3   TR  1   CH  1   NT  C''           1/2
+BA   18   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   18   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   18   CR     3+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   18   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   19   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   19   CR         0   TR  2   CH  2   NT  F'           9/16
+BA   19   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   19   CR         0   TR  4   CH  4   NT  G--          9/16
+BA   19   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   19   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   19   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   19   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   19   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   19   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   19   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   19   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   19   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   19   CR     2+1/2   TR  2   CH  2   NT  F'           9/16
+BA   19   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   19   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   19   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   19   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   19   CR         3   TR  1   CH  1   NT  C'            1/2
+BA   19   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   19   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   19   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   20   CR         0   TR  1   CH  1   NT  F'            1/2
+BA   20   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   20   CR         0   TR  2   CH  2   NT  G'           9/16
+BA   20   CR         0   TR  3   CH  3   NT  C'           9/16
+BA   20   CR         0   TR  4   CH  4   NT  G#--         9/16
+BA   20   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   20   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   20   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   20   CR         1   TR  1   CH  1   NT  G'            1/2
+BA   20   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   20   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   20   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   20   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   20   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   20   CR     2+1/2   TR  1   CH  1   NT  C''           1/2
+BA   20   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   20   CR     2+1/2   TR  2   CH  2   NT  G'           9/16
+BA   20   CR     2+1/2   TR  3   CH  3   NT  C'           9/16
+BA   20   CR     2+1/2   TR  4   CH  4   NT  G#--         9/16
+BA   20   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   20   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   20   CR         3   TR  1   CH  1   NT  Bb'           1/2
+BA   20   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   20   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   20   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   21   CR         0   TR  1   CH  1   NT  C''           1/2
+BA   21   CR         0   TR  1   CH  1   NT  Eb''          1/2
+BA   21   CR         0   TR  2   CH  2   NT  Eb'             8
+BA   21   CR         0   TR  2   CH  2   NT  G'              8
+BA   21   CR         0   TR  3   CH  3   NT  C'              8
+BA   21   CR         0   TR  4   CH  4   NT  Bb--        1+1/2
+BA   21   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   21   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   21   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   21   CR         1   TR  1   CH  1   NT  Bb'           1/2
+BA   21   CR         1   TR  1   CH  1   NT  D''           1/2
+BA   21   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   21   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   21   CR     1+1/2   TR  1   CH  1   NT  G#'           1/2
+BA   21   CR     1+1/2   TR  1   CH  1   NT  C''           1/2
+BA   21   CR     1+1/2   TR  4   CH  4   NT  F--             1
+BA   21   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   21   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   21   CR     2+1/2   TR  1   CH  1   NT  G'            1/2
+BA   21   CR     2+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   21   CR     2+1/2   TR  4   CH  4   NT  Bb---         1/2
+BA   21   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   21   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   21   CR         3   TR  4   CH  4   NT  Bb--            5
+BA   21   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   21   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   21   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   22   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   22   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   22   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   22   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   22   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   22   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   22   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   22   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   22   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   22   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   22   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   22   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   23   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   23   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   23   CR         0   TR  3   CH  3   NT  G            9/16
+BA   23   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   23   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   23   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   23   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   23   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   23   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   23   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   23   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   23   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   23   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   23   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   23   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   23   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   23   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   23   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   23   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   23   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   23   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   24   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   24   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   24   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   24   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   24   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   24   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   24   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   24   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   24   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   24   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   24   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   24   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   24   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   24   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   24   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   24   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   24   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   24   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   24   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   24   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   25   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   25   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   25   CR         0   TR  3   CH  3   NT  G            9/16
+BA   25   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   25   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   25   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   25   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   25   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   25   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   25   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   25   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   25   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   25   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   25   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   25   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   25   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   25   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   25   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   25   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   25   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   26   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   26   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   26   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   26   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   26   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   26   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   26   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   26   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   26   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   26   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   26   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   26   CR     2+1/2   TR  2   CH  2   NT  B            9/16
+BA   26   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   26   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   26   CR     2+1/2   TR  4   CH  4   NT  E--          9/16
+BA   26   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   26   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   26   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   26   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   26   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   27   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   27   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   27   CR         0   TR  3   CH  3   NT  G            9/16
+BA   27   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   27   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   27   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   27   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   27   CR       1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   27   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   27   CR         1   TR  1   CH  1   NT  Bb''          1/2
+BA   27   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   27   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   27   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   27   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   27   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   27   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   27   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   27   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   27   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   27   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   27   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   27   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   27   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   27   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   28   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   28   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   28   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   28   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   28   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   28   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   28   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   28   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   28   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   28   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   28   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   28   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   28   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   28   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   28   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   28   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   28   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   28   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   28   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   28   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   29   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   29   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   29   CR         0   TR  3   CH  3   NT  G            9/16
+BA   29   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   29   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   29   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   29   CR       1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   29   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   29   CR         1   TR  1   CH  1   NT  Bb''          1/2
+BA   29   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   29   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   29   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   29   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   29   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   29   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   29   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   29   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   29   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   29   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   29   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   29   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   29   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   29   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   30   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   30   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   30   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   30   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   30   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   30   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   30   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   30   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   30   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   30   CR     1+1/2   TR  2   CH  2   NT  B           2+1/2
+BA   30   CR     1+1/2   TR  2   CH  2   NT  Eb'         2+1/2
+BA   30   CR     1+1/2   TR  3   CH  3   NT  G#          2+1/2
+BA   30   CR     1+1/2   TR  4   CH  4   NT  E--         2+1/2
+BA   30   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   30   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   30   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   30   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   30   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   30   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   30   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   31   CR         0   TR  1   CH  1   NT  Bb'           1/2
+BA   31   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   31   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   31   CR         0   TR  3   CH  3   NT  G            9/16
+BA   31   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   31   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   31   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   31   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   31   CR       1/2   TR  1   CH  1   NT  G'            1/2
+BA   31   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   31   CR         1   TR  1   CH  1   NT  G#'           1/2
+BA   31   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   31   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   31   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   31   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   31   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   31   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   31   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   31   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   31   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   31   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   31   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   31   CR         3   TR  1   CH  1   NT  Bb            1/2
+BA   31   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   31   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   31   CR     3+1/2   TR  1   CH  1   NT  G#'           1/2
+BA   31   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   32   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   32   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   32   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   32   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   32   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   32   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   32   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   32   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   32   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   32   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   32   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   32   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   32   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   32   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   32   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   32   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   32   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   32   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   32   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   32   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   33   CR         0   TR  1   CH  1   NT  G'            1/2
+BA   33   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   33   CR         0   TR  2   CH  2   NT  F'           9/16
+BA   33   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   33   CR         0   TR  4   CH  4   NT  G--          9/16
+BA   33   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   33   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   33   CR       1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   33   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   33   CR         1   TR  1   CH  1   NT  F'            1/2
+BA   33   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   33   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   33   CR     1+1/2   TR  1   CH  1   NT  G'            1/2
+BA   33   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   33   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   33   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   33   CR     2+1/2   TR  2   CH  2   NT  F'           9/16
+BA   33   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   33   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   33   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   33   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   33   CR         3   TR  1   CH  1   NT  G'            1/2
+BA   33   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   33   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   33   CR     3+1/2   TR  1   CH  1   NT  C''           1/2
+BA   33   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   34   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   34   CR         0   TR  2   CH  2   NT  E'           9/16
+BA   34   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   34   CR         0   TR  4   CH  4   NT  C-           9/16
+BA   34   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   34   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   34   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   34   CR         1   TR  1   CH  1   NT  Bb'           1/2
+BA   34   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   34   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   34   CR     1+1/2   TR  1   CH  1   NT  G'            1/2
+BA   34   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   34   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   34   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   34   CR     2+1/2   TR  2   CH  2   NT  E'           9/16
+BA   34   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   34   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   34   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   34   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   34   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   34   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   34   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   35   CR         0   TR  1   CH  1   NT  Bb'           1/2
+BA   35   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   35   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   35   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   35   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   35   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   35   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   35   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   35   CR       1/2   TR  1   CH  1   NT  G'            1/2
+BA   35   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   35   CR         1   TR  1   CH  1   NT  G#'           1/2
+BA   35   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   35   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   35   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   35   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   35   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   35   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   35   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   35   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   35   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   35   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   35   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   35   CR         3   TR  1   CH  1   NT  C''           1/2
+BA   35   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   35   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   35   CR     3+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   35   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   36   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   36   CR         0   TR  2   CH  2   NT  F'           9/16
+BA   36   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   36   CR         0   TR  4   CH  4   NT  G--          9/16
+BA   36   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   36   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   36   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   36   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   36   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   36   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   36   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   36   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   36   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   36   CR     2+1/2   TR  2   CH  2   NT  F'           9/16
+BA   36   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   36   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   36   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   36   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   36   CR         3   TR  1   CH  1   NT  C'            1/2
+BA   36   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   36   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   36   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   36   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   37   CR         0   TR  1   CH  1   NT  F'            1/2
+BA   37   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   37   CR         0   TR  2   CH  2   NT  G'           9/16
+BA   37   CR         0   TR  3   CH  3   NT  C'           9/16
+BA   37   CR         0   TR  4   CH  4   NT  G#--         9/16
+BA   37   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   37   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   37   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   37   CR         1   TR  1   CH  1   NT  G'            1/2
+BA   37   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   37   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   37   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   37   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   37   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   37   CR     2+1/2   TR  1   CH  1   NT  G'            1/2
+BA   37   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   37   CR     2+1/2   TR  2   CH  2   NT  G'           9/16
+BA   37   CR     2+1/2   TR  3   CH  3   NT  C'           9/16
+BA   37   CR     2+1/2   TR  4   CH  4   NT  G#--         9/16
+BA   37   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   37   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   37   CR         3   TR  1   CH  1   NT  F'            1/2
+BA   37   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   37   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   37   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   37   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   38   CR         0   TR  1   CH  1   NT  F'            1/2
+BA   38   CR         0   TR  2   CH  2   NT  Eb'             8
+BA   38   CR         0   TR  2   CH  2   NT  G'              8
+BA   38   CR         0   TR  3   CH  3   NT  C'              8
+BA   38   CR         0   TR  4   CH  4   NT  Bb--        1+1/2
+BA   38   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   38   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   38   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   38   CR         1   TR  1   CH  1   NT  Eb'           1/2
+BA   38   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   38   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   38   CR     1+1/2   TR  1   CH  1   NT  C'            1/2
+BA   38   CR     1+1/2   TR  4   CH  4   NT  F--             1
+BA   38   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   38   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   38   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   38   CR     2+1/2   TR  4   CH  4   NT  Bb---         1/2
+BA   38   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   38   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   38   CR         3   TR  4   CH  4   NT  Bb--            5
+BA   38   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   38   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   38   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   39   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   39   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   39   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   39   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   39   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   39   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   39   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   39   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   39   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   39   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   39   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   39   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   40   CR         0   TR  1   CH  1   NT  Bb'           1/2
+BA   40   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   40   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   40   CR         0   TR  3   CH  3   NT  G            9/16
+BA   40   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   40   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   40   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   40   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   40   CR       1/2   TR  1   CH  1   NT  G'            1/2
+BA   40   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   40   CR         1   TR  1   CH  1   NT  G#'           1/2
+BA   40   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   40   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   40   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   40   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   40   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   40   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   40   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   40   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   40   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   40   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   40   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   40   CR         3   TR  1   CH  1   NT  Bb            1/2
+BA   40   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   40   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   40   CR     3+1/2   TR  1   CH  1   NT  G#'           1/2
+BA   40   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   41   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   41   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   41   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   41   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   41   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   41   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   41   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   41   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   41   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   41   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   41   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   41   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   41   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   41   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   41   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   41   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   41   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   41   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   41   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   41   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   42   CR         0   TR  1   CH  1   NT  G'            1/2
+BA   42   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   42   CR         0   TR  2   CH  2   NT  F'           9/16
+BA   42   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   42   CR         0   TR  4   CH  4   NT  G--          9/16
+BA   42   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   42   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   42   CR       1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   42   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   42   CR         1   TR  1   CH  1   NT  F'            1/2
+BA   42   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   42   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   42   CR     1+1/2   TR  1   CH  1   NT  G'            1/2
+BA   42   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   42   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   42   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   42   CR     2+1/2   TR  2   CH  2   NT  F'           9/16
+BA   42   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   42   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   42   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   42   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   42   CR         3   TR  1   CH  1   NT  G'            1/2
+BA   42   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   42   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   42   CR     3+1/2   TR  1   CH  1   NT  C''           1/2
+BA   42   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   43   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   43   CR         0   TR  2   CH  2   NT  E'           9/16
+BA   43   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   43   CR         0   TR  4   CH  4   NT  C-           9/16
+BA   43   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   43   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   43   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   43   CR         1   TR  1   CH  1   NT  Bb'           1/2
+BA   43   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   43   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   43   CR     1+1/2   TR  1   CH  1   NT  G'            1/2
+BA   43   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   43   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   43   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   43   CR     2+1/2   TR  2   CH  2   NT  E'           9/16
+BA   43   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   43   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   43   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   43   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   43   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   43   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   43   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   44   CR         0   TR  1   CH  1   NT  Bb'           1/2
+BA   44   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   44   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   44   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   44   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   44   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   44   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   44   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   44   CR       1/2   TR  1   CH  1   NT  G'            1/2
+BA   44   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   44   CR         1   TR  1   CH  1   NT  G#'           1/2
+BA   44   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   44   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   44   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   44   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   44   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   44   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   44   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   44   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   44   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   44   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   44   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   44   CR         3   TR  1   CH  1   NT  C''           1/2
+BA   44   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   44   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   44   CR     3+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   44   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   45   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   45   CR         0   TR  2   CH  2   NT  F'           9/16
+BA   45   CR         0   TR  3   CH  3   NT  Bb           9/16
+BA   45   CR         0   TR  4   CH  4   NT  G--          9/16
+BA   45   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   45   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   45   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   45   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   45   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   45   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   45   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   45   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   45   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   45   CR     2+1/2   TR  2   CH  2   NT  F'           9/16
+BA   45   CR     2+1/2   TR  3   CH  3   NT  Bb           9/16
+BA   45   CR     2+1/2   TR  4   CH  4   NT  G--          9/16
+BA   45   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   45   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   45   CR         3   TR  1   CH  1   NT  C'            1/2
+BA   45   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   45   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   45   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   45   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   46   CR         0   TR  1   CH  1   NT  F'            1/2
+BA   46   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   46   CR         0   TR  2   CH  2   NT  G'           9/16
+BA   46   CR         0   TR  3   CH  3   NT  C'           9/16
+BA   46   CR         0   TR  4   CH  4   NT  G#--         9/16
+BA   46   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   46   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   46   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   46   CR         1   TR  1   CH  1   NT  G'            1/2
+BA   46   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   46   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   46   CR     1+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   46   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   46   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   46   CR     2+1/2   TR  1   CH  1   NT  C''           1/2
+BA   46   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   46   CR     2+1/2   TR  2   CH  2   NT  G'           9/16
+BA   46   CR     2+1/2   TR  3   CH  3   NT  C'           9/16
+BA   46   CR     2+1/2   TR  4   CH  4   NT  G#--         9/16
+BA   46   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   46   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   46   CR         3   TR  1   CH  1   NT  Bb'           1/2
+BA   46   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   46   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   46   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   47   CR         0   TR  1   CH  1   NT  C''           1/2
+BA   47   CR         0   TR  1   CH  1   NT  Eb''          1/2
+BA   47   CR         0   TR  2   CH  2   NT  Eb'             8
+BA   47   CR         0   TR  2   CH  2   NT  G'              8
+BA   47   CR         0   TR  3   CH  3   NT  C'              8
+BA   47   CR         0   TR  4   CH  4   NT  Bb--        1+1/2
+BA   47   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   47   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   47   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   47   CR         1   TR  1   CH  1   NT  Bb'           1/2
+BA   47   CR         1   TR  1   CH  1   NT  D''           1/2
+BA   47   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   47   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   47   CR     1+1/2   TR  1   CH  1   NT  G#'           1/2
+BA   47   CR     1+1/2   TR  1   CH  1   NT  C''           1/2
+BA   47   CR     1+1/2   TR  4   CH  4   NT  F--             1
+BA   47   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   47   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   47   CR     2+1/2   TR  1   CH  1   NT  G'            1/2
+BA   47   CR     2+1/2   TR  1   CH  1   NT  Bb'           1/2
+BA   47   CR     2+1/2   TR  4   CH  4   NT  Bb---         1/2
+BA   47   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   47   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   47   CR         3   TR  4   CH  4   NT  Bb--            5
+BA   47   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   47   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   47   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   48   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   48   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   48   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   48   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   48   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   48   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   48   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   48   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   48   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   48   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   48   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   48   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   49   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   49   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   49   CR         0   TR  3   CH  3   NT  G            9/16
+BA   49   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   49   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   49   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   49   CR         0   TR  5   CH 10   NT  G-           1/16   von=105
+BA   49   CR       1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   49   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   49   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   49   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   49   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   49   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   49   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   49   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   49   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   49   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   49   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   49   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   49   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   49   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   50   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   50   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   50   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   50   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   50   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   50   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   50   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   50   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   50   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   50   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   50   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   50   CR     2+1/2   TR  2   CH  2   NT  C'           9/16
+BA   50   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   50   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   50   CR     2+1/2   TR  4   CH  4   NT  F--          9/16
+BA   50   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   50   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   50   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   50   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   50   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   51   CR         0   TR  2   CH  2   NT  Bb           9/16
+BA   51   CR         0   TR  2   CH  2   NT  D'           9/16
+BA   51   CR         0   TR  3   CH  3   NT  G            9/16
+BA   51   CR         0   TR  4   CH  4   NT  Eb--         9/16
+BA   51   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   51   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   51   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   51   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   51   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   51   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   51   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   51   CR     2+1/2   TR  2   CH  2   NT  Bb           9/16
+BA   51   CR     2+1/2   TR  2   CH  2   NT  D'           9/16
+BA   51   CR     2+1/2   TR  3   CH  3   NT  G            9/16
+BA   51   CR     2+1/2   TR  4   CH  4   NT  Eb--         9/16
+BA   51   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   51   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   51   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   51   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   51   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   52   CR         0   TR  2   CH  2   NT  C'           9/16
+BA   52   CR         0   TR  2   CH  2   NT  Eb'          9/16
+BA   52   CR         0   TR  3   CH  3   NT  G#           9/16
+BA   52   CR         0   TR  4   CH  4   NT  F--          9/16
+BA   52   CR         0   TR  5   CH 10   NT  B---         1/16   von=100
+BA   52   CR         0   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   52   CR       1/2   TR  5   CH 10   NT  A            1/16
+BA   52   CR         1   TR  5   CH 10   NT  D--          1/16   von=110
+BA   52   CR         1   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   52   CR     1+1/2   TR  5   CH 10   NT  A            1/16
+BA   52   CR         2   TR  5   CH 10   NT  F#--         1/16
+BA   52   CR     2+1/2   TR  2   CH  2   NT  B            9/16
+BA   52   CR     2+1/2   TR  2   CH  2   NT  Eb'          9/16
+BA   52   CR     2+1/2   TR  3   CH  3   NT  G#           9/16
+BA   52   CR     2+1/2   TR  4   CH  4   NT  E--          9/16
+BA   52   CR     2+1/2   TR  5   CH 10   NT  B---         1/16   von=100
+BA   52   CR     2+1/2   TR  5   CH 10   NT  A            1/16   von=120
+BA   52   CR         3   TR  5   CH 10   NT  D--          1/16   von=110
+BA   52   CR         3   TR  5   CH 10   NT  F#--         1/16   von=120
+BA   52   CR     3+1/2   TR  5   CH 10   NT  A            1/16
+
+BA   53   CR         0   TR  0   CH 16   End of track
+BA   53   CR         0   TR  1   CH 16   End of track
+BA   53   CR         0   TR  2   CH 16   End of track
+BA   53   CR         0   TR  3   CH 16   End of track
+BA   53   CR         0   TR  4   CH 16   End of track
+BA   53   CR         0   TR  5   CH 16   End of track

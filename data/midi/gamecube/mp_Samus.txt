@@ -1,0 +1,81 @@
+
+BA    1   CR         0   TR  0   CH  1   Sysex event &F0  &41 &10 &42 &12 &40 &00 &7F &00 &41 &F7
+BA    1   CR         0   TR  0   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  0   CH  1   Instrument 53
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   74 65 90 50 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BA    1   CR         0   TR  0   CH 16   Tempo 150
+BA    1   CR         0   TR  0   CH  1   NT  D               2   von=64
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Metroid Prime:"
+BA    1   CR         0   TR  0   CH  1   ST &B0 &5B &28
+BA    1   CR         0   TR  0   CH  1   ST &B0 &5D &7F
+BA    1   CR         0   TR  0   CH  1   Channel volume 83
+BA    1   CR         0   TR  0   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  0   CH  1   NT  D'              2
+BA    1   CR         0   TR  1   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  1   CH  2   Instrument 49
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   74 65 90 50 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Samus Aran's"
+BA    1   CR         0   TR  1   CH  2   NT  D               2   von=64
+BA    1   CR         0   TR  1   CH  2   NT  D'              2
+BA    1   CR         0   TR  1   CH  2   ST &B1 &5B &28
+BA    1   CR         0   TR  1   CH  2   ST &B1 &5D &00
+BA    1   CR         0   TR  1   CH  2   Channel volume 127
+BA    1   CR         0   TR  1   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  1   CH 16   Tempo 150
+BA    1   CR         0   TR  2   CH  3   ST &B2 &00 &00
+BA    1   CR         0   TR  2   CH  3   Instrument 53
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   74 65 90 50 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BA    1   CR         0   TR  2   CH  3   ST &B2 &5D &7F
+BA    1   CR         0   TR  2   CH  3   Channel volume 95
+BA    1   CR         0   TR  2   CH  3   ST &B2 &5B &28
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Appearance Fanfare"
+BA    1   CR         0   TR  2   CH  3   NT  F#---           2   von=64
+BA    1   CR         0   TR  2   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  3   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  3   CH  4   Instrument 49
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   74 65 90 50 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BA    1   CR         0   TR  3   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  3   CH  4   ST &B3 &5D &00
+BA    1   CR         0   TR  3   CH  4   NT  Eb-             2   von=64
+BA    1   CR         0   TR  3   CH  4   Channel volume 127
+BA    1   CR         0   TR  3   CH  4   ST &B3 &5B &28
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Sequenced by Moreja"
+BA    1   CR         0   TR  3   CH  4   NT  C''       7+29/30
+BA    1   CR         2   TR  0   CH  1   NT  F               2
+BA    1   CR         2   TR  0   CH  1   NT  F'              2
+BA    1   CR         2   TR  1   CH  2   NT  F'              2
+BA    1   CR         2   TR  1   CH  2   NT  F               2
+BA    1   CR         2   TR  2   CH  3   NT  F---            2
+BA    1   CR         2   TR  3   CH  4   NT  D-              2
+
+BA    2   CR         0   TR  0   CH  1   NT  D'              2
+BA    2   CR         0   TR  0   CH  1   NT  D               2
+BA    2   CR         0   TR  1   CH  2   NT  D'              2
+BA    2   CR         0   TR  1   CH  2   NT  D               2
+BA    2   CR         0   TR  2   CH  3   NT  E---            2
+BA    2   CR         0   TR  3   CH  4   NT  C-              2
+BA    2   CR         2   TR  0   CH  1   NT  C'              2
+BA    2   CR         2   TR  0   CH  1   NT  C               2
+BA    2   CR         2   TR  1   CH  2   NT  C               2
+BA    2   CR         2   TR  1   CH  2   NT  C'              2
+BA    2   CR         2   TR  2   CH  3   NT  C---            2
+BA    2   CR         2   TR  3   CH  4   NT  A--             2
+
+BA    3   CR         0   TR  0   CH  1   NT  A-          4+5/6
+BA    3   CR         0   TR  0   CH  1   NT  A           4+4/5
+BA    3   CR         0   TR  1   CH  2   NT  A-          4+5/6
+BA    3   CR         0   TR  1   CH  2   NT  A           4+4/5
+BA    3   CR         0   TR  2   CH  3   NT  F----     4+49/60
+BA    3   CR         0   TR  3   CH  4   NT  D--       4+13/15
+
+BA    4   CR         1   TR  0   CH  1   NT  A-         3+1/60
+BA    4   CR         1   TR  0   CH  1   NT  A               3
+BA    4   CR         1   TR  1   CH  2   NT  A-         3+1/60
+BA    4   CR         1   TR  1   CH  2   NT  A               3
+BA    4   CR         1   TR  2   CH  3   NT  F----      3+1/60
+BA    4   CR         1   TR  3   CH  4   NT  D--        3+1/60
+
+BA    5   CR      1/60   TR  0   CH 16   End of track
+BA    5   CR      1/60   TR  1   CH 16   End of track
+BA    5   CR      1/60   TR  2   CH 16   End of track
+BA    5   CR      1/60   TR  3   CH 16   End of track

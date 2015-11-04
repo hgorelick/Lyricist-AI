@@ -1,0 +1,125 @@
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Tempo 80
+BA    1   CR         0   TR  0   CH 16   Key D major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Pad 2 (warm)"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 90
+BA    1   CR         0   TR  1   CH  1   NT  F#      2+473/480   von=64
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Pad 5 (bowed)"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 93
+BA    1   CR         0   TR  2   CH  2   NT  C#--    7+473/480   von=64
+BA    1   CR         2   TR  2   CH  2   NT  B--     5+473/480
+
+BA    2   CR         0   TR  1   CH  1   NT  F#        473/480
+BA    2   CR         1   TR  1   CH  1   NT  E         233/480
+BA    2   CR     1+1/2   TR  1   CH  1   NT  F#        473/480
+BA    2   CR     2+1/2   TR  1   CH  1   NT  G         473/480
+BA    2   CR     3+1/2   TR  1   CH  1   NT  A       3+233/480
+
+BA    3   CR         0   TR  2   CH  2   NT  C#--    3+473/480
+
+BA    4   CR         0   TR  1   CH  1   NT  F#        473/480
+BA    4   CR         0   TR  2   CH  2   NT  G--     7+473/480
+BA    4   CR         1   TR  1   CH  1   NT  E         233/480
+BA    4   CR     1+1/2   TR  1   CH  1   NT  F#        473/480
+BA    4   CR     2+1/2   TR  1   CH  1   NT  G         233/480
+BA    4   CR         3   TR  1   CH  1   NT  A       1+233/480
+
+BA    5   CR       1/2   TR  1   CH  1   NT  B       1+473/480
+BA    5   CR     2+1/2   TR  1   CH  1   NT  C#'     1+233/480
+
+BA    6   CR         0   TR  2   CH  2   NT  C#--    5+479/480
+BA    6   CR         3   TR  1   CH  1   NT  B         473/480
+
+BA    7   CR         0   TR  1   CH  1   NT  A         473/480
+BA    7   CR         1   TR  1   CH  1   NT  G       1+473/480
+BA    7   CR         2   TR  2   CH  2   NT  C#--    5+473/480
+
+BA    8   CR         0   TR  2   CH  2   NT  G--     3+473/480
+BA    8   CR         1   TR  1   CH  1   NT  A         473/480
+BA    8   CR         2   TR  1   CH  1   NT  E       1+473/480
+BA    8   CR         2   TR  1   CH  1   NT  G       3+473/480
+
+BA    9   CR         0   TR  1   CH  1   NT  C#      1+473/480
+BA    9   CR         2   TR  1   CH  1   NT  A       1+473/480
+BA    9   CR         2   TR  2   CH  2   NT  G--     3+473/480
+
+BA   10   CR         0   TR  1   CH  1   NT  B         473/480
+BA   10   CR         1   TR  1   CH  1   NT  C#'     2+473/480
+BA   10   CR         2   TR  2   CH  2   NT  C#--    5+473/480
+
+BA   11   CR         2   TR  1   CH  1   NT  F#        473/480
+BA   11   CR         3   TR  1   CH  1   NT  E         473/480
+
+BA   12   CR         0   TR  1   CH  1   NT  F#      1+473/480
+BA   12   CR         0   TR  1   CH  1   NT  C#      1+473/480
+BA   12   CR         0   TR  2   CH  2   NT  C#-     1+473/480
+BA   12   CR         2   TR  1   CH  1   NT  G       1+473/480
+BA   12   CR         2   TR  2   CH  2   NT  G--     4+473/480
+
+BA   13   CR         0   TR  1   CH  1   NT  A       1+473/480
+BA   13   CR         2   TR  1   CH  1   NT  G       1+473/480
+BA   13   CR         3   TR  2   CH  2   NT  A#--    4+473/480
+
+BA   14   CR         1   TR  2   CH  2   NT  E-      2+473/480
+
+BA   15   CR         0   TR  1   CH  1   NT  C#        473/480
+BA   15   CR         0   TR  2   CH  2   NT  B--       473/480
+BA   15   CR         1   TR  1   CH  1   NT  D       1+473/480
+BA   15   CR         1   TR  2   CH  2   NT  G--     1+473/480
+BA   15   CR         3   TR  1   CH  1   NT  B-      2+473/480
+BA   15   CR         3   TR  2   CH  2   NT  C#--    2+473/480
+
+BA   16   CR         2   TR  1   CH  1   NT  F#-     2+473/480
+BA   16   CR         2   TR  2   CH  2   NT  G--     2+473/480
+
+BA   17   CR         1   TR  1   CH  1   NT  G-      2+233/480
+BA   17   CR         1   TR  2   CH  2   NT  C#--    6+473/480
+BA   17   CR     3+1/2   TR  1   CH  1   NT  A-        233/480
+
+BA   18   CR         0   TR  1   CH  1   NT  G-        233/480
+BA   18   CR       1/2   TR  1   CH  1   NT  F#-     1+233/480
+BA   18   CR         2   TR  1   CH  1   NT  E       1+473/480
+
+BA   19   CR         0   TR  1   CH  1   NT  D       1+473/480
+BA   19   CR         0   TR  2   CH  2   NT  G--     2+473/480
+BA   19   CR         3   TR  1   CH  1   NT  F#-       473/480
+BA   19   CR         3   TR  2   CH  2   NT  E-        473/480
+
+BA   20   CR         0   TR  1   CH  1   NT  A-      3+473/480
+BA   20   CR         0   TR  2   CH  2   NT  C#-       473/480
+BA   20   CR         1   TR  2   CH  2   NT  G--     2+473/480
+
+BA   21   CR         0   TR  2   CH  2   NT  C#-       473/480
+BA   21   CR         1   TR  1   CH  1   NT  F#-     2+233/480
+BA   21   CR         1   TR  2   CH  2   NT  A---    4+473/480
+BA   21   CR     3+1/2   TR  1   CH  1   NT  E-        233/480
+
+BA   22   CR         0   TR  1   CH  1   NT  F#-       473/480
+BA   22   CR         1   TR  1   CH  1   NT  G-      2+473/480
+BA   22   CR         2   TR  2   CH  2   NT  A#--    1+473/480
+
+BA   23   CR         0   TR  1   CH  1   NT  B-      1+473/480
+BA   23   CR         0   TR  2   CH  2   NT  E-        473/480
+BA   23   CR         1   TR  2   CH  2   NT  G--     2+473/480
+BA   23   CR         2   TR  1   CH  1   NT  A-        473/480
+BA   23   CR         3   TR  1   CH  1   NT  F#-     3+473/480
+
+BA   24   CR         0   TR  2   CH  2   NT  C#--    3+473/480
+
+BA   25   CR         0   TR  2   CH  2   NT  C#--    3+473/480
+BA   25   CR         1   TR  1   CH  1   NT  E-        473/480
+BA   25   CR         2   TR  1   CH  1   NT  E-        473/480
+BA   25   CR         3   TR  1   CH  1   NT  E-        473/480
+
+BA   26   CR         0   TR  1   CH  1   NT  C#      1+473/480
+BA   26   CR         0   TR  2   CH  2   NT  G--     2+473/480
+BA   26   CR         0   TR  2   CH  2   NT  G-      2+473/480
+BA   26   CR         2   TR  1   CH  1   NT  D         473/480
+BA   26   CR         3   TR  1   CH  1   NT  B-        473/480
+BA   26   CR         3   TR  2   CH  2   NT  E-        473/480
+BA   26   CR 3+473/480   TR  1   CH 16   End of track
+BA   26   CR 3+473/480   TR  2   CH 16   End of track

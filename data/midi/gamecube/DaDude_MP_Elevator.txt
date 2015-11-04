@@ -1,0 +1,171 @@
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 18 0 0 127 127 0
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 28 50 48 48 54 46 48 57 46 48 50
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Track 0"
+BA    1   CR         0   TR  0   CH 16   Tempo 112
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH  2   Instrument 96
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Metroid Prime: Elevator"
+BA    1   CR         0   TR  1   CH  2   Channel volume 127
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  1   CH 16   Time signature 5/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  1   CH  2   NT  F#---           3   von=127   voff=0
+BA    1   CR         0   TR  2   CH  1   Instrument 93
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Christopher Foss"
+BA    1   CR         0   TR  2   CH  1   Channel volume 127
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  2   CH  1   Channel volume 127
+BA    1   CR         0   TR  2   CH  1   Channel volume 127
+BA    1   CR         0   TR  2   CH  1   Channel volume 127
+BA    1   CR         0   TR  2   CH  1   NT  Bb            1/4   von=127   voff=0
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  3   CH 16   Text type 3: "By DaDude"
+BA    1   CR         0   TR  3   CH  3   Channel volume 127
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  3   CH  3   Instrument 127
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  3   CH  3   NT  G'             49   von=38   voff=0
+BA    1   CR         0   TR  3   CH  3   NT  D''        50+1/2   voff=0
+BA    1   CR         0   TR  4   CH  4   Instrument 14
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 9 64 72
+BA    1   CR         0   TR  4   CH 16   Text type 3: "chrisfoss@rogers.com"
+BA    1   CR         0   TR  4   CH  4   Channel volume 127
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   3
+BA    1   CR         0   TR  4   CH  4   Channel volume 127
+BA    1   CR         0   TR  4   CH  4   Channel volume 127
+BA    1   CR         0   TR  4   CH  4   NT  Bb            1/4   von=127   voff=0
+BA    1   CR       1/2   TR  2   CH  1   NT  C#            1/4   voff=0
+BA    1   CR       1/2   TR  4   CH  4   NT  C#            1/4   voff=0
+BA    1   CR         1   TR  2   CH  1   NT  F#            1/4   voff=0
+BA    1   CR         1   TR  4   CH  4   NT  F#            1/4   voff=0
+BA    1   CR     1+1/2   TR  2   CH  1   NT  C#'           1/4   voff=0
+BA    1   CR     1+1/2   TR  4   CH  4   NT  C#'           1/4   voff=0
+BA    1   CR         2   TR  2   CH  1   NT  C'            1/4   voff=0
+BA    1   CR         2   TR  4   CH  4   NT  C'            1/4   voff=0
+BA    1   CR     2+1/2   TR  2   CH  1   NT  C             1/4   voff=0
+BA    1   CR     2+1/2   TR  4   CH  4   NT  C             1/4   voff=0
+BA    1   CR         3   TR  2   CH  1   NT  C#'           1/4   voff=0
+BA    1   CR         3   TR  4   CH  4   NT  C#'           1/4   voff=0
+BA    1   CR         4   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 3
+BA    1   CR         4   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 2
+
+BA    2   CR         0   TR  1   CH  2   Channel volume 127
+BA    2   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA    2   CR         3   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    2   CR         3   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+
+BA    3   CR         0   TR  1   CH  2   Channel volume 127
+BA    3   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA    3   CR     1+1/2   TR  2   CH  1   NT  C             1/4   voff=0
+BA    3   CR     1+1/2   TR  4   CH  4   NT  C             1/4   voff=0
+BA    3   CR         2   TR  2   CH  1   NT  Bb            1/4   voff=0
+BA    3   CR         2   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    3   CR         2   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+BA    3   CR         2   TR  4   CH  4   NT  Bb            1/4   voff=0
+BA    3   CR     2+1/2   TR  2   CH  1   NT  C#            1/4   voff=0
+BA    3   CR     2+1/2   TR  4   CH  4   NT  C#            1/4   voff=0
+BA    3   CR         3   TR  2   CH  1   NT  C#'           1/4   voff=0
+BA    3   CR         3   TR  4   CH  4   NT  C#'           1/4   voff=0
+BA    3   CR     3+1/2   TR  2   CH  1   NT  C'            1/4   voff=0
+BA    3   CR     3+1/2   TR  4   CH  4   NT  C'            1/4   voff=0
+BA    3   CR         4   TR  2   CH  1   NT  C#            1/4   voff=0
+BA    3   CR         4   TR  4   CH  4   NT  C#            1/4   voff=0
+BA    3   CR     4+1/2   TR  2   CH  1   NT  C#'           1/4   voff=0
+BA    3   CR     4+1/2   TR  4   CH  4   NT  C#'           1/4   voff=0
+
+BA    4   CR         0   TR  1   CH  2   Channel volume 127
+BA    4   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA    4   CR         1   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    4   CR         1   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+
+BA    5   CR         0   TR  1   CH  2   Channel volume 127
+BA    5   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA    5   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 3
+BA    5   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 2
+BA    5   CR         4   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    5   CR         4   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+BA    5   CR     4+1/2   TR  2   CH  1   Channel volume 127
+BA    5   CR     4+1/2   TR  2   CH  1   Channel volume 127
+BA    5   CR     4+1/2   TR  2   CH  1   NT  Bb            1/4   voff=0
+BA    5   CR     4+1/2   TR  2   CH  1   Channel volume 127
+BA    5   CR     4+1/2   TR  4   CH  4   Channel volume 127
+BA    5   CR     4+1/2   TR  4   CH  4   Channel volume 127
+BA    5   CR     4+1/2   TR  4   CH  4   NT  Bb            1/4   voff=0
+BA    5   CR     4+1/2   TR  4   CH  4   Channel volume 127
+
+BA    6   CR         0   TR  1   CH  2   Channel volume 127
+BA    6   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA    6   CR         0   TR  2   CH  1   NT  C#            1/4   voff=0
+BA    6   CR         0   TR  4   CH  4   NT  C#            1/4   voff=0
+BA    6   CR       1/2   TR  2   CH  1   NT  F#            1/4   voff=0
+BA    6   CR       1/2   TR  4   CH  4   NT  F#            1/4   voff=0
+BA    6   CR         1   TR  2   CH  1   NT  C#'           1/4   voff=0
+BA    6   CR         1   TR  4   CH  4   NT  C#'           1/4   voff=0
+BA    6   CR     1+1/2   TR  2   CH  1   NT  C'            1/4   voff=0
+BA    6   CR     1+1/2   TR  4   CH  4   NT  C'            1/4   voff=0
+BA    6   CR         2   TR  2   CH  1   NT  C             1/4   voff=0
+BA    6   CR         2   TR  4   CH  4   NT  C             1/4   voff=0
+BA    6   CR     2+1/2   TR  2   CH  1   NT  C#'           1/4   voff=0
+BA    6   CR     2+1/2   TR  4   CH  4   NT  C#'           1/4   voff=0
+BA    6   CR         3   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    6   CR         3   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+
+BA    7   CR         0   TR  1   CH  2   Channel volume 127
+BA    7   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA    7   CR         2   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    7   CR         2   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+
+BA    8   CR         0   TR  1   CH  2   Channel volume 127
+BA    8   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA    8   CR         1   TR  2   CH  1   NT  C             1/4   voff=0
+BA    8   CR         1   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    8   CR         1   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+BA    8   CR         1   TR  4   CH  4   NT  C             1/4   voff=0
+BA    8   CR     1+1/2   TR  2   CH  1   NT  Bb            1/4   voff=0
+BA    8   CR     1+1/2   TR  4   CH  4   NT  Bb            1/4   voff=0
+BA    8   CR         2   TR  2   CH  1   NT  C#            1/4   voff=0
+BA    8   CR         2   TR  4   CH  4   NT  C#            1/4   voff=0
+BA    8   CR     2+1/2   TR  2   CH  1   NT  C#'           1/4   voff=0
+BA    8   CR     2+1/2   TR  4   CH  4   NT  C#'           1/4   voff=0
+BA    8   CR         3   TR  2   CH  1   NT  C'            1/4   voff=0
+BA    8   CR         3   TR  4   CH  4   NT  C'            1/4   voff=0
+BA    8   CR     3+1/2   TR  2   CH  1   NT  C#            1/4   voff=0
+BA    8   CR     3+1/2   TR  4   CH  4   NT  C#            1/4   voff=0
+BA    8   CR         4   TR  2   CH  1   NT  C#'           1/4   voff=0
+BA    8   CR         4   TR  4   CH  4   NT  C#'           1/4   voff=0
+
+BA    9   CR         0   TR  1   CH  2   Channel volume 127
+BA    9   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA    9   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    9   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+BA    9   CR         4   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+BA    9   CR         4   TR  3   CH 16   Meta Event   type &7F   5 15 13 79 38 2
+
+BA   10   CR         0   TR  1   CH  2   Channel volume 127
+BA   10   CR         0   TR  1   CH  2   NT  F#---           3   voff=0
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH 16   Meta Event   type &7F   5 15 10
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH  1   Channel volume 127
+BA   10   CR     3+1/2   TR  2   CH 16   End of track
+BA   10   CR     3+1/2   TR  4   CH  4   Channel volume 127
+BA   10   CR     3+1/2   TR  4   CH  4   Channel volume 127
+BA   10   CR     3+1/2   TR  4   CH  4   Channel volume 127
+BA   10   CR     3+1/2   TR  4   CH 16   End of track
+BA   10   CR         4   TR  3   CH 16   Meta Event   type &7F   5 15 13 86 38 3
+
+BA   11   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 10
+BA   11   CR         0   TR  1   CH 16   End of track
+BA   11   CR       1/2   TR  3   CH 16   End of track

@@ -1,0 +1,220 @@
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Tempo 99.0001
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Flute"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 74
+BA    1   CR         0   TR  2   CH 16   Text type 3: "String"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 45
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Glockenspiel"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &00 &00
+BA    1   CR         0   TR  3   CH  3   Instrument 10
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &3F
+BA    1   CR         0   TR  3   CH  3   Channel volume 96
+BA    1   CR         0   TR  3   CH  3   NT  G#        113/480   von=64
+BA    1   CR         0   TR  3   CH  3   NT  D'        113/480
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Tuba"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  4   CH  4   Instrument 59
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &3F
+BA    1   CR         0   TR  4   CH  4   Channel volume 96
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Oboe"
+BA    1   CR         0   TR  5   CH  5   ST &B4 &00 &00
+BA    1   CR         0   TR  5   CH  5   Instrument 69
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &3F
+BA    1   CR         0   TR  5   CH  5   Channel volume 96
+BA    1   CR       1/4   TR  3   CH  3   NT  E'        113/480
+BA    1   CR       1/2   TR  3   CH  3   NT  D'        113/480
+BA    1   CR       3/4   TR  3   CH  3   NT  E         113/480
+BA    1   CR         1   TR  3   CH  3   NT  D'        473/480
+BA    1   CR         2   TR  3   CH  3   NT  F'        473/480
+BA    1   CR    3+5/32   TR  0   CH 16   Tempo 98.0002
+BA    1   CR   3+23/32   TR  2   CH  2   Channel volume 126
+BA    1   CR   3+25/32   TR  2   CH  2   Channel volume 127
+BA    1   CR   3+31/32   TR  0   CH 16   Tempo 240
+
+BA    2   CR         0   TR  2   CH  2   NT  D         473/480   von=64
+BA    2   CR         0   TR  2   CH  2   NT  G-        473/480
+BA    2   CR         0   TR  2   CH  2   NT  G#--      473/480
+BA    2   CR     29/32   TR  2   CH  2   Channel volume 114
+BA    2   CR     31/32   TR  2   CH  2   Channel volume 95
+BA    2   CR   473/480   TR  2   CH 16   End of track
+BA    2   CR   1+11/32   TR  0   CH 16   Tempo 99.0001
+
+BA    3   CR         0   TR  1   CH  1   NT  C#'       113/480   von=64
+BA    3   CR         0   TR  3   CH  3   NT  F-        473/480
+BA    3   CR         0   TR  3   CH  3   NT  C#        473/480
+BA    3   CR       1/4   TR  1   CH  1   NT  C#''      113/480
+BA    3   CR       1/2   TR  1   CH  1   NT  A'        113/480
+BA    3   CR       3/4   TR  1   CH  1   NT  F#'       113/480
+BA    3   CR         1   TR  1   CH  1   NT  F'        473/480
+BA    3   CR         2   TR  1   CH  1   NT  A         473/480
+BA    3   CR         2   TR  3   CH  3   NT  C#-       473/480
+BA    3   CR         2   TR  3   CH  3   NT  A-        473/480
+BA    3   CR         3   TR  1   CH  1   NT  C#'         9/160
+BA    3   CR    3+1/16   TR  1   CH  1   NT  C#'         9/160
+BA    3   CR     3+1/8   TR  1   CH  1   NT  D'          9/160
+BA    3   CR    3+3/16   TR  1   CH  1   NT  Eb'       293/480
+BA    3   CR   3+31/32   TR  0   CH 16   Tempo 100
+
+BA    4   CR         0   TR  1   CH  1   NT  F         113/480
+BA    4   CR         0   TR  3   CH  3   NT  F-        473/480
+BA    4   CR         0   TR  3   CH  3   NT  A--       473/480
+BA    4   CR       1/4   TR  1   CH  1   NT  F'        113/480
+BA    4   CR       1/2   TR  1   CH  1   NT  C#'       113/480
+BA    4   CR     19/32   TR  0   CH 16   Tempo 99.0001
+BA    4   CR       3/4   TR  1   CH  1   NT  Bb        113/480
+BA    4   CR         1   TR  1   CH  1   NT  A         473/480
+BA    4   CR         1   TR  3   CH  3   NT  A--       233/480
+BA    4   CR         1   TR  4   CH  4   NT  A         473/480   von=64
+BA    4   CR     1+1/2   TR  3   CH  3   NT  Eb--      233/480
+BA    4   CR         2   TR  1   CH  1   NT  G#        473/480
+BA    4   CR         2   TR  4   CH  4   NT  G#        473/480
+BA    4   CR         3   TR  1   CH  1   NT  Eb        473/480
+BA    4   CR         3   TR  4   CH  4   NT  Eb        473/480
+
+BA    5   CR         0   TR  1   CH  1   NT  D'        113/480
+BA    5   CR         0   TR  3   CH  3   NT  F--       473/480
+BA    5   CR         0   TR  3   CH  3   NT  D'        113/480
+BA    5   CR       1/4   TR  1   CH  1   NT  Eb'       113/480
+BA    5   CR       1/4   TR  3   CH  3   NT  Eb'       113/480
+BA    5   CR       1/2   TR  1   CH  1   NT  F'        113/480
+BA    5   CR       1/2   TR  3   CH  3   NT  F'        113/480
+BA    5   CR       3/4   TR  1   CH  1   NT  G'        113/480
+BA    5   CR       3/4   TR  3   CH  3   NT  G'        113/480
+BA    5   CR         1   TR  1   CH  1   NT  G#'       113/480
+BA    5   CR         1   TR  3   CH  3   NT  G#'       113/480
+BA    5   CR     1+1/4   TR  1   CH  1   NT  A'        113/480
+BA    5   CR     1+1/4   TR  3   CH  3   NT  A'        113/480
+BA    5   CR     1+1/2   TR  1   CH  1   NT  Bb'       113/480
+BA    5   CR     1+1/2   TR  3   CH  3   NT  Bb'       113/480
+BA    5   CR     1+3/4   TR  1   CH  1   NT  B'        113/480
+BA    5   CR     1+3/4   TR  3   CH  3   NT  B'        113/480
+BA    5   CR         2   TR  1   CH  1   NT  F#'     1+473/480
+BA    5   CR         2   TR  1   CH  1   NT  C''     1+473/480
+BA    5   CR         2   TR  3   CH  3   NT  F#'     1+473/480
+BA    5   CR         2   TR  3   CH  3   NT  C''     1+473/480
+BA    5   CR 3+473/480   TR  1   CH 16   End of track
+
+BA    6   CR      1/32   TR  0   CH 16   Tempo 98.0002
+BA    6   CR      5/32   TR  0   CH 16   Tempo 97.0001
+BA    6   CR      7/32   TR  0   CH 16   Tempo 96
+BA    6   CR      9/32   TR  0   CH 16   Tempo 95.0002
+BA    6   CR     11/32   TR  0   CH 16   Tempo 94.0002
+BA    6   CR     13/32   TR  0   CH 16   Tempo 93
+BA    6   CR     15/32   TR  0   CH 16   Tempo 92.0001
+BA    6   CR       1/2   TR  4   CH  4   NT  C-        233/480
+BA    6   CR       1/2   TR  4   CH  4   NT  C         233/480
+BA    6   CR     17/32   TR  0   CH 16   Tempo 91.0001
+BA    6   CR     19/32   TR  0   CH 16   Tempo 90.0001
+BA    6   CR     21/32   TR  0   CH 16   Tempo 89
+BA    6   CR     23/32   TR  0   CH 16   Tempo 88
+BA    6   CR     25/32   TR  0   CH 16   Tempo 87
+BA    6   CR     29/32   TR  0   CH 16   Tempo 86
+BA    6   CR     31/32   TR  0   CH 16   Tempo 85
+BA    6   CR         1   TR  4   CH  4   NT  G-        233/480
+BA    6   CR    1+1/32   TR  0   CH 16   Tempo 84.0001
+BA    6   CR    1+3/32   TR  0   CH 16   Tempo 83.0001
+BA    6   CR    1+5/32   TR  0   CH 16   Tempo 82
+BA    6   CR    1+7/32   TR  0   CH 16   Tempo 81.0001
+BA    6   CR    1+9/32   TR  0   CH 16   Tempo 80
+BA    6   CR   1+11/32   TR  0   CH 16   Tempo 79.0001
+BA    6   CR   1+13/32   TR  0   CH 16   Tempo 78.0001
+BA    6   CR   1+15/32   TR  0   CH 16   Tempo 77.0001
+BA    6   CR     1+1/2   TR  4   CH  4   NT  F#-       233/480
+BA    6   CR   1+17/32   TR  0   CH 16   Tempo 76.0001
+BA    6   CR   1+19/32   TR  0   CH 16   Tempo 75
+BA    6   CR   1+23/32   TR  0   CH 16   Tempo 74.0001
+BA    6   CR   1+25/32   TR  0   CH 16   Tempo 73.0001
+BA    6   CR   1+27/32   TR  0   CH 16   Tempo 72
+BA    6   CR   1+29/32   TR  0   CH 16   Tempo 71
+BA    6   CR   1+31/32   TR  0   CH 16   Tempo 70.0001
+BA    6   CR         2   TR  4   CH  4   NT  F-      1+473/480
+BA    6   CR    2+1/32   TR  0   CH 16   Tempo 69
+BA    6   CR    2+3/32   TR  0   CH 16   Tempo 68.0001
+BA    6   CR    2+5/32   TR  0   CH 16   Tempo 67
+BA    6   CR    2+7/32   TR  0   CH 16   Tempo 66.0001
+BA    6   CR    2+9/32   TR  0   CH 16   Tempo 65.00009
+BA    6   CR   2+11/32   TR  0   CH 16   Tempo 64
+BA    6   CR   2+15/32   TR  0   CH 16   Tempo 63.00009
+BA    6   CR   2+17/32   TR  0   CH 16   Tempo 62.00009
+BA    6   CR   2+19/32   TR  0   CH 16   Tempo 61.00006
+BA    6   CR   2+21/32   TR  0   CH 16   Tempo 60
+BA    6   CR   2+23/32   TR  0   CH 16   Tempo 59
+BA    6   CR   2+25/32   TR  0   CH 16   Tempo 58.00007
+BA    6   CR   2+27/32   TR  0   CH 16   Tempo 57.00005
+BA    6   CR   2+29/32   TR  0   CH 16   Tempo 56.00005
+BA    6   CR   2+31/32   TR  0   CH 16   Tempo 55
+BA    6   CR    3+1/32   TR  0   CH 16   Tempo 54
+BA    6   CR    3+3/32   TR  0   CH 16   Tempo 53
+BA    6   CR    3+5/32   TR  0   CH 16   Tempo 52
+BA    6   CR    3+9/32   TR  0   CH 16   Tempo 51.00004
+BA    6   CR   3+11/32   TR  0   CH 16   Tempo 50
+BA    6   CR   3+13/32   TR  0   CH 16   Tempo 49.00005
+BA    6   CR   3+15/32   TR  0   CH 16   Tempo 48
+BA    6   CR   3+17/32   TR  0   CH 16   Tempo 47.00004
+BA    6   CR   3+19/32   TR  0   CH 16   Tempo 46.00004
+BA    6   CR   3+21/32   TR  0   CH 16   Tempo 45
+BA    6   CR   3+23/32   TR  0   CH 16   Tempo 44
+BA    6   CR   3+25/32   TR  0   CH 16   Tempo 43.00004
+BA    6   CR   3+27/32   TR  0   CH 16   Tempo 42
+BA    6   CR   3+29/32   TR  0   CH 16   Tempo 41.00003
+BA    6   CR   3+31/32   TR  0   CH 16   Tempo 106.0002
+BA    6   CR   3+31/32   TR  0   CH 16   End of track
+BA    6   CR 3+473/480   TR  4   CH 16   End of track
+
+BA    7   CR         0   TR  3   CH  3   NT  A-        473/480
+BA    7   CR         0   TR  5   CH  5   NT  A         473/480   von=64
+BA    7   CR         1   TR  3   CH  3   NT  D         473/480
+BA    7   CR         1   TR  5   CH  5   NT  G'        233/480
+BA    7   CR     1+1/2   TR  5   CH  5   NT  F#'       233/480
+BA    7   CR         2   TR  3   CH  3   NT  E         473/480
+BA    7   CR         2   TR  3   CH  3   NT  D         473/480
+BA    7   CR         2   TR  5   CH  5   NT  G'        233/480
+BA    7   CR     2+1/2   TR  5   CH  5   NT  F#'       233/480
+BA    7   CR         3   TR  3   CH  3   NT  A         473/480
+
+BA    8   CR         1   TR  5   CH  5   NT  G'        473/480
+BA    8   CR         2   TR  3   CH  3   NT  E         473/480
+
+BA    9   CR         0   TR  3   CH  3   NT  A-        473/480
+BA    9   CR         0   TR  5   CH  5   NT  A         473/480
+BA    9   CR         1   TR  5   CH  5   NT  D'        473/480
+BA    9   CR         2   TR  3   CH  3   NT  E         473/480
+BA    9   CR         2   TR  3   CH  3   NT  D         473/480
+BA    9   CR         2   TR  5   CH  5   NT  E'        473/480
+BA    9   CR         3   TR  5   CH  5   NT  A'        473/480
+
+BA   10   CR         2   TR  3   CH  3   NT  E         473/480
+
+BA   11   CR         0   TR  3   CH  3   NT  A-        473/480
+BA   11   CR         0   TR  5   CH  5   NT  A         473/480
+BA   11   CR         1   TR  3   CH  3   NT  D         473/480
+BA   11   CR         1   TR  5   CH  5   NT  G'        233/480
+BA   11   CR     1+1/2   TR  5   CH  5   NT  F#'       233/480
+BA   11   CR         2   TR  3   CH  3   NT  E         473/480
+BA   11   CR         2   TR  3   CH  3   NT  D         473/480
+BA   11   CR         2   TR  5   CH  5   NT  G'        233/480
+BA   11   CR     2+1/2   TR  5   CH  5   NT  F#'       233/480
+BA   11   CR         3   TR  3   CH  3   NT  A         473/480
+
+BA   12   CR         1   TR  5   CH  5   NT  G'        473/480
+BA   12   CR     1+3/4   TR  3   CH  3   NT  C#      1+113/480
+BA   12   CR     1+3/4   TR  3   CH  3   NT  E       1+113/480
+BA   12   CR         3   TR  5   CH  5   NT  E         473/480
+
+BA   13   CR         0   TR  3   CH  3   NT  G-        473/480
+BA   13   CR         0   TR  5   CH  5   NT  G         473/480
+BA   13   CR         0   TR  5   CH  5   NT  B         473/480
+BA   13   CR         1   TR  3   CH  3   NT  F#-       473/480
+BA   13   CR         1   TR  5   CH  5   NT  A         473/480
+BA   13   CR         1   TR  5   CH  5   NT  C#'       473/480
+BA   13   CR         2   TR  3   CH  3   NT  E-        473/480
+BA   13   CR         2   TR  5   CH  5   NT  B         473/480
+BA   13   CR         2   TR  5   CH  5   NT  D'        473/480
+BA   13   CR         3   TR  3   CH  3   NT  D-        473/480
+BA   13   CR         3   TR  5   CH  5   NT  B         473/480
+BA   13   CR         3   TR  5   CH  5   NT  E'        473/480
+BA   13   CR 3+473/480   TR  3   CH 16   End of track
+BA   13   CR 3+473/480   TR  5   CH 16   End of track

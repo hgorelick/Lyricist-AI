@@ -1,0 +1,254 @@
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 96, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   0 0 65
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   0 0 119 14 0
+BA    1   CR         0   TR  0   CH 16   Tempo 115
+BA    1   CR         0   TR  1   CH 16   End of track
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Legend of Zelda: Wind Waker"
+BA    1   CR         0   TR  2   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  2   CH  1   Instrument 47
+BA    1   CR         0   TR  2   CH  1   Channel volume 121
+BA    1   CR         0   TR  2   CH 16   Key C major
+BA    1   CR         0   TR  2   CH  1   NT  Eb''        23/96   von=100   voff=100
+BA    1   CR         0   TR  3   CH 16   Text type 3: "The Triforce of Wisdom"
+BA    1   CR         0   TR  3   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  3   CH  2   Instrument 50
+BA    1   CR         0   TR  3   CH  2   Channel volume 127
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Sequenced by"
+BA    1   CR         0   TR  4   CH  7   ST &B6 &00 &00
+BA    1   CR         0   TR  4   CH  7   Instrument 50
+BA    1   CR         0   TR  4   CH  7   Channel volume 121
+BA    1   CR         0   TR  5   CH 16   Text type 3: "ShantMan"
+BA    1   CR         0   TR  5   CH  8   ST &B7 &00 &00
+BA    1   CR         0   TR  5   CH  8   Instrument 49
+BA    1   CR         0   TR  5   CH  8   Channel volume 127
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Original by"
+BA    1   CR         0   TR  6   CH  9   ST &B8 &00 &00
+BA    1   CR         0   TR  6   CH  9   Instrument 41
+BA    1   CR         0   TR  6   CH  9   Channel volume 101
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Koji Kondo"
+BA    1   CR         0   TR  7   CH  6   ST &B5 &00 &00
+BA    1   CR         0   TR  7   CH  6   Instrument 111
+BA    1   CR         0   TR  7   CH  6   Channel volume 108
+BA    1   CR         0   TR  8   CH 11   Channel volume 121
+BA    1   CR         0   TR  8   CH 16   End of track
+BA    1   CR         0   TR  9   CH 12   Channel volume 121
+BA    1   CR         0   TR  9   CH 16   End of track
+BA    1   CR         0   TR 10   CH 13   Channel volume 121
+BA    1   CR         0   TR 10   CH 16   End of track
+BA    1   CR         0   TR 11   CH 14   Channel volume 121
+BA    1   CR         0   TR 11   CH 16   End of track
+BA    1   CR         0   TR 12   CH 15   Channel volume 121
+BA    1   CR         0   TR 12   CH 16   End of track
+BA    1   CR         0   TR 13   CH 16   Channel volume 121
+BA    1   CR         0   TR 13   CH 16   End of track
+BA    1   CR         0   TR 14   CH 13   Channel volume 121
+BA    1   CR         0   TR 14   CH 16   End of track
+BA    1   CR         0   TR 15   CH 14   Channel volume 121
+BA    1   CR         0   TR 15   CH 16   End of track
+BA    1   CR         0   TR 16   CH 15   Channel volume 121
+BA    1   CR         0   TR 16   CH 16   End of track
+BA    1   CR         0   TR 17   CH 16   Channel volume 121
+BA    1   CR         0   TR 17   CH 16   End of track
+BA    1   CR         0   TR 18   CH 16   End of track
+BA    1   CR         0   TR 19   CH 16   End of track
+BA    1   CR         0   TR 20   CH 16   End of track
+BA    1   CR         0   TR 21   CH 16   End of track
+BA    1   CR       1/4   TR  2   CH  1   NT  C#''        23/96   voff=100
+BA    1   CR       1/2   TR  2   CH  1   NT  Bb'         23/96   voff=100
+BA    1   CR       3/4   TR  2   CH  1   NT  G'          23/96   voff=100
+BA    1   CR         1   TR  2   CH  1   NT  F'          23/96   voff=100
+BA    1   CR     1+1/4   TR  2   CH  1   NT  C#''        23/96   voff=100
+BA    1   CR     1+1/2   TR  2   CH  1   NT  Bb'         23/96   voff=100
+BA    1   CR     1+3/4   TR  2   CH  1   NT  G'          23/96   voff=100
+BA    1   CR         2   TR  2   CH  1   NT  F'          23/96   voff=100
+BA    1   CR     2+1/4   TR  2   CH  1   NT  Eb'         23/96   voff=100
+BA    1   CR     2+1/2   TR  2   CH  1   NT  Bb'         23/96   voff=100
+BA    1   CR     2+3/4   TR  2   CH  1   NT  G'          23/96   voff=100
+BA    1   CR         3   TR  2   CH  1   NT  F'          23/96   voff=100
+BA    1   CR     3+1/4   TR  2   CH  1   NT  Eb'         23/96   voff=100
+BA    1   CR     3+1/2   TR  2   CH  1   NT  C#'         23/96   voff=100
+BA    1   CR     3+3/4   TR  2   CH  1   NT  G'          23/96   voff=100
+
+BA    2   CR         0   TR  2   CH  1   NT  F'          23/96   voff=100
+BA    2   CR       1/4   TR  2   CH  1   NT  Eb'         23/96   voff=100
+BA    2   CR       1/2   TR  2   CH  1   NT  C#'         23/96   voff=100
+BA    2   CR       3/4   TR  2   CH  1   NT  Bb          23/96   voff=100
+BA    2   CR         1   TR  2   CH  1   NT  F'          23/96   voff=100
+BA    2   CR     1+1/4   TR  2   CH  1   NT  Eb'         23/96   voff=100
+BA    2   CR     1+1/2   TR  2   CH  1   NT  C#'         23/96   voff=100
+BA    2   CR     1+3/4   TR  2   CH  1   NT  Bb          23/96   voff=100
+BA    2   CR         2   TR  2   CH  1   NT  G           23/96   voff=100
+BA    2   CR     2+1/4   TR  2   CH  1   NT  Eb'         23/96   voff=100
+BA    2   CR     2+1/2   TR  2   CH  1   NT  C#'         23/96   voff=100
+BA    2   CR     2+3/4   TR  2   CH  1   NT  Bb          23/96   voff=100
+BA    2   CR         3   TR  2   CH  1   NT  G           23/96   voff=100
+BA    2   CR     3+1/4   TR  2   CH  1   NT  F           23/96   voff=100
+BA    2   CR     3+1/2   TR  2   CH  1   NT  C#'         23/96   voff=100
+BA    2   CR     3+3/4   TR  2   CH  1   NT  Bb          23/96   voff=100
+
+BA    3   CR         0   TR  0   CH 16   Tempo 135
+BA    3   CR         0   TR  2   CH  1   NT  G           23/96   voff=100
+BA    3   CR       1/4   TR  2   CH  1   NT  F           23/96   voff=100
+BA    3   CR       1/2   TR  2   CH  1   NT  Eb          23/96   voff=100
+BA    3   CR       3/4   TR  2   CH  1   NT  Bb          23/96   voff=100
+BA    3   CR         1   TR  2   CH  1   NT  G           23/96   voff=100
+BA    3   CR     1+1/4   TR  2   CH  1   NT  F           23/96   voff=100
+BA    3   CR     1+1/2   TR  2   CH  1   NT  Eb          23/96   voff=100
+BA    3   CR     1+3/4   TR  2   CH  1   NT  C#          23/96   voff=100
+BA    3   CR         2   TR  2   CH  1   NT  Bb-         23/96   voff=100
+BA    3   CR     2+1/4   TR  2   CH  1   NT  G-          23/96   voff=100
+BA    3   CR     2+1/2   TR  2   CH  1   NT  F           23/96   voff=100
+BA    3   CR     2+3/4   TR  2   CH  1   NT  G           23/96   voff=100
+BA    3   CR         3   TR  0   CH 16   Tempo 100
+BA    3   CR         3   TR  2   CH  1   NT  Bb          23/96   voff=100
+BA    3   CR     3+1/4   TR  2   CH  1   NT  C#'         23/96   voff=100
+BA    3   CR     3+1/2   TR  2   CH  1   NT  Eb'         23/96   voff=100
+BA    3   CR     3+3/4   TR  2   CH  1   NT  G'        3+95/96   voff=100
+
+BA    4   CR         0   TR  2   CH  1   NT  Bb'       3+23/96   voff=100
+BA    4   CR       1/4   TR  2   CH  1   NT  C#''      3+23/96   voff=100
+BA    4   CR       1/2   TR  2   CH  1   NT  F''       3+23/96   voff=100
+BA    4   CR       3/4   TR  2   CH  1   NT  G''       3+23/96   voff=100
+BA    4   CR   3+95/96   TR  2   CH 16   End of track
+
+BA    5   CR         0   TR  0   CH 16   Tempo 130
+BA    5   CR         0   TR  0   CH 16   End of track
+BA    5   CR         0   TR  3   CH  2   NT  G#--      7+95/96   von=100   voff=100
+BA    5   CR         0   TR  3   CH  2   NT  G#-       7+95/96   voff=100
+BA    5   CR         0   TR  4   CH  7   NT  Eb-       7+95/96   von=100   voff=100
+BA    5   CR         0   TR  4   CH  7   NT  Eb        7+95/96   voff=100
+BA    5   CR         1   TR  5   CH  8   NT  Eb-         47/96   von=100   voff=100
+BA    5   CR         1   TR  5   CH  8   NT  Eb          47/96   voff=100
+BA    5   CR         1   TR  6   CH  9   NT  Eb-         47/96   von=100   voff=100
+BA    5   CR         1   TR  6   CH  9   NT  Eb          47/96   voff=100
+BA    5   CR     1+1/2   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    5   CR     1+1/2   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    5   CR     1+1/2   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    5   CR     1+1/2   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    5   CR         2   TR  5   CH  8   NT  Bb-       2+95/96   voff=100
+BA    5   CR         2   TR  5   CH  8   NT  Bb        2+95/96   voff=100
+BA    5   CR         2   TR  6   CH  9   NT  Bb-       2+95/96   voff=100
+BA    5   CR         2   TR  6   CH  9   NT  Bb        2+95/96   voff=100
+
+BA    6   CR         1   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    6   CR         1   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    6   CR         1   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    6   CR         1   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    6   CR     1+1/2   TR  5   CH  8   NT  Eb-         47/96   voff=100
+BA    6   CR     1+1/2   TR  5   CH  8   NT  Eb          47/96   voff=100
+BA    6   CR     1+1/2   TR  6   CH  9   NT  Eb-         47/96   voff=100
+BA    6   CR     1+1/2   TR  6   CH  9   NT  Eb          47/96   voff=100
+BA    6   CR         2   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    6   CR         2   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    6   CR         2   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    6   CR         2   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    6   CR     2+1/2   TR  5   CH  8   NT  Bb-         47/96   voff=100
+BA    6   CR     2+1/2   TR  5   CH  8   NT  Bb          47/96   voff=100
+BA    6   CR     2+1/2   TR  6   CH  9   NT  Bb-         47/96   voff=100
+BA    6   CR     2+1/2   TR  6   CH  9   NT  Bb          47/96   voff=100
+BA    6   CR         3   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    6   CR         3   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    6   CR         3   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    6   CR         3   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    6   CR     3+1/2   TR  5   CH  8   NT  Eb-         47/96   voff=100
+BA    6   CR     3+1/2   TR  5   CH  8   NT  Eb          47/96   voff=100
+BA    6   CR     3+1/2   TR  6   CH  9   NT  Eb-         47/96   voff=100
+BA    6   CR     3+1/2   TR  6   CH  9   NT  Eb          47/96   voff=100
+
+BA    7   CR         0   TR  3   CH  2   NT  B--       7+95/96   voff=100
+BA    7   CR         0   TR  3   CH  2   NT  B-        7+95/96   voff=100
+BA    7   CR         0   TR  4   CH  7   NT  F#-       7+95/96   voff=100
+BA    7   CR         0   TR  4   CH  7   NT  F#        7+95/96   voff=100
+BA    7   CR         0   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    7   CR         0   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    7   CR         0   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    7   CR         0   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    7   CR         0   TR  7   CH  6   NT  B-        7+95/96   von=100   voff=100
+BA    7   CR         0   TR  7   CH  6   NT  B         7+95/96   voff=100
+BA    7   CR       1/2   TR  5   CH  8   NT  Eb-         47/96   voff=100
+BA    7   CR       1/2   TR  5   CH  8   NT  Eb          47/96   voff=100
+BA    7   CR       1/2   TR  6   CH  9   NT  Eb-         47/96   voff=100
+BA    7   CR       1/2   TR  6   CH  9   NT  Eb          47/96   voff=100
+BA    7   CR         1   TR  5   CH  8   NT  G#-         95/96   voff=100
+BA    7   CR         1   TR  5   CH  8   NT  G#          95/96   voff=100
+BA    7   CR         1   TR  6   CH  9   NT  G#-         95/96   voff=100
+BA    7   CR         1   TR  6   CH  9   NT  G#          95/96   voff=100
+BA    7   CR         2   TR  5   CH  8   NT  Bb-       2+95/96   voff=100
+BA    7   CR         2   TR  5   CH  8   NT  Bb        2+95/96   voff=100
+BA    7   CR         2   TR  6   CH  9   NT  Bb-       2+95/96   voff=100
+BA    7   CR         2   TR  6   CH  9   NT  Bb        2+95/96   voff=100
+
+BA    8   CR         1   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    8   CR         1   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    8   CR         1   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    8   CR         1   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    8   CR     1+1/2   TR  5   CH  8   NT  Eb-         47/96   voff=100
+BA    8   CR     1+1/2   TR  5   CH  8   NT  Eb          47/96   voff=100
+BA    8   CR     1+1/2   TR  6   CH  9   NT  Eb-         47/96   voff=100
+BA    8   CR     1+1/2   TR  6   CH  9   NT  Eb          47/96   voff=100
+BA    8   CR         2   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    8   CR         2   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    8   CR         2   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    8   CR         2   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    8   CR     2+1/2   TR  5   CH  8   NT  Bb-         47/96   voff=100
+BA    8   CR     2+1/2   TR  5   CH  8   NT  Bb          47/96   voff=100
+BA    8   CR     2+1/2   TR  6   CH  9   NT  Bb-         47/96   voff=100
+BA    8   CR     2+1/2   TR  6   CH  9   NT  Bb          47/96   voff=100
+BA    8   CR         3   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    8   CR         3   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    8   CR         3   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    8   CR         3   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    8   CR     3+1/2   TR  5   CH  8   NT  Eb-         47/96   voff=100
+BA    8   CR     3+1/2   TR  5   CH  8   NT  Eb          47/96   voff=100
+BA    8   CR     3+1/2   TR  6   CH  9   NT  Eb-         47/96   voff=100
+BA    8   CR     3+1/2   TR  6   CH  9   NT  Eb          47/96   voff=100
+
+BA    9   CR         0   TR  3   CH  2   NT  C#-       7+95/96   voff=100
+BA    9   CR         0   TR  3   CH  2   NT  C#        7+95/96   voff=100
+BA    9   CR         0   TR  4   CH  7   NT  G#-       7+95/96   voff=100
+BA    9   CR         0   TR  4   CH  7   NT  G#        7+95/96   voff=100
+BA    9   CR         0   TR  5   CH  8   NT  G#-         47/96   voff=100
+BA    9   CR         0   TR  5   CH  8   NT  G#          47/96   voff=100
+BA    9   CR         0   TR  6   CH  9   NT  G#-         47/96   voff=100
+BA    9   CR         0   TR  6   CH  9   NT  G#          47/96   voff=100
+BA    9   CR         0   TR  7   CH  6   NT  G#-       7+95/96   voff=100
+BA    9   CR         0   TR  7   CH  6   NT  G#        7+95/96   voff=100
+BA    9   CR         0   TR  7   CH  6   NT  C#        7+95/96   voff=100
+BA    9   CR         0   TR  7   CH  6   NT  C#'       7+95/96   voff=100
+BA    9   CR       1/2   TR  5   CH  8   NT  Eb-         47/96   voff=100
+BA    9   CR       1/2   TR  5   CH  8   NT  Eb          47/96   voff=100
+BA    9   CR       1/2   TR  6   CH  9   NT  Eb-         47/96   voff=100
+BA    9   CR       1/2   TR  6   CH  9   NT  Eb          47/96   voff=100
+BA    9   CR         1   TR  5   CH  8   NT  G#-         95/96   voff=100
+BA    9   CR         1   TR  5   CH  8   NT  G#          95/96   voff=100
+BA    9   CR         1   TR  6   CH  9   NT  G#-         95/96   voff=100
+BA    9   CR         1   TR  6   CH  9   NT  G#          95/96   voff=100
+BA    9   CR         2   TR  5   CH  8   NT  Bb        3+95/96   voff=100
+BA    9   CR         2   TR  5   CH  8   NT  Bb-       3+95/96   voff=100
+BA    9   CR         2   TR  6   CH  9   NT  Bb        3+95/96   voff=100
+BA    9   CR         2   TR  6   CH  9   NT  Bb-       3+95/96   voff=100
+
+BA   10   CR         2   TR  5   CH  8   NT  C#'       1+95/96   voff=100
+BA   10   CR         2   TR  5   CH  8   NT  C#        1+95/96   voff=100
+BA   10   CR         2   TR  6   CH  9   NT  C#'       1+95/96   voff=100
+BA   10   CR         2   TR  6   CH  9   NT  C#        1+95/96   voff=100
+
+BA   11   CR         0   TR  3   CH  2   NT  G#-       7+95/96   voff=100
+BA   11   CR         0   TR  3   CH  2   NT  G#--      7+95/96   voff=100
+BA   11   CR         0   TR  4   CH  7   NT  Eb        7+95/96   voff=100
+BA   11   CR         0   TR  4   CH  7   NT  Eb-       7+95/96   voff=100
+BA   11   CR         0   TR  5   CH  8   NT  C         7+95/96   voff=100
+BA   11   CR         0   TR  5   CH  8   NT  C'        7+95/96   voff=100
+BA   11   CR         0   TR  6   CH  9   NT  C         7+95/96   voff=100
+BA   11   CR         0   TR  6   CH  9   NT  C'        7+95/96   voff=100
+BA   11   CR         0   TR  7   CH  6   NT  Eb-       7+95/96   voff=100
+BA   11   CR         0   TR  7   CH  6   NT  G#-       7+95/96   voff=100
+BA   11   CR         0   TR  7   CH  6   NT  Eb        7+95/96   voff=100
+BA   11   CR         0   TR  7   CH  6   NT  G#        7+95/96   voff=100
+
+BA   12   CR   3+95/96   TR  3   CH 16   End of track
+BA   12   CR   3+95/96   TR  4   CH 16   End of track
+BA   12   CR   3+95/96   TR  5   CH 16   End of track
+BA   12   CR   3+95/96   TR  6   CH 16   End of track
+BA   12   CR   3+95/96   TR  7   CH 16   End of track

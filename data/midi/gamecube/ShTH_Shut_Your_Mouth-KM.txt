@@ -1,0 +1,2808 @@
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 18 0 0 64 127 0 64 1
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 28 50 48 48 57 46 48 52 46 48 52
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   0 0 91 35 1 0 5 6 42 0
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Track 0"
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &54   96 0 3 0 0
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 133
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Slap Bass 1"
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  1   CH  1   Channel volume 107
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH  1   Instrument 37
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &06 &10
+BA    1   CR         0   TR  1   CH  1   NT  F---            1   von=102
+BA    1   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Picked Bass"
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  2   CH  2   Channel volume 83
+BA    1   CR         0   TR  2   CH  2   Instrument 35
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  2   CH  2   NT  F---            1   von=102   voff=0
+BA    1   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  2   CH  2   ST &B1 &06 &10
+BA    1   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Distortion Guitar"
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  3   CH  3   Channel volume 126
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &53
+BA    1   CR         0   TR  3   CH  3   ST &B2 &64 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &06 &10
+BA    1   CR         0   TR  3   CH  3   Instrument 31
+BA    1   CR         0   TR  3   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  3   CH  3   NT  F-              1   von=102
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Distortion Guitar (echo)"
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  4   CH  4   Channel volume 51
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &26
+BA    1   CR         0   TR  4   CH  4   Instrument 31
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Charang"
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  5   CH  5   Instrument 85
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &54
+BA    1   CR         0   TR  5   CH  5   Channel volume 127
+BA    1   CR         0   TR  5   CH  5   ST &B4 &64 &00
+BA    1   CR         0   TR  5   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  5   CH  5   ST &B4 &06 &10
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Charang (echo)"
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  6   CH  6   Channel volume 53
+BA    1   CR         0   TR  6   CH  6   ST &B5 &0A &27
+BA    1   CR         0   TR  6   CH  6   Instrument 85
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Synth Brass 2"
+BA    1   CR         0   TR  7   CH  8   Instrument 64
+BA    1   CR         0   TR  7   CH  8   Channel volume 63
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  7   CH  8   ST &B7 &0A &40
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &20   7
+BA    1   CR         0   TR  7   CH  8   ST &B7 &0A &54
+BA    1   CR         0   TR  7   CH  8   ST &B7 &64 &00
+BA    1   CR         0   TR  7   CH  8   ST &B7 &65 &00
+BA    1   CR         0   TR  7   CH  8   ST &B7 &06 &10
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Percussion (Room Kit)"
+BA    1   CR         0   TR  8   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  8   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  8   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  8   CH 10   Channel volume 95
+BA    1   CR         0   TR  8   CH 10   Instrument 9
+BA    1   CR         0   TR  8   CH 10   NT  B---          1/4   von=102
+BA    1   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    1   CR         0   TR  8   CH 10   NT  C#-           1/4
+BA    1   CR         0   TR  9   CH 16   Meta Event   type &7F   5 15 9 64 72
+BA    1   CR         0   TR  9   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  9   CH 16   Text type 3: ""Event: Shut Your Mouth" from Shadow the Hedgehog, sequenced by King Meteor"
+BA    1   CR         0   TR  9   CH  7   Instrument 1
+BA    1   CR         0   TR  9   CH 16   Meta Event   type &20   6
+BA    1   CR         0   TR  9   CH 16   End of track
+BA    1   CR       1/2   TR  4   CH  4   ST &B3 &64 &00
+BA    1   CR       1/2   TR  4   CH  4   ST &B3 &65 &00
+BA    1   CR       1/2   TR  4   CH  4   ST &B3 &06 &10
+BA    1   CR       1/2   TR  4   CH  4   ST &E3 &00 &40
+BA    1   CR       1/2   TR  4   CH  4   NT  F-              1   von=102   voff=0
+BA    1   CR       1/2   TR  6   CH  6   ST &B5 &64 &00
+BA    1   CR       1/2   TR  6   CH  6   ST &B5 &65 &00
+BA    1   CR       1/2   TR  6   CH  6   ST &B5 &06 &10
+BA    1   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    1   CR         1   TR  1   CH  1   NT  Eb--          1/8
+BA    1   CR         1   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA    1   CR         1   TR  3   CH  3   NT  F             1/2
+BA    1   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    1   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    1   CR     1+1/4   TR  1   CH  1   NT  F--           1/8
+BA    1   CR     1+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    1   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    1   CR     1+1/2   TR  1   CH  1   NT  F---          3/8
+BA    1   CR     1+1/2   TR  2   CH  2   NT  F---          3/8   voff=0
+BA    1   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA    1   CR     1+1/2   TR  4   CH  4   NT  F             1/2   voff=0
+BA    1   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    1   CR 1+463/480   TR  1   CH  1   ST &E0 &3C &36
+BA    1   CR 1+463/480   TR  2   CH  2   ST &E1 &3C &36
+BA    1   CR 1+319/320   TR  1   CH  1   ST &E0 &1F &37
+BA    1   CR 1+319/320   TR  2   CH  2   ST &E1 &1F &37
+BA    1   CR         2   TR  1   CH  1   NT  F--       959/960
+BA    1   CR         2   TR  2   CH  2   NT  F--       959/960   voff=0
+BA    1   CR         2   TR  3   CH  3   NT  Eb            1/2
+BA    1   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    1   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    1   CR   2+9/320   TR  1   CH  1   ST &E0 &00 &38
+BA    1   CR   2+9/320   TR  2   CH  2   ST &E1 &00 &38
+BA    1   CR  2+29/480   TR  1   CH  1   ST &E0 &62 &38
+BA    1   CR  2+29/480   TR  2   CH  2   ST &E1 &62 &38
+BA    1   CR  2+11/120   TR  1   CH  1   ST &E0 &43 &39
+BA    1   CR  2+11/120   TR  2   CH  2   ST &E1 &43 &39
+BA    1   CR 2+119/960   TR  1   CH  1   ST &E0 &25 &3A
+BA    1   CR 2+119/960   TR  2   CH  2   ST &E1 &25 &3A
+BA    1   CR    2+5/32   TR  1   CH  1   ST &E0 &06 &3B
+BA    1   CR    2+5/32   TR  2   CH  2   ST &E1 &06 &3B
+BA    1   CR    2+3/16   TR  1   CH  1   ST &E0 &68 &3B
+BA    1   CR    2+3/16   TR  2   CH  2   ST &E1 &68 &3B
+BA    1   CR 2+211/960   TR  1   CH  1   ST &E0 &49 &3C
+BA    1   CR 2+211/960   TR  2   CH  2   ST &E1 &49 &3C
+BA    1   CR 2+121/480   TR  1   CH  1   ST &E0 &2B &3D
+BA    1   CR 2+121/480   TR  2   CH  2   ST &E1 &2B &3D
+BA    1   CR   2+17/60   TR  1   CH  1   ST &E0 &0C &3E
+BA    1   CR   2+17/60   TR  2   CH  2   ST &E1 &0C &3E
+BA    1   CR 2+101/320   TR  1   CH  1   ST &E0 &6E &3E
+BA    1   CR 2+101/320   TR  2   CH  2   ST &E1 &6E &3E
+BA    1   CR 2+111/320   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR 2+111/320   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR     2+1/2   TR  3   CH  3   NT  F-            1/2
+BA    1   CR     2+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA    1   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    1   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA    1   CR   2+25/48   TR  1   CH  1   ST &E0 &00 &10
+BA    1   CR   2+25/48   TR  2   CH  2   ST &E1 &00 &10
+BA    1   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         3   TR  1   CH  1   NT  Eb--          1/8
+BA    1   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA    1   CR         3   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA    1   CR         3   TR  3   CH  3   NT  Eb            1/2
+BA    1   CR         3   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    1   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    1   CR         3   TR  8   CH 10   NT  E--           1/4
+BA    1   CR     3+1/4   TR  1   CH  1   NT  F--           1/8
+BA    1   CR     3+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    1   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    1   CR     3+1/2   TR  1   CH  1   NT  F---          1/2
+BA    1   CR     3+1/2   TR  2   CH  2   NT  F---          1/2   voff=0
+BA    1   CR     3+1/2   TR  3   CH  3   NT  F             1/2
+BA    1   CR     3+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA    1   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    1   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+
+BA    2   CR         0   TR  1   CH  1   NT  F---          1/2
+BA    2   CR         0   TR  2   CH  2   NT  F---          1/2   voff=0
+BA    2   CR         0   TR  3   CH  3   NT  G#-           1/2
+BA    2   CR         0   TR  4   CH  4   NT  F             1/2   voff=0
+BA    2   CR         0   TR  8   CH 10   NT  B---          1/4
+BA    2   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    2   CR       1/2   TR  1   CH  1   NT  Eb--          1/8
+BA    2   CR       1/2   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA    2   CR       1/2   TR  3   CH  3   NT  F-            1/2
+BA    2   CR       1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA    2   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    2   CR       3/4   TR  1   CH  1   NT  F--           1/8
+BA    2   CR       3/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    2   CR         1   TR  1   CH  1   NT  F---          1/2
+BA    2   CR         1   TR  2   CH  2   NT  F---          1/2   voff=0
+BA    2   CR         1   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    2   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    2   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    2   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    2   CR     1+1/2   TR  1   CH  1   NT  Bb---         1/2
+BA    2   CR     1+1/2   TR  2   CH  2   NT  Bb---         1/2   voff=0
+BA    2   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2
+BA    2   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA    2   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    2   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA    2   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    2   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    2   CR     2+1/2   TR  1   CH  1   NT  G#---       1+1/2
+BA    2   CR     2+1/2   TR  2   CH  2   NT  G#---       1+1/2   voff=0
+BA    2   CR     2+1/2   TR  3   CH  3   NT  G#-         1+1/2
+BA    2   CR     2+1/2   TR  3   CH  3   NT  Eb-         1+1/2
+BA    2   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    2   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA    2   CR 2+139/192   TR  1   CH  1   ST &E0 &7F &3F
+BA    2   CR 2+139/192   TR  2   CH  2   ST &E1 &7F &3F
+BA    2   CR  2+91/120   TR  1   CH  1   ST &E0 &38 &44
+BA    2   CR  2+91/120   TR  2   CH  2   ST &E1 &38 &44
+BA    2   CR 2+761/960   TR  1   CH  1   ST &E0 &71 &48
+BA    2   CR 2+761/960   TR  2   CH  2   ST &E1 &71 &48
+BA    2   CR 2+397/480   TR  1   CH  1   ST &E0 &2A &4D
+BA    2   CR 2+397/480   TR  2   CH  2   ST &E1 &2A &4D
+BA    2   CR 2+827/960   TR  1   CH  1   ST &E0 &63 &51
+BA    2   CR 2+827/960   TR  2   CH  2   ST &E1 &63 &51
+BA    2   CR 2+287/320   TR  1   CH  1   ST &E0 &1B &56
+BA    2   CR 2+287/320   TR  2   CH  2   ST &E1 &1B &56
+BA    2   CR 2+149/160   TR  1   CH  1   ST &E0 &54 &5A
+BA    2   CR 2+149/160   TR  2   CH  2   ST &E1 &54 &5A
+BA    2   CR 2+309/320   TR  1   CH  1   ST &E0 &0D &5F
+BA    2   CR 2+309/320   TR  2   CH  2   ST &E1 &0D &5F
+BA    2   CR         3   TR  1   CH  1   ST &E0 &46 &63
+BA    2   CR         3   TR  2   CH  2   ST &E1 &46 &63
+BA    2   CR         3   TR  4   CH  4   NT  G#-         1+1/2   voff=0
+BA    2   CR         3   TR  4   CH  4   NT  Eb-         1+1/2   voff=0
+BA    2   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    2   CR         3   TR  8   CH 10   NT  E--           1/4
+BA    2   CR         3   TR  8   CH 10   NT  A-            1/4
+BA    2   CR  3+11/320   TR  1   CH  1   ST &E0 &7F &67
+BA    2   CR  3+11/320   TR  2   CH  2   ST &E1 &7F &67
+BA    2   CR  3+31/480   TR  1   CH  1   ST &E0 &0B &61
+BA    2   CR  3+31/480   TR  2   CH  2   ST &E1 &0B &61
+BA    2   CR  3+31/320   TR  1   CH  1   ST &E0 &69 &5D
+BA    2   CR  3+31/320   TR  2   CH  2   ST &E1 &69 &5D
+BA    2   CR  3+41/320   TR  1   CH  1   ST &E0 &47 &5A
+BA    2   CR  3+41/320   TR  2   CH  2   ST &E1 &47 &5A
+BA    2   CR  3+77/480   TR  1   CH  1   ST &E0 &26 &57
+BA    2   CR  3+77/480   TR  2   CH  2   ST &E1 &26 &57
+BA    2   CR  3+37/192   TR  1   CH  1   ST &E0 &04 &54
+BA    2   CR  3+37/192   TR  2   CH  2   ST &E1 &04 &54
+BA    2   CR    3+9/40   TR  1   CH  1   ST &E0 &62 &50
+BA    2   CR    3+9/40   TR  2   CH  2   ST &E1 &62 &50
+BA    2   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    2   CR 3+247/960   TR  1   CH  1   ST &E0 &40 &4D
+BA    2   CR 3+247/960   TR  2   CH  2   ST &E1 &40 &4D
+BA    2   CR 3+139/480   TR  1   CH  1   ST &E0 &1F &4A
+BA    2   CR 3+139/480   TR  2   CH  2   ST &E1 &1F &4A
+BA    2   CR 3+103/320   TR  1   CH  1   ST &E0 &7D &46
+BA    2   CR 3+103/320   TR  2   CH  2   ST &E1 &7D &46
+BA    2   CR   3+17/48   TR  1   CH  1   ST &E0 &5B &43
+BA    2   CR   3+17/48   TR  2   CH  2   ST &E1 &5B &43
+BA    2   CR   3+37/96   TR  1   CH  1   ST &E0 &3A &40
+BA    2   CR   3+37/96   TR  2   CH  2   ST &E1 &3A &40
+BA    2   CR 3+401/960   TR  1   CH  1   ST &E0 &19 &3D
+BA    2   CR 3+401/960   TR  2   CH  2   ST &E1 &19 &3D
+BA    2   CR    3+9/20   TR  1   CH  1   ST &E0 &77 &39
+BA    2   CR    3+9/20   TR  2   CH  2   ST &E1 &77 &39
+BA    2   CR 3+463/960   TR  1   CH  1   ST &E0 &55 &36
+BA    2   CR 3+463/960   TR  2   CH  2   ST &E1 &55 &36
+BA    2   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    2   CR 3+247/480   TR  1   CH  1   ST &E0 &34 &33
+BA    2   CR 3+247/480   TR  2   CH  2   ST &E1 &34 &33
+BA    2   CR   3+35/64   TR  1   CH  1   ST &E0 &12 &30
+BA    2   CR   3+35/64   TR  2   CH  2   ST &E1 &12 &30
+BA    2   CR 3+139/240   TR  1   CH  1   ST &E0 &70 &2C
+BA    2   CR 3+139/240   TR  2   CH  2   ST &E1 &70 &2C
+BA    2   CR 3+293/480   TR  1   CH  1   ST &E0 &4F &29
+BA    2   CR 3+293/480   TR  2   CH  2   ST &E1 &4F &29
+BA    2   CR 3+617/960   TR  1   CH  1   ST &E0 &2D &26
+BA    2   CR 3+617/960   TR  2   CH  2   ST &E1 &2D &26
+BA    2   CR   3+27/40   TR  1   CH  1   ST &E0 &0B &23
+BA    2   CR   3+27/40   TR  2   CH  2   ST &E1 &0B &23
+BA    2   CR 3+679/960   TR  1   CH  1   ST &E0 &6A &1F
+BA    2   CR 3+679/960   TR  2   CH  2   ST &E1 &6A &1F
+BA    2   CR   3+71/96   TR  1   CH  1   ST &E0 &48 &1C
+BA    2   CR   3+71/96   TR  2   CH  2   ST &E1 &48 &1C
+BA    2   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA    2   CR 3+247/320   TR  1   CH  1   ST &E0 &26 &19
+BA    2   CR 3+247/320   TR  2   CH  2   ST &E1 &26 &19
+BA    2   CR 3+193/240   TR  1   CH  1   ST &E0 &04 &16
+BA    2   CR 3+193/240   TR  2   CH  2   ST &E1 &04 &16
+BA    2   CR 3+803/960   TR  1   CH  1   ST &E0 &63 &12
+BA    2   CR 3+803/960   TR  2   CH  2   ST &E1 &63 &12
+BA    2   CR 3+833/960   TR  1   CH  1   ST &E0 &41 &0F
+BA    2   CR 3+833/960   TR  2   CH  2   ST &E1 &41 &0F
+BA    2   CR    3+9/10   TR  1   CH  1   ST &E0 &1F &0C
+BA    2   CR    3+9/10   TR  2   CH  2   ST &E1 &1F &0C
+BA    2   CR 3+179/192   TR  1   CH  1   ST &E0 &7E &08
+BA    2   CR 3+179/192   TR  2   CH  2   ST &E1 &7E &08
+BA    2   CR 3+463/480   TR  1   CH  1   ST &E0 &5C &05
+BA    2   CR 3+463/480   TR  2   CH  2   ST &E1 &5C &05
+BA    2   CR   3+31/32   TR  1   CH  1   ST &E0 &51 &04
+BA    2   CR   3+31/32   TR  2   CH  2   ST &E1 &51 &04
+
+BA    3   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &06 &10
+BA    3   CR         0   TR  1   CH  1   NT  F---            1
+BA    3   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    3   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA    3   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA    3   CR         0   TR  2   CH  2   ST &B1 &06 &10
+BA    3   CR         0   TR  2   CH  2   NT  F---            1   voff=0
+BA    3   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    3   CR         0   TR  3   CH  3   NT  F-              1
+BA    3   CR         0   TR  8   CH 10   NT  B---          1/4
+BA    3   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    3   CR         0   TR  8   CH 10   NT  C#-           1/4
+BA    3   CR       1/2   TR  4   CH  4   NT  F-              1   voff=0
+BA    3   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    3   CR         1   TR  1   CH  1   NT  Eb--          1/8
+BA    3   CR         1   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA    3   CR         1   TR  3   CH  3   NT  F             1/2
+BA    3   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    3   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    3   CR     1+1/4   TR  1   CH  1   NT  F--           1/8
+BA    3   CR     1+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    3   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    3   CR     1+1/2   TR  1   CH  1   NT  F---          3/8
+BA    3   CR     1+1/2   TR  2   CH  2   NT  F---          3/8   voff=0
+BA    3   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA    3   CR     1+1/2   TR  4   CH  4   NT  F             1/2   voff=0
+BA    3   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    3   CR 1+463/480   TR  1   CH  1   ST &E0 &3C &36
+BA    3   CR 1+463/480   TR  2   CH  2   ST &E1 &3C &36
+BA    3   CR 1+319/320   TR  1   CH  1   ST &E0 &1F &37
+BA    3   CR 1+319/320   TR  2   CH  2   ST &E1 &1F &37
+BA    3   CR         2   TR  1   CH  1   NT  F--       959/960
+BA    3   CR         2   TR  2   CH  2   NT  F--       959/960   voff=0
+BA    3   CR         2   TR  3   CH  3   NT  Eb            1/2
+BA    3   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    3   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    3   CR   2+9/320   TR  1   CH  1   ST &E0 &00 &38
+BA    3   CR   2+9/320   TR  2   CH  2   ST &E1 &00 &38
+BA    3   CR  2+29/480   TR  1   CH  1   ST &E0 &62 &38
+BA    3   CR  2+29/480   TR  2   CH  2   ST &E1 &62 &38
+BA    3   CR  2+11/120   TR  1   CH  1   ST &E0 &43 &39
+BA    3   CR  2+11/120   TR  2   CH  2   ST &E1 &43 &39
+BA    3   CR 2+119/960   TR  1   CH  1   ST &E0 &25 &3A
+BA    3   CR 2+119/960   TR  2   CH  2   ST &E1 &25 &3A
+BA    3   CR    2+5/32   TR  1   CH  1   ST &E0 &06 &3B
+BA    3   CR    2+5/32   TR  2   CH  2   ST &E1 &06 &3B
+BA    3   CR    2+3/16   TR  1   CH  1   ST &E0 &68 &3B
+BA    3   CR    2+3/16   TR  2   CH  2   ST &E1 &68 &3B
+BA    3   CR 2+211/960   TR  1   CH  1   ST &E0 &49 &3C
+BA    3   CR 2+211/960   TR  2   CH  2   ST &E1 &49 &3C
+BA    3   CR 2+121/480   TR  1   CH  1   ST &E0 &2B &3D
+BA    3   CR 2+121/480   TR  2   CH  2   ST &E1 &2B &3D
+BA    3   CR   2+17/60   TR  1   CH  1   ST &E0 &0C &3E
+BA    3   CR   2+17/60   TR  2   CH  2   ST &E1 &0C &3E
+BA    3   CR 2+101/320   TR  1   CH  1   ST &E0 &6E &3E
+BA    3   CR 2+101/320   TR  2   CH  2   ST &E1 &6E &3E
+BA    3   CR 2+111/320   TR  1   CH  1   ST &E0 &00 &40
+BA    3   CR 2+111/320   TR  2   CH  2   ST &E1 &00 &40
+BA    3   CR     2+1/2   TR  3   CH  3   NT  F-            1/2
+BA    3   CR     2+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA    3   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    3   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA    3   CR   2+25/48   TR  1   CH  1   ST &E0 &00 &10
+BA    3   CR   2+25/48   TR  2   CH  2   ST &E1 &00 &10
+BA    3   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA    3   CR         3   TR  1   CH  1   NT  Eb--          1/8
+BA    3   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA    3   CR         3   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA    3   CR         3   TR  3   CH  3   NT  Eb            1/2
+BA    3   CR         3   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    3   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    3   CR         3   TR  8   CH 10   NT  E--           1/4
+BA    3   CR     3+1/4   TR  1   CH  1   NT  F--           1/8
+BA    3   CR     3+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    3   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    3   CR     3+1/2   TR  1   CH  1   NT  F---          1/2
+BA    3   CR     3+1/2   TR  2   CH  2   NT  F---          1/2   voff=0
+BA    3   CR     3+1/2   TR  3   CH  3   NT  F             1/2
+BA    3   CR     3+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA    3   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    3   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+
+BA    4   CR         0   TR  1   CH  1   NT  F---          1/2
+BA    4   CR         0   TR  2   CH  2   NT  F---          1/2   voff=0
+BA    4   CR         0   TR  3   CH  3   NT  G#-           1/2
+BA    4   CR         0   TR  4   CH  4   NT  F             1/2   voff=0
+BA    4   CR         0   TR  8   CH 10   NT  B---          1/4
+BA    4   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    4   CR       1/2   TR  1   CH  1   NT  Eb--          1/8
+BA    4   CR       1/2   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA    4   CR       1/2   TR  3   CH  3   NT  F-            1/2
+BA    4   CR       1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA    4   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    4   CR       3/4   TR  1   CH  1   NT  F--           1/8
+BA    4   CR       3/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    4   CR         1   TR  1   CH  1   NT  F---          1/2
+BA    4   CR         1   TR  2   CH  2   NT  F---          1/2   voff=0
+BA    4   CR         1   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    4   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    4   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    4   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    4   CR     1+1/2   TR  1   CH  1   NT  Bb---         1/2
+BA    4   CR     1+1/2   TR  2   CH  2   NT  Bb---         1/2   voff=0
+BA    4   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2
+BA    4   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA    4   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    4   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA    4   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    4   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    4   CR     2+1/2   TR  1   CH  1   NT  G#---       1+1/2
+BA    4   CR     2+1/2   TR  2   CH  2   NT  G#---       1+1/2   voff=0
+BA    4   CR     2+1/2   TR  3   CH  3   NT  G#-         1+1/2
+BA    4   CR     2+1/2   TR  3   CH  3   NT  Eb-         1+1/2
+BA    4   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    4   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA    4   CR 2+139/192   TR  1   CH  1   ST &E0 &7F &3F
+BA    4   CR 2+139/192   TR  2   CH  2   ST &E1 &7F &3F
+BA    4   CR  2+91/120   TR  1   CH  1   ST &E0 &38 &44
+BA    4   CR  2+91/120   TR  2   CH  2   ST &E1 &38 &44
+BA    4   CR 2+761/960   TR  1   CH  1   ST &E0 &71 &48
+BA    4   CR 2+761/960   TR  2   CH  2   ST &E1 &71 &48
+BA    4   CR 2+397/480   TR  1   CH  1   ST &E0 &2A &4D
+BA    4   CR 2+397/480   TR  2   CH  2   ST &E1 &2A &4D
+BA    4   CR 2+827/960   TR  1   CH  1   ST &E0 &63 &51
+BA    4   CR 2+827/960   TR  2   CH  2   ST &E1 &63 &51
+BA    4   CR 2+287/320   TR  1   CH  1   ST &E0 &1B &56
+BA    4   CR 2+287/320   TR  2   CH  2   ST &E1 &1B &56
+BA    4   CR 2+149/160   TR  1   CH  1   ST &E0 &54 &5A
+BA    4   CR 2+149/160   TR  2   CH  2   ST &E1 &54 &5A
+BA    4   CR 2+309/320   TR  1   CH  1   ST &E0 &0D &5F
+BA    4   CR 2+309/320   TR  2   CH  2   ST &E1 &0D &5F
+BA    4   CR         3   TR  1   CH  1   ST &E0 &46 &63
+BA    4   CR         3   TR  2   CH  2   ST &E1 &46 &63
+BA    4   CR         3   TR  4   CH  4   NT  G#-         1+1/2   voff=0
+BA    4   CR         3   TR  4   CH  4   NT  Eb-         1+1/2   voff=0
+BA    4   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    4   CR         3   TR  8   CH 10   NT  E--           1/4
+BA    4   CR  3+11/320   TR  1   CH  1   ST &E0 &7F &67
+BA    4   CR  3+11/320   TR  2   CH  2   ST &E1 &7F &67
+BA    4   CR  3+31/480   TR  1   CH  1   ST &E0 &0B &61
+BA    4   CR  3+31/480   TR  2   CH  2   ST &E1 &0B &61
+BA    4   CR  3+31/320   TR  1   CH  1   ST &E0 &69 &5D
+BA    4   CR  3+31/320   TR  2   CH  2   ST &E1 &69 &5D
+BA    4   CR  3+41/320   TR  1   CH  1   ST &E0 &47 &5A
+BA    4   CR  3+41/320   TR  2   CH  2   ST &E1 &47 &5A
+BA    4   CR  3+77/480   TR  1   CH  1   ST &E0 &26 &57
+BA    4   CR  3+77/480   TR  2   CH  2   ST &E1 &26 &57
+BA    4   CR  3+37/192   TR  1   CH  1   ST &E0 &04 &54
+BA    4   CR  3+37/192   TR  2   CH  2   ST &E1 &04 &54
+BA    4   CR    3+9/40   TR  1   CH  1   ST &E0 &62 &50
+BA    4   CR    3+9/40   TR  2   CH  2   ST &E1 &62 &50
+BA    4   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    4   CR 3+247/960   TR  1   CH  1   ST &E0 &40 &4D
+BA    4   CR 3+247/960   TR  2   CH  2   ST &E1 &40 &4D
+BA    4   CR 3+139/480   TR  1   CH  1   ST &E0 &1F &4A
+BA    4   CR 3+139/480   TR  2   CH  2   ST &E1 &1F &4A
+BA    4   CR 3+103/320   TR  1   CH  1   ST &E0 &7D &46
+BA    4   CR 3+103/320   TR  2   CH  2   ST &E1 &7D &46
+BA    4   CR   3+17/48   TR  1   CH  1   ST &E0 &5B &43
+BA    4   CR   3+17/48   TR  2   CH  2   ST &E1 &5B &43
+BA    4   CR   3+37/96   TR  1   CH  1   ST &E0 &3A &40
+BA    4   CR   3+37/96   TR  2   CH  2   ST &E1 &3A &40
+BA    4   CR 3+401/960   TR  1   CH  1   ST &E0 &19 &3D
+BA    4   CR 3+401/960   TR  2   CH  2   ST &E1 &19 &3D
+BA    4   CR    3+9/20   TR  1   CH  1   ST &E0 &77 &39
+BA    4   CR    3+9/20   TR  2   CH  2   ST &E1 &77 &39
+BA    4   CR 3+463/960   TR  1   CH  1   ST &E0 &55 &36
+BA    4   CR 3+463/960   TR  2   CH  2   ST &E1 &55 &36
+BA    4   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    4   CR 3+247/480   TR  1   CH  1   ST &E0 &34 &33
+BA    4   CR 3+247/480   TR  2   CH  2   ST &E1 &34 &33
+BA    4   CR   3+35/64   TR  1   CH  1   ST &E0 &12 &30
+BA    4   CR   3+35/64   TR  2   CH  2   ST &E1 &12 &30
+BA    4   CR 3+139/240   TR  1   CH  1   ST &E0 &70 &2C
+BA    4   CR 3+139/240   TR  2   CH  2   ST &E1 &70 &2C
+BA    4   CR 3+293/480   TR  1   CH  1   ST &E0 &4F &29
+BA    4   CR 3+293/480   TR  2   CH  2   ST &E1 &4F &29
+BA    4   CR 3+617/960   TR  1   CH  1   ST &E0 &2D &26
+BA    4   CR 3+617/960   TR  2   CH  2   ST &E1 &2D &26
+BA    4   CR   3+27/40   TR  1   CH  1   ST &E0 &0B &23
+BA    4   CR   3+27/40   TR  2   CH  2   ST &E1 &0B &23
+BA    4   CR 3+679/960   TR  1   CH  1   ST &E0 &6A &1F
+BA    4   CR 3+679/960   TR  2   CH  2   ST &E1 &6A &1F
+BA    4   CR   3+71/96   TR  1   CH  1   ST &E0 &48 &1C
+BA    4   CR   3+71/96   TR  2   CH  2   ST &E1 &48 &1C
+BA    4   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA    4   CR 3+247/320   TR  1   CH  1   ST &E0 &26 &19
+BA    4   CR 3+247/320   TR  2   CH  2   ST &E1 &26 &19
+BA    4   CR 3+193/240   TR  1   CH  1   ST &E0 &04 &16
+BA    4   CR 3+193/240   TR  2   CH  2   ST &E1 &04 &16
+BA    4   CR 3+803/960   TR  1   CH  1   ST &E0 &63 &12
+BA    4   CR 3+803/960   TR  2   CH  2   ST &E1 &63 &12
+BA    4   CR 3+833/960   TR  1   CH  1   ST &E0 &41 &0F
+BA    4   CR 3+833/960   TR  2   CH  2   ST &E1 &41 &0F
+BA    4   CR    3+9/10   TR  1   CH  1   ST &E0 &1F &0C
+BA    4   CR    3+9/10   TR  2   CH  2   ST &E1 &1F &0C
+BA    4   CR 3+179/192   TR  1   CH  1   ST &E0 &7E &08
+BA    4   CR 3+179/192   TR  2   CH  2   ST &E1 &7E &08
+BA    4   CR 3+463/480   TR  1   CH  1   ST &E0 &5C &05
+BA    4   CR 3+463/480   TR  2   CH  2   ST &E1 &5C &05
+BA    4   CR   3+31/32   TR  1   CH  1   ST &E0 &51 &04
+BA    4   CR   3+31/32   TR  2   CH  2   ST &E1 &51 &04
+
+BA    5   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    5   CR         0   TR  1   CH  1   ST &E0 &00 &38
+BA    5   CR         0   TR  1   CH  1   ST &E0 &4E &37
+BA    5   CR         0   TR  1   CH  1   ST &E0 &1A &38
+BA    5   CR         0   TR  1   CH  1   ST &E0 &65 &38
+BA    5   CR         0   TR  1   CH  1   ST &E0 &2F &39
+BA    5   CR         0   TR  1   CH  1   ST &E0 &7A &39
+BA    5   CR         0   TR  1   CH  1   ST &E0 &45 &3A
+BA    5   CR         0   TR  1   CH  1   ST &E0 &10 &3B
+BA    5   CR         0   TR  1   CH  1   ST &E0 &5B &3B
+BA    5   CR         0   TR  1   CH  1   ST &E0 &25 &3C
+BA    5   CR         0   TR  1   CH  1   ST &E0 &70 &3C
+BA    5   CR         0   TR  1   CH  1   ST &E0 &3B &3D
+BA    5   CR         0   TR  1   CH  1   ST &E0 &06 &3E
+BA    5   CR         0   TR  1   CH  1   ST &E0 &51 &3E
+BA    5   CR         0   TR  1   CH  1   ST &E0 &1B &3F
+BA    5   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    5   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    5   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    5   CR         0   TR  1   CH  1   NT  F---          3/4
+BA    5   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    5   CR         0   TR  2   CH  2   ST &E1 &00 &38
+BA    5   CR         0   TR  2   CH  2   ST &E1 &4E &37
+BA    5   CR         0   TR  2   CH  2   ST &E1 &1A &38
+BA    5   CR         0   TR  2   CH  2   ST &E1 &65 &38
+BA    5   CR         0   TR  2   CH  2   ST &E1 &2F &39
+BA    5   CR         0   TR  2   CH  2   ST &E1 &7A &39
+BA    5   CR         0   TR  2   CH  2   ST &E1 &45 &3A
+BA    5   CR         0   TR  2   CH  2   ST &E1 &10 &3B
+BA    5   CR         0   TR  2   CH  2   ST &E1 &5B &3B
+BA    5   CR         0   TR  2   CH  2   ST &E1 &25 &3C
+BA    5   CR         0   TR  2   CH  2   ST &E1 &70 &3C
+BA    5   CR         0   TR  2   CH  2   ST &E1 &3B &3D
+BA    5   CR         0   TR  2   CH  2   ST &E1 &06 &3E
+BA    5   CR         0   TR  2   CH  2   ST &E1 &51 &3E
+BA    5   CR         0   TR  2   CH  2   ST &E1 &1B &3F
+BA    5   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    5   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    5   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    5   CR         0   TR  2   CH  2   NT  F---          3/4   voff=0
+BA    5   CR         0   TR  5   CH  5   ST &E4 &00 &40
+BA    5   CR         0   TR  5   CH  5   NT  F               3   von=102
+BA    5   CR         0   TR  5   CH  5   NT  C               3
+BA    5   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA    5   CR         0   TR  7   CH  8   NT  F               3   von=102   voff=0
+BA    5   CR         0   TR  7   CH  8   NT  C               3   voff=0
+BA    5   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    5   CR         0   TR  8   CH 10   NT  B---          1/4
+BA    5   CR       1/2   TR  6   CH  6   ST &E5 &00 &40
+BA    5   CR       1/2   TR  6   CH  6   NT  F               3   von=102   voff=0
+BA    5   CR       1/2   TR  6   CH  6   NT  C               3   voff=0
+BA    5   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    5   CR       3/4   TR  1   CH  1   NT  F--           1/4
+BA    5   CR       3/4   TR  2   CH  2   NT  F--           1/4   voff=0
+BA    5   CR         1   TR  1   CH  1   NT  F---          1/4
+BA    5   CR         1   TR  2   CH  2   NT  F---          1/4   voff=0
+BA    5   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    5   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    5   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    5   CR     1+1/2   TR  1   CH  1   NT  F---          3/4
+BA    5   CR     1+1/2   TR  2   CH  2   NT  F---          3/4   voff=0
+BA    5   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    5   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    5   CR     2+1/4   TR  1   CH  1   NT  F--           1/4
+BA    5   CR     2+1/4   TR  2   CH  2   NT  F--           1/4   voff=0
+BA    5   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    5   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA    5   CR     2+3/4   TR  1   CH  1   NT  F--           1/4
+BA    5   CR     2+3/4   TR  2   CH  2   NT  F--           1/4   voff=0
+BA    5   CR         3   TR  1   CH  1   NT  F---          1/8
+BA    5   CR         3   TR  2   CH  2   NT  F---          1/8   voff=0
+BA    5   CR         3   TR  5   CH  5   NT  F               4
+BA    5   CR         3   TR  5   CH  5   NT  C               4
+BA    5   CR         3   TR  7   CH  8   NT  F               4   voff=0
+BA    5   CR         3   TR  7   CH  8   NT  C               4   voff=0
+BA    5   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    5   CR         3   TR  8   CH 10   NT  E--           1/4
+BA    5   CR     3+1/4   TR  1   CH  1   NT  F--           1/8
+BA    5   CR     3+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    5   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    5   CR     3+1/2   TR  1   CH  1   NT  F---        1+1/4
+BA    5   CR     3+1/2   TR  2   CH  2   NT  F---        1+1/4   voff=0
+BA    5   CR     3+1/2   TR  6   CH  6   NT  F               4   voff=0
+BA    5   CR     3+1/2   TR  6   CH  6   NT  C               4   voff=0
+BA    5   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    5   CR 3+497/960   TR  5   CH  5   ST &E4 &7F &3F
+BA    5   CR 3+497/960   TR  7   CH  8   ST &E7 &7F &3F
+BA    5   CR   3+11/20   TR  5   CH  5   ST &E4 &79 &3E
+BA    5   CR   3+11/20   TR  7   CH  8   ST &E7 &79 &3E
+BA    5   CR 3+559/960   TR  5   CH  5   ST &E4 &72 &3D
+BA    5   CR 3+559/960   TR  7   CH  8   ST &E7 &72 &3D
+BA    5   CR   3+59/96   TR  5   CH  5   ST &E4 &6B &3C
+BA    5   CR   3+59/96   TR  7   CH  8   ST &E7 &6B &3C
+BA    5   CR   3+31/48   TR  5   CH  5   ST &E4 &64 &3B
+BA    5   CR   3+31/48   TR  7   CH  8   ST &E7 &64 &3B
+BA    5   CR 3+217/320   TR  5   CH  5   ST &E4 &5D &3A
+BA    5   CR 3+217/320   TR  7   CH  8   ST &E7 &5D &3A
+BA    5   CR 3+341/480   TR  5   CH  5   ST &E4 &56 &39
+BA    5   CR 3+341/480   TR  7   CH  8   ST &E7 &56 &39
+BA    5   CR 3+713/960   TR  5   CH  5   ST &E4 &4F &38
+BA    5   CR 3+713/960   TR  7   CH  8   ST &E7 &4F &38
+BA    5   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA    5   CR   3+31/40   TR  5   CH  5   ST &E4 &49 &37
+BA    5   CR   3+31/40   TR  7   CH  8   ST &E7 &49 &37
+BA    5   CR 3+155/192   TR  5   CH  5   ST &E4 &42 &36
+BA    5   CR 3+155/192   TR  7   CH  8   ST &E7 &42 &36
+BA    5   CR 3+403/480   TR  5   CH  5   ST &E4 &3B &35
+BA    5   CR 3+403/480   TR  7   CH  8   ST &E7 &3B &35
+BA    5   CR 3+833/960   TR  1   CH  1   ST &E0 &4E &47
+BA    5   CR 3+833/960   TR  2   CH  2   ST &E1 &4E &47
+BA    5   CR 3+279/320   TR  5   CH  5   ST &E4 &34 &34
+BA    5   CR 3+279/320   TR  7   CH  8   ST &E7 &34 &34
+BA    5   CR 3+289/320   TR  5   CH  5   ST &E4 &2D &33
+BA    5   CR 3+289/320   TR  7   CH  8   ST &E7 &2D &33
+BA    5   CR   3+29/32   TR  1   CH  1   ST &E0 &1E &4F
+BA    5   CR   3+29/32   TR  2   CH  2   ST &E1 &1E &4F
+BA    5   CR 3+449/480   TR  5   CH  5   ST &E4 &26 &32
+BA    5   CR 3+449/480   TR  7   CH  8   ST &E7 &26 &32
+BA    5   CR 3+151/160   TR  1   CH  1   ST &E0 &6D &56
+BA    5   CR 3+151/160   TR  2   CH  2   ST &E1 &6D &56
+BA    5   CR 3+929/960   TR  5   CH  5   ST &E4 &1F &31
+BA    5   CR 3+929/960   TR  7   CH  8   ST &E7 &1F &31
+
+BA    6   CR         0   TR  1   CH  1   ST &E0 &30 &60
+BA    6   CR         0   TR  2   CH  2   ST &E1 &30 &60
+BA    6   CR         0   TR  5   CH  5   ST &E4 &00 &30
+BA    6   CR         0   TR  7   CH  8   ST &E7 &00 &30
+BA    6   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    6   CR         0   TR  8   CH 10   NT  B---          1/4
+BA    6   CR    17/960   TR  6   CH  6   ST &E5 &7F &3F
+BA    6   CR      1/20   TR  6   CH  6   ST &E5 &79 &3E
+BA    6   CR    79/960   TR  6   CH  6   ST &E5 &72 &3D
+BA    6   CR     11/96   TR  6   CH  6   ST &E5 &6B &3C
+BA    6   CR      7/48   TR  6   CH  6   ST &E5 &64 &3B
+BA    6   CR    57/320   TR  6   CH  6   ST &E5 &5D &3A
+BA    6   CR   101/480   TR  6   CH  6   ST &E5 &56 &39
+BA    6   CR   233/960   TR  6   CH  6   ST &E5 &4F &38
+BA    6   CR     11/40   TR  6   CH  6   ST &E5 &49 &37
+BA    6   CR    59/192   TR  6   CH  6   ST &E5 &42 &36
+BA    6   CR   163/480   TR  6   CH  6   ST &E5 &3B &35
+BA    6   CR   119/320   TR  6   CH  6   ST &E5 &34 &34
+BA    6   CR   129/320   TR  6   CH  6   ST &E5 &2D &33
+BA    6   CR   209/480   TR  6   CH  6   ST &E5 &26 &32
+BA    6   CR   449/960   TR  6   CH  6   ST &E5 &1F &31
+BA    6   CR       1/2   TR  6   CH  6   ST &E5 &00 &30
+BA    6   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    6   CR       3/4   TR  1   CH  1   ST &E0 &00 &40
+BA    6   CR       3/4   TR  1   CH  1   NT  C#-           1/4
+BA    6   CR       3/4   TR  2   CH  2   ST &E1 &00 &40
+BA    6   CR       3/4   TR  2   CH  2   NT  C#-           1/4   voff=0
+BA    6   CR         1   TR  1   CH  1   NT  C#--          1/4
+BA    6   CR         1   TR  2   CH  2   NT  C#--          1/4   voff=0
+BA    6   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    6   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    6   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    6   CR     1+1/2   TR  1   CH  1   NT  C#--          3/4
+BA    6   CR     1+1/2   TR  2   CH  2   NT  C#--          3/4   voff=0
+BA    6   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    6   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    6   CR     2+1/4   TR  1   CH  1   NT  C#-           1/4
+BA    6   CR     2+1/4   TR  2   CH  2   NT  C#-           1/4   voff=0
+BA    6   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    6   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA    6   CR     2+3/4   TR  1   CH  1   NT  C#-           1/4
+BA    6   CR     2+3/4   TR  2   CH  2   NT  C#-           1/4   voff=0
+BA    6   CR         3   TR  1   CH  1   NT  C#--            1
+BA    6   CR         3   TR  2   CH  2   NT  C#--            1   voff=0
+BA    6   CR         3   TR  5   CH  5   ST &E4 &00 &40
+BA    6   CR         3   TR  5   CH  5   NT  C#              1
+BA    6   CR         3   TR  5   CH  5   NT  G#-             1
+BA    6   CR         3   TR  7   CH  8   ST &E7 &00 &40
+BA    6   CR         3   TR  7   CH  8   NT  C#              1   voff=0
+BA    6   CR         3   TR  7   CH  8   NT  G#-             1   voff=0
+BA    6   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    6   CR         3   TR  8   CH 10   NT  E--           1/4
+BA    6   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    6   CR  3+77/160   TR  1   CH  1   ST &E0 &7F &3F
+BA    6   CR  3+77/160   TR  2   CH  2   ST &E1 &7F &3F
+BA    6   CR  3+77/160   TR  5   CH  5   ST &E4 &7F &3F
+BA    6   CR  3+77/160   TR  7   CH  8   ST &E7 &7F &3F
+BA    6   CR     3+1/2   TR  6   CH  6   ST &E5 &00 &40
+BA    6   CR     3+1/2   TR  6   CH  6   NT  C#              1   voff=0
+BA    6   CR     3+1/2   TR  6   CH  6   NT  G#-             1   voff=0
+BA    6   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    6   CR 3+493/960   TR  1   CH  1   ST &E0 &09 &3C
+BA    6   CR 3+493/960   TR  2   CH  2   ST &E1 &09 &3C
+BA    6   CR 3+493/960   TR  5   CH  5   ST &E4 &03 &3C
+BA    6   CR 3+493/960   TR  7   CH  8   ST &E7 &03 &3C
+BA    6   CR 3+523/960   TR  1   CH  1   ST &E0 &12 &38
+BA    6   CR 3+523/960   TR  2   CH  2   ST &E1 &12 &38
+BA    6   CR 3+523/960   TR  5   CH  5   ST &E4 &06 &38
+BA    6   CR 3+523/960   TR  7   CH  8   ST &E7 &06 &38
+BA    6   CR 3+277/480   TR  1   CH  1   ST &E0 &1C &34
+BA    6   CR 3+277/480   TR  2   CH  2   ST &E1 &1C &34
+BA    6   CR 3+277/480   TR  5   CH  5   ST &E4 &09 &34
+BA    6   CR 3+277/480   TR  7   CH  8   ST &E7 &09 &34
+BA    6   CR  3+73/120   TR  1   CH  1   ST &E0 &25 &30
+BA    6   CR  3+73/120   TR  2   CH  2   ST &E1 &25 &30
+BA    6   CR  3+73/120   TR  5   CH  5   ST &E4 &0C &30
+BA    6   CR  3+73/120   TR  7   CH  8   ST &E7 &0C &30
+BA    6   CR   3+41/64   TR  1   CH  1   ST &E0 &2E &2C
+BA    6   CR   3+41/64   TR  2   CH  2   ST &E1 &2E &2C
+BA    6   CR   3+41/64   TR  5   CH  5   ST &E4 &0F &2C
+BA    6   CR   3+41/64   TR  7   CH  8   ST &E7 &0F &2C
+BA    6   CR   3+43/64   TR  1   CH  1   ST &E0 &37 &28
+BA    6   CR   3+43/64   TR  2   CH  2   ST &E1 &37 &28
+BA    6   CR   3+43/64   TR  5   CH  5   ST &E4 &12 &28
+BA    6   CR   3+43/64   TR  7   CH  8   ST &E7 &12 &28
+BA    6   CR 3+169/240   TR  1   CH  1   ST &E0 &40 &24
+BA    6   CR 3+169/240   TR  2   CH  2   ST &E1 &40 &24
+BA    6   CR 3+169/240   TR  5   CH  5   ST &E4 &15 &24
+BA    6   CR 3+169/240   TR  7   CH  8   ST &E7 &15 &24
+BA    6   CR 3+707/960   TR  1   CH  1   ST &E0 &49 &20
+BA    6   CR 3+707/960   TR  2   CH  2   ST &E1 &49 &20
+BA    6   CR 3+707/960   TR  5   CH  5   ST &E4 &18 &20
+BA    6   CR 3+707/960   TR  7   CH  8   ST &E7 &18 &20
+BA    6   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA    6   CR 3+737/960   TR  1   CH  1   ST &E0 &53 &1C
+BA    6   CR 3+737/960   TR  2   CH  2   ST &E1 &53 &1C
+BA    6   CR 3+737/960   TR  5   CH  5   ST &E4 &1C &1C
+BA    6   CR 3+737/960   TR  7   CH  8   ST &E7 &1C &1C
+BA    6   CR     3+4/5   TR  1   CH  1   ST &E0 &5C &18
+BA    6   CR     3+4/5   TR  2   CH  2   ST &E1 &5C &18
+BA    6   CR     3+4/5   TR  5   CH  5   ST &E4 &1F &18
+BA    6   CR     3+4/5   TR  7   CH  8   ST &E7 &1F &18
+BA    6   CR 3+133/160   TR  1   CH  1   ST &E0 &65 &14
+BA    6   CR 3+133/160   TR  2   CH  2   ST &E1 &65 &14
+BA    6   CR 3+133/160   TR  5   CH  5   ST &E4 &22 &14
+BA    6   CR 3+133/160   TR  7   CH  8   ST &E7 &22 &14
+BA    6   CR 3+829/960   TR  1   CH  1   ST &E0 &6E &10
+BA    6   CR 3+829/960   TR  2   CH  2   ST &E1 &6E &10
+BA    6   CR 3+829/960   TR  5   CH  5   ST &E4 &25 &10
+BA    6   CR 3+829/960   TR  7   CH  8   ST &E7 &25 &10
+BA    6   CR 3+859/960   TR  1   CH  1   ST &E0 &77 &0C
+BA    6   CR 3+859/960   TR  2   CH  2   ST &E1 &77 &0C
+BA    6   CR 3+859/960   TR  5   CH  5   ST &E4 &28 &0C
+BA    6   CR 3+859/960   TR  7   CH  8   ST &E7 &28 &0C
+BA    6   CR   3+89/96   TR  1   CH  1   ST &E0 &01 &09
+BA    6   CR   3+89/96   TR  2   CH  2   ST &E1 &01 &09
+BA    6   CR   3+89/96   TR  5   CH  5   ST &E4 &2B &08
+BA    6   CR   3+89/96   TR  7   CH  8   ST &E7 &2B &08
+BA    6   CR   3+23/24   TR  1   CH  1   ST &E0 &0A &05
+BA    6   CR   3+23/24   TR  2   CH  2   ST &E1 &0A &05
+BA    6   CR   3+23/24   TR  5   CH  5   ST &E4 &2E &04
+BA    6   CR   3+23/24   TR  7   CH  8   ST &E7 &2E &04
+BA    6   CR 3+157/160   TR  6   CH  6   ST &E5 &7F &3F
+BA    6   CR 3+317/320   TR  5   CH  5   ST &E4 &31 &00
+BA    6   CR 3+317/320   TR  7   CH  8   ST &E7 &31 &00
+
+BA    7   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    7   CR         0   TR  1   CH  1   NT  G#---         3/4
+BA    7   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    7   CR         0   TR  2   CH  2   NT  G#---         3/4   voff=0
+BA    7   CR         0   TR  5   CH  5   ST &E4 &00 &40
+BA    7   CR         0   TR  5   CH  5   NT  G#-             3
+BA    7   CR         0   TR  5   CH  5   NT  Eb-             3
+BA    7   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA    7   CR         0   TR  7   CH  8   NT  G#-             3   voff=0
+BA    7   CR         0   TR  7   CH  8   NT  Eb-             3   voff=0
+BA    7   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    7   CR         0   TR  8   CH 10   NT  B---          1/4
+BA    7   CR    13/960   TR  6   CH  6   ST &E5 &03 &3C
+BA    7   CR    43/960   TR  6   CH  6   ST &E5 &06 &38
+BA    7   CR    37/480   TR  6   CH  6   ST &E5 &09 &34
+BA    7   CR    13/120   TR  6   CH  6   ST &E5 &0C &30
+BA    7   CR      9/64   TR  6   CH  6   ST &E5 &0F &2C
+BA    7   CR     11/64   TR  6   CH  6   ST &E5 &12 &28
+BA    7   CR    49/240   TR  6   CH  6   ST &E5 &15 &24
+BA    7   CR   227/960   TR  6   CH  6   ST &E5 &18 &20
+BA    7   CR   257/960   TR  6   CH  6   ST &E5 &1C &1C
+BA    7   CR      3/10   TR  6   CH  6   ST &E5 &1F &18
+BA    7   CR    53/160   TR  6   CH  6   ST &E5 &22 &14
+BA    7   CR   349/960   TR  6   CH  6   ST &E5 &25 &10
+BA    7   CR   379/960   TR  6   CH  6   ST &E5 &28 &0C
+BA    7   CR     41/96   TR  6   CH  6   ST &E5 &2B &08
+BA    7   CR     11/24   TR  6   CH  6   ST &E5 &2E &04
+BA    7   CR   157/320   TR  6   CH  6   ST &E5 &31 &00
+BA    7   CR       1/2   TR  6   CH  6   ST &E5 &00 &40
+BA    7   CR       1/2   TR  6   CH  6   NT  G#-             3   voff=0
+BA    7   CR       1/2   TR  6   CH  6   NT  Eb-             3   voff=0
+BA    7   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    7   CR       3/4   TR  1   CH  1   NT  G#--          1/4
+BA    7   CR       3/4   TR  2   CH  2   NT  G#--          1/4   voff=0
+BA    7   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    7   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    7   CR     1+1/4   TR  1   CH  1   NT  G#--          1/4
+BA    7   CR     1+1/4   TR  2   CH  2   NT  G#--          1/4   voff=0
+BA    7   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    7   CR     1+1/2   TR  1   CH  1   NT  G#---         1/2
+BA    7   CR     1+1/2   TR  2   CH  2   NT  G#---         1/2   voff=0
+BA    7   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    7   CR         2   TR  1   CH  1   ST &E0 &00 &38
+BA    7   CR         2   TR  1   CH  1   NT  G#--            1
+BA    7   CR         2   TR  2   CH  2   ST &E1 &00 &38
+BA    7   CR         2   TR  2   CH  2   NT  G#--            1   voff=0
+BA    7   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    7   CR   2+25/96   TR  1   CH  1   ST &E0 &00 &40
+BA    7   CR   2+25/96   TR  2   CH  2   ST &E1 &00 &40
+BA    7   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    7   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA    7   CR   2+25/48   TR  1   CH  1   ST &E0 &00 &10
+BA    7   CR   2+25/48   TR  2   CH  2   ST &E1 &00 &10
+BA    7   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA    7   CR         3   TR  1   CH  1   NT  F#--          1/8
+BA    7   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA    7   CR         3   TR  2   CH  2   NT  F#--          1/8   voff=0
+BA    7   CR         3   TR  5   CH  5   NT  G#-             4
+BA    7   CR         3   TR  5   CH  5   NT  Eb-             4
+BA    7   CR         3   TR  7   CH  8   NT  G#-             4   voff=0
+BA    7   CR         3   TR  7   CH  8   NT  Eb-             4   voff=0
+BA    7   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    7   CR         3   TR  8   CH 10   NT  E--           1/4
+BA    7   CR     3+1/4   TR  1   CH  1   NT  G#--          1/8
+BA    7   CR     3+1/4   TR  2   CH  2   NT  G#--          1/8   voff=0
+BA    7   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    7   CR     3+1/2   TR  1   CH  1   NT  G#---         1/2
+BA    7   CR     3+1/2   TR  2   CH  2   NT  G#---         1/2   voff=0
+BA    7   CR     3+1/2   TR  6   CH  6   NT  G#-             4   voff=0
+BA    7   CR     3+1/2   TR  6   CH  6   NT  Eb-             4   voff=0
+BA    7   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    7   CR 3+511/960   TR  5   CH  5   ST &E4 &01 &41
+BA    7   CR 3+511/960   TR  7   CH  8   ST &E7 &01 &41
+BA    7   CR 3+541/960   TR  5   CH  5   ST &E4 &02 &42
+BA    7   CR 3+541/960   TR  7   CH  8   ST &E7 &02 &42
+BA    7   CR 3+143/240   TR  5   CH  5   ST &E4 &04 &43
+BA    7   CR 3+143/240   TR  7   CH  8   ST &E7 &04 &43
+BA    7   CR 3+301/480   TR  5   CH  5   ST &E4 &05 &44
+BA    7   CR 3+301/480   TR  7   CH  8   ST &E7 &05 &44
+BA    7   CR 3+211/320   TR  5   CH  5   ST &E4 &07 &45
+BA    7   CR 3+211/320   TR  7   CH  8   ST &E7 &07 &45
+BA    7   CR 3+221/320   TR  5   CH  5   ST &E4 &08 &46
+BA    7   CR 3+221/320   TR  7   CH  8   ST &E7 &08 &46
+BA    7   CR 3+347/480   TR  5   CH  5   ST &E4 &0A &47
+BA    7   CR 3+347/480   TR  7   CH  8   ST &E7 &0A &47
+BA    7   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA    7   CR 3+181/240   TR  5   CH  5   ST &E4 &0B &48
+BA    7   CR 3+181/240   TR  7   CH  8   ST &E7 &0B &48
+BA    7   CR 3+151/192   TR  5   CH  5   ST &E4 &0D &49
+BA    7   CR 3+151/192   TR  7   CH  8   ST &E7 &0D &49
+BA    7   CR 3+157/192   TR  5   CH  5   ST &E4 &0E &4A
+BA    7   CR 3+157/192   TR  7   CH  8   ST &E7 &0E &4A
+BA    7   CR   3+17/20   TR  5   CH  5   ST &E4 &10 &4B
+BA    7   CR   3+17/20   TR  7   CH  8   ST &E7 &10 &4B
+BA    7   CR 3+141/160   TR  5   CH  5   ST &E4 &11 &4C
+BA    7   CR 3+141/160   TR  7   CH  8   ST &E7 &11 &4C
+BA    7   CR 3+877/960   TR  5   CH  5   ST &E4 &13 &4D
+BA    7   CR 3+877/960   TR  7   CH  8   ST &E7 &13 &4D
+BA    7   CR 3+907/960   TR  5   CH  5   ST &E4 &14 &4E
+BA    7   CR 3+907/960   TR  7   CH  8   ST &E7 &14 &4E
+BA    7   CR 3+469/480   TR  5   CH  5   ST &E4 &16 &4F
+BA    7   CR 3+469/480   TR  7   CH  8   ST &E7 &16 &4F
+
+BA    8   CR         0   TR  1   CH  1   NT  C--           3/4
+BA    8   CR         0   TR  2   CH  2   NT  C--           3/4   voff=0
+BA    8   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    8   CR         0   TR  8   CH 10   NT  B---          1/4
+BA    8   CR     1/120   TR  5   CH  5   ST &E4 &00 &50
+BA    8   CR     1/120   TR  7   CH  8   ST &E7 &00 &50
+BA    8   CR    31/960   TR  6   CH  6   ST &E5 &01 &41
+BA    8   CR    61/960   TR  6   CH  6   ST &E5 &02 &42
+BA    8   CR    23/240   TR  6   CH  6   ST &E5 &04 &43
+BA    8   CR    61/480   TR  6   CH  6   ST &E5 &05 &44
+BA    8   CR    51/320   TR  6   CH  6   ST &E5 &07 &45
+BA    8   CR    61/320   TR  6   CH  6   ST &E5 &08 &46
+BA    8   CR   107/480   TR  6   CH  6   ST &E5 &0A &47
+BA    8   CR    61/240   TR  6   CH  6   ST &E5 &0B &48
+BA    8   CR    55/192   TR  6   CH  6   ST &E5 &0D &49
+BA    8   CR    61/192   TR  6   CH  6   ST &E5 &0E &4A
+BA    8   CR      7/20   TR  6   CH  6   ST &E5 &10 &4B
+BA    8   CR    61/160   TR  6   CH  6   ST &E5 &11 &4C
+BA    8   CR   397/960   TR  6   CH  6   ST &E5 &13 &4D
+BA    8   CR   427/960   TR  6   CH  6   ST &E5 &14 &4E
+BA    8   CR   229/480   TR  6   CH  6   ST &E5 &16 &4F
+BA    8   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    8   CR    61/120   TR  6   CH  6   ST &E5 &00 &50
+BA    8   CR       3/4   TR  1   CH  1   NT  C-            1/4
+BA    8   CR       3/4   TR  2   CH  2   NT  C-            1/4   voff=0
+BA    8   CR         1   TR  1   CH  1   NT  Bb---           1
+BA    8   CR         1   TR  2   CH  2   NT  Bb---           1   voff=0
+BA    8   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    8   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    8   CR  1+47/960   TR  1   CH  1   ST &E0 &22 &40
+BA    8   CR  1+47/960   TR  2   CH  2   ST &E1 &22 &40
+BA    8   CR  1+77/960   TR  1   CH  1   ST &E0 &44 &40
+BA    8   CR  1+77/960   TR  2   CH  2   ST &E1 &44 &40
+BA    8   CR 1+107/960   TR  1   CH  1   ST &E0 &67 &40
+BA    8   CR 1+107/960   TR  2   CH  2   ST &E1 &67 &40
+BA    8   CR  1+23/160   TR  1   CH  1   ST &E0 &09 &41
+BA    8   CR  1+23/160   TR  2   CH  2   ST &E1 &09 &41
+BA    8   CR    1+7/40   TR  1   CH  1   ST &E0 &2C &41
+BA    8   CR    1+7/40   TR  2   CH  2   ST &E1 &2C &41
+BA    8   CR  1+33/160   TR  1   CH  1   ST &E0 &4F &41
+BA    8   CR  1+33/160   TR  2   CH  2   ST &E1 &4F &41
+BA    8   CR   1+19/80   TR  1   CH  1   ST &E0 &71 &41
+BA    8   CR   1+19/80   TR  2   CH  2   ST &E1 &71 &41
+BA    8   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    8   CR  1+43/160   TR  1   CH  1   ST &E0 &14 &42
+BA    8   CR  1+43/160   TR  2   CH  2   ST &E1 &14 &42
+BA    8   CR    1+3/10   TR  1   CH  1   ST &E0 &37 &42
+BA    8   CR    1+3/10   TR  2   CH  2   ST &E1 &37 &42
+BA    8   CR  1+53/160   TR  1   CH  1   ST &E0 &59 &42
+BA    8   CR  1+53/160   TR  2   CH  2   ST &E1 &59 &42
+BA    8   CR   1+29/80   TR  1   CH  1   ST &E0 &7C &42
+BA    8   CR   1+29/80   TR  2   CH  2   ST &E1 &7C &42
+BA    8   CR 1+379/960   TR  1   CH  1   ST &E0 &1E &43
+BA    8   CR 1+379/960   TR  2   CH  2   ST &E1 &1E &43
+BA    8   CR 1+409/960   TR  1   CH  1   ST &E0 &41 &43
+BA    8   CR 1+409/960   TR  2   CH  2   ST &E1 &41 &43
+BA    8   CR 1+439/960   TR  1   CH  1   ST &E0 &64 &43
+BA    8   CR 1+439/960   TR  2   CH  2   ST &E1 &64 &43
+BA    8   CR 1+469/960   TR  1   CH  1   ST &E0 &06 &44
+BA    8   CR 1+469/960   TR  2   CH  2   ST &E1 &06 &44
+BA    8   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    8   CR 1+499/960   TR  1   CH  1   ST &E0 &29 &44
+BA    8   CR 1+499/960   TR  2   CH  2   ST &E1 &29 &44
+BA    8   CR 1+529/960   TR  1   CH  1   ST &E0 &4B &44
+BA    8   CR 1+529/960   TR  2   CH  2   ST &E1 &4B &44
+BA    8   CR 1+559/960   TR  1   CH  1   ST &E0 &6E &44
+BA    8   CR 1+559/960   TR  2   CH  2   ST &E1 &6E &44
+BA    8   CR 1+589/960   TR  1   CH  1   ST &E0 &11 &45
+BA    8   CR 1+589/960   TR  2   CH  2   ST &E1 &11 &45
+BA    8   CR   1+31/48   TR  1   CH  1   ST &E0 &33 &45
+BA    8   CR   1+31/48   TR  2   CH  2   ST &E1 &33 &45
+BA    8   CR   1+65/96   TR  1   CH  1   ST &E0 &56 &45
+BA    8   CR   1+65/96   TR  2   CH  2   ST &E1 &56 &45
+BA    8   CR   1+17/24   TR  1   CH  1   ST &E0 &78 &45
+BA    8   CR   1+17/24   TR  2   CH  2   ST &E1 &78 &45
+BA    8   CR   1+71/96   TR  1   CH  1   ST &E0 &1B &46
+BA    8   CR   1+71/96   TR  2   CH  2   ST &E1 &1B &46
+BA    8   CR   1+37/48   TR  1   CH  1   ST &E0 &3E &46
+BA    8   CR   1+37/48   TR  2   CH  2   ST &E1 &3E &46
+BA    8   CR   1+77/96   TR  1   CH  1   ST &E0 &60 &46
+BA    8   CR   1+77/96   TR  2   CH  2   ST &E1 &60 &46
+BA    8   CR     1+5/6   TR  1   CH  1   ST &E0 &03 &47
+BA    8   CR     1+5/6   TR  2   CH  2   ST &E1 &03 &47
+BA    8   CR   1+83/96   TR  1   CH  1   ST &E0 &26 &47
+BA    8   CR   1+83/96   TR  2   CH  2   ST &E1 &26 &47
+BA    8   CR 1+287/320   TR  1   CH  1   ST &E0 &48 &47
+BA    8   CR 1+287/320   TR  2   CH  2   ST &E1 &48 &47
+BA    8   CR 1+297/320   TR  1   CH  1   ST &E0 &6B &47
+BA    8   CR 1+297/320   TR  2   CH  2   ST &E1 &6B &47
+BA    8   CR 1+307/320   TR  1   CH  1   ST &E0 &00 &48
+BA    8   CR 1+307/320   TR  2   CH  2   ST &E1 &00 &48
+BA    8   CR         2   TR  1   CH  1   ST &E0 &00 &40
+BA    8   CR         2   TR  1   CH  1   NT  C--           1/4
+BA    8   CR         2   TR  2   CH  2   ST &E1 &00 &40
+BA    8   CR         2   TR  2   CH  2   NT  C--           1/4   voff=0
+BA    8   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    8   CR     2+1/4   TR  1   CH  1   NT  C-            1/4
+BA    8   CR     2+1/4   TR  2   CH  2   NT  C-            1/4   voff=0
+BA    8   CR     2+1/4   TR  8   CH 10   NT  B---          1/4
+BA    8   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    8   CR     2+3/4   TR  1   CH  1   NT  C-            1/4
+BA    8   CR     2+3/4   TR  2   CH  2   NT  C-            1/4   voff=0
+BA    8   CR         3   TR  1   CH  1   NT  C--             1
+BA    8   CR         3   TR  2   CH  2   NT  C--             1   voff=0
+BA    8   CR         3   TR  5   CH  5   ST &E4 &00 &40
+BA    8   CR         3   TR  5   CH  5   NT  C               1
+BA    8   CR         3   TR  5   CH  5   NT  G-              1
+BA    8   CR         3   TR  7   CH  8   ST &E7 &00 &40
+BA    8   CR         3   TR  7   CH  8   NT  C               1   voff=0
+BA    8   CR         3   TR  7   CH  8   NT  G-              1   voff=0
+BA    8   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    8   CR         3   TR  8   CH 10   NT  B---          1/4
+BA    8   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    8   CR  3+65/192   TR  1   CH  1   ST &E0 &7F &3F
+BA    8   CR  3+65/192   TR  2   CH  2   ST &E1 &7F &3F
+BA    8   CR  3+71/192   TR  1   CH  1   ST &E0 &7F &3C
+BA    8   CR  3+71/192   TR  2   CH  2   ST &E1 &7F &3C
+BA    8   CR  3+77/192   TR  1   CH  1   ST &E0 &7D &39
+BA    8   CR  3+77/192   TR  2   CH  2   ST &E1 &7D &39
+BA    8   CR   3+13/30   TR  1   CH  1   ST &E0 &7C &36
+BA    8   CR   3+13/30   TR  2   CH  2   ST &E1 &7C &36
+BA    8   CR 3+223/480   TR  1   CH  1   ST &E0 &7A &33
+BA    8   CR 3+223/480   TR  2   CH  2   ST &E1 &7A &33
+BA    8   CR  3+77/160   TR  5   CH  5   ST &E4 &7F &3F
+BA    8   CR  3+77/160   TR  7   CH  8   ST &E7 &7F &3F
+BA    8   CR 3+119/240   TR  1   CH  1   ST &E0 &79 &30
+BA    8   CR 3+119/240   TR  2   CH  2   ST &E1 &79 &30
+BA    8   CR     3+1/2   TR  6   CH  6   ST &E5 &00 &40
+BA    8   CR     3+1/2   TR  6   CH  6   NT  C               1   voff=0
+BA    8   CR     3+1/2   TR  6   CH  6   NT  G-              1   voff=0
+BA    8   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    8   CR     3+1/2   TR  8   CH 10   NT  E--           1/4
+BA    8   CR 3+493/960   TR  5   CH  5   ST &E4 &03 &3C
+BA    8   CR 3+493/960   TR  7   CH  8   ST &E7 &03 &3C
+BA    8   CR 3+253/480   TR  1   CH  1   ST &E0 &77 &2D
+BA    8   CR 3+253/480   TR  2   CH  2   ST &E1 &77 &2D
+BA    8   CR 3+131/240   TR  5   CH  5   ST &E4 &06 &38
+BA    8   CR 3+131/240   TR  7   CH  8   ST &E7 &06 &38
+BA    8   CR 3+179/320   TR  1   CH  1   ST &E0 &76 &2A
+BA    8   CR 3+179/320   TR  2   CH  2   ST &E1 &76 &2A
+BA    8   CR   3+37/64   TR  5   CH  5   ST &E4 &09 &34
+BA    8   CR   3+37/64   TR  7   CH  8   ST &E7 &09 &34
+BA    8   CR 3+189/320   TR  1   CH  1   ST &E0 &75 &27
+BA    8   CR 3+189/320   TR  2   CH  2   ST &E1 &75 &27
+BA    8   CR 3+587/960   TR  5   CH  5   ST &E4 &0C &30
+BA    8   CR 3+587/960   TR  7   CH  8   ST &E7 &0C &30
+BA    8   CR 3+199/320   TR  1   CH  1   ST &E0 &73 &24
+BA    8   CR 3+199/320   TR  2   CH  2   ST &E1 &73 &24
+BA    8   CR 3+103/160   TR  5   CH  5   ST &E4 &0F &2C
+BA    8   CR 3+103/160   TR  7   CH  8   ST &E7 &0F &2C
+BA    8   CR 3+209/320   TR  1   CH  1   ST &E0 &72 &21
+BA    8   CR 3+209/320   TR  2   CH  2   ST &E1 &72 &21
+BA    8   CR 3+649/960   TR  5   CH  5   ST &E4 &12 &28
+BA    8   CR 3+649/960   TR  7   CH  8   ST &E7 &12 &28
+BA    8   CR 3+329/480   TR  1   CH  1   ST &E0 &70 &1E
+BA    8   CR 3+329/480   TR  2   CH  2   ST &E1 &70 &1E
+BA    8   CR   3+17/24   TR  5   CH  5   ST &E4 &15 &24
+BA    8   CR   3+17/24   TR  7   CH  8   ST &E7 &15 &24
+BA    8   CR   3+43/60   TR  1   CH  1   ST &E0 &6F &1B
+BA    8   CR   3+43/60   TR  2   CH  2   ST &E1 &6F &1B
+BA    8   CR 3+237/320   TR  5   CH  5   ST &E4 &18 &20
+BA    8   CR 3+237/320   TR  7   CH  8   ST &E7 &18 &20
+BA    8   CR 3+359/480   TR  1   CH  1   ST &E0 &6D &18
+BA    8   CR 3+359/480   TR  2   CH  2   ST &E1 &6D &18
+BA    8   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA    8   CR 3+371/480   TR  5   CH  5   ST &E4 &1C &1C
+BA    8   CR 3+371/480   TR  7   CH  8   ST &E7 &1C &1C
+BA    8   CR 3+187/240   TR  1   CH  1   ST &E0 &6C &15
+BA    8   CR 3+187/240   TR  2   CH  2   ST &E1 &6C &15
+BA    8   CR 3+773/960   TR  5   CH  5   ST &E4 &1F &18
+BA    8   CR 3+773/960   TR  7   CH  8   ST &E7 &1F &18
+BA    8   CR 3+779/960   TR  1   CH  1   ST &E0 &6B &12
+BA    8   CR 3+779/960   TR  2   CH  2   ST &E1 &6B &12
+BA    8   CR   3+67/80   TR  5   CH  5   ST &E4 &22 &14
+BA    8   CR   3+67/80   TR  7   CH  8   ST &E7 &22 &14
+BA    8   CR 3+809/960   TR  1   CH  1   ST &E0 &69 &0F
+BA    8   CR 3+809/960   TR  2   CH  2   ST &E1 &69 &0F
+BA    8   CR 3+209/240   TR  5   CH  5   ST &E4 &25 &10
+BA    8   CR 3+209/240   TR  7   CH  8   ST &E7 &25 &10
+BA    8   CR 3+839/960   TR  1   CH  1   ST &E0 &68 &0C
+BA    8   CR 3+839/960   TR  2   CH  2   ST &E1 &68 &0C
+BA    8   CR 3+289/320   TR  5   CH  5   ST &E4 &28 &0C
+BA    8   CR 3+289/320   TR  7   CH  8   ST &E7 &28 &0C
+BA    8   CR 3+869/960   TR  1   CH  1   ST &E0 &66 &09
+BA    8   CR 3+869/960   TR  2   CH  2   ST &E1 &66 &09
+BA    8   CR 3+449/480   TR  5   CH  5   ST &E4 &2B &08
+BA    8   CR 3+449/480   TR  7   CH  8   ST &E7 &2B &08
+BA    8   CR   3+15/16   TR  1   CH  1   ST &E0 &65 &06
+BA    8   CR   3+15/16   TR  2   CH  2   ST &E1 &65 &06
+BA    8   CR 3+929/960   TR  5   CH  5   ST &E4 &2E &04
+BA    8   CR 3+929/960   TR  7   CH  8   ST &E7 &2E &04
+BA    8   CR   3+31/32   TR  1   CH  1   ST &E0 &63 &03
+BA    8   CR   3+31/32   TR  2   CH  2   ST &E1 &63 &03
+BA    8   CR 3+157/160   TR  6   CH  6   ST &E5 &7F &3F
+
+BA    9   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    9   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    9   CR         0   TR  1   CH  1   ST &B0 &06 &10
+BA    9   CR         0   TR  1   CH  1   NT  F---            1
+BA    9   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    9   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA    9   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA    9   CR         0   TR  2   CH  2   ST &B1 &06 &10
+BA    9   CR         0   TR  2   CH  2   NT  F---            1   voff=0
+BA    9   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA    9   CR         0   TR  3   CH  3   NT  F-              1
+BA    9   CR         0   TR  8   CH 10   NT  B---          1/4
+BA    9   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA    9   CR         0   TR  8   CH 10   NT  C#-           1/4
+BA    9   CR    13/960   TR  6   CH  6   ST &E5 &03 &3C
+BA    9   CR    11/240   TR  6   CH  6   ST &E5 &06 &38
+BA    9   CR      5/64   TR  6   CH  6   ST &E5 &09 &34
+BA    9   CR   107/960   TR  6   CH  6   ST &E5 &0C &30
+BA    9   CR    23/160   TR  6   CH  6   ST &E5 &0F &2C
+BA    9   CR   169/960   TR  6   CH  6   ST &E5 &12 &28
+BA    9   CR      5/24   TR  6   CH  6   ST &E5 &15 &24
+BA    9   CR    77/320   TR  6   CH  6   ST &E5 &18 &20
+BA    9   CR   131/480   TR  6   CH  6   ST &E5 &1C &1C
+BA    9   CR   293/960   TR  6   CH  6   ST &E5 &1F &18
+BA    9   CR     27/80   TR  6   CH  6   ST &E5 &22 &14
+BA    9   CR    89/240   TR  6   CH  6   ST &E5 &25 &10
+BA    9   CR   129/320   TR  6   CH  6   ST &E5 &28 &0C
+BA    9   CR   209/480   TR  6   CH  6   ST &E5 &2B &08
+BA    9   CR   449/960   TR  6   CH  6   ST &E5 &2E &04
+BA    9   CR       1/2   TR  4   CH  4   NT  F-              1   voff=0
+BA    9   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA    9   CR         1   TR  1   CH  1   NT  Eb--          1/8
+BA    9   CR         1   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA    9   CR         1   TR  3   CH  3   NT  F             1/2
+BA    9   CR         1   TR  8   CH 10   NT  E--           1/4
+BA    9   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA    9   CR     1+1/4   TR  1   CH  1   NT  F--           1/8
+BA    9   CR     1+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    9   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    9   CR     1+1/2   TR  1   CH  1   NT  F---          3/8
+BA    9   CR     1+1/2   TR  2   CH  2   NT  F---          3/8   voff=0
+BA    9   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA    9   CR     1+1/2   TR  4   CH  4   NT  F             1/2   voff=0
+BA    9   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    9   CR 1+463/480   TR  1   CH  1   ST &E0 &3C &36
+BA    9   CR 1+463/480   TR  2   CH  2   ST &E1 &3C &36
+BA    9   CR 1+319/320   TR  1   CH  1   ST &E0 &1F &37
+BA    9   CR 1+319/320   TR  2   CH  2   ST &E1 &1F &37
+BA    9   CR         2   TR  1   CH  1   NT  F--       959/960
+BA    9   CR         2   TR  2   CH  2   NT  F--       959/960   voff=0
+BA    9   CR         2   TR  3   CH  3   NT  Eb            1/2
+BA    9   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    9   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA    9   CR   2+9/320   TR  1   CH  1   ST &E0 &00 &38
+BA    9   CR   2+9/320   TR  2   CH  2   ST &E1 &00 &38
+BA    9   CR  2+29/480   TR  1   CH  1   ST &E0 &62 &38
+BA    9   CR  2+29/480   TR  2   CH  2   ST &E1 &62 &38
+BA    9   CR  2+11/120   TR  1   CH  1   ST &E0 &43 &39
+BA    9   CR  2+11/120   TR  2   CH  2   ST &E1 &43 &39
+BA    9   CR 2+119/960   TR  1   CH  1   ST &E0 &25 &3A
+BA    9   CR 2+119/960   TR  2   CH  2   ST &E1 &25 &3A
+BA    9   CR    2+5/32   TR  1   CH  1   ST &E0 &06 &3B
+BA    9   CR    2+5/32   TR  2   CH  2   ST &E1 &06 &3B
+BA    9   CR    2+3/16   TR  1   CH  1   ST &E0 &68 &3B
+BA    9   CR    2+3/16   TR  2   CH  2   ST &E1 &68 &3B
+BA    9   CR 2+211/960   TR  1   CH  1   ST &E0 &49 &3C
+BA    9   CR 2+211/960   TR  2   CH  2   ST &E1 &49 &3C
+BA    9   CR 2+121/480   TR  1   CH  1   ST &E0 &2B &3D
+BA    9   CR 2+121/480   TR  2   CH  2   ST &E1 &2B &3D
+BA    9   CR   2+17/60   TR  1   CH  1   ST &E0 &0C &3E
+BA    9   CR   2+17/60   TR  2   CH  2   ST &E1 &0C &3E
+BA    9   CR 2+101/320   TR  1   CH  1   ST &E0 &6E &3E
+BA    9   CR 2+101/320   TR  2   CH  2   ST &E1 &6E &3E
+BA    9   CR 2+111/320   TR  1   CH  1   ST &E0 &00 &40
+BA    9   CR 2+111/320   TR  2   CH  2   ST &E1 &00 &40
+BA    9   CR     2+1/2   TR  3   CH  3   NT  F-            1/2
+BA    9   CR     2+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA    9   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA    9   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    9   CR   2+25/48   TR  1   CH  1   ST &E0 &00 &10
+BA    9   CR   2+25/48   TR  2   CH  2   ST &E1 &00 &10
+BA    9   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA    9   CR         3   TR  1   CH  1   NT  Eb--          1/8
+BA    9   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA    9   CR         3   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA    9   CR         3   TR  3   CH  3   NT  Eb            1/2
+BA    9   CR         3   TR  4   CH  4   NT  F-            1/2   voff=0
+BA    9   CR         3   TR  8   CH 10   NT  E--           1/4
+BA    9   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA    9   CR     3+1/4   TR  1   CH  1   NT  F--           1/8
+BA    9   CR     3+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA    9   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA    9   CR     3+1/2   TR  1   CH  1   NT  F---          1/2
+BA    9   CR     3+1/2   TR  2   CH  2   NT  F---          1/2   voff=0
+BA    9   CR     3+1/2   TR  3   CH  3   NT  G#-           1/8
+BA    9   CR     3+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA    9   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA    9   CR     3+5/8   TR  3   CH  3   NT  F-            1/8
+BA    9   CR     3+3/4   TR  3   CH  3   NT  G#-           1/8
+BA    9   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA    9   CR     3+7/8   TR  3   CH  3   NT  F-            1/8
+
+BA   10   CR         0   TR  1   CH  1   NT  F---          1/2
+BA   10   CR         0   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   10   CR         0   TR  3   CH  3   NT  G#-           1/2
+BA   10   CR         0   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA   10   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   10   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   10   CR       1/8   TR  4   CH  4   NT  F-            1/8   voff=0
+BA   10   CR       1/4   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA   10   CR       3/8   TR  4   CH  4   NT  F-            1/8   voff=0
+BA   10   CR       1/2   TR  1   CH  1   NT  Eb--          1/8
+BA   10   CR       1/2   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   10   CR       1/2   TR  3   CH  3   NT  F-            1/2
+BA   10   CR       1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA   10   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   10   CR       3/4   TR  1   CH  1   NT  F--           1/8
+BA   10   CR       3/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   10   CR         1   TR  1   CH  1   NT  F---          1/2
+BA   10   CR         1   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   10   CR         1   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   10   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   10   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   10   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   10   CR     1+1/2   TR  1   CH  1   NT  Bb---         1/2
+BA   10   CR     1+1/2   TR  2   CH  2   NT  Bb---         1/2   voff=0
+BA   10   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2
+BA   10   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA   10   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   10   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA   10   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   10   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   10   CR     2+1/4   TR  8   CH 10   NT  F#--          1/8
+BA   10   CR     2+3/8   TR  8   CH 10   NT  F#--          1/8
+BA   10   CR     2+1/2   TR  1   CH  1   NT  G#---       1+1/2
+BA   10   CR     2+1/2   TR  2   CH  2   NT  G#---       1+1/2   voff=0
+BA   10   CR     2+1/2   TR  3   CH  3   NT  G#-         1+1/2
+BA   10   CR     2+1/2   TR  3   CH  3   NT  Eb-         1+1/2
+BA   10   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   10   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   10   CR 2+139/192   TR  1   CH  1   ST &E0 &7F &3F
+BA   10   CR 2+139/192   TR  2   CH  2   ST &E1 &7F &3F
+BA   10   CR  2+91/120   TR  1   CH  1   ST &E0 &38 &44
+BA   10   CR  2+91/120   TR  2   CH  2   ST &E1 &38 &44
+BA   10   CR 2+761/960   TR  1   CH  1   ST &E0 &71 &48
+BA   10   CR 2+761/960   TR  2   CH  2   ST &E1 &71 &48
+BA   10   CR 2+397/480   TR  1   CH  1   ST &E0 &2A &4D
+BA   10   CR 2+397/480   TR  2   CH  2   ST &E1 &2A &4D
+BA   10   CR 2+827/960   TR  1   CH  1   ST &E0 &63 &51
+BA   10   CR 2+827/960   TR  2   CH  2   ST &E1 &63 &51
+BA   10   CR 2+287/320   TR  1   CH  1   ST &E0 &1B &56
+BA   10   CR 2+287/320   TR  2   CH  2   ST &E1 &1B &56
+BA   10   CR 2+149/160   TR  1   CH  1   ST &E0 &54 &5A
+BA   10   CR 2+149/160   TR  2   CH  2   ST &E1 &54 &5A
+BA   10   CR 2+309/320   TR  1   CH  1   ST &E0 &0D &5F
+BA   10   CR 2+309/320   TR  2   CH  2   ST &E1 &0D &5F
+BA   10   CR         3   TR  1   CH  1   ST &E0 &46 &63
+BA   10   CR         3   TR  2   CH  2   ST &E1 &46 &63
+BA   10   CR         3   TR  4   CH  4   NT  G#-         1+1/2   voff=0
+BA   10   CR         3   TR  4   CH  4   NT  Eb-         1+1/2   voff=0
+BA   10   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   10   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   10   CR  3+11/320   TR  1   CH  1   ST &E0 &7F &67
+BA   10   CR  3+11/320   TR  2   CH  2   ST &E1 &7F &67
+BA   10   CR  3+31/480   TR  1   CH  1   ST &E0 &0B &61
+BA   10   CR  3+31/480   TR  2   CH  2   ST &E1 &0B &61
+BA   10   CR  3+31/320   TR  1   CH  1   ST &E0 &69 &5D
+BA   10   CR  3+31/320   TR  2   CH  2   ST &E1 &69 &5D
+BA   10   CR  3+41/320   TR  1   CH  1   ST &E0 &47 &5A
+BA   10   CR  3+41/320   TR  2   CH  2   ST &E1 &47 &5A
+BA   10   CR  3+77/480   TR  1   CH  1   ST &E0 &26 &57
+BA   10   CR  3+77/480   TR  2   CH  2   ST &E1 &26 &57
+BA   10   CR  3+37/192   TR  1   CH  1   ST &E0 &04 &54
+BA   10   CR  3+37/192   TR  2   CH  2   ST &E1 &04 &54
+BA   10   CR    3+9/40   TR  1   CH  1   ST &E0 &62 &50
+BA   10   CR    3+9/40   TR  2   CH  2   ST &E1 &62 &50
+BA   10   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   10   CR 3+247/960   TR  1   CH  1   ST &E0 &40 &4D
+BA   10   CR 3+247/960   TR  2   CH  2   ST &E1 &40 &4D
+BA   10   CR 3+139/480   TR  1   CH  1   ST &E0 &1F &4A
+BA   10   CR 3+139/480   TR  2   CH  2   ST &E1 &1F &4A
+BA   10   CR 3+103/320   TR  1   CH  1   ST &E0 &7D &46
+BA   10   CR 3+103/320   TR  2   CH  2   ST &E1 &7D &46
+BA   10   CR   3+17/48   TR  1   CH  1   ST &E0 &5B &43
+BA   10   CR   3+17/48   TR  2   CH  2   ST &E1 &5B &43
+BA   10   CR   3+37/96   TR  1   CH  1   ST &E0 &3A &40
+BA   10   CR   3+37/96   TR  2   CH  2   ST &E1 &3A &40
+BA   10   CR 3+401/960   TR  1   CH  1   ST &E0 &19 &3D
+BA   10   CR 3+401/960   TR  2   CH  2   ST &E1 &19 &3D
+BA   10   CR    3+9/20   TR  1   CH  1   ST &E0 &77 &39
+BA   10   CR    3+9/20   TR  2   CH  2   ST &E1 &77 &39
+BA   10   CR 3+463/960   TR  1   CH  1   ST &E0 &55 &36
+BA   10   CR 3+463/960   TR  2   CH  2   ST &E1 &55 &36
+BA   10   CR     3+1/2   TR  8   CH 10   NT  E--           1/4
+BA   10   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   10   CR 3+247/480   TR  1   CH  1   ST &E0 &34 &33
+BA   10   CR 3+247/480   TR  2   CH  2   ST &E1 &34 &33
+BA   10   CR   3+35/64   TR  1   CH  1   ST &E0 &12 &30
+BA   10   CR   3+35/64   TR  2   CH  2   ST &E1 &12 &30
+BA   10   CR 3+139/240   TR  1   CH  1   ST &E0 &70 &2C
+BA   10   CR 3+139/240   TR  2   CH  2   ST &E1 &70 &2C
+BA   10   CR 3+293/480   TR  1   CH  1   ST &E0 &4F &29
+BA   10   CR 3+293/480   TR  2   CH  2   ST &E1 &4F &29
+BA   10   CR 3+617/960   TR  1   CH  1   ST &E0 &2D &26
+BA   10   CR 3+617/960   TR  2   CH  2   ST &E1 &2D &26
+BA   10   CR   3+27/40   TR  1   CH  1   ST &E0 &0B &23
+BA   10   CR   3+27/40   TR  2   CH  2   ST &E1 &0B &23
+BA   10   CR 3+679/960   TR  1   CH  1   ST &E0 &6A &1F
+BA   10   CR 3+679/960   TR  2   CH  2   ST &E1 &6A &1F
+BA   10   CR   3+71/96   TR  1   CH  1   ST &E0 &48 &1C
+BA   10   CR   3+71/96   TR  2   CH  2   ST &E1 &48 &1C
+BA   10   CR     3+3/4   TR  8   CH 10   NT  E--           1/4
+BA   10   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA   10   CR 3+247/320   TR  1   CH  1   ST &E0 &26 &19
+BA   10   CR 3+247/320   TR  2   CH  2   ST &E1 &26 &19
+BA   10   CR 3+193/240   TR  1   CH  1   ST &E0 &04 &16
+BA   10   CR 3+193/240   TR  2   CH  2   ST &E1 &04 &16
+BA   10   CR 3+803/960   TR  1   CH  1   ST &E0 &63 &12
+BA   10   CR 3+803/960   TR  2   CH  2   ST &E1 &63 &12
+BA   10   CR 3+833/960   TR  1   CH  1   ST &E0 &41 &0F
+BA   10   CR 3+833/960   TR  2   CH  2   ST &E1 &41 &0F
+BA   10   CR    3+9/10   TR  1   CH  1   ST &E0 &1F &0C
+BA   10   CR    3+9/10   TR  2   CH  2   ST &E1 &1F &0C
+BA   10   CR 3+179/192   TR  1   CH  1   ST &E0 &7E &08
+BA   10   CR 3+179/192   TR  2   CH  2   ST &E1 &7E &08
+BA   10   CR 3+463/480   TR  1   CH  1   ST &E0 &5C &05
+BA   10   CR 3+463/480   TR  2   CH  2   ST &E1 &5C &05
+BA   10   CR   3+31/32   TR  1   CH  1   ST &E0 &51 &04
+BA   10   CR   3+31/32   TR  2   CH  2   ST &E1 &51 &04
+
+BA   11   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA   11   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA   11   CR         0   TR  1   CH  1   ST &B0 &06 &10
+BA   11   CR         0   TR  1   CH  1   NT  F---            1
+BA   11   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   11   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA   11   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA   11   CR         0   TR  2   CH  2   ST &B1 &06 &10
+BA   11   CR         0   TR  2   CH  2   NT  F---            1   voff=0
+BA   11   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   11   CR         0   TR  3   CH  3   NT  F-              1
+BA   11   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   11   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   11   CR       1/2   TR  4   CH  4   NT  F-              1   voff=0
+BA   11   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   11   CR         1   TR  1   CH  1   NT  Eb--          1/8
+BA   11   CR         1   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   11   CR         1   TR  3   CH  3   NT  F             1/2
+BA   11   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   11   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   11   CR     1+1/4   TR  1   CH  1   NT  F--           1/8
+BA   11   CR     1+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   11   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   11   CR     1+1/2   TR  1   CH  1   NT  F---          3/8
+BA   11   CR     1+1/2   TR  2   CH  2   NT  F---          3/8   voff=0
+BA   11   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA   11   CR     1+1/2   TR  4   CH  4   NT  F             1/2   voff=0
+BA   11   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   11   CR         2   TR  1   CH  1   NT  F--           1/2
+BA   11   CR         2   TR  2   CH  2   NT  F--           1/2   voff=0
+BA   11   CR         2   TR  3   CH  3   NT  Eb            1/2
+BA   11   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   11   CR         2   TR  8   CH 10   NT  F#--          1/8
+BA   11   CR     2+1/8   TR  1   CH  1   ST &E0 &7F &3F
+BA   11   CR     2+1/8   TR  2   CH  2   ST &E1 &7F &3F
+BA   11   CR     2+1/8   TR  3   CH  3   ST &E2 &7F &3F
+BA   11   CR     2+1/8   TR  8   CH 10   NT  F#--          1/8
+BA   11   CR    2+2/15   TR  1   CH  1   ST &E0 &4E &3F
+BA   11   CR    2+2/15   TR  2   CH  2   ST &E1 &4E &3F
+BA   11   CR    2+2/15   TR  3   CH  3   ST &E2 &4E &3F
+BA   11   CR  2+53/320   TR  1   CH  1   ST &E0 &0A &3B
+BA   11   CR  2+53/320   TR  2   CH  2   ST &E1 &0A &3B
+BA   11   CR  2+53/320   TR  3   CH  3   ST &E2 &0A &3B
+BA   11   CR   2+19/96   TR  1   CH  1   ST &E0 &44 &36
+BA   11   CR   2+19/96   TR  2   CH  2   ST &E1 &44 &36
+BA   11   CR   2+19/96   TR  3   CH  3   ST &E2 &44 &36
+BA   11   CR 2+221/960   TR  1   CH  1   ST &E0 &7F &31
+BA   11   CR 2+221/960   TR  2   CH  2   ST &E1 &7F &31
+BA   11   CR 2+221/960   TR  3   CH  3   ST &E2 &7F &31
+BA   11   CR     2+1/4   TR  8   CH 10   NT  F#--          1/4
+BA   11   CR   2+21/80   TR  1   CH  1   ST &E0 &3A &2D
+BA   11   CR   2+21/80   TR  2   CH  2   ST &E1 &3A &2D
+BA   11   CR   2+21/80   TR  3   CH  3   ST &E2 &3A &2D
+BA   11   CR 2+283/960   TR  1   CH  1   ST &E0 &74 &28
+BA   11   CR 2+283/960   TR  2   CH  2   ST &E1 &74 &28
+BA   11   CR 2+283/960   TR  3   CH  3   ST &E2 &74 &28
+BA   11   CR 2+157/480   TR  1   CH  1   ST &E0 &2F &24
+BA   11   CR 2+157/480   TR  2   CH  2   ST &E1 &2F &24
+BA   11   CR 2+157/480   TR  3   CH  3   ST &E2 &2F &24
+BA   11   CR   2+23/64   TR  1   CH  1   ST &E0 &6A &1F
+BA   11   CR   2+23/64   TR  2   CH  2   ST &E1 &6A &1F
+BA   11   CR   2+23/64   TR  3   CH  3   ST &E2 &6A &1F
+BA   11   CR  2+47/120   TR  1   CH  1   ST &E0 &25 &1B
+BA   11   CR  2+47/120   TR  2   CH  2   ST &E1 &25 &1B
+BA   11   CR  2+47/120   TR  3   CH  3   ST &E2 &25 &1B
+BA   11   CR 2+407/960   TR  1   CH  1   ST &E0 &5F &16
+BA   11   CR 2+407/960   TR  2   CH  2   ST &E1 &5F &16
+BA   11   CR 2+407/960   TR  3   CH  3   ST &E2 &5F &16
+BA   11   CR  2+73/160   TR  1   CH  1   ST &E0 &1A &12
+BA   11   CR  2+73/160   TR  2   CH  2   ST &E1 &1A &12
+BA   11   CR  2+73/160   TR  3   CH  3   ST &E2 &1A &12
+BA   11   CR 2+469/960   TR  1   CH  1   ST &E0 &55 &0D
+BA   11   CR 2+469/960   TR  2   CH  2   ST &E1 &55 &0D
+BA   11   CR 2+469/960   TR  3   CH  3   ST &E2 &55 &0D
+BA   11   CR     2+1/2   TR  1   CH  1   ST &E0 &00 &40
+BA   11   CR     2+1/2   TR  2   CH  2   ST &E1 &00 &40
+BA   11   CR     2+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA   11   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   11   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   11   CR   2+25/48   TR  3   CH  3   ST &E2 &0F &09
+BA   11   CR 2+177/320   TR  3   CH  3   ST &E2 &4A &04
+BA   11   CR     2+5/8   TR  4   CH  4   ST &E3 &7F &3F
+BA   11   CR   2+19/30   TR  4   CH  4   ST &E3 &4E &3F
+BA   11   CR 2+213/320   TR  4   CH  4   ST &E3 &0A &3B
+BA   11   CR   2+67/96   TR  4   CH  4   ST &E3 &44 &36
+BA   11   CR 2+701/960   TR  4   CH  4   ST &E3 &7F &31
+BA   11   CR     2+3/4   TR  8   CH 10   NT  G#--          1/4
+BA   11   CR   2+61/80   TR  4   CH  4   ST &E3 &3A &2D
+BA   11   CR 2+763/960   TR  4   CH  4   ST &E3 &74 &28
+BA   11   CR 2+397/480   TR  4   CH  4   ST &E3 &2F &24
+BA   11   CR   2+55/64   TR  4   CH  4   ST &E3 &6A &1F
+BA   11   CR 2+107/120   TR  4   CH  4   ST &E3 &25 &1B
+BA   11   CR 2+887/960   TR  4   CH  4   ST &E3 &5F &16
+BA   11   CR 2+153/160   TR  4   CH  4   ST &E3 &1A &12
+BA   11   CR 2+949/960   TR  4   CH  4   ST &E3 &55 &0D
+BA   11   CR         3   TR  1   CH  1   NT  Eb--          1/8
+BA   11   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA   11   CR         3   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   11   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA   11   CR         3   TR  3   CH  3   ST &E2 &00 &40
+BA   11   CR         3   TR  3   CH  3   NT  Eb            1/2
+BA   11   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   11   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   11   CR    3+1/48   TR  4   CH  4   ST &E3 &0F &09
+BA   11   CR  3+17/320   TR  4   CH  4   ST &E3 &4A &04
+BA   11   CR     3+1/4   TR  1   CH  1   NT  F--           1/8
+BA   11   CR     3+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   11   CR     3+1/2   TR  1   CH  1   NT  F---          1/2
+BA   11   CR     3+1/2   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   11   CR     3+1/2   TR  3   CH  3   NT  F             1/2
+BA   11   CR     3+1/2   TR  4   CH  4   ST &E3 &00 &40
+BA   11   CR     3+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA   11   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   11   CR     3+3/4   TR  8   CH 10   NT  G#--          1/4
+
+BA   12   CR         0   TR  1   CH  1   NT  F---          1/2
+BA   12   CR         0   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   12   CR         0   TR  3   CH  3   NT  G#-           1/2
+BA   12   CR         0   TR  4   CH  4   NT  F             1/2   voff=0
+BA   12   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   12   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   12   CR       1/2   TR  1   CH  1   NT  Eb--          1/8
+BA   12   CR       1/2   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   12   CR       1/2   TR  3   CH  3   NT  F-            1/2
+BA   12   CR       1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA   12   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   12   CR       3/4   TR  1   CH  1   NT  F--           1/8
+BA   12   CR       3/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   12   CR         1   TR  1   CH  1   NT  F---          1/2
+BA   12   CR         1   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   12   CR         1   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   12   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   12   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   12   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   12   CR     1+1/2   TR  1   CH  1   NT  Bb---         1/2
+BA   12   CR     1+1/2   TR  2   CH  2   NT  Bb---         1/2   voff=0
+BA   12   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA   12   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2
+BA   12   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   12   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   12   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA   12   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   12   CR     2+1/4   TR  8   CH 10   NT  B---          1/4
+BA   12   CR     2+1/2   TR  1   CH  1   NT  G#---       1+1/2
+BA   12   CR     2+1/2   TR  2   CH  2   NT  G#---       1+1/2   voff=0
+BA   12   CR     2+1/2   TR  3   CH  3   NT  Eb-             1
+BA   12   CR     2+1/2   TR  3   CH  3   NT  G#-             1
+BA   12   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   12   CR 2+139/192   TR  1   CH  1   ST &E0 &7F &3F
+BA   12   CR 2+139/192   TR  2   CH  2   ST &E1 &7F &3F
+BA   12   CR  2+91/120   TR  1   CH  1   ST &E0 &38 &44
+BA   12   CR  2+91/120   TR  2   CH  2   ST &E1 &38 &44
+BA   12   CR 2+761/960   TR  1   CH  1   ST &E0 &71 &48
+BA   12   CR 2+761/960   TR  2   CH  2   ST &E1 &71 &48
+BA   12   CR 2+397/480   TR  1   CH  1   ST &E0 &2A &4D
+BA   12   CR 2+397/480   TR  2   CH  2   ST &E1 &2A &4D
+BA   12   CR 2+827/960   TR  1   CH  1   ST &E0 &63 &51
+BA   12   CR 2+827/960   TR  2   CH  2   ST &E1 &63 &51
+BA   12   CR 2+287/320   TR  1   CH  1   ST &E0 &1B &56
+BA   12   CR 2+287/320   TR  2   CH  2   ST &E1 &1B &56
+BA   12   CR 2+149/160   TR  1   CH  1   ST &E0 &54 &5A
+BA   12   CR 2+149/160   TR  2   CH  2   ST &E1 &54 &5A
+BA   12   CR 2+309/320   TR  1   CH  1   ST &E0 &0D &5F
+BA   12   CR 2+309/320   TR  2   CH  2   ST &E1 &0D &5F
+BA   12   CR         3   TR  1   CH  1   ST &E0 &46 &63
+BA   12   CR         3   TR  2   CH  2   ST &E1 &46 &63
+BA   12   CR         3   TR  4   CH  4   NT  Eb-             1   voff=0
+BA   12   CR         3   TR  4   CH  4   NT  G#-             1   voff=0
+BA   12   CR         3   TR  8   CH 10   NT  B---          1/4
+BA   12   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   12   CR  3+11/320   TR  1   CH  1   ST &E0 &7F &67
+BA   12   CR  3+11/320   TR  2   CH  2   ST &E1 &7F &67
+BA   12   CR  3+31/480   TR  1   CH  1   ST &E0 &0B &61
+BA   12   CR  3+31/480   TR  2   CH  2   ST &E1 &0B &61
+BA   12   CR  3+31/320   TR  1   CH  1   ST &E0 &69 &5D
+BA   12   CR  3+31/320   TR  2   CH  2   ST &E1 &69 &5D
+BA   12   CR  3+41/320   TR  1   CH  1   ST &E0 &47 &5A
+BA   12   CR  3+41/320   TR  2   CH  2   ST &E1 &47 &5A
+BA   12   CR  3+77/480   TR  1   CH  1   ST &E0 &26 &57
+BA   12   CR  3+77/480   TR  2   CH  2   ST &E1 &26 &57
+BA   12   CR  3+37/192   TR  1   CH  1   ST &E0 &04 &54
+BA   12   CR  3+37/192   TR  2   CH  2   ST &E1 &04 &54
+BA   12   CR    3+9/40   TR  1   CH  1   ST &E0 &62 &50
+BA   12   CR    3+9/40   TR  2   CH  2   ST &E1 &62 &50
+BA   12   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   12   CR 3+247/960   TR  1   CH  1   ST &E0 &40 &4D
+BA   12   CR 3+247/960   TR  2   CH  2   ST &E1 &40 &4D
+BA   12   CR 3+139/480   TR  1   CH  1   ST &E0 &1F &4A
+BA   12   CR 3+139/480   TR  2   CH  2   ST &E1 &1F &4A
+BA   12   CR 3+103/320   TR  1   CH  1   ST &E0 &7D &46
+BA   12   CR 3+103/320   TR  2   CH  2   ST &E1 &7D &46
+BA   12   CR   3+17/48   TR  1   CH  1   ST &E0 &5B &43
+BA   12   CR   3+17/48   TR  2   CH  2   ST &E1 &5B &43
+BA   12   CR   3+37/96   TR  1   CH  1   ST &E0 &3A &40
+BA   12   CR   3+37/96   TR  2   CH  2   ST &E1 &3A &40
+BA   12   CR 3+401/960   TR  1   CH  1   ST &E0 &19 &3D
+BA   12   CR 3+401/960   TR  2   CH  2   ST &E1 &19 &3D
+BA   12   CR    3+9/20   TR  1   CH  1   ST &E0 &77 &39
+BA   12   CR    3+9/20   TR  2   CH  2   ST &E1 &77 &39
+BA   12   CR 3+463/960   TR  1   CH  1   ST &E0 &55 &36
+BA   12   CR 3+463/960   TR  2   CH  2   ST &E1 &55 &36
+BA   12   CR     3+1/2   TR  8   CH 10   NT  E--           1/4
+BA   12   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   12   CR 3+247/480   TR  1   CH  1   ST &E0 &34 &33
+BA   12   CR 3+247/480   TR  2   CH  2   ST &E1 &34 &33
+BA   12   CR   3+35/64   TR  1   CH  1   ST &E0 &12 &30
+BA   12   CR   3+35/64   TR  2   CH  2   ST &E1 &12 &30
+BA   12   CR 3+139/240   TR  1   CH  1   ST &E0 &70 &2C
+BA   12   CR 3+139/240   TR  2   CH  2   ST &E1 &70 &2C
+BA   12   CR 3+293/480   TR  1   CH  1   ST &E0 &4F &29
+BA   12   CR 3+293/480   TR  2   CH  2   ST &E1 &4F &29
+BA   12   CR 3+617/960   TR  1   CH  1   ST &E0 &2D &26
+BA   12   CR 3+617/960   TR  2   CH  2   ST &E1 &2D &26
+BA   12   CR   3+27/40   TR  1   CH  1   ST &E0 &0B &23
+BA   12   CR   3+27/40   TR  2   CH  2   ST &E1 &0B &23
+BA   12   CR 3+679/960   TR  1   CH  1   ST &E0 &6A &1F
+BA   12   CR 3+679/960   TR  2   CH  2   ST &E1 &6A &1F
+BA   12   CR   3+71/96   TR  1   CH  1   ST &E0 &48 &1C
+BA   12   CR   3+71/96   TR  2   CH  2   ST &E1 &48 &1C
+BA   12   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA   12   CR 3+247/320   TR  1   CH  1   ST &E0 &26 &19
+BA   12   CR 3+247/320   TR  2   CH  2   ST &E1 &26 &19
+BA   12   CR 3+193/240   TR  1   CH  1   ST &E0 &04 &16
+BA   12   CR 3+193/240   TR  2   CH  2   ST &E1 &04 &16
+BA   12   CR 3+803/960   TR  1   CH  1   ST &E0 &63 &12
+BA   12   CR 3+803/960   TR  2   CH  2   ST &E1 &63 &12
+BA   12   CR 3+833/960   TR  1   CH  1   ST &E0 &41 &0F
+BA   12   CR 3+833/960   TR  2   CH  2   ST &E1 &41 &0F
+BA   12   CR    3+9/10   TR  1   CH  1   ST &E0 &1F &0C
+BA   12   CR    3+9/10   TR  2   CH  2   ST &E1 &1F &0C
+BA   12   CR 3+179/192   TR  1   CH  1   ST &E0 &7E &08
+BA   12   CR 3+179/192   TR  2   CH  2   ST &E1 &7E &08
+BA   12   CR   3+15/16   TR  1   CH  1   ST &E0 &12 &09
+BA   12   CR   3+15/16   TR  2   CH  2   ST &E1 &12 &09
+BA   12   CR 3+467/480   TR  1   CH  1   ST &E0 &37 &03
+BA   12   CR 3+467/480   TR  2   CH  2   ST &E1 &37 &03
+
+BA   13   CR         0   TR  1   CH  1   ST &E0 &4E &37
+BA   13   CR         0   TR  1   CH  1   ST &E0 &7A &39
+BA   13   CR         0   TR  1   CH  1   ST &E0 &45 &3A
+BA   13   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   13   CR         0   TR  1   CH  1   ST &E0 &00 &38
+BA   13   CR         0   TR  1   CH  1   ST &E0 &25 &3C
+BA   13   CR         0   TR  1   CH  1   ST &E0 &1A &38
+BA   13   CR         0   TR  1   CH  1   ST &E0 &65 &38
+BA   13   CR         0   TR  1   CH  1   ST &E0 &2F &39
+BA   13   CR         0   TR  1   CH  1   ST &E0 &51 &3E
+BA   13   CR         0   TR  1   CH  1   ST &E0 &1B &3F
+BA   13   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   13   CR         0   TR  1   CH  1   NT  F---          3/4
+BA   13   CR         0   TR  2   CH  2   ST &E1 &4E &37
+BA   13   CR         0   TR  2   CH  2   ST &E1 &7A &39
+BA   13   CR         0   TR  2   CH  2   ST &E1 &45 &3A
+BA   13   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   13   CR         0   TR  2   CH  2   ST &E1 &00 &38
+BA   13   CR         0   TR  2   CH  2   ST &E1 &25 &3C
+BA   13   CR         0   TR  2   CH  2   ST &E1 &1A &38
+BA   13   CR         0   TR  2   CH  2   ST &E1 &65 &38
+BA   13   CR         0   TR  2   CH  2   ST &E1 &2F &39
+BA   13   CR         0   TR  2   CH  2   ST &E1 &51 &3E
+BA   13   CR         0   TR  2   CH  2   ST &E1 &1B &3F
+BA   13   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   13   CR         0   TR  2   CH  2   NT  F---          3/4   voff=0
+BA   13   CR         0   TR  5   CH  5   ST &E4 &00 &40
+BA   13   CR         0   TR  5   CH  5   NT  F               3
+BA   13   CR         0   TR  5   CH  5   NT  C               3
+BA   13   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   13   CR         0   TR  7   CH  8   NT  F               3   voff=0
+BA   13   CR         0   TR  7   CH  8   NT  C               3   voff=0
+BA   13   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   13   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   13   CR         0   TR  8   CH 10   NT  C#-           1/4
+BA   13   CR       1/2   TR  6   CH  6   ST &E5 &00 &40
+BA   13   CR       1/2   TR  6   CH  6   NT  F               3   voff=0
+BA   13   CR       1/2   TR  6   CH  6   NT  C               3   voff=0
+BA   13   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   13   CR       3/4   TR  1   CH  1   NT  F--           1/4
+BA   13   CR       3/4   TR  2   CH  2   NT  F--           1/4   voff=0
+BA   13   CR         1   TR  1   CH  1   NT  F---          1/4
+BA   13   CR         1   TR  2   CH  2   NT  F---          1/4   voff=0
+BA   13   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   13   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   13   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   13   CR     1+1/2   TR  1   CH  1   NT  F---          3/4
+BA   13   CR     1+1/2   TR  2   CH  2   NT  F---          3/4   voff=0
+BA   13   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   13   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   13   CR     2+1/4   TR  1   CH  1   NT  F--           1/4
+BA   13   CR     2+1/4   TR  2   CH  2   NT  F--           1/4   voff=0
+BA   13   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   13   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   13   CR     2+3/4   TR  1   CH  1   NT  F--           1/4
+BA   13   CR     2+3/4   TR  2   CH  2   NT  F--           1/4   voff=0
+BA   13   CR         3   TR  1   CH  1   NT  F---          1/8
+BA   13   CR         3   TR  2   CH  2   NT  F---          1/8   voff=0
+BA   13   CR         3   TR  5   CH  5   NT  F               4
+BA   13   CR         3   TR  5   CH  5   NT  C               4
+BA   13   CR         3   TR  7   CH  8   NT  F               4   voff=0
+BA   13   CR         3   TR  7   CH  8   NT  C               4   voff=0
+BA   13   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   13   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   13   CR     3+1/4   TR  1   CH  1   NT  F--           1/8
+BA   13   CR     3+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   13   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   13   CR     3+1/2   TR  1   CH  1   NT  F---        1+1/4
+BA   13   CR     3+1/2   TR  2   CH  2   NT  F---        1+1/4   voff=0
+BA   13   CR     3+1/2   TR  6   CH  6   NT  F               4   voff=0
+BA   13   CR     3+1/2   TR  6   CH  6   NT  C               4   voff=0
+BA   13   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   13   CR 3+497/960   TR  5   CH  5   ST &E4 &7F &3F
+BA   13   CR 3+497/960   TR  7   CH  8   ST &E7 &7F &3F
+BA   13   CR   3+11/20   TR  5   CH  5   ST &E4 &79 &3E
+BA   13   CR   3+11/20   TR  7   CH  8   ST &E7 &79 &3E
+BA   13   CR 3+559/960   TR  5   CH  5   ST &E4 &72 &3D
+BA   13   CR 3+559/960   TR  7   CH  8   ST &E7 &72 &3D
+BA   13   CR   3+59/96   TR  5   CH  5   ST &E4 &6B &3C
+BA   13   CR   3+59/96   TR  7   CH  8   ST &E7 &6B &3C
+BA   13   CR   3+31/48   TR  5   CH  5   ST &E4 &64 &3B
+BA   13   CR   3+31/48   TR  7   CH  8   ST &E7 &64 &3B
+BA   13   CR 3+217/320   TR  5   CH  5   ST &E4 &5D &3A
+BA   13   CR 3+217/320   TR  7   CH  8   ST &E7 &5D &3A
+BA   13   CR 3+341/480   TR  5   CH  5   ST &E4 &56 &39
+BA   13   CR 3+341/480   TR  7   CH  8   ST &E7 &56 &39
+BA   13   CR 3+713/960   TR  5   CH  5   ST &E4 &4F &38
+BA   13   CR 3+713/960   TR  7   CH  8   ST &E7 &4F &38
+BA   13   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA   13   CR   3+31/40   TR  5   CH  5   ST &E4 &49 &37
+BA   13   CR   3+31/40   TR  7   CH  8   ST &E7 &49 &37
+BA   13   CR 3+155/192   TR  5   CH  5   ST &E4 &42 &36
+BA   13   CR 3+155/192   TR  7   CH  8   ST &E7 &42 &36
+BA   13   CR 3+403/480   TR  5   CH  5   ST &E4 &3B &35
+BA   13   CR 3+403/480   TR  7   CH  8   ST &E7 &3B &35
+BA   13   CR 3+833/960   TR  1   CH  1   ST &E0 &4E &47
+BA   13   CR 3+833/960   TR  2   CH  2   ST &E1 &4E &47
+BA   13   CR 3+279/320   TR  5   CH  5   ST &E4 &34 &34
+BA   13   CR 3+279/320   TR  7   CH  8   ST &E7 &34 &34
+BA   13   CR 3+289/320   TR  5   CH  5   ST &E4 &2D &33
+BA   13   CR 3+289/320   TR  7   CH  8   ST &E7 &2D &33
+BA   13   CR   3+29/32   TR  1   CH  1   ST &E0 &1E &4F
+BA   13   CR   3+29/32   TR  2   CH  2   ST &E1 &1E &4F
+BA   13   CR 3+449/480   TR  5   CH  5   ST &E4 &26 &32
+BA   13   CR 3+449/480   TR  7   CH  8   ST &E7 &26 &32
+BA   13   CR 3+151/160   TR  1   CH  1   ST &E0 &6D &56
+BA   13   CR 3+151/160   TR  2   CH  2   ST &E1 &6D &56
+BA   13   CR 3+929/960   TR  5   CH  5   ST &E4 &1F &31
+BA   13   CR 3+929/960   TR  7   CH  8   ST &E7 &1F &31
+
+BA   14   CR         0   TR  1   CH  1   ST &E0 &30 &60
+BA   14   CR         0   TR  2   CH  2   ST &E1 &30 &60
+BA   14   CR         0   TR  5   CH  5   ST &E4 &00 &30
+BA   14   CR         0   TR  7   CH  8   ST &E7 &00 &30
+BA   14   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   14   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   14   CR    17/960   TR  6   CH  6   ST &E5 &7F &3F
+BA   14   CR      1/20   TR  6   CH  6   ST &E5 &79 &3E
+BA   14   CR    79/960   TR  6   CH  6   ST &E5 &72 &3D
+BA   14   CR     11/96   TR  6   CH  6   ST &E5 &6B &3C
+BA   14   CR      7/48   TR  6   CH  6   ST &E5 &64 &3B
+BA   14   CR    57/320   TR  6   CH  6   ST &E5 &5D &3A
+BA   14   CR   101/480   TR  6   CH  6   ST &E5 &56 &39
+BA   14   CR   233/960   TR  6   CH  6   ST &E5 &4F &38
+BA   14   CR     11/40   TR  6   CH  6   ST &E5 &49 &37
+BA   14   CR    59/192   TR  6   CH  6   ST &E5 &42 &36
+BA   14   CR   163/480   TR  6   CH  6   ST &E5 &3B &35
+BA   14   CR   119/320   TR  6   CH  6   ST &E5 &34 &34
+BA   14   CR   129/320   TR  6   CH  6   ST &E5 &2D &33
+BA   14   CR   209/480   TR  6   CH  6   ST &E5 &26 &32
+BA   14   CR   449/960   TR  6   CH  6   ST &E5 &1F &31
+BA   14   CR       1/2   TR  6   CH  6   ST &E5 &00 &30
+BA   14   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   14   CR       3/4   TR  1   CH  1   NT  C#-           1/4
+BA   14   CR       3/4   TR  1   CH  1   ST &E0 &00 &40
+BA   14   CR       3/4   TR  2   CH  2   NT  C#-           1/4   voff=0
+BA   14   CR       3/4   TR  2   CH  2   ST &E1 &00 &40
+BA   14   CR         1   TR  1   CH  1   NT  C#--          1/4
+BA   14   CR         1   TR  2   CH  2   NT  C#--          1/4   voff=0
+BA   14   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   14   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   14   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   14   CR     1+1/2   TR  1   CH  1   NT  C#--          3/4
+BA   14   CR     1+1/2   TR  2   CH  2   NT  C#--          3/4   voff=0
+BA   14   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   14   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   14   CR     2+1/4   TR  1   CH  1   NT  C#-           1/4
+BA   14   CR     2+1/4   TR  2   CH  2   NT  C#-           1/4   voff=0
+BA   14   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   14   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   14   CR     2+3/4   TR  1   CH  1   NT  C#-           1/4
+BA   14   CR     2+3/4   TR  2   CH  2   NT  C#-           1/4   voff=0
+BA   14   CR         3   TR  1   CH  1   NT  C#--            1
+BA   14   CR         3   TR  2   CH  2   NT  C#--            1   voff=0
+BA   14   CR         3   TR  5   CH  5   ST &E4 &00 &40
+BA   14   CR         3   TR  5   CH  5   NT  C#              1
+BA   14   CR         3   TR  5   CH  5   NT  G#-             1
+BA   14   CR         3   TR  7   CH  8   ST &E7 &00 &40
+BA   14   CR         3   TR  7   CH  8   NT  C#              1   voff=0
+BA   14   CR         3   TR  7   CH  8   NT  G#-             1   voff=0
+BA   14   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   14   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   14   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   14   CR  3+77/160   TR  1   CH  1   ST &E0 &7F &3F
+BA   14   CR  3+77/160   TR  2   CH  2   ST &E1 &7F &3F
+BA   14   CR  3+77/160   TR  5   CH  5   ST &E4 &7F &3F
+BA   14   CR  3+77/160   TR  7   CH  8   ST &E7 &7F &3F
+BA   14   CR     3+1/2   TR  6   CH  6   ST &E5 &00 &40
+BA   14   CR     3+1/2   TR  6   CH  6   NT  C#              1   voff=0
+BA   14   CR     3+1/2   TR  6   CH  6   NT  G#-             1   voff=0
+BA   14   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   14   CR 3+493/960   TR  1   CH  1   ST &E0 &09 &3C
+BA   14   CR 3+493/960   TR  2   CH  2   ST &E1 &09 &3C
+BA   14   CR 3+493/960   TR  5   CH  5   ST &E4 &03 &3C
+BA   14   CR 3+493/960   TR  7   CH  8   ST &E7 &03 &3C
+BA   14   CR 3+523/960   TR  1   CH  1   ST &E0 &12 &38
+BA   14   CR 3+523/960   TR  2   CH  2   ST &E1 &12 &38
+BA   14   CR 3+523/960   TR  5   CH  5   ST &E4 &06 &38
+BA   14   CR 3+523/960   TR  7   CH  8   ST &E7 &06 &38
+BA   14   CR 3+277/480   TR  1   CH  1   ST &E0 &1C &34
+BA   14   CR 3+277/480   TR  2   CH  2   ST &E1 &1C &34
+BA   14   CR 3+277/480   TR  5   CH  5   ST &E4 &09 &34
+BA   14   CR 3+277/480   TR  7   CH  8   ST &E7 &09 &34
+BA   14   CR  3+73/120   TR  1   CH  1   ST &E0 &25 &30
+BA   14   CR  3+73/120   TR  2   CH  2   ST &E1 &25 &30
+BA   14   CR  3+73/120   TR  5   CH  5   ST &E4 &0C &30
+BA   14   CR  3+73/120   TR  7   CH  8   ST &E7 &0C &30
+BA   14   CR   3+41/64   TR  1   CH  1   ST &E0 &2E &2C
+BA   14   CR   3+41/64   TR  2   CH  2   ST &E1 &2E &2C
+BA   14   CR   3+41/64   TR  5   CH  5   ST &E4 &0F &2C
+BA   14   CR   3+41/64   TR  7   CH  8   ST &E7 &0F &2C
+BA   14   CR   3+43/64   TR  1   CH  1   ST &E0 &37 &28
+BA   14   CR   3+43/64   TR  2   CH  2   ST &E1 &37 &28
+BA   14   CR   3+43/64   TR  5   CH  5   ST &E4 &12 &28
+BA   14   CR   3+43/64   TR  7   CH  8   ST &E7 &12 &28
+BA   14   CR 3+169/240   TR  1   CH  1   ST &E0 &40 &24
+BA   14   CR 3+169/240   TR  2   CH  2   ST &E1 &40 &24
+BA   14   CR 3+169/240   TR  5   CH  5   ST &E4 &15 &24
+BA   14   CR 3+169/240   TR  7   CH  8   ST &E7 &15 &24
+BA   14   CR 3+707/960   TR  1   CH  1   ST &E0 &49 &20
+BA   14   CR 3+707/960   TR  2   CH  2   ST &E1 &49 &20
+BA   14   CR 3+707/960   TR  5   CH  5   ST &E4 &18 &20
+BA   14   CR 3+707/960   TR  7   CH  8   ST &E7 &18 &20
+BA   14   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA   14   CR 3+737/960   TR  1   CH  1   ST &E0 &53 &1C
+BA   14   CR 3+737/960   TR  2   CH  2   ST &E1 &53 &1C
+BA   14   CR 3+737/960   TR  5   CH  5   ST &E4 &1C &1C
+BA   14   CR 3+737/960   TR  7   CH  8   ST &E7 &1C &1C
+BA   14   CR     3+4/5   TR  1   CH  1   ST &E0 &5C &18
+BA   14   CR     3+4/5   TR  2   CH  2   ST &E1 &5C &18
+BA   14   CR     3+4/5   TR  5   CH  5   ST &E4 &1F &18
+BA   14   CR     3+4/5   TR  7   CH  8   ST &E7 &1F &18
+BA   14   CR 3+133/160   TR  1   CH  1   ST &E0 &65 &14
+BA   14   CR 3+133/160   TR  2   CH  2   ST &E1 &65 &14
+BA   14   CR 3+133/160   TR  5   CH  5   ST &E4 &22 &14
+BA   14   CR 3+133/160   TR  7   CH  8   ST &E7 &22 &14
+BA   14   CR 3+829/960   TR  1   CH  1   ST &E0 &6E &10
+BA   14   CR 3+829/960   TR  2   CH  2   ST &E1 &6E &10
+BA   14   CR 3+829/960   TR  5   CH  5   ST &E4 &25 &10
+BA   14   CR 3+829/960   TR  7   CH  8   ST &E7 &25 &10
+BA   14   CR 3+859/960   TR  1   CH  1   ST &E0 &77 &0C
+BA   14   CR 3+859/960   TR  2   CH  2   ST &E1 &77 &0C
+BA   14   CR 3+859/960   TR  5   CH  5   ST &E4 &28 &0C
+BA   14   CR 3+859/960   TR  7   CH  8   ST &E7 &28 &0C
+BA   14   CR   3+89/96   TR  1   CH  1   ST &E0 &01 &09
+BA   14   CR   3+89/96   TR  2   CH  2   ST &E1 &01 &09
+BA   14   CR   3+89/96   TR  5   CH  5   ST &E4 &2B &08
+BA   14   CR   3+89/96   TR  7   CH  8   ST &E7 &2B &08
+BA   14   CR   3+23/24   TR  1   CH  1   ST &E0 &0A &05
+BA   14   CR   3+23/24   TR  2   CH  2   ST &E1 &0A &05
+BA   14   CR   3+23/24   TR  5   CH  5   ST &E4 &2E &04
+BA   14   CR   3+23/24   TR  7   CH  8   ST &E7 &2E &04
+BA   14   CR 3+157/160   TR  6   CH  6   ST &E5 &7F &3F
+BA   14   CR 3+317/320   TR  5   CH  5   ST &E4 &31 &00
+BA   14   CR 3+317/320   TR  7   CH  8   ST &E7 &31 &00
+
+BA   15   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   15   CR         0   TR  1   CH  1   NT  G#---         3/4
+BA   15   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   15   CR         0   TR  2   CH  2   NT  G#---         3/4   voff=0
+BA   15   CR         0   TR  5   CH  5   ST &E4 &00 &40
+BA   15   CR         0   TR  5   CH  5   NT  G#-             3
+BA   15   CR         0   TR  5   CH  5   NT  Eb-             3
+BA   15   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   15   CR         0   TR  7   CH  8   NT  G#-             3   voff=0
+BA   15   CR         0   TR  7   CH  8   NT  Eb-             3   voff=0
+BA   15   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   15   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   15   CR    13/960   TR  6   CH  6   ST &E5 &03 &3C
+BA   15   CR    43/960   TR  6   CH  6   ST &E5 &06 &38
+BA   15   CR    37/480   TR  6   CH  6   ST &E5 &09 &34
+BA   15   CR    13/120   TR  6   CH  6   ST &E5 &0C &30
+BA   15   CR      9/64   TR  6   CH  6   ST &E5 &0F &2C
+BA   15   CR     11/64   TR  6   CH  6   ST &E5 &12 &28
+BA   15   CR    49/240   TR  6   CH  6   ST &E5 &15 &24
+BA   15   CR   227/960   TR  6   CH  6   ST &E5 &18 &20
+BA   15   CR   257/960   TR  6   CH  6   ST &E5 &1C &1C
+BA   15   CR      3/10   TR  6   CH  6   ST &E5 &1F &18
+BA   15   CR    53/160   TR  6   CH  6   ST &E5 &22 &14
+BA   15   CR   349/960   TR  6   CH  6   ST &E5 &25 &10
+BA   15   CR   379/960   TR  6   CH  6   ST &E5 &28 &0C
+BA   15   CR     41/96   TR  6   CH  6   ST &E5 &2B &08
+BA   15   CR     11/24   TR  6   CH  6   ST &E5 &2E &04
+BA   15   CR   157/320   TR  6   CH  6   ST &E5 &31 &00
+BA   15   CR       1/2   TR  6   CH  6   ST &E5 &00 &40
+BA   15   CR       1/2   TR  6   CH  6   NT  G#-             3   voff=0
+BA   15   CR       1/2   TR  6   CH  6   NT  Eb-             3   voff=0
+BA   15   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   15   CR       3/4   TR  1   CH  1   NT  G#--          1/4
+BA   15   CR       3/4   TR  2   CH  2   NT  G#--          1/4   voff=0
+BA   15   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   15   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   15   CR     1+1/4   TR  1   CH  1   NT  G#--          1/4
+BA   15   CR     1+1/4   TR  2   CH  2   NT  G#--          1/4   voff=0
+BA   15   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   15   CR     1+1/2   TR  1   CH  1   NT  G#---         1/2
+BA   15   CR     1+1/2   TR  2   CH  2   NT  G#---         1/2   voff=0
+BA   15   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   15   CR         2   TR  1   CH  1   ST &E0 &00 &38
+BA   15   CR         2   TR  1   CH  1   NT  G#--            1
+BA   15   CR         2   TR  2   CH  2   ST &E1 &00 &38
+BA   15   CR         2   TR  2   CH  2   NT  G#--            1   voff=0
+BA   15   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   15   CR   2+25/96   TR  1   CH  1   ST &E0 &00 &40
+BA   15   CR   2+25/96   TR  2   CH  2   ST &E1 &00 &40
+BA   15   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   15   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   15   CR   2+25/48   TR  1   CH  1   ST &E0 &00 &10
+BA   15   CR   2+25/48   TR  2   CH  2   ST &E1 &00 &10
+BA   15   CR         3   TR  1   CH  1   NT  F#--          1/8
+BA   15   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA   15   CR         3   TR  2   CH  2   NT  F#--          1/8   voff=0
+BA   15   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA   15   CR         3   TR  5   CH  5   NT  G#-             2
+BA   15   CR         3   TR  5   CH  5   NT  Eb-             2
+BA   15   CR         3   TR  7   CH  8   NT  G#-             2   voff=0
+BA   15   CR         3   TR  7   CH  8   NT  Eb-             2   voff=0
+BA   15   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   15   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   15   CR     3+1/4   TR  1   CH  1   NT  G#--          1/8
+BA   15   CR     3+1/4   TR  2   CH  2   NT  G#--          1/8   voff=0
+BA   15   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   15   CR     3+1/2   TR  1   CH  1   NT  G#---         1/2
+BA   15   CR     3+1/2   TR  2   CH  2   NT  G#---         1/2   voff=0
+BA   15   CR     3+1/2   TR  6   CH  6   NT  G#-             2   voff=0
+BA   15   CR     3+1/2   TR  6   CH  6   NT  Eb-             2   voff=0
+BA   15   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   15   CR 3+511/960   TR  5   CH  5   ST &E4 &01 &41
+BA   15   CR 3+511/960   TR  7   CH  8   ST &E7 &01 &41
+BA   15   CR 3+541/960   TR  5   CH  5   ST &E4 &02 &42
+BA   15   CR 3+541/960   TR  7   CH  8   ST &E7 &02 &42
+BA   15   CR 3+143/240   TR  5   CH  5   ST &E4 &04 &43
+BA   15   CR 3+143/240   TR  7   CH  8   ST &E7 &04 &43
+BA   15   CR 3+301/480   TR  5   CH  5   ST &E4 &05 &44
+BA   15   CR 3+301/480   TR  7   CH  8   ST &E7 &05 &44
+BA   15   CR 3+211/320   TR  5   CH  5   ST &E4 &07 &45
+BA   15   CR 3+211/320   TR  7   CH  8   ST &E7 &07 &45
+BA   15   CR 3+221/320   TR  5   CH  5   ST &E4 &08 &46
+BA   15   CR 3+221/320   TR  7   CH  8   ST &E7 &08 &46
+BA   15   CR 3+347/480   TR  5   CH  5   ST &E4 &0A &47
+BA   15   CR 3+347/480   TR  7   CH  8   ST &E7 &0A &47
+BA   15   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA   15   CR 3+181/240   TR  5   CH  5   ST &E4 &0B &48
+BA   15   CR 3+181/240   TR  7   CH  8   ST &E7 &0B &48
+BA   15   CR 3+151/192   TR  5   CH  5   ST &E4 &0D &49
+BA   15   CR 3+151/192   TR  7   CH  8   ST &E7 &0D &49
+BA   15   CR 3+157/192   TR  5   CH  5   ST &E4 &0E &4A
+BA   15   CR 3+157/192   TR  7   CH  8   ST &E7 &0E &4A
+BA   15   CR   3+17/20   TR  5   CH  5   ST &E4 &10 &4B
+BA   15   CR   3+17/20   TR  7   CH  8   ST &E7 &10 &4B
+BA   15   CR 3+141/160   TR  5   CH  5   ST &E4 &11 &4C
+BA   15   CR 3+141/160   TR  7   CH  8   ST &E7 &11 &4C
+BA   15   CR 3+877/960   TR  5   CH  5   ST &E4 &13 &4D
+BA   15   CR 3+877/960   TR  7   CH  8   ST &E7 &13 &4D
+BA   15   CR 3+907/960   TR  5   CH  5   ST &E4 &14 &4E
+BA   15   CR 3+907/960   TR  7   CH  8   ST &E7 &14 &4E
+BA   15   CR 3+469/480   TR  5   CH  5   ST &E4 &16 &4F
+BA   15   CR 3+469/480   TR  7   CH  8   ST &E7 &16 &4F
+BA   15   CR   3+79/80   TR  1   CH  1   ST &E0 &00 &40
+BA   15   CR   3+79/80   TR  2   CH  2   ST &E1 &00 &40
+
+BA   16   CR         0   TR  1   CH  1   NT  C--           1/2
+BA   16   CR         0   TR  2   CH  2   NT  C--           1/2   voff=0
+BA   16   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   16   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   16   CR         0   TR  8   CH 10   NT  A-            1/4
+BA   16   CR     1/120   TR  5   CH  5   ST &E4 &00 &50
+BA   16   CR     1/120   TR  7   CH  8   ST &E7 &00 &50
+BA   16   CR    31/960   TR  6   CH  6   ST &E5 &01 &41
+BA   16   CR    61/960   TR  6   CH  6   ST &E5 &02 &42
+BA   16   CR    23/240   TR  6   CH  6   ST &E5 &04 &43
+BA   16   CR    61/480   TR  6   CH  6   ST &E5 &05 &44
+BA   16   CR    51/320   TR  6   CH  6   ST &E5 &07 &45
+BA   16   CR    61/320   TR  6   CH  6   ST &E5 &08 &46
+BA   16   CR   107/480   TR  6   CH  6   ST &E5 &0A &47
+BA   16   CR    61/240   TR  6   CH  6   ST &E5 &0B &48
+BA   16   CR    55/192   TR  6   CH  6   ST &E5 &0D &49
+BA   16   CR    61/192   TR  6   CH  6   ST &E5 &0E &4A
+BA   16   CR      7/20   TR  6   CH  6   ST &E5 &10 &4B
+BA   16   CR    61/160   TR  6   CH  6   ST &E5 &11 &4C
+BA   16   CR   397/960   TR  6   CH  6   ST &E5 &13 &4D
+BA   16   CR   427/960   TR  6   CH  6   ST &E5 &14 &4E
+BA   16   CR   229/480   TR  6   CH  6   ST &E5 &16 &4F
+BA   16   CR       1/2   TR  1   CH  1   NT  C-            1/4
+BA   16   CR       1/2   TR  2   CH  2   NT  C-            1/4   voff=0
+BA   16   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   16   CR    61/120   TR  6   CH  6   ST &E5 &00 &50
+BA   16   CR         1   TR  1   CH  1   NT  B---          1/2
+BA   16   CR         1   TR  2   CH  2   NT  B---          1/2   voff=0
+BA   16   CR         1   TR  5   CH  5   ST &E4 &00 &40
+BA   16   CR         1   TR  5   CH  5   NT  B-              1
+BA   16   CR         1   TR  5   CH  5   NT  F#-             1
+BA   16   CR         1   TR  7   CH  8   ST &E7 &00 &40
+BA   16   CR         1   TR  7   CH  8   NT  B-              1   voff=0
+BA   16   CR         1   TR  7   CH  8   NT  F#-             1   voff=0
+BA   16   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   16   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   16   CR         1   TR  8   CH 10   NT  C#-           1/4
+BA   16   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   16   CR     1+1/2   TR  1   CH  1   NT  C-            1/4
+BA   16   CR     1+1/2   TR  2   CH  2   NT  C-            1/4   voff=0
+BA   16   CR     1+1/2   TR  6   CH  6   ST &E5 &00 &40
+BA   16   CR     1+1/2   TR  6   CH  6   NT  B-              1   voff=0
+BA   16   CR     1+1/2   TR  6   CH  6   NT  F#-             1   voff=0
+BA   16   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   16   CR         2   TR  1   CH  1   NT  Bb---         1/2
+BA   16   CR         2   TR  2   CH  2   NT  Bb---         1/2   voff=0
+BA   16   CR         2   TR  5   CH  5   NT  Bb-             1
+BA   16   CR         2   TR  5   CH  5   NT  F-              1
+BA   16   CR         2   TR  7   CH  8   NT  Bb-             1   voff=0
+BA   16   CR         2   TR  7   CH  8   NT  F-              1   voff=0
+BA   16   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   16   CR         2   TR  8   CH 10   NT  C#-           1/4
+BA   16   CR     2+1/2   TR  1   CH  1   NT  C-            1/4
+BA   16   CR     2+1/2   TR  2   CH  2   NT  C-            1/4   voff=0
+BA   16   CR     2+1/2   TR  6   CH  6   NT  Bb-             1   voff=0
+BA   16   CR     2+1/2   TR  6   CH  6   NT  F-              1   voff=0
+BA   16   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   16   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   16   CR         3   TR  1   CH  1   NT  G#---         1/2
+BA   16   CR         3   TR  2   CH  2   NT  G#---         1/2   voff=0
+BA   16   CR         3   TR  5   CH  5   ST &E4 &00 &40
+BA   16   CR         3   TR  5   CH  5   NT  G#-             1
+BA   16   CR         3   TR  5   CH  5   NT  Eb-             1
+BA   16   CR         3   TR  7   CH  8   ST &E7 &00 &40
+BA   16   CR         3   TR  7   CH  8   NT  G#-             1   voff=0
+BA   16   CR         3   TR  7   CH  8   NT  Eb-             1   voff=0
+BA   16   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   16   CR         3   TR  8   CH 10   NT  B---          1/4
+BA   16   CR         3   TR  8   CH 10   NT  A-            1/4
+BA   16   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   16   CR  3+77/160   TR  5   CH  5   ST &E4 &7F &3F
+BA   16   CR  3+77/160   TR  7   CH  8   ST &E7 &7F &3F
+BA   16   CR     3+1/2   TR  1   CH  1   NT  G#--          1/2
+BA   16   CR     3+1/2   TR  1   CH  1   ST &E0 &1E &27
+BA   16   CR     3+1/2   TR  2   CH  2   NT  G#--          1/2   voff=0
+BA   16   CR     3+1/2   TR  2   CH  2   ST &E1 &1E &27
+BA   16   CR     3+1/2   TR  6   CH  6   ST &E5 &00 &40
+BA   16   CR     3+1/2   TR  6   CH  6   NT  G#-             1   voff=0
+BA   16   CR     3+1/2   TR  6   CH  6   NT  Eb-             1   voff=0
+BA   16   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   16   CR     3+1/2   TR  8   CH 10   NT  E--           1/4
+BA   16   CR 3+493/960   TR  5   CH  5   ST &E4 &03 &3C
+BA   16   CR 3+493/960   TR  7   CH  8   ST &E7 &03 &3C
+BA   16   CR    3+8/15   TR  1   CH  1   ST &E0 &43 &2D
+BA   16   CR    3+8/15   TR  2   CH  2   ST &E1 &43 &2D
+BA   16   CR 3+131/240   TR  5   CH  5   ST &E4 &06 &38
+BA   16   CR 3+131/240   TR  7   CH  8   ST &E7 &06 &38
+BA   16   CR   3+17/30   TR  1   CH  1   ST &E0 &68 &33
+BA   16   CR   3+17/30   TR  2   CH  2   ST &E1 &68 &33
+BA   16   CR   3+37/64   TR  5   CH  5   ST &E4 &09 &34
+BA   16   CR   3+37/64   TR  7   CH  8   ST &E7 &09 &34
+BA   16   CR     3+3/5   TR  1   CH  1   ST &E0 &0C &3A
+BA   16   CR     3+3/5   TR  2   CH  2   ST &E1 &0C &3A
+BA   16   CR 3+587/960   TR  5   CH  5   ST &E4 &0C &30
+BA   16   CR 3+587/960   TR  7   CH  8   ST &E7 &0C &30
+BA   16   CR   3+19/30   TR  1   CH  1   ST &E0 &30 &40
+BA   16   CR   3+19/30   TR  2   CH  2   ST &E1 &30 &40
+BA   16   CR 3+103/160   TR  5   CH  5   ST &E4 &0F &2C
+BA   16   CR 3+103/160   TR  7   CH  8   ST &E7 &0F &2C
+BA   16   CR 3+649/960   TR  5   CH  5   ST &E4 &12 &28
+BA   16   CR 3+649/960   TR  7   CH  8   ST &E7 &12 &28
+BA   16   CR    3+7/10   TR  1   CH  1   ST &E0 &55 &3A
+BA   16   CR    3+7/10   TR  2   CH  2   ST &E1 &55 &3A
+BA   16   CR   3+17/24   TR  5   CH  5   ST &E4 &15 &24
+BA   16   CR   3+17/24   TR  7   CH  8   ST &E7 &15 &24
+BA   16   CR 3+117/160   TR  1   CH  1   ST &E0 &18 &34
+BA   16   CR 3+117/160   TR  2   CH  2   ST &E1 &18 &34
+BA   16   CR 3+237/320   TR  5   CH  5   ST &E4 &18 &20
+BA   16   CR 3+237/320   TR  7   CH  8   ST &E7 &18 &20
+BA   16   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA   16   CR   3+61/80   TR  1   CH  1   ST &E0 &5B &2D
+BA   16   CR   3+61/80   TR  2   CH  2   ST &E1 &5B &2D
+BA   16   CR 3+371/480   TR  5   CH  5   ST &E4 &1C &1C
+BA   16   CR 3+371/480   TR  7   CH  8   ST &E7 &1C &1C
+BA   16   CR 3+127/160   TR  1   CH  1   ST &E0 &1E &27
+BA   16   CR 3+127/160   TR  2   CH  2   ST &E1 &1E &27
+BA   16   CR 3+773/960   TR  5   CH  5   ST &E4 &1F &18
+BA   16   CR 3+773/960   TR  7   CH  8   ST &E7 &1F &18
+BA   16   CR   3+33/40   TR  1   CH  1   ST &E0 &61 &20
+BA   16   CR   3+33/40   TR  2   CH  2   ST &E1 &61 &20
+BA   16   CR   3+67/80   TR  5   CH  5   ST &E4 &22 &14
+BA   16   CR   3+67/80   TR  7   CH  8   ST &E7 &22 &14
+BA   16   CR 3+137/160   TR  1   CH  1   ST &E0 &25 &1A
+BA   16   CR 3+137/160   TR  2   CH  2   ST &E1 &25 &1A
+BA   16   CR 3+209/240   TR  5   CH  5   ST &E4 &25 &10
+BA   16   CR 3+209/240   TR  7   CH  8   ST &E7 &25 &10
+BA   16   CR   3+71/80   TR  1   CH  1   ST &E0 &68 &13
+BA   16   CR   3+71/80   TR  2   CH  2   ST &E1 &68 &13
+BA   16   CR 3+289/320   TR  5   CH  5   ST &E4 &28 &0C
+BA   16   CR 3+289/320   TR  7   CH  8   ST &E7 &28 &0C
+BA   16   CR 3+147/160   TR  1   CH  1   ST &E0 &2B &0D
+BA   16   CR 3+147/160   TR  2   CH  2   ST &E1 &2B &0D
+BA   16   CR 3+449/480   TR  5   CH  5   ST &E4 &2B &08
+BA   16   CR 3+449/480   TR  7   CH  8   ST &E7 &2B &08
+BA   16   CR   3+19/20   TR  1   CH  1   ST &E0 &6E &06
+BA   16   CR   3+19/20   TR  2   CH  2   ST &E1 &6E &06
+BA   16   CR 3+929/960   TR  5   CH  5   ST &E4 &2E &04
+BA   16   CR 3+929/960   TR  7   CH  8   ST &E7 &2E &04
+BA   16   CR 3+157/160   TR  6   CH  6   ST &E5 &7F &3F
+
+BA   17   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA   17   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA   17   CR         0   TR  1   CH  1   ST &B0 &06 &10
+BA   17   CR         0   TR  1   CH  1   NT  F---            1
+BA   17   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   17   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA   17   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA   17   CR         0   TR  2   CH  2   ST &B1 &06 &10
+BA   17   CR         0   TR  2   CH  2   NT  F---            1   voff=0
+BA   17   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   17   CR         0   TR  3   CH  3   ST &B2 &0A &53
+BA   17   CR         0   TR  3   CH  3   ST &B2 &64 &00
+BA   17   CR         0   TR  3   CH  3   ST &B2 &65 &00
+BA   17   CR         0   TR  3   CH  3   ST &B2 &06 &10
+BA   17   CR         0   TR  3   CH  3   ST &E2 &00 &40
+BA   17   CR         0   TR  3   CH  3   NT  F-              1
+BA   17   CR         0   TR  5   CH  5   ST &E4 &31 &00
+BA   17   CR         0   TR  5   CH  5   ST &E4 &31 &00
+BA   17   CR         0   TR  5   CH 16   End of track
+BA   17   CR         0   TR  7   CH  8   ST &B7 &64 &00
+BA   17   CR         0   TR  7   CH  8   ST &B7 &65 &00
+BA   17   CR         0   TR  7   CH  8   ST &B7 &06 &10
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &B7 &64 &00
+BA   17   CR         0   TR  7   CH  8   ST &B7 &65 &00
+BA   17   CR         0   TR  7   CH  8   ST &B7 &06 &10
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &7F &3F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &79 &3E
+BA   17   CR         0   TR  7   CH  8   ST &E7 &72 &3D
+BA   17   CR         0   TR  7   CH  8   ST &E7 &6B &3C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &64 &3B
+BA   17   CR         0   TR  7   CH  8   ST &E7 &5D &3A
+BA   17   CR         0   TR  7   CH  8   ST &E7 &56 &39
+BA   17   CR         0   TR  7   CH  8   ST &E7 &4F &38
+BA   17   CR         0   TR  7   CH  8   ST &E7 &49 &37
+BA   17   CR         0   TR  7   CH  8   ST &E7 &42 &36
+BA   17   CR         0   TR  7   CH  8   ST &E7 &3B &35
+BA   17   CR         0   TR  7   CH  8   ST &E7 &34 &34
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2D &33
+BA   17   CR         0   TR  7   CH  8   ST &E7 &26 &32
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1F &31
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &30
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &7F &3F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &03 &3C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &06 &38
+BA   17   CR         0   TR  7   CH  8   ST &E7 &09 &34
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0C &30
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0F &2C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &12 &28
+BA   17   CR         0   TR  7   CH  8   ST &E7 &15 &24
+BA   17   CR         0   TR  7   CH  8   ST &E7 &18 &20
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1C &1C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1F &18
+BA   17   CR         0   TR  7   CH  8   ST &E7 &22 &14
+BA   17   CR         0   TR  7   CH  8   ST &E7 &25 &10
+BA   17   CR         0   TR  7   CH  8   ST &E7 &28 &0C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2B &08
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2E &04
+BA   17   CR         0   TR  7   CH  8   ST &E7 &31 &00
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &01 &41
+BA   17   CR         0   TR  7   CH  8   ST &E7 &02 &42
+BA   17   CR         0   TR  7   CH  8   ST &E7 &04 &43
+BA   17   CR         0   TR  7   CH  8   ST &E7 &05 &44
+BA   17   CR         0   TR  7   CH  8   ST &E7 &07 &45
+BA   17   CR         0   TR  7   CH  8   ST &E7 &08 &46
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0A &47
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0B &48
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0D &49
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0E &4A
+BA   17   CR         0   TR  7   CH  8   ST &E7 &10 &4B
+BA   17   CR         0   TR  7   CH  8   ST &E7 &11 &4C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &13 &4D
+BA   17   CR         0   TR  7   CH  8   ST &E7 &14 &4E
+BA   17   CR         0   TR  7   CH  8   ST &E7 &16 &4F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &50
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &7F &3F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &03 &3C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &06 &38
+BA   17   CR         0   TR  7   CH  8   ST &E7 &09 &34
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0C &30
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0F &2C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &12 &28
+BA   17   CR         0   TR  7   CH  8   ST &E7 &15 &24
+BA   17   CR         0   TR  7   CH  8   ST &E7 &18 &20
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1C &1C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1F &18
+BA   17   CR         0   TR  7   CH  8   ST &E7 &22 &14
+BA   17   CR         0   TR  7   CH  8   ST &E7 &25 &10
+BA   17   CR         0   TR  7   CH  8   ST &E7 &28 &0C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2B &08
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2E &04
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &7F &3F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &4E &3F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0A &3B
+BA   17   CR         0   TR  7   CH  8   ST &E7 &44 &36
+BA   17   CR         0   TR  7   CH  8   ST &E7 &7F &31
+BA   17   CR         0   TR  7   CH  8   ST &E7 &3A &2D
+BA   17   CR         0   TR  7   CH  8   ST &E7 &74 &28
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2F &24
+BA   17   CR         0   TR  7   CH  8   ST &E7 &6A &1F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &25 &1B
+BA   17   CR         0   TR  7   CH  8   ST &E7 &5F &16
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1A &12
+BA   17   CR         0   TR  7   CH  8   ST &E7 &55 &0D
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0F &09
+BA   17   CR         0   TR  7   CH  8   ST &E7 &4A &04
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &7F &3F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &79 &3E
+BA   17   CR         0   TR  7   CH  8   ST &E7 &72 &3D
+BA   17   CR         0   TR  7   CH  8   ST &E7 &6B &3C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &64 &3B
+BA   17   CR         0   TR  7   CH  8   ST &E7 &5D &3A
+BA   17   CR         0   TR  7   CH  8   ST &E7 &56 &39
+BA   17   CR         0   TR  7   CH  8   ST &E7 &4F &38
+BA   17   CR         0   TR  7   CH  8   ST &E7 &49 &37
+BA   17   CR         0   TR  7   CH  8   ST &E7 &42 &36
+BA   17   CR         0   TR  7   CH  8   ST &E7 &3B &35
+BA   17   CR         0   TR  7   CH  8   ST &E7 &34 &34
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2D &33
+BA   17   CR         0   TR  7   CH  8   ST &E7 &26 &32
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1F &31
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &30
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &7F &3F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &03 &3C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &06 &38
+BA   17   CR         0   TR  7   CH  8   ST &E7 &09 &34
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0C &30
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0F &2C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &12 &28
+BA   17   CR         0   TR  7   CH  8   ST &E7 &15 &24
+BA   17   CR         0   TR  7   CH  8   ST &E7 &18 &20
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1C &1C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1F &18
+BA   17   CR         0   TR  7   CH  8   ST &E7 &22 &14
+BA   17   CR         0   TR  7   CH  8   ST &E7 &25 &10
+BA   17   CR         0   TR  7   CH  8   ST &E7 &28 &0C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2B &08
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2E &04
+BA   17   CR         0   TR  7   CH  8   ST &E7 &31 &00
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &01 &41
+BA   17   CR         0   TR  7   CH  8   ST &E7 &02 &42
+BA   17   CR         0   TR  7   CH  8   ST &E7 &04 &43
+BA   17   CR         0   TR  7   CH  8   ST &E7 &05 &44
+BA   17   CR         0   TR  7   CH  8   ST &E7 &07 &45
+BA   17   CR         0   TR  7   CH  8   ST &E7 &08 &46
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0A &47
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0B &48
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0D &49
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0E &4A
+BA   17   CR         0   TR  7   CH  8   ST &E7 &10 &4B
+BA   17   CR         0   TR  7   CH  8   ST &E7 &11 &4C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &13 &4D
+BA   17   CR         0   TR  7   CH  8   ST &E7 &14 &4E
+BA   17   CR         0   TR  7   CH  8   ST &E7 &16 &4F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &50
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &7F &3F
+BA   17   CR         0   TR  7   CH  8   ST &E7 &03 &3C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &06 &38
+BA   17   CR         0   TR  7   CH  8   ST &E7 &09 &34
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0C &30
+BA   17   CR         0   TR  7   CH  8   ST &E7 &0F &2C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &12 &28
+BA   17   CR         0   TR  7   CH  8   ST &E7 &15 &24
+BA   17   CR         0   TR  7   CH  8   ST &E7 &18 &20
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1C &1C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &1F &18
+BA   17   CR         0   TR  7   CH  8   ST &E7 &22 &14
+BA   17   CR         0   TR  7   CH  8   ST &E7 &25 &10
+BA   17   CR         0   TR  7   CH  8   ST &E7 &28 &0C
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2B &08
+BA   17   CR         0   TR  7   CH  8   ST &E7 &2E &04
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &40
+BA   17   CR         0   TR  7   CH  8   ST &E7 &31 &00
+BA   17   CR         0   TR  7   CH  8   ST &E7 &31 &00
+BA   17   CR         0   TR  7   CH  8   ST &E7 &00 &38
+BA   17   CR         0   TR  7   CH  8   ST &B7 &06 &10
+BA   17   CR         0   TR  7   CH  8   ST &B7 &64 &00
+BA   17   CR         0   TR  7   CH  8   ST &B7 &65 &00
+BA   17   CR         0   TR  7   CH  8   ST &E7 &31 &00
+BA   17   CR         0   TR  7   CH  8   ST &E7 &31 &00
+BA   17   CR         0   TR  7   CH 16   End of track
+BA   17   CR         0   TR  8   CH 10   Channel volume 95
+BA   17   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   17   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   17   CR         0   TR  8   CH 10   NT  C#-           1/4
+BA   17   CR    13/960   TR  6   CH  6   ST &E5 &03 &3C
+BA   17   CR    11/240   TR  6   CH  6   ST &E5 &06 &38
+BA   17   CR      5/64   TR  6   CH  6   ST &E5 &09 &34
+BA   17   CR   107/960   TR  6   CH  6   ST &E5 &0C &30
+BA   17   CR    23/160   TR  6   CH  6   ST &E5 &0F &2C
+BA   17   CR   169/960   TR  6   CH  6   ST &E5 &12 &28
+BA   17   CR      5/24   TR  6   CH  6   ST &E5 &15 &24
+BA   17   CR    77/320   TR  6   CH  6   ST &E5 &18 &20
+BA   17   CR   131/480   TR  6   CH  6   ST &E5 &1C &1C
+BA   17   CR   293/960   TR  6   CH  6   ST &E5 &1F &18
+BA   17   CR     27/80   TR  6   CH  6   ST &E5 &22 &14
+BA   17   CR    89/240   TR  6   CH  6   ST &E5 &25 &10
+BA   17   CR   129/320   TR  6   CH  6   ST &E5 &28 &0C
+BA   17   CR   209/480   TR  6   CH  6   ST &E5 &2B &08
+BA   17   CR   449/960   TR  6   CH  6   ST &E5 &2E &04
+BA   17   CR       1/2   TR  4   CH  4   ST &B3 &64 &00
+BA   17   CR       1/2   TR  4   CH  4   ST &B3 &65 &00
+BA   17   CR       1/2   TR  4   CH  4   ST &B3 &06 &10
+BA   17   CR       1/2   TR  4   CH  4   ST &E3 &00 &40
+BA   17   CR       1/2   TR  4   CH  4   NT  F-              1   voff=0
+BA   17   CR       1/2   TR  6   CH  6   ST &E5 &31 &00
+BA   17   CR       1/2   TR  6   CH  6   ST &E5 &31 &00
+BA   17   CR       1/2   TR  6   CH 16   End of track
+BA   17   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   17   CR         1   TR  1   CH  1   NT  Eb--          1/8
+BA   17   CR         1   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   17   CR         1   TR  3   CH  3   NT  F             1/2
+BA   17   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   17   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   17   CR     1+1/4   TR  1   CH  1   NT  F--           1/8
+BA   17   CR     1+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   17   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   17   CR     1+1/2   TR  1   CH  1   NT  F---          3/8
+BA   17   CR     1+1/2   TR  2   CH  2   NT  F---          3/8   voff=0
+BA   17   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA   17   CR     1+1/2   TR  4   CH  4   NT  F             1/2   voff=0
+BA   17   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   17   CR 1+463/480   TR  1   CH  1   ST &E0 &3C &36
+BA   17   CR 1+463/480   TR  2   CH  2   ST &E1 &3C &36
+BA   17   CR 1+319/320   TR  1   CH  1   ST &E0 &1F &37
+BA   17   CR 1+319/320   TR  2   CH  2   ST &E1 &1F &37
+BA   17   CR         2   TR  1   CH  1   NT  F--       959/960
+BA   17   CR         2   TR  2   CH  2   NT  F--       959/960   voff=0
+BA   17   CR         2   TR  3   CH  3   NT  Eb            1/2
+BA   17   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   17   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   17   CR   2+9/320   TR  1   CH  1   ST &E0 &00 &38
+BA   17   CR   2+9/320   TR  2   CH  2   ST &E1 &00 &38
+BA   17   CR  2+29/480   TR  1   CH  1   ST &E0 &62 &38
+BA   17   CR  2+29/480   TR  2   CH  2   ST &E1 &62 &38
+BA   17   CR  2+11/120   TR  1   CH  1   ST &E0 &43 &39
+BA   17   CR  2+11/120   TR  2   CH  2   ST &E1 &43 &39
+BA   17   CR 2+119/960   TR  1   CH  1   ST &E0 &25 &3A
+BA   17   CR 2+119/960   TR  2   CH  2   ST &E1 &25 &3A
+BA   17   CR    2+5/32   TR  1   CH  1   ST &E0 &06 &3B
+BA   17   CR    2+5/32   TR  2   CH  2   ST &E1 &06 &3B
+BA   17   CR    2+3/16   TR  1   CH  1   ST &E0 &68 &3B
+BA   17   CR    2+3/16   TR  2   CH  2   ST &E1 &68 &3B
+BA   17   CR 2+211/960   TR  1   CH  1   ST &E0 &49 &3C
+BA   17   CR 2+211/960   TR  2   CH  2   ST &E1 &49 &3C
+BA   17   CR 2+121/480   TR  1   CH  1   ST &E0 &2B &3D
+BA   17   CR 2+121/480   TR  2   CH  2   ST &E1 &2B &3D
+BA   17   CR   2+17/60   TR  1   CH  1   ST &E0 &0C &3E
+BA   17   CR   2+17/60   TR  2   CH  2   ST &E1 &0C &3E
+BA   17   CR 2+101/320   TR  1   CH  1   ST &E0 &6E &3E
+BA   17   CR 2+101/320   TR  2   CH  2   ST &E1 &6E &3E
+BA   17   CR 2+111/320   TR  1   CH  1   ST &E0 &00 &40
+BA   17   CR 2+111/320   TR  2   CH  2   ST &E1 &00 &40
+BA   17   CR     2+1/2   TR  3   CH  3   NT  F-            1/2
+BA   17   CR     2+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA   17   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   17   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   17   CR   2+25/48   TR  1   CH  1   ST &E0 &00 &10
+BA   17   CR   2+25/48   TR  2   CH  2   ST &E1 &00 &10
+BA   17   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA   17   CR         3   TR  1   CH  1   NT  Eb--          1/8
+BA   17   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA   17   CR         3   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   17   CR         3   TR  3   CH  3   NT  Eb            1/2
+BA   17   CR         3   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   17   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   17   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   17   CR     3+1/4   TR  1   CH  1   NT  F--           1/8
+BA   17   CR     3+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   17   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   17   CR     3+1/2   TR  1   CH  1   NT  F---          1/2
+BA   17   CR     3+1/2   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   17   CR     3+1/2   TR  3   CH  3   NT  F             1/2
+BA   17   CR     3+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA   17   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   17   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+
+BA   18   CR         0   TR  1   CH  1   NT  F---          1/2
+BA   18   CR         0   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   18   CR         0   TR  3   CH  3   NT  G#-           1/2
+BA   18   CR         0   TR  4   CH  4   NT  F             1/2   voff=0
+BA   18   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   18   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   18   CR       1/2   TR  1   CH  1   NT  Eb--          1/8
+BA   18   CR       1/2   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   18   CR       1/2   TR  3   CH  3   NT  F-            1/2
+BA   18   CR       1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA   18   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   18   CR       3/4   TR  1   CH  1   NT  F--           1/8
+BA   18   CR       3/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   18   CR         1   TR  1   CH  1   NT  F---          1/2
+BA   18   CR         1   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   18   CR         1   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   18   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   18   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   18   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   18   CR     1+1/2   TR  1   CH  1   NT  Bb---         1/2
+BA   18   CR     1+1/2   TR  2   CH  2   NT  Bb---         1/2   voff=0
+BA   18   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2
+BA   18   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA   18   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   18   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA   18   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   18   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   18   CR     2+1/2   TR  1   CH  1   NT  G#---       1+1/2
+BA   18   CR     2+1/2   TR  2   CH  2   NT  G#---       1+1/2   voff=0
+BA   18   CR     2+1/2   TR  3   CH  3   NT  G#-         1+1/2
+BA   18   CR     2+1/2   TR  3   CH  3   NT  Eb-         1+1/2
+BA   18   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   18   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   18   CR 2+139/192   TR  1   CH  1   ST &E0 &7F &3F
+BA   18   CR 2+139/192   TR  2   CH  2   ST &E1 &7F &3F
+BA   18   CR  2+91/120   TR  1   CH  1   ST &E0 &38 &44
+BA   18   CR  2+91/120   TR  2   CH  2   ST &E1 &38 &44
+BA   18   CR 2+761/960   TR  1   CH  1   ST &E0 &71 &48
+BA   18   CR 2+761/960   TR  2   CH  2   ST &E1 &71 &48
+BA   18   CR 2+397/480   TR  1   CH  1   ST &E0 &2A &4D
+BA   18   CR 2+397/480   TR  2   CH  2   ST &E1 &2A &4D
+BA   18   CR 2+827/960   TR  1   CH  1   ST &E0 &63 &51
+BA   18   CR 2+827/960   TR  2   CH  2   ST &E1 &63 &51
+BA   18   CR 2+287/320   TR  1   CH  1   ST &E0 &1B &56
+BA   18   CR 2+287/320   TR  2   CH  2   ST &E1 &1B &56
+BA   18   CR 2+149/160   TR  1   CH  1   ST &E0 &54 &5A
+BA   18   CR 2+149/160   TR  2   CH  2   ST &E1 &54 &5A
+BA   18   CR 2+309/320   TR  1   CH  1   ST &E0 &0D &5F
+BA   18   CR 2+309/320   TR  2   CH  2   ST &E1 &0D &5F
+BA   18   CR         3   TR  1   CH  1   ST &E0 &46 &63
+BA   18   CR         3   TR  2   CH  2   ST &E1 &46 &63
+BA   18   CR         3   TR  4   CH  4   NT  G#-         1+1/2   voff=0
+BA   18   CR         3   TR  4   CH  4   NT  Eb-         1+1/2   voff=0
+BA   18   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   18   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   18   CR         3   TR  8   CH 10   NT  A-            1/4
+BA   18   CR  3+11/320   TR  1   CH  1   ST &E0 &7F &67
+BA   18   CR  3+11/320   TR  2   CH  2   ST &E1 &7F &67
+BA   18   CR  3+31/480   TR  1   CH  1   ST &E0 &0B &61
+BA   18   CR  3+31/480   TR  2   CH  2   ST &E1 &0B &61
+BA   18   CR  3+31/320   TR  1   CH  1   ST &E0 &69 &5D
+BA   18   CR  3+31/320   TR  2   CH  2   ST &E1 &69 &5D
+BA   18   CR  3+41/320   TR  1   CH  1   ST &E0 &47 &5A
+BA   18   CR  3+41/320   TR  2   CH  2   ST &E1 &47 &5A
+BA   18   CR  3+77/480   TR  1   CH  1   ST &E0 &26 &57
+BA   18   CR  3+77/480   TR  2   CH  2   ST &E1 &26 &57
+BA   18   CR  3+37/192   TR  1   CH  1   ST &E0 &04 &54
+BA   18   CR  3+37/192   TR  2   CH  2   ST &E1 &04 &54
+BA   18   CR    3+9/40   TR  1   CH  1   ST &E0 &62 &50
+BA   18   CR    3+9/40   TR  2   CH  2   ST &E1 &62 &50
+BA   18   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   18   CR 3+247/960   TR  1   CH  1   ST &E0 &40 &4D
+BA   18   CR 3+247/960   TR  2   CH  2   ST &E1 &40 &4D
+BA   18   CR 3+139/480   TR  1   CH  1   ST &E0 &1F &4A
+BA   18   CR 3+139/480   TR  2   CH  2   ST &E1 &1F &4A
+BA   18   CR 3+103/320   TR  1   CH  1   ST &E0 &7D &46
+BA   18   CR 3+103/320   TR  2   CH  2   ST &E1 &7D &46
+BA   18   CR   3+17/48   TR  1   CH  1   ST &E0 &5B &43
+BA   18   CR   3+17/48   TR  2   CH  2   ST &E1 &5B &43
+BA   18   CR   3+37/96   TR  1   CH  1   ST &E0 &3A &40
+BA   18   CR   3+37/96   TR  2   CH  2   ST &E1 &3A &40
+BA   18   CR 3+401/960   TR  1   CH  1   ST &E0 &19 &3D
+BA   18   CR 3+401/960   TR  2   CH  2   ST &E1 &19 &3D
+BA   18   CR    3+9/20   TR  1   CH  1   ST &E0 &77 &39
+BA   18   CR    3+9/20   TR  2   CH  2   ST &E1 &77 &39
+BA   18   CR 3+463/960   TR  1   CH  1   ST &E0 &55 &36
+BA   18   CR 3+463/960   TR  2   CH  2   ST &E1 &55 &36
+BA   18   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   18   CR 3+247/480   TR  1   CH  1   ST &E0 &34 &33
+BA   18   CR 3+247/480   TR  2   CH  2   ST &E1 &34 &33
+BA   18   CR   3+35/64   TR  1   CH  1   ST &E0 &12 &30
+BA   18   CR   3+35/64   TR  2   CH  2   ST &E1 &12 &30
+BA   18   CR 3+139/240   TR  1   CH  1   ST &E0 &70 &2C
+BA   18   CR 3+139/240   TR  2   CH  2   ST &E1 &70 &2C
+BA   18   CR 3+293/480   TR  1   CH  1   ST &E0 &4F &29
+BA   18   CR 3+293/480   TR  2   CH  2   ST &E1 &4F &29
+BA   18   CR 3+617/960   TR  1   CH  1   ST &E0 &2D &26
+BA   18   CR 3+617/960   TR  2   CH  2   ST &E1 &2D &26
+BA   18   CR   3+27/40   TR  1   CH  1   ST &E0 &0B &23
+BA   18   CR   3+27/40   TR  2   CH  2   ST &E1 &0B &23
+BA   18   CR 3+679/960   TR  1   CH  1   ST &E0 &6A &1F
+BA   18   CR 3+679/960   TR  2   CH  2   ST &E1 &6A &1F
+BA   18   CR   3+71/96   TR  1   CH  1   ST &E0 &48 &1C
+BA   18   CR   3+71/96   TR  2   CH  2   ST &E1 &48 &1C
+BA   18   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA   18   CR 3+247/320   TR  1   CH  1   ST &E0 &26 &19
+BA   18   CR 3+247/320   TR  2   CH  2   ST &E1 &26 &19
+BA   18   CR 3+193/240   TR  1   CH  1   ST &E0 &04 &16
+BA   18   CR 3+193/240   TR  2   CH  2   ST &E1 &04 &16
+BA   18   CR 3+803/960   TR  1   CH  1   ST &E0 &63 &12
+BA   18   CR 3+803/960   TR  2   CH  2   ST &E1 &63 &12
+BA   18   CR 3+833/960   TR  1   CH  1   ST &E0 &41 &0F
+BA   18   CR 3+833/960   TR  2   CH  2   ST &E1 &41 &0F
+BA   18   CR    3+9/10   TR  1   CH  1   ST &E0 &1F &0C
+BA   18   CR    3+9/10   TR  2   CH  2   ST &E1 &1F &0C
+BA   18   CR 3+179/192   TR  1   CH  1   ST &E0 &7E &08
+BA   18   CR 3+179/192   TR  2   CH  2   ST &E1 &7E &08
+BA   18   CR 3+463/480   TR  1   CH  1   ST &E0 &5C &05
+BA   18   CR 3+463/480   TR  2   CH  2   ST &E1 &5C &05
+BA   18   CR   3+31/32   TR  1   CH  1   ST &E0 &51 &04
+BA   18   CR   3+31/32   TR  2   CH  2   ST &E1 &51 &04
+
+BA   19   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA   19   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA   19   CR         0   TR  1   CH  1   ST &B0 &06 &10
+BA   19   CR         0   TR  1   CH  1   NT  F---            1
+BA   19   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   19   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA   19   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA   19   CR         0   TR  2   CH  2   ST &B1 &06 &10
+BA   19   CR         0   TR  2   CH  2   NT  F---            1   voff=0
+BA   19   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   19   CR         0   TR  3   CH  3   NT  F-              1
+BA   19   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   19   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   19   CR         0   TR  8   CH 10   NT  C#-           1/4
+BA   19   CR       1/2   TR  4   CH  4   NT  F-              1   voff=0
+BA   19   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   19   CR         1   TR  1   CH  1   NT  Eb--          1/8
+BA   19   CR         1   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   19   CR         1   TR  3   CH  3   NT  F             1/2
+BA   19   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   19   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   19   CR     1+1/4   TR  1   CH  1   NT  F--           1/8
+BA   19   CR     1+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   19   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   19   CR     1+1/2   TR  1   CH  1   NT  F---          3/8
+BA   19   CR     1+1/2   TR  2   CH  2   NT  F---          3/8   voff=0
+BA   19   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA   19   CR     1+1/2   TR  4   CH  4   NT  F             1/2   voff=0
+BA   19   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   19   CR 1+463/480   TR  1   CH  1   ST &E0 &3C &36
+BA   19   CR 1+463/480   TR  2   CH  2   ST &E1 &3C &36
+BA   19   CR 1+319/320   TR  1   CH  1   ST &E0 &1F &37
+BA   19   CR 1+319/320   TR  2   CH  2   ST &E1 &1F &37
+BA   19   CR         2   TR  1   CH  1   NT  F--       959/960
+BA   19   CR         2   TR  2   CH  2   NT  F--       959/960   voff=0
+BA   19   CR         2   TR  3   CH  3   NT  Eb            1/2
+BA   19   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   19   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   19   CR   2+9/320   TR  1   CH  1   ST &E0 &00 &38
+BA   19   CR   2+9/320   TR  2   CH  2   ST &E1 &00 &38
+BA   19   CR  2+29/480   TR  1   CH  1   ST &E0 &62 &38
+BA   19   CR  2+29/480   TR  2   CH  2   ST &E1 &62 &38
+BA   19   CR  2+11/120   TR  1   CH  1   ST &E0 &43 &39
+BA   19   CR  2+11/120   TR  2   CH  2   ST &E1 &43 &39
+BA   19   CR 2+119/960   TR  1   CH  1   ST &E0 &25 &3A
+BA   19   CR 2+119/960   TR  2   CH  2   ST &E1 &25 &3A
+BA   19   CR    2+5/32   TR  1   CH  1   ST &E0 &06 &3B
+BA   19   CR    2+5/32   TR  2   CH  2   ST &E1 &06 &3B
+BA   19   CR    2+3/16   TR  1   CH  1   ST &E0 &68 &3B
+BA   19   CR    2+3/16   TR  2   CH  2   ST &E1 &68 &3B
+BA   19   CR 2+211/960   TR  1   CH  1   ST &E0 &49 &3C
+BA   19   CR 2+211/960   TR  2   CH  2   ST &E1 &49 &3C
+BA   19   CR 2+121/480   TR  1   CH  1   ST &E0 &2B &3D
+BA   19   CR 2+121/480   TR  2   CH  2   ST &E1 &2B &3D
+BA   19   CR   2+17/60   TR  1   CH  1   ST &E0 &0C &3E
+BA   19   CR   2+17/60   TR  2   CH  2   ST &E1 &0C &3E
+BA   19   CR 2+101/320   TR  1   CH  1   ST &E0 &6E &3E
+BA   19   CR 2+101/320   TR  2   CH  2   ST &E1 &6E &3E
+BA   19   CR 2+111/320   TR  1   CH  1   ST &E0 &00 &40
+BA   19   CR 2+111/320   TR  2   CH  2   ST &E1 &00 &40
+BA   19   CR     2+1/2   TR  3   CH  3   NT  F-            1/2
+BA   19   CR     2+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA   19   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   19   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   19   CR   2+25/48   TR  1   CH  1   ST &E0 &00 &10
+BA   19   CR   2+25/48   TR  2   CH  2   ST &E1 &00 &10
+BA   19   CR         3   TR  1   CH  1   ST &E0 &00 &40
+BA   19   CR         3   TR  1   CH  1   NT  Eb--          1/8
+BA   19   CR         3   TR  2   CH  2   ST &E1 &00 &40
+BA   19   CR         3   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   19   CR         3   TR  3   CH  3   NT  Eb            1/2
+BA   19   CR         3   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   19   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   19   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   19   CR     3+1/4   TR  1   CH  1   NT  F--           1/8
+BA   19   CR     3+1/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   19   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   19   CR     3+1/2   TR  1   CH  1   NT  F---          1/2
+BA   19   CR     3+1/2   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   19   CR     3+1/2   TR  3   CH  3   NT  F             1/2
+BA   19   CR     3+1/2   TR  4   CH  4   NT  Eb            1/2   voff=0
+BA   19   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   19   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+
+BA   20   CR         0   TR  1   CH  1   NT  F---          1/2
+BA   20   CR         0   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   20   CR         0   TR  3   CH  3   NT  G#-           1/2
+BA   20   CR         0   TR  4   CH  4   NT  F             1/2   voff=0
+BA   20   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   20   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   20   CR       1/2   TR  1   CH  1   NT  Eb--          1/8
+BA   20   CR       1/2   TR  2   CH  2   NT  Eb--          1/8   voff=0
+BA   20   CR       1/2   TR  3   CH  3   NT  F-            1/2
+BA   20   CR       1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA   20   CR       1/2   TR  8   CH 10   NT  G#--          1/4
+BA   20   CR       3/4   TR  1   CH  1   NT  F--           1/8
+BA   20   CR       3/4   TR  2   CH  2   NT  F--           1/8   voff=0
+BA   20   CR         1   TR  1   CH  1   NT  F---          1/2
+BA   20   CR         1   TR  2   CH  2   NT  F---          1/2   voff=0
+BA   20   CR         1   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   20   CR         1   TR  8   CH 10   NT  F#--          1/4
+BA   20   CR         1   TR  8   CH 10   NT  E--           1/4
+BA   20   CR     1+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   20   CR     1+1/2   TR  1   CH  1   NT  Bb---         1/2
+BA   20   CR     1+1/2   TR  2   CH  2   NT  Bb---         1/2   voff=0
+BA   20   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2
+BA   20   CR     1+1/2   TR  3   CH  3   NT  F-            1/2
+BA   20   CR     1+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   20   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA   20   CR         2   TR  4   CH  4   NT  F-            1/2   voff=0
+BA   20   CR         2   TR  8   CH 10   NT  F#--          1/4
+BA   20   CR     2+1/2   TR  1   CH  1   NT  G#---       1+1/2
+BA   20   CR     2+1/2   TR  2   CH  2   NT  G#---       1+1/2   voff=0
+BA   20   CR     2+1/2   TR  3   CH  3   NT  F-          1+1/2
+BA   20   CR     2+1/2   TR  3   CH  3   NT  Bb-         1+1/2
+BA   20   CR     2+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   20   CR     2+1/2   TR  8   CH 10   NT  B---          1/4
+BA   20   CR 2+139/192   TR  1   CH  1   ST &E0 &7F &3F
+BA   20   CR 2+139/192   TR  2   CH  2   ST &E1 &7F &3F
+BA   20   CR  2+91/120   TR  1   CH  1   ST &E0 &38 &44
+BA   20   CR  2+91/120   TR  2   CH  2   ST &E1 &38 &44
+BA   20   CR 2+761/960   TR  1   CH  1   ST &E0 &71 &48
+BA   20   CR 2+761/960   TR  2   CH  2   ST &E1 &71 &48
+BA   20   CR 2+397/480   TR  1   CH  1   ST &E0 &2A &4D
+BA   20   CR 2+397/480   TR  2   CH  2   ST &E1 &2A &4D
+BA   20   CR 2+827/960   TR  1   CH  1   ST &E0 &63 &51
+BA   20   CR 2+827/960   TR  2   CH  2   ST &E1 &63 &51
+BA   20   CR 2+287/320   TR  1   CH  1   ST &E0 &1B &56
+BA   20   CR 2+287/320   TR  2   CH  2   ST &E1 &1B &56
+BA   20   CR 2+149/160   TR  1   CH  1   ST &E0 &54 &5A
+BA   20   CR 2+149/160   TR  2   CH  2   ST &E1 &54 &5A
+BA   20   CR 2+309/320   TR  1   CH  1   ST &E0 &0D &5F
+BA   20   CR 2+309/320   TR  2   CH  2   ST &E1 &0D &5F
+BA   20   CR         3   TR  1   CH  1   ST &E0 &46 &63
+BA   20   CR         3   TR  2   CH  2   ST &E1 &46 &63
+BA   20   CR         3   TR  3   CH  3   ST &E2 &00 &38
+BA   20   CR         3   TR  4   CH  4   NT  F-          1+1/2   voff=0
+BA   20   CR         3   TR  4   CH  4   NT  Bb-         1+1/2   voff=0
+BA   20   CR         3   TR  8   CH 10   NT  F#--          1/4
+BA   20   CR         3   TR  8   CH 10   NT  E--           1/4
+BA   20   CR  3+11/320   TR  1   CH  1   ST &E0 &7F &67
+BA   20   CR  3+11/320   TR  2   CH  2   ST &E1 &7F &67
+BA   20   CR  3+31/480   TR  1   CH  1   ST &E0 &0B &61
+BA   20   CR  3+31/480   TR  2   CH  2   ST &E1 &0B &61
+BA   20   CR  3+31/320   TR  1   CH  1   ST &E0 &69 &5D
+BA   20   CR  3+31/320   TR  2   CH  2   ST &E1 &69 &5D
+BA   20   CR  3+41/320   TR  1   CH  1   ST &E0 &47 &5A
+BA   20   CR  3+41/320   TR  2   CH  2   ST &E1 &47 &5A
+BA   20   CR  3+77/480   TR  1   CH  1   ST &E0 &26 &57
+BA   20   CR  3+77/480   TR  2   CH  2   ST &E1 &26 &57
+BA   20   CR  3+37/192   TR  1   CH  1   ST &E0 &04 &54
+BA   20   CR  3+37/192   TR  2   CH  2   ST &E1 &04 &54
+BA   20   CR    3+9/40   TR  1   CH  1   ST &E0 &62 &50
+BA   20   CR    3+9/40   TR  2   CH  2   ST &E1 &62 &50
+BA   20   CR     3+1/4   TR  8   CH 10   NT  G#--          1/4
+BA   20   CR 3+247/960   TR  1   CH  1   ST &E0 &40 &4D
+BA   20   CR 3+247/960   TR  2   CH  2   ST &E1 &40 &4D
+BA   20   CR 3+139/480   TR  1   CH  1   ST &E0 &1F &4A
+BA   20   CR 3+139/480   TR  2   CH  2   ST &E1 &1F &4A
+BA   20   CR 3+103/320   TR  1   CH  1   ST &E0 &7D &46
+BA   20   CR 3+103/320   TR  2   CH  2   ST &E1 &7D &46
+BA   20   CR   3+17/48   TR  1   CH  1   ST &E0 &5B &43
+BA   20   CR   3+17/48   TR  2   CH  2   ST &E1 &5B &43
+BA   20   CR   3+37/96   TR  1   CH  1   ST &E0 &3A &40
+BA   20   CR   3+37/96   TR  2   CH  2   ST &E1 &3A &40
+BA   20   CR 3+401/960   TR  1   CH  1   ST &E0 &19 &3D
+BA   20   CR 3+401/960   TR  2   CH  2   ST &E1 &19 &3D
+BA   20   CR    3+9/20   TR  1   CH  1   ST &E0 &77 &39
+BA   20   CR    3+9/20   TR  2   CH  2   ST &E1 &77 &39
+BA   20   CR 3+463/960   TR  1   CH  1   ST &E0 &55 &36
+BA   20   CR 3+463/960   TR  2   CH  2   ST &E1 &55 &36
+BA   20   CR     3+1/2   TR  4   CH  4   ST &E3 &00 &38
+BA   20   CR     3+1/2   TR  8   CH 10   NT  G#--          1/4
+BA   20   CR 3+247/480   TR  1   CH  1   ST &E0 &34 &33
+BA   20   CR 3+247/480   TR  2   CH  2   ST &E1 &34 &33
+BA   20   CR   3+35/64   TR  1   CH  1   ST &E0 &12 &30
+BA   20   CR   3+35/64   TR  2   CH  2   ST &E1 &12 &30
+BA   20   CR 3+139/240   TR  1   CH  1   ST &E0 &70 &2C
+BA   20   CR 3+139/240   TR  2   CH  2   ST &E1 &70 &2C
+BA   20   CR 3+293/480   TR  1   CH  1   ST &E0 &4F &29
+BA   20   CR 3+293/480   TR  2   CH  2   ST &E1 &4F &29
+BA   20   CR 3+617/960   TR  1   CH  1   ST &E0 &2D &26
+BA   20   CR 3+617/960   TR  2   CH  2   ST &E1 &2D &26
+BA   20   CR   3+27/40   TR  1   CH  1   ST &E0 &0B &23
+BA   20   CR   3+27/40   TR  2   CH  2   ST &E1 &0B &23
+BA   20   CR 3+679/960   TR  1   CH  1   ST &E0 &6A &1F
+BA   20   CR 3+679/960   TR  2   CH  2   ST &E1 &6A &1F
+BA   20   CR   3+71/96   TR  1   CH  1   ST &E0 &48 &1C
+BA   20   CR   3+71/96   TR  2   CH  2   ST &E1 &48 &1C
+BA   20   CR     3+3/4   TR  8   CH 10   NT  F#--          1/4
+BA   20   CR 3+247/320   TR  1   CH  1   ST &E0 &26 &19
+BA   20   CR 3+247/320   TR  2   CH  2   ST &E1 &26 &19
+BA   20   CR 3+193/240   TR  1   CH  1   ST &E0 &04 &16
+BA   20   CR 3+193/240   TR  2   CH  2   ST &E1 &04 &16
+BA   20   CR 3+803/960   TR  1   CH  1   ST &E0 &63 &12
+BA   20   CR 3+803/960   TR  2   CH  2   ST &E1 &63 &12
+BA   20   CR 3+833/960   TR  1   CH  1   ST &E0 &41 &0F
+BA   20   CR 3+833/960   TR  2   CH  2   ST &E1 &41 &0F
+BA   20   CR    3+9/10   TR  1   CH  1   ST &E0 &1F &0C
+BA   20   CR    3+9/10   TR  2   CH  2   ST &E1 &1F &0C
+BA   20   CR 3+179/192   TR  1   CH  1   ST &E0 &7E &08
+BA   20   CR 3+179/192   TR  2   CH  2   ST &E1 &7E &08
+BA   20   CR 3+463/480   TR  1   CH  1   ST &E0 &5C &05
+BA   20   CR 3+463/480   TR  2   CH  2   ST &E1 &5C &05
+BA   20   CR   3+31/32   TR  1   CH  1   ST &E0 &51 &04
+BA   20   CR   3+31/32   TR  2   CH  2   ST &E1 &51 &04
+
+BA   21   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   21   CR         0   TR  1   CH  1   ST &E0 &00 &38
+BA   21   CR         0   TR  1   CH  1   ST &E0 &4E &37
+BA   21   CR         0   TR  1   CH  1   ST &E0 &1A &38
+BA   21   CR         0   TR  1   CH  1   ST &E0 &65 &38
+BA   21   CR         0   TR  1   CH  1   ST &E0 &2F &39
+BA   21   CR         0   TR  1   CH  1   ST &E0 &7A &39
+BA   21   CR         0   TR  1   CH  1   ST &E0 &45 &3A
+BA   21   CR         0   TR  1   CH  1   ST &E0 &10 &3B
+BA   21   CR         0   TR  1   CH  1   ST &E0 &5B &3B
+BA   21   CR         0   TR  1   CH  1   ST &E0 &25 &3C
+BA   21   CR         0   TR  1   CH  1   ST &E0 &70 &3C
+BA   21   CR         0   TR  1   CH  1   ST &E0 &3B &3D
+BA   21   CR         0   TR  1   CH  1   ST &E0 &06 &3E
+BA   21   CR         0   TR  1   CH  1   ST &E0 &51 &3E
+BA   21   CR         0   TR  1   CH  1   ST &E0 &1B &3F
+BA   21   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   21   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   21   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA   21   CR         0   TR  1   CH 16   End of track
+BA   21   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA   21   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA   21   CR         0   TR  2   CH  2   ST &B1 &06 &10
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &3C &36
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1F &37
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &62 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &43 &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &25 &3A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &06 &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &68 &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &49 &3C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2B &3D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &0C &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &6E &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &10
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7F &3F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &38 &44
+BA   21   CR         0   TR  2   CH  2   ST &E1 &71 &48
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2A &4D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &63 &51
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1B &56
+BA   21   CR         0   TR  2   CH  2   ST &E1 &54 &5A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &0D &5F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &46 &63
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7F &67
+BA   21   CR         0   TR  2   CH  2   ST &E1 &0B &61
+BA   21   CR         0   TR  2   CH  2   ST &E1 &69 &5D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &47 &5A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &26 &57
+BA   21   CR         0   TR  2   CH  2   ST &E1 &04 &54
+BA   21   CR         0   TR  2   CH  2   ST &E1 &62 &50
+BA   21   CR         0   TR  2   CH  2   ST &E1 &40 &4D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1F &4A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7D &46
+BA   21   CR         0   TR  2   CH  2   ST &E1 &5B &43
+BA   21   CR         0   TR  2   CH  2   ST &E1 &3A &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &19 &3D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &77 &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &55 &36
+BA   21   CR         0   TR  2   CH  2   ST &E1 &34 &33
+BA   21   CR         0   TR  2   CH  2   ST &E1 &12 &30
+BA   21   CR         0   TR  2   CH  2   ST &E1 &70 &2C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &4F &29
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2D &26
+BA   21   CR         0   TR  2   CH  2   ST &E1 &0B &23
+BA   21   CR         0   TR  2   CH  2   ST &E1 &6A &1F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &48 &1C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &26 &19
+BA   21   CR         0   TR  2   CH  2   ST &E1 &04 &16
+BA   21   CR         0   TR  2   CH  2   ST &E1 &63 &12
+BA   21   CR         0   TR  2   CH  2   ST &E1 &41 &0F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1F &0C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7E &08
+BA   21   CR         0   TR  2   CH  2   ST &E1 &5C &05
+BA   21   CR         0   TR  2   CH  2   ST &E1 &51 &04
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &3C &36
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1F &37
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &62 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &43 &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &25 &3A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &06 &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &68 &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &49 &3C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2B &3D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &0C &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &6E &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &10
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7F &3F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &38 &44
+BA   21   CR         0   TR  2   CH  2   ST &E1 &71 &48
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2A &4D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &63 &51
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1B &56
+BA   21   CR         0   TR  2   CH  2   ST &E1 &54 &5A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &0D &5F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &46 &63
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7F &67
+BA   21   CR         0   TR  2   CH  2   ST &E1 &0B &61
+BA   21   CR         0   TR  2   CH  2   ST &E1 &69 &5D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &47 &5A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &26 &57
+BA   21   CR         0   TR  2   CH  2   ST &E1 &04 &54
+BA   21   CR         0   TR  2   CH  2   ST &E1 &62 &50
+BA   21   CR         0   TR  2   CH  2   ST &E1 &40 &4D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1F &4A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7D &46
+BA   21   CR         0   TR  2   CH  2   ST &E1 &5B &43
+BA   21   CR         0   TR  2   CH  2   ST &E1 &3A &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &19 &3D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &77 &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &55 &36
+BA   21   CR         0   TR  2   CH  2   ST &E1 &34 &33
+BA   21   CR         0   TR  2   CH  2   ST &E1 &12 &30
+BA   21   CR         0   TR  2   CH  2   ST &E1 &70 &2C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &4F &29
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2D &26
+BA   21   CR         0   TR  2   CH  2   ST &E1 &0B &23
+BA   21   CR         0   TR  2   CH  2   ST &E1 &6A &1F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &48 &1C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &26 &19
+BA   21   CR         0   TR  2   CH  2   ST &E1 &04 &16
+BA   21   CR         0   TR  2   CH  2   ST &E1 &63 &12
+BA   21   CR         0   TR  2   CH  2   ST &E1 &41 &0F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1F &0C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7E &08
+BA   21   CR         0   TR  2   CH  2   ST &E1 &5C &05
+BA   21   CR         0   TR  2   CH  2   ST &E1 &51 &04
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &4E &37
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1A &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &65 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2F &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7A &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &45 &3A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &10 &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &5B &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &25 &3C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &70 &3C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &3B &3D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &06 &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &51 &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1B &3F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &4E &37
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1A &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &65 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2F &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7A &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &45 &3A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &10 &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &5B &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &25 &3C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &70 &3C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &3B &3D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &06 &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &51 &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1B &3F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &B1 &06 &10
+BA   21   CR         0   TR  2   CH  2   ST &B1 &64 &00
+BA   21   CR         0   TR  2   CH  2   ST &B1 &65 &00
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &4E &37
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1A &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &65 &38
+BA   21   CR         0   TR  2   CH  2   ST &E1 &2F &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &7A &39
+BA   21   CR         0   TR  2   CH  2   ST &E1 &45 &3A
+BA   21   CR         0   TR  2   CH  2   ST &E1 &10 &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &5B &3B
+BA   21   CR         0   TR  2   CH  2   ST &E1 &25 &3C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &70 &3C
+BA   21   CR         0   TR  2   CH  2   ST &E1 &3B &3D
+BA   21   CR         0   TR  2   CH  2   ST &E1 &06 &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &51 &3E
+BA   21   CR         0   TR  2   CH  2   ST &E1 &1B &3F
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH  2   ST &E1 &00 &40
+BA   21   CR         0   TR  2   CH 16   End of track
+BA   21   CR         0   TR  3   CH 16   End of track
+BA   21   CR         0   TR  8   CH 10   NT  F#--          1/4
+BA   21   CR         0   TR  8   CH 10   NT  B---          1/4
+BA   21   CR       1/2   TR  4   CH 16   End of track
+BA   21   CR         2   TR  8   CH 10   NT  B---          1/4   von=1
+BA   21   CR     2+1/4   TR  8   CH 16   End of track

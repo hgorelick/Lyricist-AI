@@ -1,0 +1,111 @@
+
+BA    1   CR         0   TR  0   CH 16   Tempo 180
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Ocarina"
+BA    1   CR         0   TR  1   CH  1   Instrument 77
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  1   CH  1   NT  C             1/4   von=100   voff=100
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Super Smash Bros Melee"
+BA    1   CR         0   TR  2   CH  2   Instrument 80
+BA    1   CR         0   TR  2   CH  2   Channel volume 127
+BA    1   CR         0   TR  2   CH 16   End of track
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Hammer Ver.2"
+BA    1   CR         0   TR  3   CH  3   Instrument 80
+BA    1   CR         0   TR  3   CH  3   Channel volume 127
+BA    1   CR         0   TR  3   CH 16   End of track
+BA    1   CR         0   TR  4   CH 16   Text type 3: "sequenced by bingo101"
+BA    1   CR         0   TR  4   CH  4   Instrument 80
+BA    1   CR         0   TR  4   CH  4   Channel volume 127
+BA    1   CR         0   TR  4   CH 16   End of track
+BA    1   CR         0   TR  5   CH 16   Text type 3: "bingo101@web.de"
+BA    1   CR         0   TR  5   CH  5   Instrument 80
+BA    1   CR         0   TR  5   CH  5   Channel volume 127
+BA    1   CR         0   TR  5   CH 16   End of track
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Ver.2: Changed the Ocarina into Bottle"
+BA    1   CR         0   TR  6   CH  6   Instrument 80
+BA    1   CR         0   TR  6   CH  6   Channel volume 127
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR         0   TR  7   CH 16   Text type 3: "and shortened it so that it ujst loops 4/8 time/s"
+BA    1   CR         0   TR  7   CH  7   Instrument 80
+BA    1   CR         0   TR  7   CH  7   Channel volume 127
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR       1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    1   CR       3/4   TR  1   CH  1   NT  C             1/4   voff=100
+BA    1   CR         1   TR  1   CH  1   NT  C             1/4   voff=100
+BA    1   CR     1+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    1   CR         2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    1   CR     2+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    1   CR         3   TR  1   CH  1   NT  E             1/4   voff=100
+BA    1   CR     3+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+
+BA    2   CR         0   TR  1   CH  1   NT  E             1/4   voff=100
+BA    2   CR       1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    2   CR       3/4   TR  1   CH  1   NT  E             1/4   voff=100
+BA    2   CR         1   TR  1   CH  1   NT  E             1/4   voff=100
+BA    2   CR     1+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    2   CR         2   TR  1   CH  1   NT  G             1/4   voff=100
+BA    2   CR     2+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    2   CR         3   TR  1   CH  1   NT  G             1/4   voff=100
+BA    2   CR     3+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+
+BA    3   CR         0   TR  1   CH  1   NT  C             1/4   voff=100
+BA    3   CR       1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    3   CR       3/4   TR  1   CH  1   NT  C             1/4   voff=100
+BA    3   CR         1   TR  1   CH  1   NT  C             1/4   voff=100
+BA    3   CR     1+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    3   CR         2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    3   CR     2+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    3   CR         3   TR  1   CH  1   NT  E             1/4   voff=100
+BA    3   CR     3+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+
+BA    4   CR         0   TR  1   CH  1   NT  E             1/4   voff=100
+BA    4   CR       1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    4   CR       3/4   TR  1   CH  1   NT  E             1/4   voff=100
+BA    4   CR         1   TR  1   CH  1   NT  E             1/4   voff=100
+BA    4   CR     1+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    4   CR         2   TR  1   CH  1   NT  G             1/4   voff=100
+BA    4   CR     2+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    4   CR         3   TR  1   CH  1   NT  G             1/4   voff=100
+BA    4   CR     3+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+
+BA    5   CR         0   TR  1   CH  1   NT  C             1/4   voff=100
+BA    5   CR       1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    5   CR       3/4   TR  1   CH  1   NT  C             1/4   voff=100
+BA    5   CR         1   TR  1   CH  1   NT  C             1/4   voff=100
+BA    5   CR     1+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    5   CR         2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    5   CR     2+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    5   CR         3   TR  1   CH  1   NT  E             1/4   voff=100
+BA    5   CR     3+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+
+BA    6   CR         0   TR  1   CH  1   NT  E             1/4   voff=100
+BA    6   CR       1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    6   CR       3/4   TR  1   CH  1   NT  E             1/4   voff=100
+BA    6   CR         1   TR  1   CH  1   NT  E             1/4   voff=100
+BA    6   CR     1+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    6   CR         2   TR  1   CH  1   NT  G             1/4   voff=100
+BA    6   CR     2+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    6   CR         3   TR  1   CH  1   NT  G             1/4   voff=100
+BA    6   CR     3+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+
+BA    7   CR         0   TR  1   CH  1   NT  C             1/4   voff=100
+BA    7   CR       1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    7   CR       3/4   TR  1   CH  1   NT  C             1/4   voff=100
+BA    7   CR         1   TR  1   CH  1   NT  C             1/4   voff=100
+BA    7   CR     1+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    7   CR         2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    7   CR     2+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+BA    7   CR         3   TR  1   CH  1   NT  E             1/4   voff=100
+BA    7   CR     3+1/2   TR  1   CH  1   NT  C             1/4   voff=100
+
+BA    8   CR         0   TR  1   CH  1   NT  E             1/4   voff=100
+BA    8   CR       1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    8   CR       3/4   TR  1   CH  1   NT  E             1/4   voff=100
+BA    8   CR         1   TR  1   CH  1   NT  E             1/4   voff=100
+BA    8   CR     1+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    8   CR         2   TR  1   CH  1   NT  G             1/4   voff=100
+BA    8   CR     2+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    8   CR         3   TR  1   CH  1   NT  G             1/4   voff=100
+BA    8   CR     3+1/2   TR  1   CH  1   NT  E             1/4   voff=100
+BA    8   CR     3+3/4   TR  1   CH 16   End of track

@@ -1,0 +1,74 @@
+
+BA    1   CR         0   TR  0   CH 16   Text type 1: "untitled"
+BA    1   CR         0   TR  0   CH 16   Tempo 120
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Instrument 39
+BA    1   CR         0   TR  1   CH  1   NT  G---    1+147/160   von=127
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Instrument 7
+BA    1   CR         0   TR  2   CH  2   NT  D-          4+4/5   von=127
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  3   CH  3   Instrument 7
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   3
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  4   CH  4   Instrument 7
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &20   4
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  5   CH  5   Instrument 7
+BA    1   CR         0   TR  5   CH  5   ST &B4 &01 &00
+BA    1   CR         0   TR  5   CH  5   NT  D           4+4/5   von=127
+BA    1   CR      1/48   TR  3   CH  3   NT  G-          4+4/5   von=127
+BA    1   CR      1/24   TR  4   CH  4   NT  Bb-         4+4/5   von=127
+BA    1   CR 1+147/160   TR  1   CH  1   NT  A---       77/240
+BA    1   CR  2+67/120   TR  1   CH  1   NT  Bb---      77/240
+BA    1   CR     3+1/5   TR  1   CH  1   NT  G---       51/160
+BA    1   CR 3+403/480   TR  1   CH  1   NT  Bb---      51/160
+
+BA    2   CR     23/48   TR  1   CH  1   NT  D--        77/240
+BA    2   CR  1+19/160   TR  1   CH  1   NT  C#--      2+23/96
+BA    2   CR  1+19/160   TR  2   CH  2   NT  Eb-       2+23/96
+BA    2   CR  1+19/160   TR  5   CH  5   NT  Eb        2+23/96
+BA    2   CR  1+67/480   TR  3   CH  3   NT  G-        2+23/96
+BA    2   CR  1+77/480   TR  4   CH  4   NT  Bb-       2+23/96
+BA    2   CR 3+163/240   TR  1   CH  1   NT  D--     7+173/480
+BA    2   CR 3+163/240   TR  2   CH  2   NT  D-      2+269/480
+BA    2   CR 3+163/240   TR  5   CH  5   NT  D       2+269/480
+BA    2   CR    3+7/10   TR  3   CH  3   NT  F#-     2+269/480
+BA    2   CR 3+173/240   TR  4   CH  4   NT  A-      2+269/480
+
+BA    3   CR   2+23/96   TR  2   CH 16   End of track
+BA    3   CR   2+25/96   TR  3   CH 16   End of track
+BA    3   CR    2+9/32   TR  4   CH 16   End of track
+
+BA    4   CR  3+19/480   TR  1   CH 16   End of track
+BA    4   CR  3+57/160   TR  5   CH  5   ST &B4 &01 &7F
+BA    4   CR  3+43/120   TR  5   CH  5   Instrument 69
+BA    4   CR  3+43/120   TR  5   CH  5   NT  Bb        461/480
+
+BA    5   CR    51/160   TR  5   CH  5   NT  D'        461/480
+BA    5   CR  1+67/240   TR  5   CH  5   NT  G'        461/480
+BA    5   CR   2+23/96   TR  5   CH  5   NT  F#'      3+83/160
+
+BA    6   CR     2+2/5   TR  5   CH  5   NT  G           23/24
+BA    6   CR  3+43/120   TR  5   CH  5   NT  Bb        461/480
+
+BA    7   CR    51/160   TR  5   CH  5   NT  F'        461/480
+BA    7   CR  1+67/240   TR  5   CH  5   NT  E'      2+269/480
+BA    7   CR 3+403/480   TR  5   CH  5   NT  Eb'      3+83/160
+
+BA    9   CR    51/160   TR  5   CH  5   NT  D'        2+23/96
+BA    9   CR  2+67/120   TR  5   CH  5   NT  C#'      5+53/120
+
+BA   11   CR         0   TR  5   CH  5   ST &B4 &01 &00
+BA   11   CR         0   TR  5   CH 16   End of track

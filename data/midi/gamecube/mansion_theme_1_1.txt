@@ -1,0 +1,203 @@
+
+BA    1   CR         0   TR  0   CH 16   Text type 3: "untitled"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "John Smith\n"
+BA    1   CR         0   TR  0   CH 16   Time signature 8/8, clocks/mtick 12, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 110
+BA    1   CR         0   TR  0   CH 16   Text type 6: "Luigi's Mansion - Main Music sequenced by Gold Jinjo <jay_moser@hotmail.com>"
+BA    1   CR         0   TR  0   CH  1   Instrument 43
+BA    1   CR         0   TR  0   CH  1   NT  A---            1   von=100
+BA    1   CR         0   TR  0   CH  2   Instrument 11
+BA    1   CR         0   TR  0   CH  2   Channel volume 60
+BA    1   CR         0   TR  0   CH  2   Instrument 11
+BA    1   CR         0   TR  0   CH  2   Channel volume 60
+BA    1   CR         0   TR  0   CH  2   Instrument 11
+BA    1   CR         0   TR  0   CH  3   Instrument 7
+BA    1   CR         0   TR  0   CH  3   Instrument 7
+BA    1   CR         0   TR  0   CH  3   Instrument 7
+BA    1   CR         0   TR  0   CH  4   Instrument 55
+BA    1   CR         0   TR  0   CH  4   Instrument 55
+BA    1   CR         0   TR  0   CH  4   Channel volume 60
+BA    1   CR         0   TR  0   CH  4   Instrument 53
+BA    1   CR         0   TR  0   CH  5   Instrument 44
+BA    1   CR         0   TR  0   CH  5   Channel volume 60
+BA    1   CR         0   TR  0   CH  5   Instrument 72
+BA    1   CR         0   TR  0   CH  5   Instrument 74
+BA    1   CR         0   TR  0   CH  5   Channel volume 70
+BA    1   CR         0   TR  0   CH  6   Instrument 43
+BA    1   CR         0   TR  0   CH  6   Channel volume 60
+BA    1   CR         0   TR  0   CH  6   Instrument 43
+BA    1   CR         0   TR  0   CH  6   Channel volume 60
+BA    1   CR         0   TR  0   CH  7   Instrument 20
+BA    1   CR         0   TR  0   CH  7   Instrument 20
+BA    1   CR         0   TR  0   CH  7   Channel volume 60
+BA    1   CR         0   TR  0   CH  8   Instrument 20
+BA    1   CR         0   TR  0   CH  8   Channel volume 60
+
+BA    2   CR         0   TR  0   CH  1   NT  A---            1
+BA    2   CR     1+1/2   TR  0   CH  1   NT  E--           1/2
+BA    2   CR         2   TR  0   CH  1   NT  Eb--            1
+BA    2   CR         3   TR  0   CH  1   NT  E--           1/2
+
+BA    3   CR         0   TR  0   CH  1   NT  A---            1
+BA    3   CR         2   TR  0   CH  6   NT  A---            1
+
+BA    4   CR         0   TR  0   CH  1   NT  A---            1
+BA    4   CR     1+1/2   TR  0   CH  1   NT  E--           1/2
+BA    4   CR         2   TR  0   CH  1   NT  Eb--            1
+BA    4   CR         3   TR  0   CH  1   NT  E--           1/2
+
+BA    5   CR         0   TR  0   CH  1   NT  A---            1
+BA    5   CR         0   TR  0   CH  2   NT  C'              1
+BA    5   CR         0   TR  0   CH  2   NT  E'              1
+
+BA    6   CR         0   TR  0   CH  1   NT  A---            1
+BA    6   CR         0   TR  0   CH  2   NT  B               1
+BA    6   CR         0   TR  0   CH  2   NT  Eb'             1
+BA    6   CR     3+1/2   TR  0   CH  1   NT  E---          1/2
+
+BA    7   CR         0   TR  0   CH  1   NT  A---            1
+BA    7   CR         0   TR  0   CH  2   NT  B               1
+BA    7   CR         0   TR  0   CH  2   NT  D'              1
+
+BA    8   CR     1+1/2   TR  0   CH  1   NT  Bb---         1/2
+BA    8   CR     1+1/2   TR  0   CH  3   NT  Bb            1/2
+BA    8   CR         2   TR  0   CH  1   NT  B---          1/2
+BA    8   CR         2   TR  0   CH  3   NT  B             1/2
+BA    8   CR         3   TR  0   CH  1   NT  E---          1/2
+BA    8   CR         3   TR  0   CH  3   NT  E             1/2
+
+BA    9   CR         0   TR  0   CH  1   NT  A---            1
+BA    9   CR         0   TR  0   CH  4   NT  E'              2
+BA    9   CR         0   TR  0   CH  5   NT  A---            4
+BA    9   CR         2   TR  0   CH  4   NT  G'              2
+
+BA   10   CR         0   TR  0   CH  1   NT  A---            1
+BA   10   CR         0   TR  0   CH  4   NT  F#'             2
+BA   10   CR         0   TR  0   CH  5   NT  F#--            4
+BA   10   CR     1+1/2   TR  0   CH  1   NT  E--           1/2
+BA   10   CR         2   TR  0   CH  1   NT  Eb--            1
+BA   10   CR         2   TR  0   CH  4   NT  Eb'             2
+BA   10   CR         3   TR  0   CH  1   NT  E--           1/2
+
+BA   11   CR         0   TR  0   CH  1   NT  A---            1
+BA   11   CR         0   TR  0   CH  4   NT  D'              2
+BA   11   CR         0   TR  0   CH  5   NT  F--             4
+BA   11   CR         2   TR  0   CH  1   NT  A---            1
+BA   11   CR         2   TR  0   CH  4   NT  F'              2
+
+BA   12   CR         0   TR  0   CH  1   NT  E--           1/2
+BA   12   CR         0   TR  0   CH  3   NT  E             1/2
+BA   12   CR         0   TR  0   CH  4   NT  E'            1/2
+BA   12   CR       1/2   TR  0   CH  1   NT  D--           1/2
+BA   12   CR       1/2   TR  0   CH  3   NT  D             1/2
+BA   12   CR       1/2   TR  0   CH  4   NT  D'            1/2
+BA   12   CR         1   TR  0   CH  1   NT  C--           1/2
+BA   12   CR         1   TR  0   CH  3   NT  C             1/2
+BA   12   CR         1   TR  0   CH  4   NT  C'            1/2
+BA   12   CR     1+1/2   TR  0   CH  1   NT  B---          1/2
+BA   12   CR     1+1/2   TR  0   CH  3   NT  B-            1/2
+BA   12   CR     1+1/2   TR  0   CH  4   NT  B             1/2
+BA   12   CR         2   TR  0   CH  1   NT  A---          1/2
+BA   12   CR         2   TR  0   CH  3   NT  A-            1/2
+BA   12   CR         2   TR  0   CH  4   NT  A               1
+
+BA   13   CR         2   TR  0   CH  1   NT  E---          1/2
+BA   13   CR     2+1/2   TR  0   CH  1   NT  A---            1
+
+BA   14   CR     2+1/2   TR  0   CH  1   NT  E---          1/2
+BA   14   CR     2+1/2   TR  0   CH  4   NT  E             1/2
+BA   14   CR         3   TR  0   CH  1   NT  A---          1/2
+BA   14   CR         3   TR  0   CH  4   NT  A             1/2
+BA   14   CR     3+1/2   TR  0   CH  1   NT  B---          1/2
+BA   14   CR     3+1/2   TR  0   CH  4   NT  B             1/2
+
+BA   15   CR         0   TR  0   CH  1   NT  C--           1/2
+BA   15   CR         0   TR  0   CH  4   NT  C'            1/2
+BA   15   CR       1/2   TR  0   CH  1   NT  D--           1/2
+BA   15   CR       1/2   TR  0   CH  4   NT  D'            1/2
+BA   15   CR         1   TR  0   CH  1   NT  E--             1
+BA   15   CR         1   TR  0   CH  4   NT  E'            1/2
+BA   15   CR         2   TR  0   CH  1   NT  A--             1
+BA   15   CR         2   TR  0   CH  4   NT  A'            1/2
+BA   15   CR         3   TR  0   CH  1   NT  Eb---           2
+BA   15   CR         3   TR  0   CH  4   NT  C''             2
+
+BA   16   CR         1   TR  0   CH  1   NT  E---            1
+BA   16   CR         1   TR  0   CH  4   NT  B'              2
+BA   16   CR         2   TR  0   CH  1   NT  E---            1
+BA   16   CR         2   TR  0   CH  4   NT  Eb'             1
+BA   16   CR         2   TR  0   CH  7   NT  Eb            1/2
+BA   16   CR         2   TR  0   CH  8   NT  Eb              1
+BA   16   CR     2+1/2   TR  0   CH  4   NT  E'              1
+BA   16   CR     2+1/2   TR  0   CH  7   NT  E             1/2
+BA   16   CR     2+1/2   TR  0   CH  8   NT  E               1
+BA   16   CR         3   TR  0   CH  1   NT  E---            1
+BA   16   CR         3   TR  0   CH  4   NT  Eb'             1
+BA   16   CR         3   TR  0   CH  7   NT  Eb            1/2
+BA   16   CR         3   TR  0   CH  8   NT  Eb              1
+
+BA   17   CR         0   TR  0   CH  1   NT  E---            1
+BA   17   CR         0   TR  0   CH  4   NT  D'              1
+BA   17   CR         0   TR  0   CH  7   NT  D             1/2
+BA   17   CR         0   TR  0   CH  8   NT  D               2
+BA   17   CR         1   TR  0   CH  1   NT  E---            1
+BA   17   CR         2   TR  0   CH  1   NT  E---            1
+BA   17   CR         2   TR  0   CH  4   NT  C#'           1/2
+BA   17   CR         2   TR  0   CH  7   NT  C#            1/2
+BA   17   CR         2   TR  0   CH  8   NT  C#              1
+BA   17   CR     2+1/2   TR  0   CH  4   NT  D'            1/2
+BA   17   CR     2+1/2   TR  0   CH  7   NT  D             1/2
+BA   17   CR     2+1/2   TR  0   CH  8   NT  D               1
+BA   17   CR         3   TR  0   CH  1   NT  E---            1
+BA   17   CR         3   TR  0   CH  4   NT  C#'           1/2
+BA   17   CR         3   TR  0   CH  7   NT  C#            1/2
+BA   17   CR         3   TR  0   CH  8   NT  C#              1
+
+BA   18   CR         0   TR  0   CH  1   NT  E---            1
+BA   18   CR         0   TR  0   CH  4   NT  C'            1/2
+BA   18   CR         0   TR  0   CH  7   NT  C             1/2
+BA   18   CR         0   TR  0   CH  8   NT  C               2
+BA   18   CR         1   TR  0   CH  1   NT  E---            1
+BA   18   CR         2   TR  0   CH  1   NT  E---            1
+BA   18   CR         2   TR  0   CH  4   NT  B             1/2
+BA   18   CR         2   TR  0   CH  7   NT  B-            1/2
+BA   18   CR         2   TR  0   CH  8   NT  B-              1
+BA   18   CR     2+1/2   TR  0   CH  4   NT  C'            1/2
+BA   18   CR     2+1/2   TR  0   CH  7   NT  C             1/2
+BA   18   CR     2+1/2   TR  0   CH  8   NT  C               1
+BA   18   CR         3   TR  0   CH  1   NT  E---            1
+BA   18   CR         3   TR  0   CH  4   NT  B             1/2
+BA   18   CR         3   TR  0   CH  7   NT  B-            1/2
+BA   18   CR         3   TR  0   CH  8   NT  B-              2
+
+BA   19   CR         0   TR  0   CH  1   NT  E---            1
+BA   19   CR         1   TR  0   CH  1   NT  E---            1
+BA   19   CR         1   TR  0   CH  4   NT  Bb            1/2
+BA   19   CR         1   TR  0   CH  7   NT  Bb-           1/2
+BA   19   CR         1   TR  0   CH  8   NT  Bb-             2
+BA   19   CR         2   TR  0   CH  1   NT  E---          1/2
+BA   19   CR     2+1/2   TR  0   CH  2   NT  Eb'           1/2
+BA   19   CR     2+1/2   TR  0   CH  3   NT  Eb'             1
+BA   19   CR     2+1/2   TR  0   CH  6   NT  Eb--          1/2
+BA   19   CR         3   TR  0   CH  2   NT  E'            1/2
+BA   19   CR         3   TR  0   CH  3   NT  E'              1
+BA   19   CR         3   TR  0   CH  6   NT  E--           1/2
+BA   19   CR     3+1/2   TR  0   CH  2   NT  B             1/2
+BA   19   CR     3+1/2   TR  0   CH  3   NT  B               1
+BA   19   CR     3+1/2   TR  0   CH  6   NT  B---          1/2
+
+BA   20   CR         0   TR  0   CH  2   NT  Bb            1/2
+BA   20   CR         0   TR  0   CH  3   NT  Bb              1
+BA   20   CR         0   TR  0   CH  6   NT  Bb---         1/2
+BA   20   CR       1/2   TR  0   CH  2   NT  B             1/2
+BA   20   CR       1/2   TR  0   CH  3   NT  B               1
+BA   20   CR       1/2   TR  0   CH  6   NT  B---          1/2
+BA   20   CR         1   TR  0   CH  1   NT  E---            1
+BA   20   CR         1   TR  0   CH  2   NT  E             1/2
+BA   20   CR         1   TR  0   CH  3   NT  E               1
+BA   20   CR         1   TR  0   CH  6   NT  E---          1/2
+BA   20   CR         3   TR  0   CH  1   NT  E---            1
+
+BA   21   CR         1   TR  0   CH  1   NT  E---            1
+BA   21   CR         2   TR  0   CH 16   End of track

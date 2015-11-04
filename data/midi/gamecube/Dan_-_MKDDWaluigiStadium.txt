@@ -1,0 +1,1473 @@
+
+BA    1   CR         0   TR  0   CH 16   Tempo 176
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "MIDI out #4"
+BA    1   CR         0   TR  1   CH  4   ST &B3 &0A &2F
+BA    1   CR         0   TR  1   CH  4   Channel volume 127
+BA    1   CR         0   TR  1   CH  4   ST &E3 &00 &40
+BA    1   CR         0   TR  1   CH  4   ST &B3 &65 &00
+BA    1   CR         0   TR  1   CH  4   ST &B3 &64 &00
+BA    1   CR         0   TR  1   CH  4   ST &B3 &06 &0C
+BA    1   CR         0   TR  1   CH  4   ST &B3 &0A &2F
+BA    1   CR         0   TR  1   CH  4   Channel volume 127
+BA    1   CR         0   TR  1   CH  4   ST &E3 &00 &40
+BA    1   CR         0   TR  1   CH  4   Instrument 67
+BA    1   CR         0   TR  1   CH  4   ST &B3 &65 &00
+BA    1   CR         0   TR  1   CH  4   ST &B3 &64 &00
+BA    1   CR         0   TR  1   CH  4   ST &B3 &06 &0C
+BA    1   CR         0   TR  1   CH  4   ST &B3 &0A &2F
+BA    1   CR         0   TR  1   CH  4   Channel volume 127
+BA    1   CR         0   TR  1   CH  4   ST &E3 &00 &40
+BA    1   CR         0   TR  1   CH  4   Instrument 67
+BA    1   CR         0   TR  2   CH 16   Text type 3: "MIDI out #3"
+BA    1   CR         0   TR  2   CH  3   ST &B2 &0A &52
+BA    1   CR         0   TR  2   CH  3   Channel volume 100
+BA    1   CR         0   TR  2   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  2   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &64 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &06 &0C
+BA    1   CR         0   TR  2   CH  3   ST &B2 &0A &52
+BA    1   CR         0   TR  2   CH  3   Channel volume 100
+BA    1   CR         0   TR  2   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  2   CH  3   Instrument 57
+BA    1   CR         0   TR  2   CH  3   ST &B2 &01 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &64 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &06 &0C
+BA    1   CR         0   TR  2   CH  3   ST &B2 &0A &52
+BA    1   CR         0   TR  2   CH  3   Channel volume 100
+BA    1   CR         0   TR  2   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  2   CH  3   Instrument 57
+BA    1   CR         0   TR  2   CH  3   ST &B2 &01 &00
+BA    1   CR         0   TR  3   CH 16   Text type 3: "MIDI out #2"
+BA    1   CR         0   TR  3   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  3   CH  2   Channel volume 100
+BA    1   CR         0   TR  3   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  3   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  3   CH  2   ST &B1 &64 &00
+BA    1   CR         0   TR  3   CH  2   ST &B1 &06 &0C
+BA    1   CR         0   TR  3   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  3   CH  2   Channel volume 100
+BA    1   CR         0   TR  3   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  3   CH  2   Instrument 40
+BA    1   CR         0   TR  3   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  3   CH  2   ST &B1 &64 &00
+BA    1   CR         0   TR  3   CH  2   ST &B1 &06 &0C
+BA    1   CR         0   TR  3   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  3   CH  2   Channel volume 100
+BA    1   CR         0   TR  3   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  3   CH  2   Instrument 40
+BA    1   CR         0   TR  3   CH  2   NT  D--         47/48   von=63   voff=63
+BA    1   CR         0   TR  4   CH 16   Text type 3: "MIDI out #7"
+BA    1   CR         0   TR  4   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  4   CH 10   Channel volume 100
+BA    1   CR         0   TR  4   CH 10   ST &E9 &00 &40
+BA    1   CR         0   TR  4   CH 10   ST &B9 &65 &00
+BA    1   CR         0   TR  4   CH 10   ST &B9 &64 &00
+BA    1   CR         0   TR  4   CH 10   ST &B9 &06 &0C
+BA    1   CR         0   TR  4   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  4   CH 10   Channel volume 100
+BA    1   CR         0   TR  4   CH 10   ST &E9 &00 &40
+BA    1   CR         0   TR  4   CH 10   ST &B9 &65 &00
+BA    1   CR         0   TR  4   CH 10   ST &B9 &64 &00
+BA    1   CR         0   TR  4   CH 10   ST &B9 &06 &0C
+BA    1   CR         0   TR  4   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  4   CH 10   Channel volume 100
+BA    1   CR         0   TR  4   CH 10   ST &E9 &00 &40
+BA    1   CR         0   TR  4   CH 10   NT  G#--        11/48   von=63   voff=63
+BA    1   CR         0   TR  4   CH 10   NT  C--         11/48   voff=63
+BA    1   CR         0   TR  5   CH 16   Text type 3: "MIDI out #6"
+BA    1   CR         0   TR  5   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  5   CH  6   Channel volume 127
+BA    1   CR         0   TR  5   CH  6   ST &E5 &00 &40
+BA    1   CR         0   TR  5   CH  6   ST &B5 &65 &00
+BA    1   CR         0   TR  5   CH  6   ST &B5 &64 &00
+BA    1   CR         0   TR  5   CH  6   ST &B5 &06 &0C
+BA    1   CR         0   TR  5   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  5   CH  6   Channel volume 127
+BA    1   CR         0   TR  5   CH  6   ST &E5 &00 &40
+BA    1   CR         0   TR  5   CH  6   Instrument 28
+BA    1   CR         0   TR  5   CH  6   ST &B5 &65 &00
+BA    1   CR         0   TR  5   CH  6   ST &B5 &64 &00
+BA    1   CR         0   TR  5   CH  6   ST &B5 &06 &0C
+BA    1   CR         0   TR  5   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  5   CH  6   Channel volume 127
+BA    1   CR         0   TR  5   CH  6   ST &E5 &00 &40
+BA    1   CR         0   TR  5   CH  6   Instrument 28
+BA    1   CR         0   TR  5   CH  6   NT  D           47/48   von=63   voff=63
+BA    1   CR         0   TR  6   CH 16   Text type 3: "MIDI out #5"
+BA    1   CR         0   TR  6   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  6   CH  5   Channel volume 68
+BA    1   CR         0   TR  6   CH  5   ST &E4 &00 &40
+BA    1   CR         0   TR  6   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  6   CH  5   ST &B4 &64 &00
+BA    1   CR         0   TR  6   CH  5   ST &B4 &06 &0C
+BA    1   CR         0   TR  6   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  6   CH  5   Channel volume 68
+BA    1   CR         0   TR  6   CH  5   ST &E4 &00 &40
+BA    1   CR         0   TR  6   CH  5   Instrument 23
+BA    1   CR         0   TR  6   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  6   CH  5   ST &B4 &64 &00
+BA    1   CR         0   TR  6   CH  5   ST &B4 &06 &0C
+BA    1   CR         0   TR  6   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  6   CH  5   Channel volume 68
+BA    1   CR         0   TR  6   CH  5   ST &E4 &00 &40
+BA    1   CR         0   TR  6   CH  5   Instrument 23
+BA    1   CR         0   TR  7   CH 16   Text type 3: "MIDI out"
+BA    1   CR         0   TR  7   CH  1   ST &B0 &0A &55
+BA    1   CR         0   TR  7   CH  1   Channel volume 109
+BA    1   CR         0   TR  7   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  7   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  7   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  7   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  7   CH  1   ST &B0 &0A &55
+BA    1   CR         0   TR  7   CH  1   Channel volume 109
+BA    1   CR         0   TR  7   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  7   CH  1   Instrument 17
+BA    1   CR         0   TR  7   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  7   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  7   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  7   CH  1   ST &B0 &0A &55
+BA    1   CR         0   TR  7   CH  1   Channel volume 109
+BA    1   CR         0   TR  7   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  7   CH  1   Instrument 17
+BA    1   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    1   CR     47/96   TR  6   CH  5   NT  F#'         47/96   von=63   voff=63
+BA    1   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    1   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    1   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    1   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    1   CR     95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    1   CR     95/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    1   CR     95/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    1   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    1   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    1   CR   1+47/96   TR  5   CH  6   NT  A-          47/96   voff=63
+BA    1   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    1   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    1   CR   1+95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    1   CR   1+95/96   TR  6   CH  5   NT  F'          47/96   voff=63
+BA    1   CR   1+95/96   TR  6   CH  5   NT  B           23/96   voff=63
+BA    1   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    1   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    1   CR   2+47/96   TR  5   CH  6   NT  A-          47/96   voff=63
+BA    1   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    1   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    1   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    1   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    1   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    1   CR   2+95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    1   CR   3+47/96   TR  3   CH  2   NT  D--       1+47/96   voff=63
+BA    1   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    1   CR   3+47/96   TR  4   CH 10   NT  C--         23/96   voff=63
+BA    1   CR   3+47/96   TR  4   CH 10   NT  B--         23/96   voff=63
+BA    1   CR   3+47/96   TR  5   CH  6   NT  D         1+47/96   voff=63
+BA    1   CR   3+47/96   TR  6   CH  5   NT  F'          47/96   voff=63
+BA    1   CR   3+47/96   TR  6   CH  5   NT  B           23/96   voff=63
+BA    1   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    1   CR   3+95/96   TR  4   CH 10   NT  B--         23/96   voff=63
+BA    1   CR   3+95/96   TR  4   CH 10   NT  C--         23/96   voff=63
+BA    1   CR   3+95/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    1   CR   3+95/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+
+BA    2   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    2   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    2   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    2   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    2   CR     95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    2   CR     95/96   TR  6   CH  5   NT  F'          47/96   voff=63
+BA    2   CR     95/96   TR  6   CH  5   NT  B           23/96   voff=63
+BA    2   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    2   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    2   CR   1+47/96   TR  5   CH  6   NT  A-          47/96   voff=63
+BA    2   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    2   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    2   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    2   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    2   CR   1+95/96   TR  4   CH 10   NT  C--         23/96   voff=63
+BA    2   CR   1+95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    2   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    2   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    2   CR   2+47/96   TR  5   CH  6   NT  A-          47/96   voff=63
+BA    2   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    2   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    2   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    2   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    2   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    2   CR   2+95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    2   CR   3+47/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA    2   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    2   CR   3+47/96   TR  5   CH  6   NT  C#          47/96   voff=63
+BA    2   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA    2   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    2   CR   3+95/96   TR  4   CH 10   NT  C--         23/96   voff=63
+BA    2   CR   3+95/96   TR  5   CH  6   NT  D           95/96   voff=63
+
+BA    3   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    3   CR     47/96   TR  6   CH  5   NT  F#'         47/96   voff=63
+BA    3   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    3   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    3   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    3   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    3   CR     95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    3   CR     95/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    3   CR     95/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    3   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    3   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    3   CR   1+47/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    3   CR   1+47/96   TR  5   CH  6   NT  A-          47/96   voff=63
+BA    3   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    3   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    3   CR   1+95/96   TR  4   CH 10   NT  C--         23/96   voff=63
+BA    3   CR   1+95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    3   CR   1+95/96   TR  6   CH  5   NT  F'          47/96   voff=63
+BA    3   CR   1+95/96   TR  6   CH  5   NT  B           23/96   voff=63
+BA    3   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    3   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    3   CR   2+47/96   TR  5   CH  6   NT  A-          47/96   voff=63
+BA    3   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    3   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    3   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    3   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    3   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    3   CR   2+95/96   TR  5   CH  6   NT  C           47/96   voff=63
+BA    3   CR   3+47/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA    3   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    3   CR   3+47/96   TR  5   CH  6   NT  D           47/96   voff=63
+BA    3   CR   3+47/96   TR  6   CH  5   NT  F'          47/96   voff=63
+BA    3   CR   3+47/96   TR  6   CH  5   NT  B           23/96   voff=63
+BA    3   CR   3+95/96   TR  3   CH  2   NT  G---        95/96   voff=63
+BA    3   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    3   CR   3+95/96   TR  5   CH  6   NT  G-          95/96   voff=63
+BA    3   CR   3+95/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    3   CR   3+95/96   TR  6   CH  5   NT  C'          23/96   voff=63
+
+BA    4   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    4   CR     95/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA    4   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    4   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    4   CR     95/96   TR  5   CH  6   NT  G-          47/96   voff=63
+BA    4   CR     95/96   TR  6   CH  5   NT  F'          47/96   voff=63
+BA    4   CR     95/96   TR  6   CH  5   NT  B           23/96   voff=63
+BA    4   CR   1+47/96   TR  3   CH  2   NT  A---        95/96   voff=63
+BA    4   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    4   CR   1+47/96   TR  5   CH  6   NT  A-          95/96   voff=63
+BA    4   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    4   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    4   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    4   CR   2+47/96   TR  3   CH  2   NT  C--       1+47/96   voff=63
+BA    4   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    4   CR   2+47/96   TR  5   CH  6   NT  C         1+47/96   voff=63
+BA    4   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    4   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    4   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    4   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    4   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    4   CR   3+47/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    4   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA    4   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA    5   CR     47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA    5   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    5   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    5   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    5   CR     47/96   TR  7   CH  1   NT  A           47/96   von=63   voff=63
+BA    5   CR     95/96   TR  2   CH  3   NT  B           23/96   von=71   voff=71
+BA    5   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    5   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    5   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    5   CR     95/96   TR  7   CH  1   NT  B           47/96   voff=63
+BA    5   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=77   voff=77
+BA    5   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    5   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    5   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    5   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    5   CR   1+47/96   TR  7   CH  1   NT  D'          23/96   voff=63
+BA    5   CR   1+95/96   TR  2   CH  3   NT  F#'         47/96   von=84   voff=84
+BA    5   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    5   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    5   CR   1+95/96   TR  7   CH  1   NT  F#'         47/96   voff=63
+BA    5   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   von=77   voff=77
+BA    5   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    5   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    5   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    5   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    5   CR   2+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA    5   CR   2+95/96   TR  2   CH  3   NT  B           47/96   von=71   voff=71
+BA    5   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    5   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    5   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    5   CR   2+95/96   TR  7   CH  1   NT  B           47/96   voff=63
+BA    5   CR   3+47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA    5   CR   3+47/96   TR  3   CH  2   NT  D--       1+47/96   voff=63
+BA    5   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    5   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    5   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    5   CR   3+47/96   TR  7   CH  1   NT  A           47/96   voff=63
+BA    5   CR   3+95/96   TR  2   CH  3   NT  B           47/96   voff=70
+BA    5   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    5   CR   3+95/96   TR  7   CH  1   NT  B           47/96   voff=63
+
+BA    6   CR     47/96   TR  2   CH  3   NT  A           47/96   von=71   voff=71
+BA    6   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    6   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    6   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    6   CR     47/96   TR  7   CH  1   NT  A           47/96   voff=63
+BA    6   CR     95/96   TR  2   CH  3   NT  B           47/96   von=70   voff=70
+BA    6   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    6   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    6   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    6   CR     95/96   TR  7   CH  1   NT  B           47/96   voff=63
+BA    6   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=76   voff=76
+BA    6   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    6   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    6   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    6   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    6   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA    6   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    6   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   von=71   voff=71
+BA    6   CR   2+23/96   TR  4   CH 10   NT  D'          23/96   von=74   voff=74
+BA    6   CR   2+47/96   TR  2   CH  3   NT  F'          95/96   von=88   voff=88
+BA    6   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    6   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   von=71   voff=71
+BA    6   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    6   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    6   CR   2+47/96   TR  7   CH  1   NT  F'          95/96   voff=63
+BA    6   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    6   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   von=63   voff=63
+BA    6   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    6   CR   3+47/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA    6   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    6   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    6   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    6   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA    6   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA    7   CR     47/96   TR  1   CH  4   NT  A--         47/96   von=63   voff=63
+BA    7   CR     47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA    7   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    7   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    7   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    7   CR     95/96   TR  1   CH  4   NT  B--         35/96   von=71   voff=71
+BA    7   CR     95/96   TR  1   CH  4   NT  B-          35/96   voff=71
+BA    7   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    7   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    7   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    7   CR   1+47/96   TR  1   CH  4   NT  D           47/96   von=72   voff=72
+BA    7   CR   1+47/96   TR  1   CH  4   NT  D-          47/96   voff=72
+BA    7   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    7   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    7   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    7   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    7   CR   1+95/96   TR  1   CH  4   NT  F#-         47/96   von=78   voff=78
+BA    7   CR   1+95/96   TR  1   CH  4   NT  F#          47/96   voff=78
+BA    7   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    7   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    7   CR   2+47/96   TR  1   CH  4   NT  D-          47/96   von=72   voff=72
+BA    7   CR   2+47/96   TR  1   CH  4   NT  D           47/96   voff=72
+BA    7   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    7   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    7   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    7   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    7   CR   2+95/96   TR  1   CH  4   NT  B--         47/96   von=63   voff=63
+BA    7   CR   2+95/96   TR  1   CH  4   NT  B-          47/96   voff=63
+BA    7   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    7   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    7   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    7   CR   3+47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA    7   CR   3+47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA    7   CR   3+47/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA    7   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    7   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    7   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    7   CR   3+95/96   TR  1   CH  4   NT  B-          47/96   voff=63
+BA    7   CR   3+95/96   TR  1   CH  4   NT  B--         47/96   voff=63
+BA    7   CR   3+95/96   TR  3   CH  2   NT  G---        95/96   voff=63
+BA    7   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA    8   CR     47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA    8   CR     47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA    8   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    8   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    8   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    8   CR     95/96   TR  1   CH  4   NT  B--         47/96   voff=63
+BA    8   CR     95/96   TR  1   CH  4   NT  B-          47/96   voff=63
+BA    8   CR     95/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA    8   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    8   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    8   CR   1+47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA    8   CR   1+47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA    8   CR   1+47/96   TR  3   CH  2   NT  A---        95/96   voff=63
+BA    8   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    8   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    8   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    8   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    8   CR   2+47/96   TR  1   CH  4   NT  A--       1+23/96   voff=63
+BA    8   CR   2+47/96   TR  1   CH  4   NT  A-        1+23/96   voff=63
+BA    8   CR   2+47/96   TR  3   CH  2   NT  C--       1+47/96   voff=63
+BA    8   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    8   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    8   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    8   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    8   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    8   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    8   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    8   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    8   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA    8   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA    9   CR     47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA    9   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    9   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    9   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    9   CR     47/96   TR  7   CH  1   NT  A           47/96   von=70   voff=70
+BA    9   CR     95/96   TR  2   CH  3   NT  B           23/96   von=75   voff=75
+BA    9   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    9   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    9   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    9   CR     95/96   TR  7   CH  1   NT  B           47/96   voff=70
+BA    9   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=79   voff=79
+BA    9   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    9   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    9   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    9   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    9   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   von=71   voff=71
+BA    9   CR   1+95/96   TR  2   CH  3   NT  F#'         47/96   von=86   voff=86
+BA    9   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    9   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    9   CR   1+95/96   TR  7   CH  1   NT  F#'         47/96   voff=71
+BA    9   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   von=78   voff=78
+BA    9   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA    9   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA    9   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    9   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    9   CR   2+47/96   TR  7   CH  1   NT  D'          47/96   von=70   voff=70
+BA    9   CR   2+95/96   TR  2   CH  3   NT  B           47/96   von=71   voff=71
+BA    9   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA    9   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    9   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA    9   CR   2+95/96   TR  7   CH  1   NT  B           47/96   von=71   voff=71
+BA    9   CR   3+47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA    9   CR   3+47/96   TR  3   CH  2   NT  D--       1+47/96   voff=63
+BA    9   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    9   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA    9   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA    9   CR   3+47/96   TR  7   CH  1   NT  A           47/96   von=70   voff=70
+BA    9   CR   3+95/96   TR  2   CH  3   NT  B           47/96   voff=70
+BA    9   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA    9   CR   3+95/96   TR  7   CH  1   NT  B           47/96   voff=70
+
+BA   10   CR     47/96   TR  2   CH  3   NT  A           47/96   von=71   voff=71
+BA   10   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   10   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   10   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   10   CR     47/96   TR  7   CH  1   NT  A           47/96   von=71   voff=71
+BA   10   CR     95/96   TR  2   CH  3   NT  B           47/96   von=70   voff=70
+BA   10   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   10   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   10   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   10   CR     95/96   TR  7   CH  1   NT  B           47/96   von=70   voff=70
+BA   10   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=76   voff=76
+BA   10   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   10   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   10   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   10   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   10   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   von=76   voff=76
+BA   10   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   10   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   10   CR   2+47/96   TR  2   CH  3   NT  F#'         95/96   von=82   voff=82
+BA   10   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   10   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   10   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   10   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   10   CR   2+47/96   TR  7   CH  1   NT  F#'         95/96   von=63   voff=63
+BA   10   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   10   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   10   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   10   CR   3+47/96   TR  2   CH  3   NT  A'          47/96   von=70   voff=70
+BA   10   CR   3+47/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA   10   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   10   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   10   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   10   CR   3+47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   10   CR   3+95/96   TR  3   CH  2   NT  G--         95/96   voff=63
+BA   10   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   11   CR     47/96   TR  2   CH  3   NT  A'          47/96   voff=70
+BA   11   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   11   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   11   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   11   CR     47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   11   CR     95/96   TR  2   CH  3   NT  G'          47/96   voff=70
+BA   11   CR     95/96   TR  3   CH  2   NT  F#--        47/96   voff=63
+BA   11   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   11   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   11   CR     95/96   TR  7   CH  1   NT  G'          47/96   voff=63
+BA   11   CR   1+47/96   TR  2   CH  3   NT  A'          47/96   voff=70
+BA   11   CR   1+47/96   TR  3   CH  2   NT  E--         47/96   voff=63
+BA   11   CR   1+47/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   11   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   11   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   11   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   11   CR   1+47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   11   CR   1+95/96   TR  2   CH  3   NT  G'          47/96   voff=70
+BA   11   CR   1+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   11   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   11   CR   1+95/96   TR  7   CH  1   NT  G'          47/96   voff=63
+BA   11   CR   2+47/96   TR  2   CH  3   NT  F#'         47/96   voff=70
+BA   11   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   11   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   11   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   11   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   11   CR   2+47/96   TR  7   CH  1   NT  F#'         47/96   voff=63
+BA   11   CR   2+95/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   11   CR   2+95/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA   11   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   11   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   11   CR   2+95/96   TR  7   CH  1   NT  E'          47/96   voff=63
+BA   11   CR   3+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   11   CR   3+47/96   TR  3   CH  2   NT  E--         47/96   voff=63
+BA   11   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   11   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   11   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   11   CR   3+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   11   CR   3+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   11   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   12   CR     47/96   TR  4   CH 10   NT  F#'         23/96   von=64
+BA   12   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   von=63   voff=63
+BA   12   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   12   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   12   CR     95/96   TR  2   CH  3   NT  A'        2+71/96   von=43   voff=43
+BA   12   CR     95/96   TR  3   CH  2   NT  F--         47/96   voff=63
+BA   12   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   12   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   12   CR     95/96   TR  7   CH  1   NT  F'        2+23/96   von=43   voff=43
+BA   12   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   12   CR   1+47/96   TR  4   CH 10   NT  F#'         23/96   von=64
+BA   12   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   von=63   voff=63
+BA   12   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   12   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   12   CR   1+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   12   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   12   CR   2+47/96   TR  3   CH  2   NT  F--         95/96   voff=63
+BA   12   CR   2+47/96   TR  4   CH 10   NT  F#'         23/96   von=64
+BA   12   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   von=63   voff=63
+BA   12   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   12   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   12   CR   2+71/96   TR  4   CH 10   NT  D'          23/96   von=74   voff=74
+BA   12   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   von=63   voff=63
+BA   12   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   12   CR   3+47/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   12   CR   3+47/96   TR  4   CH 10   NT  F#'         23/96   von=64
+BA   12   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   von=63   voff=63
+BA   12   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   12   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   12   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA   12   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   13   CR     47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA   13   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   13   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   13   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   13   CR     47/96   TR  7   CH  1   NT  A           47/96   von=63   voff=63
+BA   13   CR     95/96   TR  2   CH  3   NT  B           23/96   von=76   voff=76
+BA   13   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   13   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   13   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   13   CR     95/96   TR  7   CH  1   NT  B           23/96   voff=63
+BA   13   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=82   voff=82
+BA   13   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   13   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   13   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   13   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   13   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   13   CR   1+95/96   TR  2   CH  3   NT  F#'         47/96   von=90   voff=90
+BA   13   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   13   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   13   CR   1+95/96   TR  7   CH  1   NT  F#'         47/96   voff=63
+BA   13   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   von=82   voff=82
+BA   13   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   13   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   13   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   13   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   13   CR   2+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   13   CR   2+95/96   TR  2   CH  3   NT  B           47/96   von=71   voff=71
+BA   13   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   13   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   13   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   13   CR   2+95/96   TR  7   CH  1   NT  B           47/96   voff=63
+BA   13   CR   3+47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA   13   CR   3+47/96   TR  3   CH  2   NT  D--       1+47/96   voff=63
+BA   13   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   13   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   13   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   13   CR   3+47/96   TR  7   CH  1   NT  A           47/96   voff=63
+BA   13   CR   3+95/96   TR  2   CH  3   NT  B           47/96   voff=70
+BA   13   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   13   CR   3+95/96   TR  7   CH  1   NT  B           47/96   voff=63
+
+BA   14   CR     47/96   TR  2   CH  3   NT  A           47/96   von=71   voff=71
+BA   14   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   14   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   14   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   14   CR     47/96   TR  7   CH  1   NT  A           47/96   voff=63
+BA   14   CR     95/96   TR  2   CH  3   NT  B           47/96   von=70   voff=70
+BA   14   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   14   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   14   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   14   CR     95/96   TR  7   CH  1   NT  B           47/96   voff=63
+BA   14   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=76   voff=76
+BA   14   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   14   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   14   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   14   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   14   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   14   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   14   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   14   CR   2+23/96   TR  4   CH 10   NT  D'          23/96   von=74   voff=74
+BA   14   CR   2+47/96   TR  2   CH  3   NT  F'          95/96   von=88   voff=88
+BA   14   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   14   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   von=63   voff=63
+BA   14   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   14   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   14   CR   2+47/96   TR  7   CH  1   NT  F'          95/96   voff=63
+BA   14   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   14   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   14   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   14   CR   3+47/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA   14   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   14   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   14   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   14   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA   14   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   15   CR     47/96   TR  1   CH  4   NT  A--         47/96   von=64
+BA   15   CR     47/96   TR  1   CH  4   NT  A-          47/96
+BA   15   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   15   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   15   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   15   CR     95/96   TR  1   CH  4   NT  B--         35/96   von=63   voff=63
+BA   15   CR     95/96   TR  1   CH  4   NT  B-          35/96   voff=63
+BA   15   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   15   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   15   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   15   CR   1+47/96   TR  1   CH  4   NT  D           47/96   von=70   voff=70
+BA   15   CR   1+47/96   TR  1   CH  4   NT  D-          47/96   voff=70
+BA   15   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   15   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   15   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   15   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   15   CR   1+95/96   TR  1   CH  4   NT  F#          47/96   von=77   voff=77
+BA   15   CR   1+95/96   TR  1   CH  4   NT  F#-         47/96   voff=77
+BA   15   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   15   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   15   CR   2+47/96   TR  1   CH  4   NT  D-          47/96   von=70   voff=70
+BA   15   CR   2+47/96   TR  1   CH  4   NT  D           47/96   voff=70
+BA   15   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   15   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   15   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   15   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   15   CR   2+95/96   TR  1   CH  4   NT  B--         47/96   von=63   voff=63
+BA   15   CR   2+95/96   TR  1   CH  4   NT  B-          47/96   voff=63
+BA   15   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   15   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   15   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   15   CR   3+47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA   15   CR   3+47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA   15   CR   3+47/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   15   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   15   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   15   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   15   CR   3+95/96   TR  1   CH  4   NT  B--         47/96   voff=63
+BA   15   CR   3+95/96   TR  1   CH  4   NT  B-          47/96   voff=63
+BA   15   CR   3+95/96   TR  3   CH  2   NT  G---        95/96   voff=63
+BA   15   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   16   CR     47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA   16   CR     47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA   16   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   16   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   16   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   16   CR     95/96   TR  1   CH  4   NT  B--         47/96   voff=63
+BA   16   CR     95/96   TR  1   CH  4   NT  B-          47/96   voff=63
+BA   16   CR     95/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA   16   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   16   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   16   CR   1+47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA   16   CR   1+47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA   16   CR   1+47/96   TR  3   CH  2   NT  A---        95/96   voff=63
+BA   16   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   16   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   16   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   16   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   16   CR   2+47/96   TR  1   CH  4   NT  A--       1+23/96   voff=63
+BA   16   CR   2+47/96   TR  1   CH  4   NT  A-        1+23/96   voff=63
+BA   16   CR   2+47/96   TR  3   CH  2   NT  C--       1+47/96   voff=63
+BA   16   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   16   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   16   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   16   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   16   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   16   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   16   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   16   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   16   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA   16   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   17   CR     47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA   17   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   17   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   17   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   17   CR     47/96   TR  7   CH  1   NT  A           47/96   von=70   voff=70
+BA   17   CR     95/96   TR  2   CH  3   NT  B           23/96   von=76   voff=76
+BA   17   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   17   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   17   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   17   CR     95/96   TR  7   CH  1   NT  B           47/96   von=63   voff=63
+BA   17   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=82   voff=82
+BA   17   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   17   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   17   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   17   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   17   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   von=71   voff=71
+BA   17   CR   1+95/96   TR  2   CH  3   NT  F#'         47/96   von=90   voff=90
+BA   17   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   17   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   17   CR   1+95/96   TR  7   CH  1   NT  F#'         47/96   voff=71
+BA   17   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   von=80   voff=80
+BA   17   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   17   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   17   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   17   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   17   CR   2+47/96   TR  7   CH  1   NT  D'          47/96   von=70   voff=70
+BA   17   CR   2+95/96   TR  2   CH  3   NT  B           47/96   von=71   voff=71
+BA   17   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   17   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   17   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   17   CR   2+95/96   TR  7   CH  1   NT  B           47/96   von=71   voff=71
+BA   17   CR   3+47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA   17   CR   3+47/96   TR  3   CH  2   NT  D--       1+47/96   voff=63
+BA   17   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   17   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   17   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   17   CR   3+47/96   TR  7   CH  1   NT  A           47/96   von=70   voff=70
+BA   17   CR   3+95/96   TR  2   CH  3   NT  B           47/96   voff=70
+BA   17   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   17   CR   3+95/96   TR  7   CH  1   NT  B           47/96   voff=70
+
+BA   18   CR     47/96   TR  2   CH  3   NT  A           47/96   von=71   voff=71
+BA   18   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   18   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   18   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   18   CR     47/96   TR  7   CH  1   NT  A           47/96   von=71   voff=71
+BA   18   CR     95/96   TR  2   CH  3   NT  B           47/96   von=70   voff=70
+BA   18   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   18   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   18   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   18   CR     95/96   TR  7   CH  1   NT  B           47/96   von=70   voff=70
+BA   18   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=76   voff=76
+BA   18   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   18   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   18   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   18   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   18   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   von=76   voff=76
+BA   18   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   18   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   18   CR   2+47/96   TR  2   CH  3   NT  F#'         95/96   von=84   voff=84
+BA   18   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   18   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   18   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   18   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   18   CR   2+47/96   TR  7   CH  1   NT  F#'         95/96   von=63   voff=63
+BA   18   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   18   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   18   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   18   CR   3+47/96   TR  2   CH  3   NT  A'          47/96   von=70   voff=70
+BA   18   CR   3+47/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA   18   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   18   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   18   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   18   CR   3+47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   18   CR   3+95/96   TR  3   CH  2   NT  G--         95/96   voff=63
+BA   18   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   19   CR     47/96   TR  2   CH  3   NT  A'          47/96   voff=70
+BA   19   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   19   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   19   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   19   CR     47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   19   CR     95/96   TR  2   CH  3   NT  G'          47/96   voff=70
+BA   19   CR     95/96   TR  3   CH  2   NT  F#--        47/96   voff=63
+BA   19   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   19   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   19   CR     95/96   TR  7   CH  1   NT  G'          47/96   voff=63
+BA   19   CR   1+47/96   TR  2   CH  3   NT  A'          47/96   voff=70
+BA   19   CR   1+47/96   TR  3   CH  2   NT  E--         47/96   voff=63
+BA   19   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   19   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   19   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   19   CR   1+47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   19   CR   1+95/96   TR  2   CH  3   NT  G'          47/96   voff=70
+BA   19   CR   1+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   19   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   19   CR   1+95/96   TR  7   CH  1   NT  G'          47/96   voff=63
+BA   19   CR   2+47/96   TR  2   CH  3   NT  F#'         47/96   voff=70
+BA   19   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   19   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   19   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   19   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   19   CR   2+47/96   TR  7   CH  1   NT  F#'         47/96   voff=63
+BA   19   CR   2+95/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   19   CR   2+95/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA   19   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   19   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   19   CR   2+95/96   TR  7   CH  1   NT  E'          47/96   voff=63
+BA   19   CR   3+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   19   CR   3+47/96   TR  3   CH  2   NT  E--         47/96   voff=63
+BA   19   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   19   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   19   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   19   CR   3+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   19   CR   3+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   19   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   20   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   20   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   20   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   20   CR     95/96   TR  2   CH  3   NT  D''       2+23/96   von=46   voff=46
+BA   20   CR     95/96   TR  3   CH  2   NT  F--         47/96   voff=63
+BA   20   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   20   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   20   CR     95/96   TR  7   CH  1   NT  F'        2+23/96   von=43   voff=43
+BA   20   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   20   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   20   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   20   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   20   CR   1+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   20   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   20   CR   2+47/96   TR  3   CH  2   NT  F--         95/96   voff=63
+BA   20   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   20   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   20   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   20   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   20   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   20   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   20   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   20   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   20   CR   3+95/96   TR  3   CH  2   NT  G---        95/96   voff=63
+BA   20   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   21   CR     47/96   TR  2   CH  3   NT  B           23/96   von=70   voff=70
+BA   21   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   21   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   21   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   21   CR     95/96   TR  2   CH  3   NT  D'          23/96   voff=70
+BA   21   CR     95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   21   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   21   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   21   CR   1+47/96   TR  2   CH  3   NT  B           23/96   voff=70
+BA   21   CR   1+47/96   TR  3   CH  2   NT  D---        47/96   voff=63
+BA   21   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   21   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   21   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   21   CR   1+95/96   TR  2   CH  3   NT  D'          23/96   voff=70
+BA   21   CR   1+95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   21   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   21   CR   2+47/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   21   CR   2+47/96   TR  3   CH  2   NT  D---        47/96   voff=63
+BA   21   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   21   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   21   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   21   CR   2+95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   21   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   21   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   21   CR   3+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   21   CR   3+47/96   TR  3   CH  2   NT  G---      1+47/96   voff=63
+BA   21   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   21   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   21   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   21   CR   3+95/96   TR  2   CH  3   NT  F'          47/96   voff=70
+BA   21   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   22   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   22   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   22   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   22   CR     95/96   TR  2   CH  3   NT  F'          47/96   voff=70
+BA   22   CR     95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   22   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   22   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   22   CR   1+47/96   TR  3   CH  2   NT  D---        47/96   voff=63
+BA   22   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   22   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   22   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   22   CR   1+95/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   22   CR   1+95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   22   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   22   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   22   CR   2+47/96   TR  3   CH  2   NT  D---        47/96   voff=63
+BA   22   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   22   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   22   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   22   CR   2+95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   22   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   22   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   22   CR   3+47/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA   22   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   22   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   22   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   22   CR   3+95/96   TR  2   CH  3   NT  F#          47/96   voff=70
+BA   22   CR   3+95/96   TR  2   CH  3   NT  F#'         47/96   voff=70
+BA   22   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA   22   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   23   CR     47/96   TR  2   CH  3   NT  G           47/96   voff=70
+BA   23   CR     47/96   TR  2   CH  3   NT  G'          47/96   voff=70
+BA   23   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   23   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   23   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   23   CR     95/96   TR  2   CH  3   NT  G#          47/96   voff=70
+BA   23   CR     95/96   TR  2   CH  3   NT  G#'         47/96   voff=70
+BA   23   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   23   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   23   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   23   CR   1+47/96   TR  2   CH  3   NT  A           47/96   voff=70
+BA   23   CR   1+47/96   TR  2   CH  3   NT  A'          47/96   voff=70
+BA   23   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   23   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   23   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   23   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   23   CR   1+95/96   TR  2   CH  3   NT  F#          47/96   voff=70
+BA   23   CR   1+95/96   TR  2   CH  3   NT  F#'         47/96   voff=70
+BA   23   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   23   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   23   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   23   CR   2+47/96   TR  2   CH  3   NT  D           47/96   voff=70
+BA   23   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   23   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   23   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   23   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   23   CR   2+95/96   TR  2   CH  3   NT  D''         47/96   voff=70
+BA   23   CR   2+95/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   23   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   23   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   23   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   23   CR   3+47/96   TR  2   CH  3   NT  C'        1+95/96   voff=70
+BA   23   CR   3+47/96   TR  2   CH  3   NT  C''       1+95/96   voff=70
+BA   23   CR   3+47/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   23   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   23   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   23   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   23   CR   3+95/96   TR  3   CH  2   NT  G---        95/96   voff=63
+BA   23   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   24   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   24   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   24   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   24   CR     95/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA   24   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   24   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   24   CR   1+47/96   TR  3   CH  2   NT  G#---       47/96   voff=63
+BA   24   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   24   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   24   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   24   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   24   CR   2+47/96   TR  3   CH  2   NT  A---        95/96   voff=63
+BA   24   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   24   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   24   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   24   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   24   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   24   CR   3+47/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   24   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   24   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   24   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   24   CR   3+95/96   TR  3   CH  2   NT  G---        95/96   voff=63
+BA   24   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   25   CR     47/96   TR  2   CH  3   NT  B           23/96   voff=70
+BA   25   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   25   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   25   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   25   CR     95/96   TR  2   CH  3   NT  D'          23/96   voff=70
+BA   25   CR     95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   25   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   25   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   25   CR   1+47/96   TR  2   CH  3   NT  B           23/96   voff=70
+BA   25   CR   1+47/96   TR  3   CH  2   NT  D---        47/96   voff=63
+BA   25   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   25   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   25   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   25   CR   1+95/96   TR  2   CH  3   NT  D'          23/96   voff=70
+BA   25   CR   1+95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   25   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   25   CR   2+47/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   25   CR   2+47/96   TR  3   CH  2   NT  D---        47/96   voff=63
+BA   25   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   25   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   25   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   25   CR   2+95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   25   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   25   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   25   CR   3+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   25   CR   3+47/96   TR  3   CH  2   NT  G---      1+47/96   voff=63
+BA   25   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   25   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   25   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   25   CR   3+95/96   TR  2   CH  3   NT  F'          47/96   voff=70
+BA   25   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   26   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   26   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   26   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   26   CR     95/96   TR  2   CH  3   NT  F'          47/96   voff=70
+BA   26   CR     95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   26   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   26   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   26   CR   1+47/96   TR  3   CH  2   NT  D---        47/96   voff=63
+BA   26   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   26   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   26   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   26   CR   1+95/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   26   CR   1+95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   26   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   26   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   26   CR   2+47/96   TR  3   CH  2   NT  D---        47/96   voff=63
+BA   26   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   26   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   26   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   26   CR   2+95/96   TR  3   CH  2   NT  F---        47/96   voff=63
+BA   26   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   26   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   26   CR   3+47/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA   26   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   26   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   26   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   26   CR   3+95/96   TR  2   CH  3   NT  E           47/96   voff=70
+BA   26   CR   3+95/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   26   CR   3+95/96   TR  3   CH  2   NT  A---        95/96   voff=63
+BA   26   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   27   CR     47/96   TR  2   CH  3   NT  A-          47/96   voff=70
+BA   27   CR     47/96   TR  2   CH  3   NT  A           47/96   voff=70
+BA   27   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   27   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   27   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   27   CR     95/96   TR  2   CH  3   NT  C#'         47/96   voff=70
+BA   27   CR     95/96   TR  2   CH  3   NT  C#          47/96   voff=70
+BA   27   CR     95/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA   27   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   27   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   27   CR   1+47/96   TR  2   CH  3   NT  E           47/96   voff=70
+BA   27   CR   1+47/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   27   CR   1+47/96   TR  3   CH  2   NT  E---        47/96   voff=63
+BA   27   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   27   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   27   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   27   CR   1+95/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA   27   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   27   CR   2+47/96   TR  2   CH  3   NT  A           47/96   voff=70
+BA   27   CR   2+47/96   TR  2   CH  3   NT  A-          47/96   voff=70
+BA   27   CR   2+47/96   TR  3   CH  2   NT  E---        47/96   voff=63
+BA   27   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   27   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   27   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   27   CR   2+95/96   TR  2   CH  3   NT  C#          47/96   voff=70
+BA   27   CR   2+95/96   TR  2   CH  3   NT  C#'         47/96   voff=70
+BA   27   CR   2+95/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA   27   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   27   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   27   CR   3+47/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   27   CR   3+47/96   TR  2   CH  3   NT  E           47/96   voff=70
+BA   27   CR   3+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   27   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   27   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   27   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   27   CR   3+95/96   TR  2   CH  3   NT  F           47/96   voff=70
+BA   27   CR   3+95/96   TR  2   CH  3   NT  F'          47/96   voff=70
+BA   27   CR   3+95/96   TR  3   CH  2   NT  A---        95/96   voff=63
+BA   27   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   28   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   28   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   28   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   28   CR     95/96   TR  2   CH  3   NT  E         1+23/96   voff=70
+BA   28   CR     95/96   TR  2   CH  3   NT  E'        1+23/96   voff=70
+BA   28   CR     95/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   28   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   28   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   28   CR   1+47/96   TR  3   CH  2   NT  B---        47/96   voff=63
+BA   28   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   28   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   28   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   28   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   28   CR   2+47/96   TR  2   CH  3   NT  F'          47/96   voff=70
+BA   28   CR   2+47/96   TR  2   CH  3   NT  F           47/96   voff=70
+BA   28   CR   2+47/96   TR  3   CH  2   NT  C#--        95/96   voff=63
+BA   28   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   28   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   28   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   28   CR   2+95/96   TR  2   CH  3   NT  E           47/96   voff=70
+BA   28   CR   2+95/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   28   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   28   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   28   CR   3+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   28   CR   3+47/96   TR  2   CH  3   NT  D           47/96   voff=70
+BA   28   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   28   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   28   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   28   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA   28   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   29   CR     47/96   TR  2   CH  3   NT  A           47/96   voff=70
+BA   29   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   29   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   29   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   29   CR     47/96   TR  7   CH  1   NT  A           47/96   von=63   voff=63
+BA   29   CR     95/96   TR  2   CH  3   NT  B           23/96   von=76   voff=76
+BA   29   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   29   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   29   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   29   CR     95/96   TR  7   CH  1   NT  B           23/96   voff=63
+BA   29   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=82   voff=82
+BA   29   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   29   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   29   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   29   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   29   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   29   CR   1+95/96   TR  2   CH  3   NT  F#'         47/96   von=90   voff=90
+BA   29   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   29   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   29   CR   1+95/96   TR  7   CH  1   NT  F#'         47/96   voff=63
+BA   29   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   von=82   voff=82
+BA   29   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   29   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   29   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   29   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   29   CR   2+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   29   CR   2+95/96   TR  2   CH  3   NT  B           47/96   von=71   voff=71
+BA   29   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   29   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   29   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   29   CR   2+95/96   TR  7   CH  1   NT  B           47/96   voff=63
+BA   29   CR   3+47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA   29   CR   3+47/96   TR  3   CH  2   NT  D--       1+47/96   voff=63
+BA   29   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   29   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   29   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   29   CR   3+47/96   TR  7   CH  1   NT  A           47/96   voff=63
+BA   29   CR   3+95/96   TR  2   CH  3   NT  B           47/96   voff=70
+BA   29   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   29   CR   3+95/96   TR  7   CH  1   NT  B           47/96   voff=63
+
+BA   30   CR     47/96   TR  2   CH  3   NT  A           47/96   von=71   voff=71
+BA   30   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   30   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   30   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   30   CR     47/96   TR  7   CH  1   NT  A           47/96   voff=63
+BA   30   CR     95/96   TR  2   CH  3   NT  B           47/96   von=70   voff=70
+BA   30   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   30   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   30   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   30   CR     95/96   TR  7   CH  1   NT  B           47/96   voff=63
+BA   30   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=76   voff=76
+BA   30   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   30   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   30   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   30   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   30   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   30   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   30   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   30   CR   2+47/96   TR  2   CH  3   NT  F'          95/96   von=88   voff=88
+BA   30   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   30   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   30   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   30   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   30   CR   2+47/96   TR  7   CH  1   NT  F'          95/96   voff=63
+BA   30   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   30   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   30   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   30   CR   3+47/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA   30   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   30   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   30   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   30   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA   30   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   31   CR     47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA   31   CR     47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA   31   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   31   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   31   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   31   CR     95/96   TR  1   CH  4   NT  B--         35/96   voff=63
+BA   31   CR     95/96   TR  1   CH  4   NT  B-          35/96   voff=63
+BA   31   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   31   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   31   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   31   CR   1+47/96   TR  1   CH  4   NT  D           47/96   von=73   voff=73
+BA   31   CR   1+47/96   TR  1   CH  4   NT  D-          47/96   voff=73
+BA   31   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   31   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   31   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   31   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   31   CR   1+95/96   TR  1   CH  4   NT  F#-         47/96   von=78   voff=78
+BA   31   CR   1+95/96   TR  1   CH  4   NT  F#          47/96   voff=78
+BA   31   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   31   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   31   CR   2+47/96   TR  1   CH  4   NT  D-          47/96   von=72   voff=72
+BA   31   CR   2+47/96   TR  1   CH  4   NT  D           47/96   voff=72
+BA   31   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   31   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   31   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   31   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   31   CR   2+95/96   TR  1   CH  4   NT  B--         47/96   von=63   voff=63
+BA   31   CR   2+95/96   TR  1   CH  4   NT  B-          47/96   voff=63
+BA   31   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   31   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   31   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   31   CR   3+47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA   31   CR   3+47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA   31   CR   3+47/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   31   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   31   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   31   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   31   CR   3+95/96   TR  1   CH  4   NT  B-          35/96   voff=63
+BA   31   CR   3+95/96   TR  1   CH  4   NT  B--         35/96   voff=63
+BA   31   CR   3+95/96   TR  3   CH  2   NT  G---        95/96   voff=63
+BA   31   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   32   CR     47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA   32   CR     47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA   32   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   32   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   32   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   32   CR     95/96   TR  1   CH  4   NT  B--         47/96   voff=63
+BA   32   CR     95/96   TR  1   CH  4   NT  B-          47/96   voff=63
+BA   32   CR     95/96   TR  3   CH  2   NT  G---        47/96   voff=63
+BA   32   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   32   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   32   CR   1+47/96   TR  1   CH  4   NT  A--         47/96   voff=63
+BA   32   CR   1+47/96   TR  1   CH  4   NT  A-          47/96   voff=63
+BA   32   CR   1+47/96   TR  3   CH  2   NT  A---        95/96   voff=63
+BA   32   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   32   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   32   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   32   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   32   CR   2+47/96   TR  1   CH  4   NT  A--         95/96   voff=63
+BA   32   CR   2+47/96   TR  1   CH  4   NT  A-          95/96   voff=63
+BA   32   CR   2+47/96   TR  3   CH  2   NT  C--       1+47/96   voff=63
+BA   32   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   32   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   32   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   32   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   32   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   32   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   32   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   32   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   32   CR   3+95/96   TR  3   CH  2   NT  D--         95/96   voff=63
+BA   32   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   33   CR     47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA   33   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   33   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   33   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   33   CR     47/96   TR  7   CH  1   NT  A           47/96   von=70   voff=70
+BA   33   CR     95/96   TR  2   CH  3   NT  B           23/96   von=76   voff=76
+BA   33   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   33   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   33   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   33   CR     95/96   TR  7   CH  1   NT  B           47/96   von=63   voff=63
+BA   33   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=82   voff=82
+BA   33   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   33   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   33   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   33   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   33   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   von=71   voff=71
+BA   33   CR   1+95/96   TR  2   CH  3   NT  F#'         47/96   von=90   voff=90
+BA   33   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   33   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   33   CR   1+95/96   TR  7   CH  1   NT  F#'         47/96   voff=71
+BA   33   CR   2+47/96   TR  2   CH  3   NT  D'          47/96   von=80   voff=80
+BA   33   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   33   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   33   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   33   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   33   CR   2+47/96   TR  7   CH  1   NT  D'          47/96   von=70   voff=70
+BA   33   CR   2+95/96   TR  2   CH  3   NT  B           47/96   von=71   voff=71
+BA   33   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   33   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   33   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   33   CR   2+95/96   TR  7   CH  1   NT  B           47/96   von=71   voff=71
+BA   33   CR   3+47/96   TR  2   CH  3   NT  A           47/96   von=70   voff=70
+BA   33   CR   3+47/96   TR  3   CH  2   NT  D--       1+47/96   voff=63
+BA   33   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   33   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   33   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   33   CR   3+47/96   TR  7   CH  1   NT  A           47/96   von=70   voff=70
+BA   33   CR   3+95/96   TR  2   CH  3   NT  B           47/96   voff=70
+BA   33   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   33   CR   3+95/96   TR  7   CH  1   NT  B           47/96   voff=70
+
+BA   34   CR     47/96   TR  2   CH  3   NT  A           47/96   von=71   voff=71
+BA   34   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   34   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   34   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   34   CR     47/96   TR  7   CH  1   NT  A           47/96   von=71   voff=71
+BA   34   CR     95/96   TR  2   CH  3   NT  B           47/96   von=70   voff=70
+BA   34   CR     95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   34   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   34   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   34   CR     95/96   TR  7   CH  1   NT  B           47/96   von=70   voff=70
+BA   34   CR   1+47/96   TR  2   CH  3   NT  D'          47/96   von=76   voff=76
+BA   34   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   34   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   34   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   34   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   34   CR   1+47/96   TR  7   CH  1   NT  D'          47/96   von=76   voff=76
+BA   34   CR   1+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   34   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   34   CR   2+47/96   TR  2   CH  3   NT  F#'         95/96   von=78   voff=78
+BA   34   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   34   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   34   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   34   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   34   CR   2+47/96   TR  7   CH  1   NT  F#'         95/96   von=63   voff=63
+BA   34   CR   2+95/96   TR  3   CH  2   NT  C--         47/96   voff=63
+BA   34   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   34   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   34   CR   3+47/96   TR  2   CH  3   NT  A'          47/96   von=70   voff=70
+BA   34   CR   3+47/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA   34   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   34   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   34   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   34   CR   3+47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   34   CR   3+95/96   TR  3   CH  2   NT  G--         95/96   voff=63
+BA   34   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   35   CR     47/96   TR  2   CH  3   NT  A'          47/96   voff=70
+BA   35   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   35   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   35   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   35   CR     47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   35   CR     95/96   TR  2   CH  3   NT  G'          47/96   voff=70
+BA   35   CR     95/96   TR  3   CH  2   NT  F#--        47/96   voff=63
+BA   35   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   35   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   35   CR     95/96   TR  7   CH  1   NT  G'          47/96   voff=63
+BA   35   CR   1+47/96   TR  2   CH  3   NT  A'          47/96   voff=70
+BA   35   CR   1+47/96   TR  3   CH  2   NT  E--         47/96   voff=63
+BA   35   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   35   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   35   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   35   CR   1+47/96   TR  7   CH  1   NT  A'          47/96   voff=63
+BA   35   CR   1+95/96   TR  2   CH  3   NT  G'          47/96   voff=70
+BA   35   CR   1+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   35   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   35   CR   1+95/96   TR  7   CH  1   NT  G'          47/96   voff=63
+BA   35   CR   2+47/96   TR  2   CH  3   NT  F#'         47/96   voff=70
+BA   35   CR   2+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   35   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   35   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   35   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   35   CR   2+47/96   TR  7   CH  1   NT  F#'         47/96   voff=63
+BA   35   CR   2+95/96   TR  2   CH  3   NT  E'          47/96   voff=70
+BA   35   CR   2+95/96   TR  3   CH  2   NT  C#--        47/96   voff=63
+BA   35   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   35   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   35   CR   2+95/96   TR  7   CH  1   NT  E'          47/96   voff=63
+BA   35   CR   3+47/96   TR  2   CH  3   NT  D'          47/96   voff=70
+BA   35   CR   3+47/96   TR  3   CH  2   NT  E--         47/96   voff=63
+BA   35   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   35   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   35   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   35   CR   3+47/96   TR  7   CH  1   NT  D'          47/96   voff=63
+BA   35   CR   3+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   35   CR   3+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+
+BA   36   CR     47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   36   CR     47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   36   CR     47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   36   CR     95/96   TR  2   CH  3   NT  D''       2+23/96   von=46   voff=46
+BA   36   CR     95/96   TR  3   CH  2   NT  F--         47/96   voff=63
+BA   36   CR     95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   36   CR     95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   36   CR     95/96   TR  7   CH  1   NT  F'        2+23/96   von=43   voff=43
+BA   36   CR   1+47/96   TR  3   CH  2   NT  A---        47/96   voff=63
+BA   36   CR   1+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   36   CR   1+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   36   CR   1+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   36   CR   1+95/96   TR  3   CH  2   NT  D--         47/96   voff=63
+BA   36   CR   1+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   36   CR   2+47/96   TR  3   CH  2   NT  F--         95/96   voff=63
+BA   36   CR   2+47/96   TR  4   CH 10   NT  Bb--        23/96   voff=63
+BA   36   CR   2+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   36   CR   2+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   36   CR   2+95/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   36   CR   2+95/96   TR  4   CH 10   NT  E--         23/96   voff=63
+BA   36   CR   3+47/96   TR  4   CH 10   NT  G#--        23/96   voff=63
+BA   36   CR   3+47/96   TR  6   CH  5   NT  C'          23/96   voff=63
+BA   36   CR   3+47/96   TR  6   CH  5   NT  F#'         23/96   voff=63
+BA   36   CR   3+95/96   TR  1   CH  4   ST &B3 &79 &00
+BA   36   CR   3+95/96   TR  2   CH  3   ST &B2 &79 &00
+BA   36   CR   3+95/96   TR  3   CH  2   ST &B1 &79 &00
+BA   36   CR   3+95/96   TR  4   CH 10   ST &B9 &79 &00
+BA   36   CR   3+95/96   TR  5   CH  6   ST &B5 &79 &00
+BA   36   CR   3+95/96   TR  6   CH  5   ST &B4 &79 &00
+BA   36   CR   3+95/96   TR  7   CH  1   ST &B0 &79 &00
+
+BA   37   CR         0   TR  1   CH  4   ST &B3 &65 &00
+BA   37   CR         0   TR  1   CH  4   ST &B3 &64 &00
+BA   37   CR         0   TR  1   CH  4   ST &B3 &06 &0C
+BA   37   CR         0   TR  1   CH  4   ST &B3 &0A &2F
+BA   37   CR         0   TR  1   CH  4   Channel volume 127
+BA   37   CR         0   TR  1   CH  4   ST &E3 &00 &40
+BA   37   CR         0   TR  1   CH  4   Instrument 67
+BA   37   CR         0   TR  1   CH 16   End of track
+BA   37   CR         0   TR  2   CH  3   ST &B2 &65 &00
+BA   37   CR         0   TR  2   CH  3   ST &B2 &64 &00
+BA   37   CR         0   TR  2   CH  3   ST &B2 &06 &0C
+BA   37   CR         0   TR  2   CH  3   ST &B2 &0A &52
+BA   37   CR         0   TR  2   CH  3   Channel volume 100
+BA   37   CR         0   TR  2   CH  3   ST &E2 &00 &40
+BA   37   CR         0   TR  2   CH  3   Instrument 57
+BA   37   CR         0   TR  2   CH  3   ST &B2 &01 &00
+BA   37   CR         0   TR  2   CH 16   End of track
+BA   37   CR         0   TR  3   CH  2   ST &B1 &65 &00
+BA   37   CR         0   TR  3   CH  2   ST &B1 &64 &00
+BA   37   CR         0   TR  3   CH  2   ST &B1 &06 &0C
+BA   37   CR         0   TR  3   CH  2   ST &B1 &0A &40
+BA   37   CR         0   TR  3   CH  2   Channel volume 100
+BA   37   CR         0   TR  3   CH  2   ST &E1 &00 &40
+BA   37   CR         0   TR  3   CH  2   Instrument 40
+BA   37   CR         0   TR  3   CH 16   End of track
+BA   37   CR         0   TR  4   CH 10   ST &B9 &65 &00
+BA   37   CR         0   TR  4   CH 10   ST &B9 &64 &00
+BA   37   CR         0   TR  4   CH 10   ST &B9 &06 &0C
+BA   37   CR         0   TR  4   CH 10   ST &B9 &0A &40
+BA   37   CR         0   TR  4   CH 10   Channel volume 100
+BA   37   CR         0   TR  4   CH 10   ST &E9 &00 &40
+BA   37   CR         0   TR  4   CH 16   End of track
+BA   37   CR         0   TR  5   CH  6   ST &B5 &65 &00
+BA   37   CR         0   TR  5   CH  6   ST &B5 &64 &00
+BA   37   CR         0   TR  5   CH  6   ST &B5 &06 &0C
+BA   37   CR         0   TR  5   CH  6   ST &B5 &0A &40
+BA   37   CR         0   TR  5   CH  6   Channel volume 127
+BA   37   CR         0   TR  5   CH  6   ST &E5 &00 &40
+BA   37   CR         0   TR  5   CH  6   Instrument 28
+BA   37   CR         0   TR  5   CH 16   End of track
+BA   37   CR         0   TR  6   CH  5   ST &B4 &65 &00
+BA   37   CR         0   TR  6   CH  5   ST &B4 &64 &00
+BA   37   CR         0   TR  6   CH  5   ST &B4 &06 &0C
+BA   37   CR         0   TR  6   CH  5   ST &B4 &0A &40
+BA   37   CR         0   TR  6   CH  5   Channel volume 68
+BA   37   CR         0   TR  6   CH  5   ST &E4 &00 &40
+BA   37   CR         0   TR  6   CH  5   Instrument 23
+BA   37   CR         0   TR  6   CH 16   End of track
+BA   37   CR         0   TR  7   CH  1   ST &B0 &65 &00
+BA   37   CR         0   TR  7   CH  1   ST &B0 &64 &00
+BA   37   CR         0   TR  7   CH  1   ST &B0 &06 &0C
+BA   37   CR         0   TR  7   CH  1   ST &B0 &0A &55
+BA   37   CR         0   TR  7   CH  1   Channel volume 109
+BA   37   CR         0   TR  7   CH  1   ST &E0 &00 &40
+BA   37   CR         0   TR  7   CH  1   Instrument 17
+BA   37   CR         0   TR  7   CH 16   End of track

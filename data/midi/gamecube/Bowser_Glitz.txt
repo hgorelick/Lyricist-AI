@@ -1,0 +1,2728 @@
+
+BA    1   CR         0   TR  0   CH 16   Tempo 100
+BA    1   CR         0   TR  0   CH 16   Text type 3: ""
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 9, crotchets/32ndnote 39
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Piste 1"
+BA    1   CR         0   TR  1   CH  2   ST &B1 &64 &00
+BA    1   CR         0   TR  1   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  1   CH  2   ST &B1 &06 &0C
+BA    1   CR         0   TR  1   CH  2   ST &E1 &00 &40
+BA    1   CR         0   TR  1   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  1   CH  2   ST &B1 &64 &01
+BA    1   CR         0   TR  1   CH  2   ST &B1 &06 &40
+BA    1   CR         0   TR  1   CH  2   ST &B1 &26 &00
+BA    1   CR         0   TR  1   CH  2   ST &B1 &65 &7F
+BA    1   CR         0   TR  1   CH  2   ST &B1 &64 &7F
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &01
+BA    1   CR         0   TR  1   CH  1   ST &B0 &06 &40
+BA    1   CR         0   TR  1   CH  1   ST &B0 &26 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &7F
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &7F
+BA    1   CR         0   TR  1   CH  2   ST &B1 &65 &00
+BA    1   CR         0   TR  1   CH  2   ST &B1 &64 &02
+BA    1   CR         0   TR  1   CH  2   ST &B1 &06 &40
+BA    1   CR         0   TR  1   CH  2   ST &B1 &65 &7F
+BA    1   CR         0   TR  1   CH  2   ST &B1 &64 &7F
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &02
+BA    1   CR         0   TR  1   CH  1   ST &B0 &06 &40
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &7F
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &7F
+BA    1   CR         0   TR  1   CH  2   Instrument 86
+BA    1   CR         0   TR  1   CH  1   Instrument 86
+BA    1   CR         0   TR  1   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  2   Channel volume 80
+BA    1   CR         0   TR  1   CH  1   Channel volume 80
+BA    1   CR         0   TR  1   CH  2   ST &B1 &0A &30
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &30
+BA    1   CR         0   TR  1   CH  2   ST &B1 &5D &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5D &00
+BA    1   CR         0   TR  1   CH  2   ST &B1 &5B &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5B &00
+BA    1   CR         0   TR  1   CH  2   ST &B1 &5C &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5C &00
+BA    1   CR         0   TR  1   CH  2   ST &B1 &5F &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5F &00
+BA    1   CR         0   TR  1   CH  1   NT  Bb            1/2   von=95   voff=80
+BA    1   CR         0   TR  1   CH  1   NT  F             1/2   voff=80
+BA    1   CR         0   TR  1   CH  1   NT  Bb-           1/2   voff=80
+BA    1   CR         0   TR  1   CH  1   NT  F-            1/2   voff=80
+BA    1   CR         0   TR  1   CH  1   NT  Bb--          1/2   voff=80
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Piste 2"
+BA    1   CR         0   TR  2   CH  4   ST &B3 &64 &00
+BA    1   CR         0   TR  2   CH  4   ST &B3 &65 &00
+BA    1   CR         0   TR  2   CH  4   ST &B3 &06 &0C
+BA    1   CR         0   TR  2   CH  4   ST &E3 &00 &40
+BA    1   CR         0   TR  2   CH  4   ST &B3 &65 &00
+BA    1   CR         0   TR  2   CH  4   ST &B3 &64 &01
+BA    1   CR         0   TR  2   CH  4   ST &B3 &06 &40
+BA    1   CR         0   TR  2   CH  4   ST &B3 &26 &00
+BA    1   CR         0   TR  2   CH  4   ST &B3 &65 &7F
+BA    1   CR         0   TR  2   CH  4   ST &B3 &64 &7F
+BA    1   CR         0   TR  2   CH  3   ST &B2 &64 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &06 &0C
+BA    1   CR         0   TR  2   CH  3   ST &E2 &00 &40
+BA    1   CR         0   TR  2   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &64 &01
+BA    1   CR         0   TR  2   CH  3   ST &B2 &06 &40
+BA    1   CR         0   TR  2   CH  3   ST &B2 &26 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &65 &7F
+BA    1   CR         0   TR  2   CH  3   ST &B2 &64 &7F
+BA    1   CR         0   TR  2   CH  4   ST &B3 &65 &00
+BA    1   CR         0   TR  2   CH  4   ST &B3 &64 &02
+BA    1   CR         0   TR  2   CH  4   ST &B3 &06 &40
+BA    1   CR         0   TR  2   CH  4   ST &B3 &65 &7F
+BA    1   CR         0   TR  2   CH  4   ST &B3 &64 &7F
+BA    1   CR         0   TR  2   CH  3   ST &B2 &65 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &64 &02
+BA    1   CR         0   TR  2   CH  3   ST &B2 &06 &40
+BA    1   CR         0   TR  2   CH  3   ST &B2 &65 &7F
+BA    1   CR         0   TR  2   CH  3   ST &B2 &64 &7F
+BA    1   CR         0   TR  2   CH  4   Instrument 49
+BA    1   CR         0   TR  2   CH  3   Instrument 49
+BA    1   CR         0   TR  2   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &00 &00
+BA    1   CR         0   TR  2   CH  4   Channel volume 88
+BA    1   CR         0   TR  2   CH  3   Channel volume 88
+BA    1   CR         0   TR  2   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  2   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  2   CH  4   ST &B3 &5D &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &5D &00
+BA    1   CR         0   TR  2   CH  4   ST &B3 &5B &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &5B &00
+BA    1   CR         0   TR  2   CH  4   ST &B3 &5C &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &5C &00
+BA    1   CR         0   TR  2   CH  4   ST &B3 &5F &00
+BA    1   CR         0   TR  2   CH  3   ST &B2 &5F &00
+BA    1   CR         0   TR  2   CH  3   Instrument 49
+BA    1   CR         0   TR  2   CH  4   Instrument 49
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Piste 3"
+BA    1   CR         0   TR  3   CH  6   ST &B5 &64 &00
+BA    1   CR         0   TR  3   CH  6   ST &B5 &65 &00
+BA    1   CR         0   TR  3   CH  6   ST &B5 &06 &0C
+BA    1   CR         0   TR  3   CH  6   ST &E5 &00 &40
+BA    1   CR         0   TR  3   CH  6   ST &B5 &65 &00
+BA    1   CR         0   TR  3   CH  6   ST &B5 &64 &01
+BA    1   CR         0   TR  3   CH  6   ST &B5 &06 &40
+BA    1   CR         0   TR  3   CH  6   ST &B5 &26 &00
+BA    1   CR         0   TR  3   CH  6   ST &B5 &65 &7F
+BA    1   CR         0   TR  3   CH  6   ST &B5 &64 &7F
+BA    1   CR         0   TR  3   CH  5   ST &B4 &64 &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &06 &0C
+BA    1   CR         0   TR  3   CH  5   ST &E4 &00 &40
+BA    1   CR         0   TR  3   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &64 &01
+BA    1   CR         0   TR  3   CH  5   ST &B4 &06 &40
+BA    1   CR         0   TR  3   CH  5   ST &B4 &26 &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &65 &7F
+BA    1   CR         0   TR  3   CH  5   ST &B4 &64 &7F
+BA    1   CR         0   TR  3   CH  6   ST &B5 &65 &00
+BA    1   CR         0   TR  3   CH  6   ST &B5 &64 &02
+BA    1   CR         0   TR  3   CH  6   ST &B5 &06 &40
+BA    1   CR         0   TR  3   CH  6   ST &B5 &65 &7F
+BA    1   CR         0   TR  3   CH  6   ST &B5 &64 &7F
+BA    1   CR         0   TR  3   CH  5   ST &B4 &65 &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &64 &02
+BA    1   CR         0   TR  3   CH  5   ST &B4 &06 &40
+BA    1   CR         0   TR  3   CH  5   ST &B4 &65 &7F
+BA    1   CR         0   TR  3   CH  5   ST &B4 &64 &7F
+BA    1   CR         0   TR  3   CH  6   Instrument 56
+BA    1   CR         0   TR  3   CH  5   Instrument 56
+BA    1   CR         0   TR  3   CH  6   ST &B5 &00 &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &00 &00
+BA    1   CR         0   TR  3   CH  6   Channel volume 127
+BA    1   CR         0   TR  3   CH  5   Channel volume 127
+BA    1   CR         0   TR  3   CH  6   ST &B5 &0A &50
+BA    1   CR         0   TR  3   CH  5   ST &B4 &0A &50
+BA    1   CR         0   TR  3   CH  6   ST &B5 &5D &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &5D &00
+BA    1   CR         0   TR  3   CH  6   ST &B5 &5B &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &5B &00
+BA    1   CR         0   TR  3   CH  6   ST &B5 &5C &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &5C &00
+BA    1   CR         0   TR  3   CH  6   ST &B5 &5F &00
+BA    1   CR         0   TR  3   CH  5   ST &B4 &5F &00
+BA    1   CR         0   TR  3   CH  5   Channel volume 127
+BA    1   CR         0   TR  3   CH  6   Channel volume 127
+BA    1   CR         0   TR  3   CH  5   NT  Bb-           1/2   von=95   voff=80
+BA    1   CR         0   TR  3   CH  5   NT  Bb--          1/2   voff=80
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Piste 4"
+BA    1   CR         0   TR  4   CH  8   ST &B7 &64 &00
+BA    1   CR         0   TR  4   CH  8   ST &B7 &65 &00
+BA    1   CR         0   TR  4   CH  8   ST &B7 &06 &0C
+BA    1   CR         0   TR  4   CH  8   ST &E7 &00 &40
+BA    1   CR         0   TR  4   CH  8   ST &B7 &65 &00
+BA    1   CR         0   TR  4   CH  8   ST &B7 &64 &01
+BA    1   CR         0   TR  4   CH  8   ST &B7 &06 &40
+BA    1   CR         0   TR  4   CH  8   ST &B7 &26 &00
+BA    1   CR         0   TR  4   CH  8   ST &B7 &65 &7F
+BA    1   CR         0   TR  4   CH  8   ST &B7 &64 &7F
+BA    1   CR         0   TR  4   CH  7   ST &B6 &64 &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &65 &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &06 &0C
+BA    1   CR         0   TR  4   CH  7   ST &E6 &00 &40
+BA    1   CR         0   TR  4   CH  7   ST &B6 &65 &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &64 &01
+BA    1   CR         0   TR  4   CH  7   ST &B6 &06 &40
+BA    1   CR         0   TR  4   CH  7   ST &B6 &26 &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &65 &7F
+BA    1   CR         0   TR  4   CH  7   ST &B6 &64 &7F
+BA    1   CR         0   TR  4   CH  8   ST &B7 &65 &00
+BA    1   CR         0   TR  4   CH  8   ST &B7 &64 &02
+BA    1   CR         0   TR  4   CH  8   ST &B7 &06 &40
+BA    1   CR         0   TR  4   CH  8   ST &B7 &65 &7F
+BA    1   CR         0   TR  4   CH  8   ST &B7 &64 &7F
+BA    1   CR         0   TR  4   CH  7   ST &B6 &65 &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &64 &02
+BA    1   CR         0   TR  4   CH  7   ST &B6 &06 &40
+BA    1   CR         0   TR  4   CH  7   ST &B6 &65 &7F
+BA    1   CR         0   TR  4   CH  7   ST &B6 &64 &7F
+BA    1   CR         0   TR  4   CH  8   Instrument 88
+BA    1   CR         0   TR  4   CH  7   Instrument 88
+BA    1   CR         0   TR  4   CH  8   ST &B7 &00 &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &00 &00
+BA    1   CR         0   TR  4   CH  8   Channel volume 88
+BA    1   CR         0   TR  4   CH  7   Channel volume 88
+BA    1   CR         0   TR  4   CH  8   ST &B7 &0A &30
+BA    1   CR         0   TR  4   CH  7   ST &B6 &0A &30
+BA    1   CR         0   TR  4   CH  8   ST &B7 &5D &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &5D &00
+BA    1   CR         0   TR  4   CH  8   ST &B7 &5B &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &5B &00
+BA    1   CR         0   TR  4   CH  8   ST &B7 &5C &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &5C &00
+BA    1   CR         0   TR  4   CH  8   ST &B7 &5F &00
+BA    1   CR         0   TR  4   CH  7   ST &B6 &5F &00
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Piste 5"
+BA    1   CR         0   TR  5   CH 11   ST &BA &64 &00
+BA    1   CR         0   TR  5   CH 11   ST &BA &65 &00
+BA    1   CR         0   TR  5   CH 11   ST &BA &06 &0C
+BA    1   CR         0   TR  5   CH 11   ST &EA &00 &40
+BA    1   CR         0   TR  5   CH 11   ST &BA &65 &00
+BA    1   CR         0   TR  5   CH 11   ST &BA &64 &01
+BA    1   CR         0   TR  5   CH 11   ST &BA &06 &40
+BA    1   CR         0   TR  5   CH 11   ST &BA &26 &00
+BA    1   CR         0   TR  5   CH 11   ST &BA &65 &7F
+BA    1   CR         0   TR  5   CH 11   ST &BA &64 &7F
+BA    1   CR         0   TR  5   CH  9   ST &B8 &64 &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &65 &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &06 &0C
+BA    1   CR         0   TR  5   CH  9   ST &E8 &00 &40
+BA    1   CR         0   TR  5   CH  9   ST &B8 &65 &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &64 &01
+BA    1   CR         0   TR  5   CH  9   ST &B8 &06 &40
+BA    1   CR         0   TR  5   CH  9   ST &B8 &26 &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &65 &7F
+BA    1   CR         0   TR  5   CH  9   ST &B8 &64 &7F
+BA    1   CR         0   TR  5   CH 11   ST &BA &65 &00
+BA    1   CR         0   TR  5   CH 11   ST &BA &64 &02
+BA    1   CR         0   TR  5   CH 11   ST &BA &06 &40
+BA    1   CR         0   TR  5   CH 11   ST &BA &65 &7F
+BA    1   CR         0   TR  5   CH 11   ST &BA &64 &7F
+BA    1   CR         0   TR  5   CH  9   ST &B8 &65 &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &64 &02
+BA    1   CR         0   TR  5   CH  9   ST &B8 &06 &40
+BA    1   CR         0   TR  5   CH  9   ST &B8 &65 &7F
+BA    1   CR         0   TR  5   CH  9   ST &B8 &64 &7F
+BA    1   CR         0   TR  5   CH 11   Instrument 114
+BA    1   CR         0   TR  5   CH  9   Instrument 114
+BA    1   CR         0   TR  5   CH 11   ST &BA &00 &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &00 &00
+BA    1   CR         0   TR  5   CH 11   Channel volume 88
+BA    1   CR         0   TR  5   CH  9   Channel volume 88
+BA    1   CR         0   TR  5   CH 11   ST &BA &0A &58
+BA    1   CR         0   TR  5   CH  9   ST &B8 &0A &58
+BA    1   CR         0   TR  5   CH 11   ST &BA &5D &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &5D &00
+BA    1   CR         0   TR  5   CH 11   ST &BA &5B &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &5B &00
+BA    1   CR         0   TR  5   CH 11   ST &BA &5C &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &5C &00
+BA    1   CR         0   TR  5   CH 11   ST &BA &5F &00
+BA    1   CR         0   TR  5   CH  9   ST &B8 &5F &00
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Piste 6"
+BA    1   CR         0   TR  6   CH 13   ST &BC &64 &00
+BA    1   CR         0   TR  6   CH 13   ST &BC &65 &00
+BA    1   CR         0   TR  6   CH 13   ST &BC &06 &0C
+BA    1   CR         0   TR  6   CH 13   ST &EC &00 &40
+BA    1   CR         0   TR  6   CH 13   ST &BC &65 &00
+BA    1   CR         0   TR  6   CH 13   ST &BC &64 &01
+BA    1   CR         0   TR  6   CH 13   ST &BC &06 &40
+BA    1   CR         0   TR  6   CH 13   ST &BC &26 &00
+BA    1   CR         0   TR  6   CH 13   ST &BC &65 &7F
+BA    1   CR         0   TR  6   CH 13   ST &BC &64 &7F
+BA    1   CR         0   TR  6   CH 12   ST &BB &64 &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &65 &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &06 &0C
+BA    1   CR         0   TR  6   CH 12   ST &EB &00 &40
+BA    1   CR         0   TR  6   CH 12   ST &BB &65 &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &64 &01
+BA    1   CR         0   TR  6   CH 12   ST &BB &06 &40
+BA    1   CR         0   TR  6   CH 12   ST &BB &26 &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &65 &7F
+BA    1   CR         0   TR  6   CH 12   ST &BB &64 &7F
+BA    1   CR         0   TR  6   CH 13   ST &BC &65 &00
+BA    1   CR         0   TR  6   CH 13   ST &BC &64 &02
+BA    1   CR         0   TR  6   CH 13   ST &BC &06 &40
+BA    1   CR         0   TR  6   CH 13   ST &BC &65 &7F
+BA    1   CR         0   TR  6   CH 13   ST &BC &64 &7F
+BA    1   CR         0   TR  6   CH 12   ST &BB &65 &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &64 &02
+BA    1   CR         0   TR  6   CH 12   ST &BB &06 &40
+BA    1   CR         0   TR  6   CH 12   ST &BB &65 &7F
+BA    1   CR         0   TR  6   CH 12   ST &BB &64 &7F
+BA    1   CR         0   TR  6   CH 13   Instrument 82
+BA    1   CR         0   TR  6   CH 12   Instrument 82
+BA    1   CR         0   TR  6   CH 13   ST &BC &00 &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &00 &00
+BA    1   CR         0   TR  6   CH 13   Channel volume 88
+BA    1   CR         0   TR  6   CH 12   Channel volume 88
+BA    1   CR         0   TR  6   CH 13   ST &BC &0A &28
+BA    1   CR         0   TR  6   CH 12   ST &BB &0A &28
+BA    1   CR         0   TR  6   CH 13   ST &BC &5D &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &5D &00
+BA    1   CR         0   TR  6   CH 13   ST &BC &5B &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &5B &00
+BA    1   CR         0   TR  6   CH 13   ST &BC &5C &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &5C &00
+BA    1   CR         0   TR  6   CH 13   ST &BC &5F &00
+BA    1   CR         0   TR  6   CH 12   ST &BB &5F &00
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Piste 7"
+BA    1   CR         0   TR  7   CH 15   ST &BE &64 &00
+BA    1   CR         0   TR  7   CH 15   ST &BE &65 &00
+BA    1   CR         0   TR  7   CH 15   ST &BE &06 &0C
+BA    1   CR         0   TR  7   CH 15   ST &EE &00 &40
+BA    1   CR         0   TR  7   CH 15   ST &BE &65 &00
+BA    1   CR         0   TR  7   CH 15   ST &BE &64 &01
+BA    1   CR         0   TR  7   CH 15   ST &BE &06 &40
+BA    1   CR         0   TR  7   CH 15   ST &BE &26 &00
+BA    1   CR         0   TR  7   CH 15   ST &BE &65 &7F
+BA    1   CR         0   TR  7   CH 15   ST &BE &64 &7F
+BA    1   CR         0   TR  7   CH 14   ST &BD &64 &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &65 &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &06 &0C
+BA    1   CR         0   TR  7   CH 14   ST &ED &00 &40
+BA    1   CR         0   TR  7   CH 14   ST &BD &65 &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &64 &01
+BA    1   CR         0   TR  7   CH 14   ST &BD &06 &40
+BA    1   CR         0   TR  7   CH 14   ST &BD &26 &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &65 &7F
+BA    1   CR         0   TR  7   CH 14   ST &BD &64 &7F
+BA    1   CR         0   TR  7   CH 15   ST &BE &65 &00
+BA    1   CR         0   TR  7   CH 15   ST &BE &64 &02
+BA    1   CR         0   TR  7   CH 15   ST &BE &06 &40
+BA    1   CR         0   TR  7   CH 15   ST &BE &65 &7F
+BA    1   CR         0   TR  7   CH 15   ST &BE &64 &7F
+BA    1   CR         0   TR  7   CH 14   ST &BD &65 &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &64 &02
+BA    1   CR         0   TR  7   CH 14   ST &BD &06 &40
+BA    1   CR         0   TR  7   CH 14   ST &BD &65 &7F
+BA    1   CR         0   TR  7   CH 14   ST &BD &64 &7F
+BA    1   CR         0   TR  7   CH 15   Instrument 82
+BA    1   CR         0   TR  7   CH 14   Instrument 82
+BA    1   CR         0   TR  7   CH 15   ST &BE &00 &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &00 &00
+BA    1   CR         0   TR  7   CH 15   Channel volume 96
+BA    1   CR         0   TR  7   CH 14   Channel volume 96
+BA    1   CR         0   TR  7   CH 15   ST &BE &0A &50
+BA    1   CR         0   TR  7   CH 14   ST &BD &0A &50
+BA    1   CR         0   TR  7   CH 15   ST &BE &5D &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &5D &00
+BA    1   CR         0   TR  7   CH 15   ST &BE &5B &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &5B &00
+BA    1   CR         0   TR  7   CH 15   ST &BE &5C &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &5C &00
+BA    1   CR         0   TR  7   CH 15   ST &BE &5F &00
+BA    1   CR         0   TR  7   CH 14   ST &BD &5F &00
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Percussions"
+BA    1   CR         0   TR  8   CH 10   ST &B9 &64 &00
+BA    1   CR         0   TR  8   CH 10   ST &B9 &65 &00
+BA    1   CR         0   TR  8   CH 10   ST &B9 &06 &0C
+BA    1   CR         0   TR  8   CH 10   ST &E9 &00 &40
+BA    1   CR         0   TR  8   CH 10   ST &B9 &65 &00
+BA    1   CR         0   TR  8   CH 10   ST &B9 &64 &01
+BA    1   CR         0   TR  8   CH 10   ST &B9 &06 &40
+BA    1   CR         0   TR  8   CH 10   ST &B9 &26 &00
+BA    1   CR         0   TR  8   CH 10   ST &B9 &65 &7F
+BA    1   CR         0   TR  8   CH 10   ST &B9 &64 &7F
+BA    1   CR         0   TR  8   CH 10   Instrument 50
+BA    1   CR         0   TR  8   CH 10   ST &B9 &00 &00
+BA    1   CR         0   TR  8   CH 10   Channel volume 64
+BA    1   CR         0   TR  8   CH 10   ST &B9 &0A &38
+BA    1   CR         0   TR  8   CH 10   ST &B9 &5D &00
+BA    1   CR         0   TR  8   CH 10   ST &B9 &5B &00
+BA    1   CR         0   TR  8   CH 10   ST &B9 &5C &00
+BA    1   CR         0   TR  8   CH 10   ST &B9 &5F &00
+BA    1   CR         0   TR  8   CH 10   NT  A-            1/2   von=95   voff=80
+BA    1   CR         0   TR  9   CH 16   Text type 3: "Piste 9"
+BA    1   CR         0   TR  9   CH 16   ST &BF &64 &00
+BA    1   CR         0   TR  9   CH 16   ST &BF &65 &00
+BA    1   CR         0   TR  9   CH 16   ST &BF &06 &0C
+BA    1   CR         0   TR  9   CH 16   ST &EF &00 &40
+BA    1   CR         0   TR  9   CH 16   ST &BF &65 &00
+BA    1   CR         0   TR  9   CH 16   ST &BF &64 &01
+BA    1   CR         0   TR  9   CH 16   ST &BF &06 &40
+BA    1   CR         0   TR  9   CH 16   ST &BF &26 &00
+BA    1   CR         0   TR  9   CH 16   ST &BF &65 &7F
+BA    1   CR         0   TR  9   CH 16   ST &BF &64 &7F
+BA    1   CR         0   TR  9   CH 16   ST &BF &65 &00
+BA    1   CR         0   TR  9   CH 16   ST &BF &64 &02
+BA    1   CR         0   TR  9   CH 16   ST &BF &06 &40
+BA    1   CR         0   TR  9   CH 16   ST &BF &65 &7F
+BA    1   CR         0   TR  9   CH 16   ST &BF &64 &7F
+BA    1   CR         0   TR  9   CH 16   Instrument 48
+BA    1   CR         0   TR  9   CH 16   ST &BF &00 &00
+BA    1   CR         0   TR  9   CH 16   Channel volume 104
+BA    1   CR         0   TR  9   CH 16   ST &BF &0A &48
+BA    1   CR         0   TR  9   CH 16   ST &BF &5D &00
+BA    1   CR         0   TR  9   CH 16   ST &BF &5B &00
+BA    1   CR         0   TR  9   CH 16   ST &BF &5C &00
+BA    1   CR         0   TR  9   CH 16   ST &BF &5F &00
+BA    1   CR       1/2   TR  1   CH  1   NT  F             1/2   voff=80
+BA    1   CR       1/2   TR  1   CH  1   NT  C             1/2   voff=80
+BA    1   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=80
+BA    1   CR       1/2   TR  1   CH  1   NT  F-            1/2   voff=80
+BA    1   CR       1/2   TR  3   CH  5   NT  F             1/2   voff=80
+BA    1   CR       1/2   TR  3   CH  5   NT  F-            1/2   voff=80
+BA    1   CR         1   TR  1   CH  1   NT  E           1+3/4   voff=80
+BA    1   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=80
+BA    1   CR         1   TR  1   CH  1   NT  B             1/2   voff=80
+BA    1   CR         1   TR  1   CH  1   NT  E-          1+3/4   voff=80
+BA    1   CR         1   TR  1   CH  1   NT  B-          1+3/4   voff=80
+BA    1   CR         1   TR  3   CH  5   NT  E           1+3/4   voff=80
+BA    1   CR         1   TR  3   CH  5   NT  E-          1+3/4   voff=80
+BA    1   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    1   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    1   CR     1+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    1   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    1   CR     2+3/4   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA    1   CR     2+3/4   TR  1   CH  1   NT  Eb            1/4   voff=80
+BA    1   CR     2+3/4   TR  1   CH  1   NT  Bb-           1/4   voff=80
+BA    1   CR     2+3/4   TR  1   CH  1   NT  Eb-           1/4   voff=80
+BA    1   CR     2+3/4   TR  1   CH  1   NT  Bb            1/4   voff=80
+BA    1   CR     2+3/4   TR  3   CH  5   NT  Eb            1/4   voff=80
+BA    1   CR     2+3/4   TR  3   CH  5   NT  Eb-           1/4   voff=80
+BA    1   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    1   CR         3   TR  1   CH  1   NT  D'            1/4   voff=80
+BA    1   CR         3   TR  1   CH  1   NT  D             1/4   voff=80
+BA    1   CR         3   TR  1   CH  1   NT  A-            1/4   voff=80
+BA    1   CR         3   TR  1   CH  1   NT  D-            1/4   voff=80
+BA    1   CR         3   TR  1   CH  1   NT  A             1/4   voff=80
+BA    1   CR         3   TR  3   CH  5   NT  D             1/4   voff=80
+BA    1   CR         3   TR  3   CH  5   NT  D-            1/4   voff=80
+BA    1   CR         3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    1   CR     3+1/6   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    1   CR     3+1/4   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA    1   CR     3+1/4   TR  1   CH  1   NT  C#            1/4   voff=80
+BA    1   CR     3+1/4   TR  1   CH  1   NT  G#-           1/4   voff=80
+BA    1   CR     3+1/4   TR  1   CH  1   NT  G#            1/4   voff=80
+BA    1   CR     3+1/4   TR  1   CH  1   NT  C#-           1/4   voff=80
+BA    1   CR     3+1/4   TR  3   CH  5   NT  C#            1/4   voff=80
+BA    1   CR     3+1/4   TR  3   CH  5   NT  C#-           1/4   voff=80
+BA    1   CR     3+1/3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    1   CR     3+1/2   TR  1   CH  1   NT  C'            1/2   voff=80
+BA    1   CR     3+1/2   TR  1   CH  1   NT  C             1/2   voff=80
+BA    1   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=80
+BA    1   CR     3+1/2   TR  1   CH  1   NT  G             1/2   voff=80
+BA    1   CR     3+1/2   TR  1   CH  1   NT  C-            1/2   voff=80
+BA    1   CR     3+1/2   TR  3   CH  5   NT  C             1/2   voff=80
+BA    1   CR     3+1/2   TR  3   CH  5   NT  C-            1/2   voff=80
+BA    1   CR     3+1/2   TR  8   CH 10   NT  E--           1/2   voff=80
+
+BA    2   CR         0   TR  4   CH  7   NT  Bb---         1/4   von=95   voff=80
+BA    2   CR         0   TR  9   CH 16   NT  Bb--          1/2   von=95   voff=80
+BA    2   CR       1/2   TR  2   CH  3   NT  F-            1/2   von=95   voff=80
+BA    2   CR       1/2   TR  2   CH  3   NT  C#-           1/2   voff=80
+BA    2   CR       1/2   TR  9   CH 16   Channel volume 16
+BA    2   CR       1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR       5/8   TR  9   CH 16   Channel volume 40
+BA    2   CR       5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR       3/4   TR  9   CH 16   Channel volume 64
+BA    2   CR       3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR       7/8   TR  9   CH 16   Channel volume 88
+BA    2   CR       7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR         1   TR  2   CH  3   NT  E-            1/2   voff=80
+BA    2   CR         1   TR  2   CH  3   NT  C-            1/2   voff=80
+BA    2   CR         1   TR  4   CH  7   NT  A---          1/4   voff=80
+BA    2   CR         1   TR  9   CH 16   Channel volume 104
+BA    2   CR         1   TR  9   CH 16   NT  A--           1/2   voff=80
+BA    2   CR     1+1/2   TR  2   CH  3   NT  F-            1/2   voff=80
+BA    2   CR     1+1/2   TR  2   CH  3   NT  C#-           1/2   voff=80
+BA    2   CR     1+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     1+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     1+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     1+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR         2   TR  2   CH  3   NT  E-            1/2   voff=80
+BA    2   CR         2   TR  2   CH  3   NT  C-            1/2   voff=80
+BA    2   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    2   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA    2   CR     2+1/2   TR  2   CH  3   NT  F-            1/2   voff=80
+BA    2   CR     2+1/2   TR  2   CH  3   NT  C#-           1/2   voff=80
+BA    2   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA    2   CR     2+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA    2   CR     2+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA    2   CR     2+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA    2   CR     2+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR         3   TR  2   CH  3   NT  F#-           1/2   voff=80
+BA    2   CR         3   TR  2   CH  3   NT  D-            1/2   voff=80
+BA    2   CR         3   TR  4   CH  7   NT  A---          1/4   voff=80
+BA    2   CR         3   TR  9   CH 16   Channel volume 64
+BA    2   CR         3   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA    2   CR     3+1/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA    2   CR     3+1/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA    2   CR     3+3/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     3+1/2   TR  2   CH  3   NT  G-            1/2   voff=80
+BA    2   CR     3+1/2   TR  2   CH  3   NT  Eb-           1/2   voff=80
+BA    2   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA    2   CR     3+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA    2   CR     3+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA    2   CR     3+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    2   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA    2   CR     3+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+
+BA    3   CR         0   TR  1   CH  1   NT  Bb            1/2   voff=80
+BA    3   CR         0   TR  1   CH  1   NT  F             1/2   voff=80
+BA    3   CR         0   TR  1   CH  1   NT  Bb-           1/2   voff=80
+BA    3   CR         0   TR  1   CH  1   NT  F-            1/2   voff=80
+BA    3   CR         0   TR  1   CH  1   NT  Bb--          1/2   voff=80
+BA    3   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA    3   CR         0   TR  3   CH  5   NT  Bb--          1/2   voff=80
+BA    3   CR         0   TR  8   CH 10   NT  A-            1/2   voff=80
+BA    3   CR       1/2   TR  1   CH  1   NT  F             1/2   voff=80
+BA    3   CR       1/2   TR  1   CH  1   NT  C             1/2   voff=80
+BA    3   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=80
+BA    3   CR       1/2   TR  1   CH  1   NT  F-            1/2   voff=80
+BA    3   CR       1/2   TR  3   CH  5   NT  F             1/2   voff=80
+BA    3   CR       1/2   TR  3   CH  5   NT  F-            1/2   voff=80
+BA    3   CR         1   TR  1   CH  1   NT  E           1+3/4   voff=80
+BA    3   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=80
+BA    3   CR         1   TR  1   CH  1   NT  B             1/2   voff=80
+BA    3   CR         1   TR  1   CH  1   NT  E-          1+3/4   voff=80
+BA    3   CR         1   TR  1   CH  1   NT  B-          1+3/4   voff=80
+BA    3   CR         1   TR  3   CH  5   NT  E           1+3/4   voff=80
+BA    3   CR         1   TR  3   CH  5   NT  E-          1+3/4   voff=80
+BA    3   CR     1+1/4   TR  4   CH  7   NT  B--           1/4   voff=80
+BA    3   CR     1+1/4   TR  4   CH  7   NT  B---          1/4   voff=80
+BA    3   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    3   CR     1+1/2   TR  4   CH  7   NT  C-            1/4   voff=80
+BA    3   CR     1+1/2   TR  4   CH  7   NT  C--           1/4   voff=80
+BA    3   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    3   CR     1+3/4   TR  4   CH  7   NT  C#-           1/4   voff=80
+BA    3   CR     1+3/4   TR  4   CH  7   NT  C#--          1/4   voff=80
+BA    3   CR     1+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    3   CR         2   TR  4   CH  7   NT  D-              2   voff=80
+BA    3   CR         2   TR  4   CH  7   NT  D--             2   voff=80
+BA    3   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    3   CR     2+3/4   TR  1   CH  1   NT  C'            1/4   voff=80
+BA    3   CR     2+3/4   TR  1   CH  1   NT  C             1/4   voff=80
+BA    3   CR     2+3/4   TR  1   CH  1   NT  G             1/4   voff=80
+BA    3   CR     2+3/4   TR  1   CH  1   NT  G-            1/4   voff=80
+BA    3   CR     2+3/4   TR  1   CH  1   NT  C-            1/4   voff=80
+BA    3   CR     2+3/4   TR  3   CH  5   NT  C             1/4   voff=80
+BA    3   CR     2+3/4   TR  3   CH  5   NT  C-            1/4   voff=80
+BA    3   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    3   CR         3   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA    3   CR         3   TR  1   CH  1   NT  C#            1/4   voff=80
+BA    3   CR         3   TR  1   CH  1   NT  G#            1/4   voff=80
+BA    3   CR         3   TR  1   CH  1   NT  G#-           1/4   voff=80
+BA    3   CR         3   TR  1   CH  1   NT  C#-           1/4   voff=80
+BA    3   CR         3   TR  3   CH  5   NT  C#            1/4   voff=80
+BA    3   CR         3   TR  3   CH  5   NT  C#-           1/4   voff=80
+BA    3   CR         3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    3   CR     3+1/6   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    3   CR     3+1/4   TR  1   CH  1   NT  D'            1/4   voff=80
+BA    3   CR     3+1/4   TR  1   CH  1   NT  D             1/4   voff=80
+BA    3   CR     3+1/4   TR  1   CH  1   NT  A             1/4   voff=80
+BA    3   CR     3+1/4   TR  1   CH  1   NT  D-            1/4   voff=80
+BA    3   CR     3+1/4   TR  1   CH  1   NT  A-            1/4   voff=80
+BA    3   CR     3+1/4   TR  3   CH  5   NT  D             1/4   voff=80
+BA    3   CR     3+1/4   TR  3   CH  5   NT  D-            1/4   voff=80
+BA    3   CR     3+1/3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    3   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/2   voff=80
+BA    3   CR     3+1/2   TR  1   CH  1   NT  Eb            1/2   voff=80
+BA    3   CR     3+1/2   TR  1   CH  1   NT  Bb            1/2   voff=80
+BA    3   CR     3+1/2   TR  1   CH  1   NT  Eb-           1/2   voff=80
+BA    3   CR     3+1/2   TR  1   CH  1   NT  Bb-           1/2   voff=80
+BA    3   CR     3+1/2   TR  3   CH  5   NT  Eb            1/2   voff=80
+BA    3   CR     3+1/2   TR  3   CH  5   NT  Eb-           1/2   voff=80
+BA    3   CR     3+1/2   TR  8   CH 10   NT  E--           1/2   voff=80
+
+BA    4   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    4   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA    4   CR       1/2   TR  2   CH  3   NT  F-            1/2   voff=80
+BA    4   CR       1/2   TR  2   CH  3   NT  C#-           1/2   voff=80
+BA    4   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    4   CR       1/2   TR  9   CH 16   Channel volume 16
+BA    4   CR       1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR       5/8   TR  9   CH 16   Channel volume 40
+BA    4   CR       5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR       3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    4   CR       3/4   TR  9   CH 16   Channel volume 64
+BA    4   CR       3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR       7/8   TR  9   CH 16   Channel volume 88
+BA    4   CR       7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR         1   TR  2   CH  3   NT  E-            1/2   voff=80
+BA    4   CR         1   TR  2   CH  3   NT  C-            1/2   voff=80
+BA    4   CR         1   TR  4   CH  7   NT  A---          1/4   voff=80
+BA    4   CR         1   TR  9   CH 16   Channel volume 104
+BA    4   CR         1   TR  9   CH 16   NT  A--           1/2   voff=80
+BA    4   CR     1+1/2   TR  2   CH  3   NT  F-            1/2   voff=80
+BA    4   CR     1+1/2   TR  2   CH  3   NT  C#-           1/2   voff=80
+BA    4   CR     1+1/2   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    4   CR     1+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     1+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     1+2/3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    4   CR     1+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     1+5/6   TR  8   CH 10   NT  E--           1/6   voff=80
+BA    4   CR     1+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR         2   TR  2   CH  3   NT  E-            1/2   voff=80
+BA    4   CR         2   TR  2   CH  3   NT  C-            1/2   voff=80
+BA    4   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    4   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    4   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA    4   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    4   CR     2+1/2   TR  2   CH  3   NT  F-            1/2   voff=80
+BA    4   CR     2+1/2   TR  2   CH  3   NT  C#-           1/2   voff=80
+BA    4   CR     2+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    4   CR     2+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA    4   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA    4   CR     2+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA    4   CR     2+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA    4   CR     2+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA    4   CR     2+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR         3   TR  2   CH  3   NT  F#-           1/4   voff=80
+BA    4   CR         3   TR  2   CH  3   NT  D-            1/4   voff=80
+BA    4   CR         3   TR  4   CH  7   NT  A---          1/4   voff=80
+BA    4   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    4   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA    4   CR         3   TR  9   CH 16   Channel volume 64
+BA    4   CR         3   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA    4   CR     3+1/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     3+1/4   TR  2   CH  3   NT  G-            1/4   voff=80
+BA    4   CR     3+1/4   TR  2   CH  3   NT  Eb-           1/4   voff=80
+BA    4   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA    4   CR     3+1/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA    4   CR     3+3/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     3+1/2   TR  2   CH  3   NT  G#-           1/4   voff=80
+BA    4   CR     3+1/2   TR  2   CH  3   NT  E-            1/4   voff=80
+BA    4   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    4   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA    4   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA    4   CR     3+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA    4   CR     3+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     3+3/4   TR  2   CH  3   NT  A-            1/4   voff=80
+BA    4   CR     3+3/4   TR  2   CH  3   NT  F-            1/4   voff=80
+BA    4   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA    4   CR     3+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA    4   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA    4   CR     3+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+
+BA    5   CR         0   TR  2   CH  3   Instrument 81
+BA    5   CR         0   TR  2   CH  4   Instrument 81
+BA    5   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    5   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    5   CR         0   TR  3   CH  5   Channel volume 88
+BA    5   CR         0   TR  3   CH  6   Channel volume 88
+BA    5   CR         0   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    5   CR         0   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    5   CR         0   TR  5   CH  9   NT  Bb            1/2   von=95   voff=80
+BA    5   CR         0   TR  6   CH 12   NT  Bb---         1/2   von=95   voff=80
+BA    5   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    5   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    5   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    5   CR       1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    5   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    5   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    5   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    5   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA    5   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA    5   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    5   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    5   CR     1+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA    5   CR     1+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA    5   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA    5   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    5   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA    5   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    5   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    5   CR         2   TR  3   CH  5   NT  Bb              1   voff=80
+BA    5   CR         2   TR  3   CH  5   NT  Bb-             1   voff=80
+BA    5   CR         2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    5   CR         2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    5   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA    5   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    5   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    5   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    5   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    5   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    5   CR     2+1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    5   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    5   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    5   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    5   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA    5   CR         3   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA    5   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    5   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    5   CR     3+1/2   TR  3   CH  5   NT  E'            1/2   voff=80
+BA    5   CR     3+1/2   TR  3   CH  5   NT  E             1/2   voff=80
+BA    5   CR     3+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA    5   CR     3+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA    5   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    5   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA    5   CR     3+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+
+BA    6   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    6   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    6   CR         0   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA    6   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA    6   CR         0   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    6   CR         0   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    6   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA    6   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA    6   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    6   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    6   CR       1/2   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA    6   CR       1/2   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA    6   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    6   CR       1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    6   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    6   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    6   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    6   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA    6   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA    6   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    6   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    6   CR     1+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA    6   CR     1+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA    6   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA    6   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    6   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA    6   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    6   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    6   CR         2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    6   CR         2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    6   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    6   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    6   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    6   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    6   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    6   CR     2+1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    6   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    6   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    6   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    6   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA    6   CR         3   TR  6   CH 12   NT  E             1/2   voff=80
+BA    6   CR         3   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA    6   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    6   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    6   CR     3+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA    6   CR     3+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA    6   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    6   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA    6   CR     3+1/2   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA    6   CR     3+1/2   TR  6   CH 12   NT  D             1/2   voff=80
+
+BA    7   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    7   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    7   CR         0   TR  3   CH  5   Channel volume 88
+BA    7   CR         0   TR  3   CH  6   Channel volume 88
+BA    7   CR         0   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    7   CR         0   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    7   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA    7   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA    7   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    7   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    7   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    7   CR       1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    7   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    7   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    7   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    7   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA    7   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA    7   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    7   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    7   CR     1+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA    7   CR     1+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA    7   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA    7   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    7   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA    7   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    7   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    7   CR         2   TR  3   CH  5   NT  Bb              1   voff=80
+BA    7   CR         2   TR  3   CH  5   NT  Bb-             1   voff=80
+BA    7   CR         2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    7   CR         2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    7   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA    7   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    7   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    7   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    7   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    7   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    7   CR     2+1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    7   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    7   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    7   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    7   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA    7   CR         3   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA    7   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    7   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    7   CR     3+1/2   TR  3   CH  5   NT  E'            1/2   voff=80
+BA    7   CR     3+1/2   TR  3   CH  5   NT  E             1/2   voff=80
+BA    7   CR     3+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA    7   CR     3+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA    7   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    7   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA    7   CR     3+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+
+BA    8   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    8   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    8   CR         0   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA    8   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA    8   CR         0   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    8   CR         0   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    8   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA    8   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA    8   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    8   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    8   CR       1/2   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA    8   CR       1/2   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA    8   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    8   CR       1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    8   CR       1/2   TR  5   CH  9   NT  E'            1/4   voff=80
+BA    8   CR       1/2   TR  5   CH  9   NT  F'            1/4   voff=80
+BA    8   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    8   CR       3/4   TR  5   CH  9   NT  E'            1/4   voff=80
+BA    8   CR       3/4   TR  5   CH  9   NT  F'            1/4   voff=80
+BA    8   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA    8   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA    8   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    8   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    8   CR     1+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA    8   CR     1+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA    8   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA    8   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    8   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA    8   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    8   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    8   CR         2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    8   CR         2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    8   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    8   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    8   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    8   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    8   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    8   CR     2+1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    8   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    8   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    8   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    8   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA    8   CR         3   TR  6   CH 12   NT  E             1/2   voff=80
+BA    8   CR         3   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA    8   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    8   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    8   CR     3+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA    8   CR     3+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA    8   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    8   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA    8   CR     3+1/2   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA    8   CR     3+1/2   TR  6   CH 12   NT  D             1/2   voff=80
+
+BA    9   CR         0   TR  1   CH  1   NT  Bb-             1   voff=80
+BA    9   CR         0   TR  1   CH  1   NT  F-              1   voff=80
+BA    9   CR         0   TR  2   CH  3   Instrument 81
+BA    9   CR         0   TR  2   CH  4   Instrument 81
+BA    9   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    9   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    9   CR         0   TR  3   CH  5   Channel volume 88
+BA    9   CR         0   TR  3   CH  6   Channel volume 88
+BA    9   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    9   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA    9   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA    9   CR         0   TR  7   CH 14   NT  Bb--          1/4   von=95   voff=80
+BA    9   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA    9   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA    9   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA    9   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    9   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA    9   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA    9   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    9   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    9   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    9   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    9   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    9   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    9   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA    9   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA    9   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR       1/2   TR  9   CH 16   Channel volume 16
+BA    9   CR       1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR       5/8   TR  9   CH 16   Channel volume 40
+BA    9   CR       5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR       3/4   TR  9   CH 16   Channel volume 64
+BA    9   CR       3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR       7/8   TR  9   CH 16   Channel volume 88
+BA    9   CR       7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    9   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA    9   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA    9   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA    9   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA    9   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR         1   TR  9   CH 16   Channel volume 104
+BA    9   CR         1   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA    9   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    9   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA    9   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA    9   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    9   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    9   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    9   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA    9   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    9   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA    9   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA    9   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA    9   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     1+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     1+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     1+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    9   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    9   CR         2   TR  3   CH  5   NT  Bb              1   voff=80
+BA    9   CR         2   TR  3   CH  5   NT  Bb-             1   voff=80
+BA    9   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    9   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA    9   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    9   CR         2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA    9   CR         2   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA    9   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR         2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA    9   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA    9   CR     2+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    9   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA    9   CR     2+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA    9   CR     2+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA    9   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA    9   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA    9   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA    9   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA    9   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    9   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA    9   CR     2+1/2   TR  7   CH 14   NT  Bb-           1/4   voff=80
+BA    9   CR     2+1/2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA    9   CR     2+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA    9   CR     2+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA    9   CR     2+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA    9   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA    9   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA    9   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA    9   CR     2+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA    9   CR     2+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA    9   CR         3   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA    9   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA    9   CR         3   TR  9   CH 16   Channel volume 64
+BA    9   CR         3   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA    9   CR     3+1/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA    9   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA    9   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA    9   CR     3+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA    9   CR     3+1/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA    9   CR     3+3/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA    9   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA    9   CR     3+1/2   TR  3   CH  5   NT  E'            1/2   voff=80
+BA    9   CR     3+1/2   TR  3   CH  5   NT  E             1/2   voff=80
+BA    9   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA    9   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA    9   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA    9   CR     3+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA    9   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA    9   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA    9   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA    9   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA    9   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA    9   CR     3+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA    9   CR     3+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA    9   CR     3+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA    9   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA    9   CR     3+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+
+BA   10   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   10   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   10   CR         0   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   10   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   10   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   10   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   10   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   10   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   10   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   10   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   10   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   10   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   10   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   10   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   10   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   10   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   10   CR       1/2   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   10   CR       1/2   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   10   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   10   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   10   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   10   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   10   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   10   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   10   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   10   CR       1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   10   CR       5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   10   CR       3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   10   CR       7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   10   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   10   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   10   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   10   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   10   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR         1   TR  9   CH 16   Channel volume 104
+BA   10   CR         1   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   10   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   10   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   10   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   10   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   10   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   10   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   10   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   10   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   10   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   10   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   10   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   10   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     1+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     1+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     1+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   10   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   10   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   10   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   10   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   10   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   10   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   10   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   10   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   10   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   10   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   10   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   10   CR     2+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   10   CR     2+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   10   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   10   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   10   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   10   CR     2+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   10   CR     2+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   10   CR         3   TR  6   CH 12   NT  E             1/2   voff=80
+BA   10   CR         3   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   10   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   10   CR         3   TR  9   CH 16   Channel volume 64
+BA   10   CR         3   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   10   CR     3+1/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   10   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   10   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   10   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   10   CR     3+1/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   10   CR     3+3/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   10   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   10   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   10   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   10   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   10   CR     3+1/2   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   10   CR     3+1/2   TR  6   CH 12   NT  D             1/2   voff=80
+BA   10   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   10   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   10   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   10   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   10   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   10   CR     3+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   10   CR     3+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   10   CR     3+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   10   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   10   CR     3+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+
+BA   11   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   11   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   11   CR         0   TR  3   CH  5   Channel volume 88
+BA   11   CR         0   TR  3   CH  6   Channel volume 88
+BA   11   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   11   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   11   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   11   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   11   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   11   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   11   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   11   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   11   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   11   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   11   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   11   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   11   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   11   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   11   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   11   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   11   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   11   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   11   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   11   CR       1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   11   CR       5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   11   CR       3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   11   CR       7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   11   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   11   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   11   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   11   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   11   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR         1   TR  9   CH 16   Channel volume 104
+BA   11   CR         1   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   11   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   11   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   11   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   11   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   11   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   11   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   11   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   11   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   11   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   11   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   11   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   11   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     1+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     1+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     1+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   11   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   11   CR         2   TR  3   CH  5   NT  Bb              1   voff=80
+BA   11   CR         2   TR  3   CH  5   NT  Bb-             1   voff=80
+BA   11   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   11   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   11   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   11   CR         2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   11   CR         2   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   11   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR         2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   11   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   11   CR     2+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   11   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   11   CR     2+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   11   CR     2+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   11   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   11   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   11   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   11   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   11   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   11   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   11   CR     2+1/2   TR  7   CH 14   NT  Bb-           1/4   voff=80
+BA   11   CR     2+1/2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   11   CR     2+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   11   CR     2+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   11   CR     2+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   11   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   11   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   11   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   11   CR     2+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   11   CR     2+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   11   CR         3   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   11   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   11   CR         3   TR  9   CH 16   Channel volume 64
+BA   11   CR         3   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   11   CR     3+1/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   11   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   11   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   11   CR     3+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   11   CR     3+1/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   11   CR     3+3/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   11   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   11   CR     3+1/2   TR  3   CH  5   NT  E'            1/2   voff=80
+BA   11   CR     3+1/2   TR  3   CH  5   NT  E             1/2   voff=80
+BA   11   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   11   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   11   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   11   CR     3+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   11   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   11   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   11   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   11   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   11   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   11   CR     3+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   11   CR     3+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   11   CR     3+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   11   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   11   CR     3+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+
+BA   12   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   12   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   12   CR         0   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   12   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   12   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   12   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   12   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   12   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   12   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   12   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   12   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   12   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   12   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   12   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   12   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   12   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   12   CR       1/2   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   12   CR       1/2   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   12   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   12   CR       1/2   TR  5   CH  9   NT  E'            1/4   voff=80
+BA   12   CR       1/2   TR  5   CH  9   NT  F'            1/4   voff=80
+BA   12   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   12   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   12   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   12   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   12   CR       1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   12   CR       5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR       3/4   TR  5   CH  9   NT  E'            1/4   voff=80
+BA   12   CR       3/4   TR  5   CH  9   NT  F'            1/4   voff=80
+BA   12   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   12   CR       3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   12   CR       7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   12   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   12   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   12   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   12   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   12   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR         1   TR  9   CH 16   Channel volume 104
+BA   12   CR         1   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   12   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   12   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   12   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   12   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   12   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   12   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   12   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   12   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   12   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   12   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   12   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   12   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     1+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     1+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     1+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   12   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   12   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   12   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   12   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   12   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   12   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   12   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   12   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   12   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   12   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   12   CR     2+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   12   CR     2+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   12   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   12   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   12   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   12   CR     2+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   12   CR     2+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   12   CR         3   TR  6   CH 12   NT  E             1/2   voff=80
+BA   12   CR         3   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   12   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   12   CR         3   TR  9   CH 16   Channel volume 64
+BA   12   CR         3   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   12   CR     3+1/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   12   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   12   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   12   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   12   CR     3+1/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   12   CR     3+3/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   12   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   12   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   12   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   12   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   12   CR     3+1/2   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   12   CR     3+1/2   TR  6   CH 12   NT  D             1/2   voff=80
+BA   12   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   12   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   12   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   12   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   12   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   12   CR     3+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   12   CR     3+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   12   CR     3+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   12   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   12   CR     3+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+
+BA   13   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   13   CR         0   TR  5   CH  9   Instrument 49
+BA   13   CR         0   TR  5   CH 11   Instrument 49
+BA   13   CR         0   TR  5   CH  9   Channel volume 56
+BA   13   CR         0   TR  5   CH 11   Channel volume 56
+BA   13   CR         0   TR  9   CH 16   Channel volume 127
+BA   13   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   13   CR         0   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   13   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   13   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   13   CR       1/2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   13   CR       1/2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   13   CR       2/3   TR  5   CH  9   Instrument 49
+BA   13   CR       2/3   TR  5   CH 11   Instrument 49
+BA   13   CR       2/3   TR  5   CH  9   Channel volume 56
+BA   13   CR       2/3   TR  5   CH 11   Channel volume 56
+BA   13   CR       2/3   TR  5   CH  9   NT  E             2/3   voff=80
+BA   13   CR       2/3   TR  5   CH  9   NT  E'            2/3   voff=80
+BA   13   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   13   CR         1   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   13   CR         1   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   13   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   13   CR     1+1/3   TR  5   CH  9   NT  G'            2/3   voff=80
+BA   13   CR     1+1/3   TR  5   CH  9   NT  G             2/3   voff=80
+BA   13   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   13   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   13   CR     1+1/2   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   13   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   13   CR         2   TR  5   CH  9   NT  Bb'           2/3   voff=80
+BA   13   CR         2   TR  5   CH  9   NT  Bb            2/3   voff=80
+BA   13   CR         2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   13   CR         2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   13   CR     2+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   13   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   13   CR     2+1/2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   13   CR     2+1/2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   13   CR     2+2/3   TR  5   CH  9   NT  C#''          2/3   voff=80
+BA   13   CR     2+2/3   TR  5   CH  9   NT  C#'           2/3   voff=80
+BA   13   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   13   CR         3   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   13   CR         3   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   13   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   13   CR     3+1/3   TR  5   CH  9   NT  E''           2/3   voff=80
+BA   13   CR     3+1/3   TR  5   CH  9   NT  E'            2/3   voff=80
+BA   13   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+
+BA   14   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   14   CR         0   TR  7   CH 14   Channel volume 72
+BA   14   CR         0   TR  7   CH 15   Channel volume 72
+BA   14   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   14   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   14   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   14   CR         0   TR  9   CH 16   Channel volume 104
+BA   14   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   14   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   14   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   14   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   14   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   14   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   14   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   14   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   14   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   14   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   14   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   14   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   14   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   14   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   14   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   14   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR         2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   14   CR         2   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   14   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR     2+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   14   CR     2+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   14   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR     2+1/2   TR  7   CH 14   NT  Bb-           1/4   voff=80
+BA   14   CR     2+1/2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   14   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   14   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   14   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   14   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   14   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   14   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   14   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   14   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   14   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   14   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   14   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   14   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+
+BA   15   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   15   CR         0   TR  5   CH  9   Instrument 49
+BA   15   CR         0   TR  5   CH 11   Instrument 49
+BA   15   CR         0   TR  5   CH  9   Channel volume 56
+BA   15   CR         0   TR  5   CH 11   Channel volume 56
+BA   15   CR         0   TR  9   CH 16   Channel volume 127
+BA   15   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   15   CR         0   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   15   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   15   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   15   CR       1/2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   15   CR       1/2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   15   CR       2/3   TR  5   CH  9   Instrument 49
+BA   15   CR       2/3   TR  5   CH 11   Instrument 49
+BA   15   CR       2/3   TR  5   CH  9   Channel volume 56
+BA   15   CR       2/3   TR  5   CH 11   Channel volume 56
+BA   15   CR       2/3   TR  5   CH  9   NT  E             2/3   voff=80
+BA   15   CR       2/3   TR  5   CH  9   NT  E'            2/3   voff=80
+BA   15   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   15   CR         1   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   15   CR         1   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   15   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   15   CR     1+1/3   TR  5   CH  9   NT  G'            2/3   voff=80
+BA   15   CR     1+1/3   TR  5   CH  9   NT  G             2/3   voff=80
+BA   15   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   15   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   15   CR     1+1/2   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   15   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   15   CR         2   TR  5   CH  9   NT  Bb'           2/3   voff=80
+BA   15   CR         2   TR  5   CH  9   NT  Bb            2/3   voff=80
+BA   15   CR         2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   15   CR         2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   15   CR     2+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   15   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   15   CR     2+1/2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   15   CR     2+1/2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   15   CR     2+2/3   TR  5   CH  9   NT  C#''          2/3   voff=80
+BA   15   CR     2+2/3   TR  5   CH  9   NT  C#'           2/3   voff=80
+BA   15   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   15   CR         3   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   15   CR         3   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   15   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   15   CR     3+1/3   TR  5   CH  9   NT  E''           2/3   voff=80
+BA   15   CR     3+1/3   TR  5   CH  9   NT  E'            2/3   voff=80
+BA   15   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+
+BA   16   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   16   CR         0   TR  5   CH  9   Instrument 114
+BA   16   CR         0   TR  5   CH 11   Instrument 114
+BA   16   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   16   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   16   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   16   CR         0   TR  9   CH 16   Channel volume 104
+BA   16   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   16   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   16   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   16   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   16   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   16   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   16   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   16   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   16   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   16   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   16   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   16   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   16   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   16   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   16   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   16   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR         2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   16   CR         2   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   16   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR     2+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   16   CR     2+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   16   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR     2+1/2   TR  7   CH 14   NT  Bb-           1/4   voff=80
+BA   16   CR     2+1/2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   16   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   16   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   16   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   16   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   16   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   16   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   16   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   16   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   16   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   16   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   16   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   16   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+
+BA   17   CR         0   TR  1   CH  1   NT  Bb            1/2   voff=80
+BA   17   CR         0   TR  1   CH  1   NT  F             1/2   voff=80
+BA   17   CR         0   TR  1   CH  1   NT  Bb-           1/2   voff=80
+BA   17   CR         0   TR  1   CH  1   NT  F-            1/2   voff=80
+BA   17   CR         0   TR  1   CH  1   NT  Bb--          1/2   voff=80
+BA   17   CR         0   TR  2   CH  3   Instrument 49
+BA   17   CR         0   TR  2   CH  4   Instrument 49
+BA   17   CR         0   TR  3   CH  5   Channel volume 127
+BA   17   CR         0   TR  3   CH  6   Channel volume 127
+BA   17   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   17   CR         0   TR  3   CH  5   NT  Bb--          1/2   voff=80
+BA   17   CR         0   TR  8   CH 10   NT  A-            1/2   voff=80
+BA   17   CR       1/2   TR  1   CH  1   NT  F             1/2   voff=80
+BA   17   CR       1/2   TR  1   CH  1   NT  C             1/2   voff=80
+BA   17   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=80
+BA   17   CR       1/2   TR  1   CH  1   NT  F-            1/2   voff=80
+BA   17   CR       1/2   TR  3   CH  5   NT  F             1/2   voff=80
+BA   17   CR       1/2   TR  3   CH  5   NT  F-            1/2   voff=80
+BA   17   CR         1   TR  1   CH  1   NT  E           1+3/4   voff=80
+BA   17   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=80
+BA   17   CR         1   TR  1   CH  1   NT  B             1/2   voff=80
+BA   17   CR         1   TR  1   CH  1   NT  E-          1+3/4   voff=80
+BA   17   CR         1   TR  1   CH  1   NT  B-          1+3/4   voff=80
+BA   17   CR         1   TR  3   CH  5   NT  E           1+3/4   voff=80
+BA   17   CR         1   TR  3   CH  5   NT  E-          1+3/4   voff=80
+BA   17   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   17   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   17   CR     1+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   17   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   17   CR     2+3/4   TR  1   CH  1   NT  Eb'           1/4   voff=80
+BA   17   CR     2+3/4   TR  1   CH  1   NT  Eb            1/4   voff=80
+BA   17   CR     2+3/4   TR  1   CH  1   NT  Bb-           1/4   voff=80
+BA   17   CR     2+3/4   TR  1   CH  1   NT  Eb-           1/4   voff=80
+BA   17   CR     2+3/4   TR  1   CH  1   NT  Bb            1/4   voff=80
+BA   17   CR     2+3/4   TR  3   CH  5   NT  Eb            1/4   voff=80
+BA   17   CR     2+3/4   TR  3   CH  5   NT  Eb-           1/4   voff=80
+BA   17   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   17   CR         3   TR  1   CH  1   NT  D'            1/4   voff=80
+BA   17   CR         3   TR  1   CH  1   NT  D             1/4   voff=80
+BA   17   CR         3   TR  1   CH  1   NT  A-            1/4   voff=80
+BA   17   CR         3   TR  1   CH  1   NT  D-            1/4   voff=80
+BA   17   CR         3   TR  1   CH  1   NT  A             1/4   voff=80
+BA   17   CR         3   TR  3   CH  5   NT  D             1/4   voff=80
+BA   17   CR         3   TR  3   CH  5   NT  D-            1/4   voff=80
+BA   17   CR         3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   17   CR     3+1/6   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   17   CR     3+1/4   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA   17   CR     3+1/4   TR  1   CH  1   NT  C#            1/4   voff=80
+BA   17   CR     3+1/4   TR  1   CH  1   NT  G#-           1/4   voff=80
+BA   17   CR     3+1/4   TR  1   CH  1   NT  G#            1/4   voff=80
+BA   17   CR     3+1/4   TR  1   CH  1   NT  C#-           1/4   voff=80
+BA   17   CR     3+1/4   TR  3   CH  5   NT  C#            1/4   voff=80
+BA   17   CR     3+1/4   TR  3   CH  5   NT  C#-           1/4   voff=80
+BA   17   CR     3+1/3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   17   CR     3+1/2   TR  1   CH  1   NT  C'            1/2   voff=80
+BA   17   CR     3+1/2   TR  1   CH  1   NT  C             1/2   voff=80
+BA   17   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=80
+BA   17   CR     3+1/2   TR  1   CH  1   NT  G             1/2   voff=80
+BA   17   CR     3+1/2   TR  1   CH  1   NT  C-            1/2   voff=80
+BA   17   CR     3+1/2   TR  3   CH  5   NT  C             1/2   voff=80
+BA   17   CR     3+1/2   TR  3   CH  5   NT  C-            1/2   voff=80
+BA   17   CR     3+1/2   TR  8   CH 10   NT  E--           1/2   voff=80
+
+BA   18   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   18   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   18   CR       1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   18   CR       1/2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   18   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   18   CR       1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   18   CR       5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   18   CR       3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   18   CR       7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR         1   TR  4   CH  7   NT  A---          1/4   voff=80
+BA   18   CR         1   TR  9   CH 16   Channel volume 104
+BA   18   CR         1   TR  9   CH 16   NT  A--           1/2   voff=80
+BA   18   CR     1+1/2   TR  4   CH  7   NT  A--           1/4   voff=80
+BA   18   CR     1+1/2   TR  4   CH  7   NT  A---          1/4   voff=80
+BA   18   CR     1+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     1+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     1+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     1+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR         2   TR  4   CH  7   NT  G#---         1/4   voff=80
+BA   18   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   18   CR     2+1/2   TR  4   CH  7   NT  G#--          1/4   voff=80
+BA   18   CR     2+1/2   TR  4   CH  7   NT  G#---         1/4   voff=80
+BA   18   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   18   CR     2+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   18   CR     2+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   18   CR     2+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   18   CR     2+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR         3   TR  4   CH  7   NT  G---          1/4   voff=80
+BA   18   CR         3   TR  9   CH 16   Channel volume 64
+BA   18   CR         3   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   18   CR     3+1/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   18   CR     3+1/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   18   CR     3+3/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     3+1/2   TR  4   CH  7   NT  G--           1/4   voff=80
+BA   18   CR     3+1/2   TR  4   CH  7   NT  G---          1/4   voff=80
+BA   18   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   18   CR     3+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   18   CR     3+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   18   CR     3+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   18   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   18   CR     3+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+
+BA   19   CR         0   TR  1   CH  1   NT  Bb            1/2   voff=80
+BA   19   CR         0   TR  1   CH  1   NT  F             1/2   voff=80
+BA   19   CR         0   TR  1   CH  1   NT  Bb-           1/2   voff=80
+BA   19   CR         0   TR  1   CH  1   NT  F-            1/2   voff=80
+BA   19   CR         0   TR  1   CH  1   NT  Bb--          1/2   voff=80
+BA   19   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   19   CR         0   TR  3   CH  5   NT  Bb--          1/2   voff=80
+BA   19   CR         0   TR  8   CH 10   NT  A-            1/2   voff=80
+BA   19   CR       1/2   TR  1   CH  1   NT  F             1/2   voff=80
+BA   19   CR       1/2   TR  1   CH  1   NT  C             1/2   voff=80
+BA   19   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=80
+BA   19   CR       1/2   TR  1   CH  1   NT  F-            1/2   voff=80
+BA   19   CR       1/2   TR  3   CH  5   NT  F             1/2   voff=80
+BA   19   CR       1/2   TR  3   CH  5   NT  F-            1/2   voff=80
+BA   19   CR         1   TR  1   CH  1   NT  E           1+3/4   voff=80
+BA   19   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=80
+BA   19   CR         1   TR  1   CH  1   NT  B             1/2   voff=80
+BA   19   CR         1   TR  1   CH  1   NT  E-          1+3/4   voff=80
+BA   19   CR         1   TR  1   CH  1   NT  B-          1+3/4   voff=80
+BA   19   CR         1   TR  3   CH  5   NT  E           1+3/4   voff=80
+BA   19   CR         1   TR  3   CH  5   NT  E-          1+3/4   voff=80
+BA   19   CR     1+1/4   TR  4   CH  7   NT  B--           1/4   voff=80
+BA   19   CR     1+1/4   TR  4   CH  7   NT  B---          1/4   voff=80
+BA   19   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   19   CR     1+1/2   TR  4   CH  7   NT  C-            1/4   voff=80
+BA   19   CR     1+1/2   TR  4   CH  7   NT  C--           1/4   voff=80
+BA   19   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   19   CR     1+3/4   TR  4   CH  7   NT  C#-           1/4   voff=80
+BA   19   CR     1+3/4   TR  4   CH  7   NT  C#--          1/4   voff=80
+BA   19   CR     1+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   19   CR         2   TR  4   CH  7   NT  D-              2   voff=80
+BA   19   CR         2   TR  4   CH  7   NT  D--             2   voff=80
+BA   19   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   19   CR     2+3/4   TR  1   CH  1   NT  C'            1/4   voff=80
+BA   19   CR     2+3/4   TR  1   CH  1   NT  C             1/4   voff=80
+BA   19   CR     2+3/4   TR  1   CH  1   NT  G             1/4   voff=80
+BA   19   CR     2+3/4   TR  1   CH  1   NT  G-            1/4   voff=80
+BA   19   CR     2+3/4   TR  1   CH  1   NT  C-            1/4   voff=80
+BA   19   CR     2+3/4   TR  3   CH  5   NT  C             1/4   voff=80
+BA   19   CR     2+3/4   TR  3   CH  5   NT  C-            1/4   voff=80
+BA   19   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   19   CR         3   TR  1   CH  1   NT  C#'           1/4   voff=80
+BA   19   CR         3   TR  1   CH  1   NT  C#            1/4   voff=80
+BA   19   CR         3   TR  1   CH  1   NT  G#            1/4   voff=80
+BA   19   CR         3   TR  1   CH  1   NT  G#-           1/4   voff=80
+BA   19   CR         3   TR  1   CH  1   NT  C#-           1/4   voff=80
+BA   19   CR         3   TR  3   CH  5   NT  C#            1/4   voff=80
+BA   19   CR         3   TR  3   CH  5   NT  C#-           1/4   voff=80
+BA   19   CR         3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   19   CR     3+1/6   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   19   CR     3+1/4   TR  1   CH  1   NT  D'            1/4   voff=80
+BA   19   CR     3+1/4   TR  1   CH  1   NT  D             1/4   voff=80
+BA   19   CR     3+1/4   TR  1   CH  1   NT  A             1/4   voff=80
+BA   19   CR     3+1/4   TR  1   CH  1   NT  D-            1/4   voff=80
+BA   19   CR     3+1/4   TR  1   CH  1   NT  A-            1/4   voff=80
+BA   19   CR     3+1/4   TR  3   CH  5   NT  D             1/4   voff=80
+BA   19   CR     3+1/4   TR  3   CH  5   NT  D-            1/4   voff=80
+BA   19   CR     3+1/3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Eb'           1/2   voff=80
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Eb            1/2   voff=80
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Bb            1/2   voff=80
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Eb-           1/2   voff=80
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Bb-           1/2   voff=80
+BA   19   CR     3+1/2   TR  3   CH  5   NT  Eb            1/2   voff=80
+BA   19   CR     3+1/2   TR  3   CH  5   NT  Eb-           1/2   voff=80
+BA   19   CR     3+1/2   TR  8   CH 10   NT  E--           1/2   voff=80
+
+BA   20   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   20   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   20   CR       1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   20   CR       1/2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   20   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   20   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   20   CR       1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   20   CR       5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR       3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   20   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   20   CR       3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   20   CR       7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR         1   TR  4   CH  7   NT  A---          1/4   voff=80
+BA   20   CR         1   TR  9   CH 16   Channel volume 104
+BA   20   CR         1   TR  9   CH 16   NT  A--           1/2   voff=80
+BA   20   CR     1+1/2   TR  4   CH  7   NT  A--           1/4   voff=80
+BA   20   CR     1+1/2   TR  4   CH  7   NT  A---          1/4   voff=80
+BA   20   CR     1+1/2   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   20   CR     1+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     1+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     1+2/3   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   20   CR     1+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     1+5/6   TR  8   CH 10   NT  E--           1/6   voff=80
+BA   20   CR     1+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR         2   TR  4   CH  7   NT  G#---         1/4   voff=80
+BA   20   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   20   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   20   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   20   CR     2+1/2   TR  4   CH  7   NT  G#--          1/4   voff=80
+BA   20   CR     2+1/2   TR  4   CH  7   NT  G#---         1/4   voff=80
+BA   20   CR     2+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   20   CR     2+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   20   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   20   CR     2+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   20   CR     2+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   20   CR     2+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   20   CR     2+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR         3   TR  4   CH  7   NT  G---          1/4   voff=80
+BA   20   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   20   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   20   CR         3   TR  9   CH 16   Channel volume 64
+BA   20   CR         3   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   20   CR     3+1/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   20   CR     3+1/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   20   CR     3+3/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     3+1/2   TR  4   CH  7   NT  G--           1/4   voff=80
+BA   20   CR     3+1/2   TR  4   CH  7   NT  G---          1/4   voff=80
+BA   20   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   20   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   20   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   20   CR     3+1/2   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   20   CR     3+5/8   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   20   CR     3+3/4   TR  9   CH 16   NT  A--           1/8   voff=80
+BA   20   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   20   CR     3+7/8   TR  9   CH 16   NT  A--           1/8   voff=80
+
+BA   21   CR         0   TR  2   CH  3   Instrument 81
+BA   21   CR         0   TR  2   CH  4   Instrument 81
+BA   21   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   21   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   21   CR         0   TR  3   CH  5   Channel volume 88
+BA   21   CR         0   TR  3   CH  6   Channel volume 88
+BA   21   CR         0   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   21   CR         0   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   21   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   21   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   21   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   21   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   21   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   21   CR       1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   21   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   21   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   21   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   21   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   21   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   21   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   21   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   21   CR     1+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA   21   CR     1+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA   21   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   21   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   21   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   21   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   21   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   21   CR         2   TR  3   CH  5   NT  Bb              1   voff=80
+BA   21   CR         2   TR  3   CH  5   NT  Bb-             1   voff=80
+BA   21   CR         2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   21   CR         2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   21   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   21   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   21   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   21   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   21   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   21   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   21   CR     2+1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   21   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   21   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   21   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   21   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   21   CR         3   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   21   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   21   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   21   CR     3+1/2   TR  3   CH  5   NT  E'            1/2   voff=80
+BA   21   CR     3+1/2   TR  3   CH  5   NT  E             1/2   voff=80
+BA   21   CR     3+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA   21   CR     3+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA   21   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   21   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   21   CR     3+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+
+BA   22   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   22   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   22   CR         0   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   22   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   22   CR         0   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   22   CR         0   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   22   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   22   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   22   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   22   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   22   CR       1/2   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   22   CR       1/2   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   22   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   22   CR       1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   22   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   22   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   22   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   22   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   22   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   22   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   22   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   22   CR     1+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA   22   CR     1+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA   22   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   22   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   22   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   22   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   22   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   22   CR         2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   22   CR         2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   22   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   22   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   22   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   22   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   22   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   22   CR     2+1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   22   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   22   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   22   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   22   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   22   CR         3   TR  6   CH 12   NT  E             1/2   voff=80
+BA   22   CR         3   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   22   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   22   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   22   CR     3+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA   22   CR     3+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA   22   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   22   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   22   CR     3+1/2   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   22   CR     3+1/2   TR  6   CH 12   NT  D             1/2   voff=80
+
+BA   23   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   23   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   23   CR         0   TR  3   CH  5   Channel volume 88
+BA   23   CR         0   TR  3   CH  6   Channel volume 88
+BA   23   CR         0   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   23   CR         0   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   23   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   23   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   23   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   23   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   23   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   23   CR       1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   23   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   23   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   23   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   23   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   23   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   23   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   23   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   23   CR     1+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA   23   CR     1+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA   23   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   23   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   23   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   23   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   23   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   23   CR         2   TR  3   CH  5   NT  Bb              1   voff=80
+BA   23   CR         2   TR  3   CH  5   NT  Bb-             1   voff=80
+BA   23   CR         2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   23   CR         2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   23   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   23   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   23   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   23   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   23   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   23   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   23   CR     2+1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   23   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   23   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   23   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   23   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   23   CR         3   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   23   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   23   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   23   CR     3+1/2   TR  3   CH  5   NT  E'            1/2   voff=80
+BA   23   CR     3+1/2   TR  3   CH  5   NT  E             1/2   voff=80
+BA   23   CR     3+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA   23   CR     3+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA   23   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   23   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   23   CR     3+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+
+BA   24   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   24   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   24   CR         0   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   24   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   24   CR         0   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   24   CR         0   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   24   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   24   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   24   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   24   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   24   CR       1/2   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   24   CR       1/2   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   24   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   24   CR       1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   24   CR       1/2   TR  5   CH  9   NT  E'            1/4   voff=80
+BA   24   CR       1/2   TR  5   CH  9   NT  F'            1/4   voff=80
+BA   24   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   24   CR       3/4   TR  5   CH  9   NT  E'            1/4   voff=80
+BA   24   CR       3/4   TR  5   CH  9   NT  F'            1/4   voff=80
+BA   24   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   24   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   24   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   24   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   24   CR     1+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA   24   CR     1+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA   24   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   24   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   24   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   24   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   24   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   24   CR         2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   24   CR         2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   24   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   24   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   24   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   24   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   24   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   24   CR     2+1/2   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   24   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   24   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   24   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   24   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   24   CR         3   TR  6   CH 12   NT  E             1/2   voff=80
+BA   24   CR         3   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   24   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   24   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   24   CR     3+1/2   TR  4   CH  7   NT  E--           1/2   voff=80
+BA   24   CR     3+1/2   TR  4   CH  7   NT  E---          1/2   voff=80
+BA   24   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   24   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   24   CR     3+1/2   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   24   CR     3+1/2   TR  6   CH 12   NT  D             1/2   voff=80
+
+BA   25   CR         0   TR  1   CH  1   NT  Bb-             1   voff=80
+BA   25   CR         0   TR  1   CH  1   NT  F-              1   voff=80
+BA   25   CR         0   TR  2   CH  3   Instrument 81
+BA   25   CR         0   TR  2   CH  4   Instrument 81
+BA   25   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   25   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   25   CR         0   TR  3   CH  5   Channel volume 88
+BA   25   CR         0   TR  3   CH  6   Channel volume 88
+BA   25   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   25   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   25   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   25   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   25   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   25   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   25   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   25   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   25   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   25   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   25   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   25   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   25   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   25   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   25   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   25   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   25   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   25   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   25   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   25   CR       1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   25   CR       5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   25   CR       3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   25   CR       7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR         1   TR  1   CH 16   End of track
+BA   25   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   25   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   25   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   25   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   25   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   25   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR         1   TR  9   CH 16   Channel volume 104
+BA   25   CR         1   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   25   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   25   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   25   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   25   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   25   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   25   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   25   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   25   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   25   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   25   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   25   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   25   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     1+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     1+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     1+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   25   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   25   CR         2   TR  3   CH  5   NT  Bb              1   voff=80
+BA   25   CR         2   TR  3   CH  5   NT  Bb-             1   voff=80
+BA   25   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   25   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   25   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   25   CR         2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   25   CR         2   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   25   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR         2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   25   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   25   CR     2+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   25   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   25   CR     2+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   25   CR     2+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   25   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   25   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   25   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   25   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   25   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   25   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   25   CR     2+1/2   TR  7   CH 14   NT  Bb-           1/4   voff=80
+BA   25   CR     2+1/2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   25   CR     2+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   25   CR     2+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   25   CR     2+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   25   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   25   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   25   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   25   CR     2+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   25   CR     2+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   25   CR         3   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   25   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   25   CR         3   TR  9   CH 16   Channel volume 64
+BA   25   CR         3   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   25   CR     3+1/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   25   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   25   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   25   CR     3+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   25   CR     3+1/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   25   CR     3+3/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   25   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   25   CR     3+1/2   TR  3   CH  5   NT  E'            1/2   voff=80
+BA   25   CR     3+1/2   TR  3   CH  5   NT  E             1/2   voff=80
+BA   25   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   25   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   25   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   25   CR     3+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   25   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   25   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   25   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   25   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   25   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   25   CR     3+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   25   CR     3+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   25   CR     3+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   25   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   25   CR     3+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+
+BA   26   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   26   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   26   CR         0   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   26   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   26   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   26   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   26   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   26   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   26   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   26   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   26   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   26   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   26   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   26   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   26   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   26   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   26   CR       1/2   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   26   CR       1/2   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   26   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   26   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   26   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   26   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   26   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   26   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   26   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   26   CR       1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   26   CR       5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   26   CR       3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   26   CR       7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   26   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   26   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   26   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   26   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   26   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR         1   TR  9   CH 16   Channel volume 104
+BA   26   CR         1   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   26   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   26   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   26   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   26   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   26   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   26   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   26   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   26   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   26   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   26   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   26   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   26   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     1+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     1+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     1+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   26   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   26   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   26   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   26   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   26   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   26   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   26   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   26   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   26   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   26   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   26   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   26   CR     2+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   26   CR     2+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   26   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   26   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   26   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   26   CR     2+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   26   CR     2+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   26   CR         3   TR  6   CH 12   NT  E             1/2   voff=80
+BA   26   CR         3   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   26   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   26   CR         3   TR  9   CH 16   Channel volume 64
+BA   26   CR         3   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   26   CR     3+1/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   26   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   26   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   26   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   26   CR     3+1/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   26   CR     3+3/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   26   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   26   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   26   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   26   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   26   CR     3+1/2   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   26   CR     3+1/2   TR  6   CH 12   NT  D             1/2   voff=80
+BA   26   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   26   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   26   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   26   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   26   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   26   CR     3+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   26   CR     3+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   26   CR     3+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   26   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   26   CR     3+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+
+BA   27   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   27   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   27   CR         0   TR  3   CH  5   Channel volume 88
+BA   27   CR         0   TR  3   CH  6   Channel volume 88
+BA   27   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   27   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   27   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   27   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   27   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   27   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   27   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   27   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   27   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   27   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   27   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   27   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   27   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   27   CR       1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   27   CR       1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   27   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   27   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   27   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   27   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   27   CR       1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   27   CR       5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   27   CR       3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   27   CR       7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   27   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   27   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   27   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   27   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   27   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR         1   TR  9   CH 16   Channel volume 104
+BA   27   CR         1   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   27   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   27   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   27   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   27   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   27   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   27   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   27   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   27   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   27   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   27   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   27   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   27   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     1+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     1+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     1+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   27   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   27   CR         2   TR  3   CH  5   NT  Bb              1   voff=80
+BA   27   CR         2   TR  3   CH  5   NT  Bb-             1   voff=80
+BA   27   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   27   CR         2   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   27   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   27   CR         2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   27   CR         2   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   27   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR         2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   27   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   27   CR     2+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   27   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   27   CR     2+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   27   CR     2+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   27   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   27   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   27   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   27   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   27   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   27   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   27   CR     2+1/2   TR  7   CH 14   NT  Bb-           1/4   voff=80
+BA   27   CR     2+1/2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   27   CR     2+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   27   CR     2+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   27   CR     2+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   27   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   27   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   27   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   27   CR     2+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   27   CR     2+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   27   CR         3   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   27   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   27   CR         3   TR  9   CH 16   Channel volume 64
+BA   27   CR         3   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   27   CR     3+1/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   27   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   27   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   27   CR     3+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   27   CR     3+1/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   27   CR     3+3/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   27   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   27   CR     3+1/2   TR  3   CH  5   NT  E'            1/2   voff=80
+BA   27   CR     3+1/2   TR  3   CH  5   NT  E             1/2   voff=80
+BA   27   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   27   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   27   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   27   CR     3+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   27   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   27   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   27   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   27   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   27   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   27   CR     3+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   27   CR     3+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   27   CR     3+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   27   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   27   CR     3+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+
+BA   28   CR         0   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   28   CR         0   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   28   CR         0   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   28   CR         0   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   28   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   28   CR         0   TR  5   CH  9   NT  Bb            1/2   voff=80
+BA   28   CR         0   TR  6   CH 12   NT  Bb---         1/2   voff=80
+BA   28   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   28   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   28   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   28   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   28   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   28   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   28   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   28   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR       1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   28   CR       1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   28   CR       1/2   TR  3   CH  5   NT  Bb            1/2   voff=80
+BA   28   CR       1/2   TR  3   CH  5   NT  Bb-           1/2   voff=80
+BA   28   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   28   CR       1/2   TR  5   CH  9   NT  E'            1/4   voff=80
+BA   28   CR       1/2   TR  5   CH  9   NT  F'            1/4   voff=80
+BA   28   CR       1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   28   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   28   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   28   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR       1/2   TR  9   CH 16   Channel volume 16
+BA   28   CR       1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR       5/8   TR  9   CH 16   Channel volume 40
+BA   28   CR       5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR       3/4   TR  5   CH  9   NT  E'            1/4   voff=80
+BA   28   CR       3/4   TR  5   CH  9   NT  F'            1/4   voff=80
+BA   28   CR       3/4   TR  9   CH 16   Channel volume 64
+BA   28   CR       3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR       7/8   TR  9   CH 16   Channel volume 88
+BA   28   CR       7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR         1   TR  3   CH 16   End of track
+BA   28   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   28   CR         1   TR  5   CH  9   NT  A             1/2   voff=80
+BA   28   CR         1   TR  6   CH 12   NT  G#--          1/2   voff=80
+BA   28   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   28   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   28   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR         1   TR  9   CH 16   Channel volume 104
+BA   28   CR         1   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   28   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   28   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   28   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   28   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR     1+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   28   CR     1+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   28   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   28   CR     1+1/2   TR  5   CH  9   NT  Eb'           1/2   voff=80
+BA   28   CR     1+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   28   CR     1+1/2   TR  6   CH 12   NT  E--           1/2   voff=80
+BA   28   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   28   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   28   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     1+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     1+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     1+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR         2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   28   CR         2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   28   CR         2   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   28   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR         2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   28   CR     2+1/4   TR  6   CH 12   NT  Bb---         1/4   voff=80
+BA   28   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR     2+1/2   TR  2   CH  3   NT  Bb--          1/2   voff=80
+BA   28   CR     2+1/2   TR  2   CH  3   NT  Bb---         1/2   voff=80
+BA   28   CR     2+1/2   TR  5   CH  9   NT  E'            1/2   voff=80
+BA   28   CR     2+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   28   CR     2+1/2   TR  6   CH 12   NT  Bb--          1/2   voff=80
+BA   28   CR     2+1/2   TR  9   CH 16   Channel volume 32
+BA   28   CR     2+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     2+5/8   TR  9   CH 16   Channel volume 40
+BA   28   CR     2+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   28   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   28   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   28   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR     2+3/4   TR  9   CH 16   Channel volume 48
+BA   28   CR     2+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     2+7/8   TR  9   CH 16   Channel volume 56
+BA   28   CR     2+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR         3   TR  5   CH  9   NT  B             1/2   voff=80
+BA   28   CR         3   TR  6   CH 12   NT  E             1/2   voff=80
+BA   28   CR         3   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   28   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   28   CR         3   TR  9   CH 16   Channel volume 64
+BA   28   CR         3   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     3+1/8   TR  9   CH 16   Channel volume 72
+BA   28   CR     3+1/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   28   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   28   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   28   CR     3+1/4   TR  9   CH 16   Channel volume 80
+BA   28   CR     3+1/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     3+3/8   TR  9   CH 16   Channel volume 88
+BA   28   CR     3+3/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     3+1/2   TR  2   CH  3   NT  E--           1/2   voff=80
+BA   28   CR     3+1/2   TR  2   CH  3   NT  E---          1/2   voff=80
+BA   28   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   28   CR     3+1/2   TR  5   CH  9   NT  F'            1/2   voff=80
+BA   28   CR     3+1/2   TR  5   CH  9   NT  F#'           1/2   voff=80
+BA   28   CR     3+1/2   TR  6   CH 12   NT  Eb            1/2   voff=80
+BA   28   CR     3+1/2   TR  6   CH 12   NT  D             1/2   voff=80
+BA   28   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   28   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   28   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   28   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   28   CR     3+1/2   TR  9   CH 16   Channel volume 96
+BA   28   CR     3+1/2   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     3+5/8   TR  9   CH 16   Channel volume 104
+BA   28   CR     3+5/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     3+3/4   TR  9   CH 16   Channel volume 112
+BA   28   CR     3+3/4   TR  9   CH 16   NT  Bb--          1/8   voff=80
+BA   28   CR     3+7/8   TR  9   CH 16   Channel volume 120
+BA   28   CR     3+7/8   TR  9   CH 16   NT  Bb--          1/8   voff=80
+
+BA   29   CR         0   TR  2   CH 16   End of track
+BA   29   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   29   CR         0   TR  5   CH  9   Instrument 49
+BA   29   CR         0   TR  5   CH 11   Instrument 49
+BA   29   CR         0   TR  5   CH  9   Channel volume 56
+BA   29   CR         0   TR  5   CH 11   Channel volume 56
+BA   29   CR         0   TR  6   CH 16   End of track
+BA   29   CR         0   TR  9   CH 16   Channel volume 127
+BA   29   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   29   CR         0   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   29   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   29   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   29   CR       1/2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   29   CR       1/2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   29   CR       2/3   TR  5   CH  9   Instrument 49
+BA   29   CR       2/3   TR  5   CH 11   Instrument 49
+BA   29   CR       2/3   TR  5   CH  9   Channel volume 56
+BA   29   CR       2/3   TR  5   CH 11   Channel volume 56
+BA   29   CR       2/3   TR  5   CH  9   NT  E             2/3   voff=80
+BA   29   CR       2/3   TR  5   CH  9   NT  E'            2/3   voff=80
+BA   29   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   29   CR         1   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   29   CR         1   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   29   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   29   CR     1+1/3   TR  5   CH  9   NT  G'            2/3   voff=80
+BA   29   CR     1+1/3   TR  5   CH  9   NT  G             2/3   voff=80
+BA   29   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   29   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   29   CR     1+1/2   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   29   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   29   CR         2   TR  5   CH  9   NT  Bb'           2/3   voff=80
+BA   29   CR         2   TR  5   CH  9   NT  Bb            2/3   voff=80
+BA   29   CR         2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   29   CR         2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   29   CR     2+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   29   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   29   CR     2+1/2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   29   CR     2+1/2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   29   CR     2+2/3   TR  5   CH  9   NT  C#''          2/3   voff=80
+BA   29   CR     2+2/3   TR  5   CH  9   NT  C#'           2/3   voff=80
+BA   29   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   29   CR         3   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   29   CR         3   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   29   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   29   CR     3+1/3   TR  5   CH  9   NT  E''           2/3   voff=80
+BA   29   CR     3+1/3   TR  5   CH  9   NT  E'            2/3   voff=80
+BA   29   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+
+BA   30   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   30   CR         0   TR  7   CH 14   Channel volume 72
+BA   30   CR         0   TR  7   CH 15   Channel volume 72
+BA   30   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   30   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   30   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   30   CR         0   TR  9   CH 16   Channel volume 104
+BA   30   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   30   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   30   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   30   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   30   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   30   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   30   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   30   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   30   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   30   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   30   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   30   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   30   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   30   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   30   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   30   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR         2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   30   CR         2   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   30   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR     2+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   30   CR     2+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   30   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR     2+1/2   TR  7   CH 14   NT  Bb-           1/4   voff=80
+BA   30   CR     2+1/2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   30   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   30   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   30   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   30   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   30   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   30   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   30   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   30   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   30   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   30   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   30   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   30   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+
+BA   31   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   31   CR         0   TR  5   CH  9   Instrument 49
+BA   31   CR         0   TR  5   CH 11   Instrument 49
+BA   31   CR         0   TR  5   CH  9   Channel volume 56
+BA   31   CR         0   TR  5   CH 11   Channel volume 56
+BA   31   CR         0   TR  9   CH 16   Channel volume 127
+BA   31   CR         0   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   31   CR         0   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   31   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   31   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   31   CR       1/2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   31   CR       1/2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   31   CR       2/3   TR  5   CH  9   Instrument 49
+BA   31   CR       2/3   TR  5   CH 11   Instrument 49
+BA   31   CR       2/3   TR  5   CH  9   Channel volume 56
+BA   31   CR       2/3   TR  5   CH 11   Channel volume 56
+BA   31   CR       2/3   TR  5   CH  9   NT  E             2/3   voff=80
+BA   31   CR       2/3   TR  5   CH  9   NT  E'            2/3   voff=80
+BA   31   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   31   CR         1   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   31   CR         1   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   31   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   31   CR     1+1/3   TR  5   CH  9   NT  G'            2/3   voff=80
+BA   31   CR     1+1/3   TR  5   CH  9   NT  G             2/3   voff=80
+BA   31   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   31   CR     1+1/2   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   31   CR     1+1/2   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   31   CR         2   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   31   CR         2   TR  5   CH  9   NT  Bb'           2/3   voff=80
+BA   31   CR         2   TR  5   CH  9   NT  Bb            2/3   voff=80
+BA   31   CR         2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   31   CR         2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   31   CR     2+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   31   CR     2+1/2   TR  4   CH  7   NT  Bb--          1/4   voff=80
+BA   31   CR     2+1/2   TR  9   CH 16   NT  F-            1/2   voff=80
+BA   31   CR     2+1/2   TR  9   CH 16   NT  F#--          1/2   voff=80
+BA   31   CR     2+2/3   TR  5   CH  9   NT  C#''          2/3   voff=80
+BA   31   CR     2+2/3   TR  5   CH  9   NT  C#'           2/3   voff=80
+BA   31   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   31   CR         3   TR  9   CH 16   NT  Bb--          1/2   voff=80
+BA   31   CR         3   TR  9   CH 16   NT  Bb---         1/2   voff=80
+BA   31   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   31   CR     3+1/3   TR  5   CH  9   NT  E''           2/3   voff=80
+BA   31   CR     3+1/3   TR  5   CH  9   NT  E'            2/3   voff=80
+BA   31   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+
+BA   32   CR         0   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   32   CR         0   TR  5   CH 16   End of track
+BA   32   CR         0   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   32   CR         0   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   32   CR         0   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR         0   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   32   CR         0   TR  9   CH 16   Channel volume 104
+BA   32   CR         0   TR  9   CH 16   End of track
+BA   32   CR       1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   32   CR       1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   32   CR       1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   32   CR       1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR       1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   32   CR       1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   32   CR       1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   32   CR       1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR         1   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   32   CR         1   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   32   CR         1   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   32   CR         1   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR     1+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   32   CR     1+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   32   CR     1+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   32   CR     1+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR     1+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   32   CR     1+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   32   CR     1+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   32   CR     1+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR         2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   32   CR         2   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   32   CR         2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR     2+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   32   CR     2+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   32   CR     2+1/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR     2+1/2   TR  7   CH 14   NT  Bb-           1/4   voff=80
+BA   32   CR     2+1/2   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   32   CR     2+3/4   TR  4   CH  7   NT  Bb---         1/2   voff=80
+BA   32   CR     2+3/4   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   32   CR     2+3/4   TR  7   CH 14   NT  Bb---         1/2   voff=80
+BA   32   CR     2+3/4   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR         3   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR         3   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   32   CR     3+1/4   TR  4   CH  7   NT  Bb---         1/4   voff=80
+BA   32   CR     3+1/4   TR  7   CH 14   NT  Bb--          1/4   voff=80
+BA   32   CR     3+1/4   TR  7   CH 14   NT  Bb---         1/4   voff=80
+BA   32   CR     3+1/2   TR  4   CH  7   NT  Bb--          1/2   voff=80
+BA   32   CR     3+1/2   TR  7   CH 14   NT  Bb-           1/2   voff=80
+BA   32   CR     3+1/2   TR  7   CH 14   NT  Bb--          1/2   voff=80
+BA   32   CR     3+1/2   TR  8   CH 10   NT  E--           1/4   voff=80
+BA   32   CR     3+1/2   TR  8   CH 10   NT  C#-           1/4   voff=80
+BA   32   CR     3+3/4   TR  8   CH 16   End of track
+
+BA   33   CR         0   TR  4   CH 16   End of track
+BA   33   CR         0   TR  7   CH 16   End of track
