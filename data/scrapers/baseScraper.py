@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import os
 import subprocess
 import sys
@@ -38,12 +40,13 @@ class BaseScraper(object):
         self.hostUrl + relativeUrl. Program will delay for 1 second afterwards.
         DO NOT alter this delay.
         """
+        relativeUrl = relativeUrl.encode('utf-8')
         conn = httplib.HTTPConnection(host=self.hostUrl, timeout=30)
         if relativeUrl[0] != "/":
             relativeUrl = "/" + relativeUrl
         conn.request("GET", relativeUrl)
         html = conn.getresponse().read()
-        html = html.decode("UTF8", errors="ignore")
+        html = html.decode("utf-8", errors="ignore")
 
         sleep(self.delay)
         return html

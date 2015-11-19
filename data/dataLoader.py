@@ -1,5 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import os
 import re
+from unicodedata import normalize
 
 
 class DataLoader(object):
@@ -40,9 +43,12 @@ class DataLoader(object):
         """
         scriptDir = os.path.dirname(os.path.abspath(__file__))
         musicDir = os.path.join(scriptDir, "lyrics/")
+        dirs = [normalize('NFC', unicode(item, 'utf-8')) for \
+            item in os.listdir(musicDir)]
+        dirName = unicode(dirName, 'utf-8')
 
+        if normalize('NFC', dirName) not in dirs:
         # check if this artist has a directory in the lyrics directory
-        if dirName not in os.listdir(musicDir):
             print "No artist named", dirName, "in directory", musicDir
             return
 
@@ -63,6 +69,7 @@ class DataLoader(object):
                 line = [word for word in line if word != ""]
                 if line:
                     self.lyrics.append(line)
+
 
     def loadMusic(self, platform):
         """

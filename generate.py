@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import sys
 sys.path.append('./language-models')
 sys.path.append('./data')
@@ -9,7 +11,6 @@ from unigramModel import *
 from bigramModel import *
 from trigramModel import *
 from musicData import *
-
 
 # -----------------------------------------------------------------------------
 # Core ------------------------------------------------------------------------

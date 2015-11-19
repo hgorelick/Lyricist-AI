@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from baseScraper import *
 
 
@@ -42,6 +44,7 @@ class LyricsWikiaScraper(BaseScraper):
 
     def isolateNextPageUrl(self, html):
         """
+        Gets the url of the next page for the artist.
         """
         matchRegex = re.compile('previous 200.*?href="(.*?)".*?next 200')
         relativeUrl = re.findall(matchRegex, html)
@@ -132,7 +135,7 @@ class LyricsWikiaScraper(BaseScraper):
                         lyricsString += character
             lyricsString += "\n"
 
-        return lyricsString.decode("UTF8", errors = "ignore")
+        return lyricsString.decode("utf-8", errors = "ignore")
 
     def saveLyrics(self, title, relativeUrl, dirName):
         """
@@ -145,7 +148,7 @@ class LyricsWikiaScraper(BaseScraper):
         for encoding in URL_ENCODINGS:
             title = re.sub(encoding, URL_ENCODINGS[encoding], title)
         lyricsFileName = (dirName + "/" + title + ".txt").lower()
-        lyricsFile = codecs.open(lyricsFileName, "w", "UTF8", errors = "ignore")
+        lyricsFile = codecs.open(lyricsFileName, "w", "utf-8", errors = "ignore")
         lyricsFile.write(lyrics)
 
     def scrape(self, artist):
@@ -194,7 +197,7 @@ class LyricsWikiaScraper(BaseScraper):
 
 if __name__ == "__main__":
     scraper = LyricsWikiaScraper()
-    artist = raw_input("Enter the name of the artist you wish to search for: ")
+    artist = raw_input("Enter the name of the artist you wish to search for: ").decode('utf-8')
     scraper.scrape(artist)
     # scrapers gonna scrape, scrape, scrape, scrape, scrape
 
