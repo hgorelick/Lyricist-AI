@@ -42,6 +42,9 @@ class NGramModel(object):
                   ['hello', 'goodbye'], that list would become
                   ['^::^', '^:::^', 'hello', 'goodbye', '$:::$'] in the
                   returned copy.
+
+                  Make sure you are not modifying the original text
+                  parameter in this function.
         """
         textCopy = []
 
@@ -62,7 +65,8 @@ class NGramModel(object):
 
     def trainingDataHasNGram(self, sentence):
         """
-        Requires: sentence is a list of strings
+        Requires: sentence is a list of strings, and trainingDataHasNGram
+                  has returned True for this particular language model
         Modifies: nothing
         Effects:  returns a bool indicating whether or not this n-gram model
                   can be used to choose the next token for the current

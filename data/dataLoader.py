@@ -203,5 +203,6 @@ class DataLoader(object):
 
 if __name__ == "__main__":
     dataLoader = DataLoader()
+    dataLoader.loadLyrics('the_beatles')
     # put any testing code needed here
 

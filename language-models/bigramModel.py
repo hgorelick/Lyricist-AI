@@ -39,7 +39,7 @@ class BigramModel(NGramModel):
 
     def trainingDataHasNGram(self, sentence):
         """
-        Requires: sentence is a list of strings
+        Requires: sentence is a list of strings, and len(sentence) >= 1
         Modifies: nothing
         Effects:  returns True if this n-gram model can be used to choose
                   the next token for the sentence. For explanations of how this
@@ -49,7 +49,8 @@ class BigramModel(NGramModel):
 
     def getCandidateDictionary(self, sentence):
         """
-        Requires: sentence is a list of strings
+        Requires: sentence is a list of strings, and trainingDataHasNGram
+                  has returned True for this particular language model
         Modifies: nothing
         Effects:  returns the dictionary of candidate next words to be added
                   to the current sentence. For details on which words the

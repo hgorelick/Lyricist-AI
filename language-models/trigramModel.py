@@ -39,17 +39,18 @@ class TrigramModel(NGramModel):
 
     def trainingDataHasNGram(self, sentence):
         """
-        Requires: sentence is a list of strings
+        Requires: sentence is a list of strings, and len(sentence) >= 2
         Modifies: nothing
         Effects:  returns True if this n-gram model can be used to choose
                   the next token for the sentence. For explanations of how this
-                  is determined fro the TrigramModel, see the spec.
+                  is determined for the TrigramModel, see the spec.
         """
         return False
 
     def getCandidateDictionary(self, sentence):
         """
-        Requires: sentence is a list of strings
+        Requires: sentence is a list of strings, and trainingDataHasNGram
+                  has returned True for this particular language model
         Modifies: nothing
         Effects:  returns the dictionary of candidate next words to be added
                   to the current sentence. For details on which words the

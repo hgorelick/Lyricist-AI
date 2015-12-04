@@ -48,7 +48,8 @@ class UnigramModel(NGramModel):
 
     def getCandidateDictionary(self, sentence):
         """
-        Requires: sentence is a list of strings
+        Requires: sentence is a list of strings, and trainingDataHasNgGram
+                  has returned True for this particular language model
         Modifies: nothing
         Effects:  returns the dictionary of candidate next words to be added
                   to the current sentence. For details on which words the
