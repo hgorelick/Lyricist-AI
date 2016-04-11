@@ -109,11 +109,10 @@ class LyricsWikiaScraper(BaseScraper):
         contain symbols, blank lines, or HTML tags such as <i>.
         The loop attempts to mitigate this.
         """
-
-        ballparkStart = "cf_async_" # first occurrence of this string
-        ballparkIndex = html.find(ballparkStart)
-        exactStart = "</script>"
-        startIndex = html.find(exactStart, ballparkIndex) + len(exactStart)
+        # apparently lyricsWikia has updated their site and now
+        # lyrics begin in a div with class lyricbox
+        exactStart = '<div class=\'lyricbox\'>'
+        startIndex = html.find(exactStart) + len(exactStart)
 
         exactEnd = "<!--"
         endIndex = html.find(exactEnd, startIndex)
