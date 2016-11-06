@@ -124,6 +124,12 @@ def keysIn2D(D, L1, L2):
     """
     return
 
+def newCopy(L1):
+    """Function 13.
+    Given a List L1, return a tuple of (L1, L2) where L2 is an exact copy of L1
+    but with this appended value: 183
+    """
+    return
 
 
 # -----------------------------------------------------------------------------
