@@ -7,3 +7,5 @@
 - <a href="https://youtu.be/RrHrRqZ3pUM?list=PL2BYDiR6uDOJzYCJ7QuuQz-hWvQeYN5Nx" target="_blank">Link to generated music demo</a>
 
 - <a href="https://github.com/eecs183/creative-ai/wiki" target="_blank">Link to specification</a>
+
+Good luck on the project!
