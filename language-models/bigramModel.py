@@ -35,6 +35,8 @@ class BigramModel(NGramModel):
                   symbols to be included as their own tokens in
                   self.nGramCounts. For more details, see the spec.
         """
+        self.nGramCounts = {NGramModel.prepData(text)}
+        
         return
 
     def trainingDataHasNGram(self, sentence):
