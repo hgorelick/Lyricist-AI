@@ -29,7 +29,7 @@ def returnKeyVal(D, K):
     Modifies: Nothing
     Effects:  Returns the value associated with K in the dictionary D.
     """
-    return
+    return D.get(K, 'N/A')
 
 def setKeyVal(D, K, V):
     """
@@ -38,7 +38,8 @@ def setKeyVal(D, K, V):
     Effects:  Sets the value associated with the key K in the dictionary D
               to be the value V. Returns the dictionary D.
     """
-    return
+    D[K] = V
+    return D
 
 def setKeyValList(D, K, V1, V2, V3, V4):
     """
@@ -48,7 +49,8 @@ def setKeyValList(D, K, V1, V2, V3, V4):
               the input dictionary D, to be a list composed of V1 through
               V4, in that order. Returns the dictionary D.
     """
-    return
+    D[K] = [V1, V2, V3, V4]
+    return D
 
 def asciiAssociate():
     """
@@ -59,7 +61,10 @@ def asciiAssociate():
               the associated ascii values from 97 to 122. Returns the
               dictionary asciiDict.
     """
-    return
+    asciiDict = {a: 97, b: 98, c: 99, d: 100, e: 101, f: 102, g: 103, h: 104, i: 105, j: 106, k: 107, l: 108, m: 109,
+                 n: 110, o: 111, p: 112, q: 113, r: 114, s: 115, t: 116, u: 117, v: 118, w: 119, x: 120, y: 121, z: 122}
+    
+    return asciiDict
 
 def getColor(favoriteColors, name):
     """
