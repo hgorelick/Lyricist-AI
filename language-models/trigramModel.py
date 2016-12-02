@@ -35,7 +35,29 @@ class TrigramModel(NGramModel):
                   symbols to be included as their own tokens in
                   self.nGramCounts. For more details, see the spec.
         """
-        return
+
+        # Makes a copy of text, then passes it through prepData
+        trigram_text = text[:]
+        trigram_text = self.prepData(trigram_text)
+
+        # Counts frequency of each trigram in text_copy
+        # then updates the self.nGramCounts dictionary
+        # as specified by the spec
+        for i in range(len(trigram_text)):
+            for j in range(len(trigram_text[i]) - 2):
+                word1 = trigram_text[i][j]
+                word2 = trigram_text[i][j + 1]
+                word3 = trigram_text[i][j + 2]
+                trigram_count = 1
+                if word1 in self.nGramCounts:
+                    if word2 in self.nGramCounts[word1]:
+                        self.nGramCounts[word1][word2][word3] = trigram_count + 1
+                    else:
+                        self.nGramCounts[word1][word2] = {word3: trigram_count + 1}
+                else:
+                    self.nGramCounts.update({word1: {word2: {word3: trigram_count + 1}}})
+
+        return self.nGramCounts
 
     def trainingDataHasNGram(self, sentence):
         """
@@ -45,6 +67,15 @@ class TrigramModel(NGramModel):
                   the next token for the sentence. For explanations of how this
                   is determined for the TrigramModel, see the spec.
         """
+
+        # Checks if the sentence's second to last
+        # word is a key in self.nGramCounts, and
+        # if it is, checks if the last word in the
+        # sentence is also a key in self.nGramCounts,
+        # if so, returns true
+        if sentence[-2] in self.nGramCounts.keys():
+            if sentence[-1] in self.nGramCounts[sentence[-2]].keys():
+                return True
         return False
 
     def getCandidateDictionary(self, sentence):
@@ -56,7 +87,19 @@ class TrigramModel(NGramModel):
                   to the current sentence. For details on which words the
                   TrigramModel sees as candidates, see the spec.
         """
-        return {}
+
+        # Creates empty candidates dictionary
+        candidates = {}
+
+        # Checks every word in sentence up to the last.
+        # If that word exists as a key in self.nGramCounts
+        # then updates dictionary candidates with that
+        # key's value
+        if sentence[-2] in self.nGramCounts:
+            if sentence[-1] in self.nGramCounts[sentence[-2]]:
+                candidates.update(self.nGramCounts[sentence[-2]][sentence[-1]])
+
+        return candidates
 
 
 # -----------------------------------------------------------------------------
@@ -66,6 +109,7 @@ if __name__ == '__main__':
     text = [ ['the', 'quick', 'brown', 'fox'], ['the', 'lazy', 'dog'] ]
     sentence = [ 'the', 'quick', 'brown' ]
     trigramModel = TrigramModel()
-    # add your own testing code here if you like
-
+    print trigramModel.trainModel(text)
+    print trigramModel.trainingDataHasNGram(sentence)
+    print trigramModel.getCandidateDictionary(sentence)
 

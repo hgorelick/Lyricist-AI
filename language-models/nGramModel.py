@@ -46,11 +46,19 @@ class NGramModel(object):
                   Make sure you are not modifying the original text
                   parameter in this function.
         """
-        textCopy = []
 
-        # add the rest of your prepData implementation here
+        # Makes copy of list text
+        textCopy = text[:]
+
+        # iterates through textCopy and inserts/appends symbols
+        for i in range(len(textCopy)):
+            textCopy[i].insert(0, '^:::^')
+            textCopy[i].insert(0, '^::^')
+            textCopy[i].append('$:::$')
 
         return textCopy
+
+
 
     def trainModel(self, text):
         """
@@ -95,7 +103,38 @@ class NGramModel(object):
         Effects:  returns a candidate item (a key in the candidates dictionary)
                   based on the algorithm described in the spec.
         """
-        return
+
+        # Prevents symbols from being included in cumulative
+        exclude = {'^::^', '^:::^'}
+
+        # Assigns copy of dictionary candidates to cumulative
+        cumulative = {word: candidates[word] for word in candidates if word not in exclude}
+
+        # Creates list of cumulative's keys
+        keys = cumulative.keys()
+
+        # Updates cumulatives' cumulative values
+        if len(cumulative) > 1:
+            i = 1
+            while i in range(len(cumulative)):
+                cumulative[keys[i]] = cumulative[keys[i]] + cumulative[keys[i - 1]]
+                i += 1
+
+        # Used for assinging a random int to x
+        values = cumulative.values()
+
+        # Assigns random int in range min(values) - max(values) to x
+        if len(cumulative) > 1:
+            x = random.randrange(min(values), max(values))
+        else:
+            x = values[0]
+
+        # Iterates through cumulative's values
+        # comparing each to x, then returns
+        # first key with a value greater than x
+        for i in range(len(cumulative)):
+            if x <= cumulative[keys[i]]:
+                return keys[i]
 
     def getNextToken(self, sentence):
         """
@@ -107,7 +146,7 @@ class NGramModel(object):
                   For more information on how to put all these functions
                   together, see the spec.
         """
-        return ''
+        return self.weightedChoice(self.getCandidateDictionary(sentence))
 
     def getNextNote(self, musicalSentence, possiblePitches):
         """
@@ -133,7 +172,14 @@ class NGramModel(object):
 if __name__ == '__main__':
     text = [ ['the', 'quick', 'brown', 'fox'], ['the', 'lazy', 'dog'] ]
     choices = { 'the': 2, 'quick': 1, 'brown': 1 }
+    sentence = ['brown']
     nGramModel = NGramModel()
-    # add your own testing code here if you like
+    print nGramModel.prepData(text)
+    print nGramModel.weightedChoice(choices)
+    print nGramModel.getNextToken(sentence)
+    print nGramModel.getNextNote()
+
+
+
 
 

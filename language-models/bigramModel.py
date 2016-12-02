@@ -35,9 +35,33 @@ class BigramModel(NGramModel):
                   symbols to be included as their own tokens in
                   self.nGramCounts. For more details, see the spec.
         """
-        self.nGramCounts = {NGramModel.prepData(text)}
-        
-        return
+
+        # Makes a copy of text, then passes it through prepData
+        bigram_text = text[:]
+        bigram_text = self.prepData(bigram_text)
+
+        # Updates self.nGramCounts with known key value pairs
+        self.nGramCounts.update({'^::^': {'^:::^': len(bigram_text)}})
+
+        # Helps optimize for loop
+        update = self.nGramCounts.update
+
+        # Counts frequency of each bigram in text_copy
+        # then updates the self.nGramCounts dictionary
+        # as specified by the spec
+        for i in range(len(bigram_text)):
+            for j in range(len(bigram_text[i]) - 1):
+                word1 = bigram_text[i][j]
+                word2 = bigram_text[i][j + 1]
+                if ((word1 != '^::^') and (word2 != '^:::^')):
+                    if ((word2 != '^::^') and (word1 != '^:::^')):
+                        bigram_count = 1
+                        if word1 in self.nGramCounts:
+                            self.nGramCounts[word1][word2] = bigram_count + 1
+                        else:
+                            update({word1: {word2: bigram_count + 1}})
+
+        return self.nGramCounts
 
     def trainingDataHasNGram(self, sentence):
         """
@@ -47,6 +71,11 @@ class BigramModel(NGramModel):
                   the next token for the sentence. For explanations of how this
                   is determined for the BigramModel, see the spec.
         """
+
+        # Checks for the last element of sentence in keys
+        if sentence[-1] in self.nGramCounts.keys():
+            print self.nGramCounts[sentence[-1]]
+            return True
         return False
 
     def getCandidateDictionary(self, sentence):
@@ -58,7 +87,18 @@ class BigramModel(NGramModel):
                   to the current sentence. For details on which words the
                   BigramModel sees as candidates, see the spec.
         """
-        return {}
+
+        # Creates empty candidates dictionary
+        candidates = {}
+
+        # Checks every word in sentence up to the last.
+        # If that word exists as a key in self.nGramCounts
+        # then updates dictionary candidates with that
+        # key's value
+        if sentence[-1] in self.nGramCounts:
+            candidates.update(self.nGramCounts[sentence[-1]])
+
+        return candidates
 
 
 # -----------------------------------------------------------------------------
@@ -67,8 +107,10 @@ class BigramModel(NGramModel):
 if __name__ == '__main__':
     text = [ ['the', 'quick', 'brown', 'fox'], ['the', 'lazy', 'dog'] ]
     text.append([ 'quick', 'brown' ])
-    sentence = [ 'lazy', 'quick' ]
+    sentence = [ 'lazy', 'quick', 'brown', 'dog' ]
     bigramModel = BigramModel()
-    # add your own testing code here if you like
+    print bigramModel.trainModel(text)
+    print bigramModel.trainingDataHasNGram(sentence)
+    print bigramModel.getCandidateDictionary(sentence)
 
 

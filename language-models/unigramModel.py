@@ -1,5 +1,6 @@
 import random
 from nGramModel import *
+from collections import Counter
 
 
 # -----------------------------------------------------------------------------
@@ -34,7 +35,19 @@ class UnigramModel(NGramModel):
                   symbols to be included as their own tokens in
                   self.nGramCounts. For more details, see the spec.
         """
-        return
+
+        # Makes a copy of text, then passes it through prepData
+        unigram_text = text[:]
+        unigram_text = self.prepData(unigram_text)
+
+        # Prevents symbols from being counted
+        exclude = {'^::^', '^:::^'}
+
+        # Uses Counter function with a list comprehension
+        # to make a dictionary of each word and its count
+        self.nGramCounts = Counter(word for sublist in unigram_text for word in sublist if word not in exclude)
+
+        return self.nGramCounts
 
     def trainingDataHasNGram(self, sentence):
         """
@@ -44,6 +57,11 @@ class UnigramModel(NGramModel):
                   the next token for the sentence. For explanations of how this
                   is determined for the UnigramModel, see the spec.
         """
+
+        # Checks if self.nGramCounts is an empty dictionary
+        # then returns true or false based on condition
+        if self.nGramCounts != {}:
+            return True
         return False
 
     def getCandidateDictionary(self, sentence):
@@ -55,7 +73,7 @@ class UnigramModel(NGramModel):
                   to the current sentence. For details on which words the
                   UnigramModel sees as candidates, see the spec.
         """
-        return {}
+        return self.nGramCounts
 
 
 
@@ -63,9 +81,12 @@ class UnigramModel(NGramModel):
 # Testing code ----------------------------------------------------------------
 
 if __name__ == '__main__':
-    text = [ ['the', 'quick', 'brown', 'fox'], ['the', 'lazy', 'dog'] ]
+    text = [ ['the', 'quick', 'brown', 'fox'], ['jumps', 'over'], ['the', 'lazy', 'dog'] ]
     sentence = [ 'brown' ]
     unigramModel = UnigramModel()
-    # add your own testing code here if you like
+    print unigramModel.trainModel(text)
+    print unigramModel.trainingDataHasNGram(sentence)
+    print unigramModel.getCandidateDictionary(sentence)
+
 
 
