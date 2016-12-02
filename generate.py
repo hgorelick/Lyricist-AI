@@ -31,9 +31,19 @@ def trainLyricsModels(lyricsDirectory):
     """
     dataLoader = DataLoader()
     dataLoader.loadLyrics(lyricsDirectory) # lyrics stored in dataLoader.lyrics
-    models = [TrigramModel(), BigramModel(), UnigramModel()]
 
-    # add rest of trainLyricsModels implementation here
+    # Creates instances of each nGramModel
+    unigramModel = UnigramModel()
+    bigramModel = BigramModel()
+    trigramModel = TrigramModel()
+
+    # Populates each nGramModel's dictionary
+    unigramModel.trainModel(dataLoader.lyrics)
+    bigramModel.trainModel(dataLoader.lyrics)
+    trigramModel.trainModel(dataLoader.lyrics)
+
+    # Creates a list containing each model in priority order
+    models = [trigramModel, bigramModel, unigramModel]
 
     return models
 
@@ -48,7 +58,12 @@ def selectNGramModel(models, sentence):
               wrote a function that checks if a model can be used to pick a
               word for a sentence!)
     """
-    return
+
+    # Iterates through the list of models
+    # and returns the one that returns to true
+    for i in range(len(models)):
+        if models[i].trainingDataHasNGram(sentence):
+            return models[i]
 
 def sentenceTooLong(desiredLength, currentLength):
     """
@@ -75,9 +90,44 @@ def generateSentence(models, desiredLength):
               For more details about generating a sentence using the
               NGramModels, see the spec.
     """
-    sentence = ['^::^', '^:::^']
 
-    # add rest of generateSentence implementation here
+    # Initializes sentence with starting symbols
+    # then assigns the proper nGramModel
+    # to selected_model
+    sentence = ['^::^', '^:::^']
+    selected_model = selectNGramModel(models, sentence)
+
+    # Assigns functions to append/remove to avoid
+    # calling dot operator in every loop
+    # which enhances efficiency
+    append = sentence.append
+    remove = sentence.remove
+
+    # This loop first chooses and adds a next_word
+    # based on the current sentence and
+    # selected_model, then it checks if the
+    # sentence contains any symbols and
+    # removes them if necessary before
+    # returning the completed sentence
+    for i in range(desiredLength):
+        next_word = selected_model.getNextToken(sentence)
+        append(next_word)
+        if i == 0:
+            remove('^::^')
+        if i == 1:
+            remove('^:::^')
+        if sentence[-1] == '$:::$':
+            if '^:::^' in sentence:
+                remove('^:::^')
+                continue
+            else:
+                remove('$:::$')
+                return sentence
+        elif sentenceTooLong(desiredLength, len(sentence)):
+            if '^:::^' in sentence:
+                continue
+            return sentence
+        selected_model = selectNGramModel(models, sentence)
 
     return sentence
 
@@ -102,13 +152,28 @@ def runLyricsGenerator(models):
     Effects:  generates a verse one, a verse two, and a chorus, then
               calls printSongLyrics to print the song out.
     """
+
+    # Creates verse/chorus lists
     verseOne = []
     verseTwo = []
     chorus = []
 
-    # add rest of runLyricsGenerator implementation here
+    # Assigns functions to each append to avoid
+    # calling dot operator in every loop
+    # which enhances efficiency
+    append1 = verseOne.append
+    append2 = verseTwo.append
+    append_c = chorus.append
+    append = [append1, append2, append_c]
 
-    return
+    # Generates each verse and chorus
+    for i in range(len(append)):
+        for j in range(4):
+            new_line = generateSentence(models, 6)
+            append[i](new_line)
+            new_line = []
+
+    printSongLyrics(verseOne, verseTwo, chorus)
 
 
 
@@ -129,9 +194,19 @@ def trainMusicModels(musicDirectory):
     """
     dataLoader = DataLoader()
     dataLoader.loadMusic(musicDirectory) # music stored in dataLoader.songs
-    models = [TrigramModel(), BigramModel(), UnigramModel()]
 
-    # add rest of trainMusicModels implementation here
+    # Creates instances of each nGramModel
+    unigramModel = UnigramModel()
+    bigramModel = BigramModel()
+    trigramModel = TrigramModel()
+
+    # Populates each nGramModel's dictionary
+    unigramModel.trainModel(dataLoader.songs)
+    bigramModel.trainModel(dataLoader.songs)
+    trigramModel.trainModel(dataLoader.songs)
+
+    # Creates a list containing each model in priority order
+    models = [trigramModel, bigramModel, unigramModel]
 
     return models
 
@@ -210,10 +285,10 @@ def main():
               Also note that you can change the values of the first five
               variables based on your team's name, artist name, etc.
     """
-    teamName = 'Team Name'
-    lyricsSource = 'The Beatles'
+    teamName = 'Coldplay Creative AI'
+    lyricsSource = 'Coldplay'
     musicSource = 'Nintendo Gamecube'
-    lyricsDirectory = 'the_beatles'
+    lyricsDirectory = 'Coldplay'
     musicDirectory = 'gamecube'
 
     print 'Starting program and loading data...'
@@ -240,8 +315,9 @@ def main():
 
 if __name__ == '__main__':
     main()
-    # note that if you want to individually test functions from this file,
-    # you can comment out main() and call those functions here. Just make
-    # sure to call main() in your final submission of the project!
+    unigramModel = UnigramModel()
+    bigramModel = BigramModel()
+    trigramModel = TrigramModel()
+
 
 
