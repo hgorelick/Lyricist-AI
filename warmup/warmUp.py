@@ -20,8 +20,7 @@ def keyInDict(D, K):
     """
     if K in D:
         return True
-    else:
-        return False
+    return False
 
 def returnKeyVal(D, K):
     """
@@ -29,7 +28,7 @@ def returnKeyVal(D, K):
     Modifies: Nothing
     Effects:  Returns the value associated with K in the dictionary D.
     """
-    return D.get(K, 'N/A')
+    return D[K]
 
 def setKeyVal(D, K, V):
     """
@@ -49,7 +48,8 @@ def setKeyValList(D, K, V1, V2, V3, V4):
               the input dictionary D, to be a list composed of V1 through
               V4, in that order. Returns the dictionary D.
     """
-    D[K] = [V1, V2, V3, V4]
+    val_list = [V1, V2, V3, V4]
+    D[K] = val_list
     return D
 
 def asciiAssociate():
@@ -61,9 +61,17 @@ def asciiAssociate():
               the associated ascii values from 97 to 122. Returns the
               dictionary asciiDict.
     """
-    asciiDict = {a: 97, b: 98, c: 99, d: 100, e: 101, f: 102, g: 103, h: 104, i: 105, j: 106, k: 107, l: 108, m: 109,
-                 n: 110, o: 111, p: 112, q: 113, r: 114, s: 115, t: 116, u: 117, v: 118, w: 119, x: 120, y: 121, z: 122}
-    
+    asciiDict = {}
+    letter = 'a'
+    value = 97
+    i = 0
+
+    while value <= 122:
+        asciiDict.update({letter : value})
+        i += 1
+        letter = (chr(ord(letter) + 1))
+        value += 1
+
     return asciiDict
 
 def getColor(favoriteColors, name):
@@ -74,7 +82,8 @@ def getColor(favoriteColors, name):
     Effects:  Returns the first element in the list associated with the
               key "name" in the input dictionary favoriteColors.
     """
-    return
+    if name in favoriteColors:
+        return favoriteColors[name][0]
 
 def translate(vocab, word, language):
     """
@@ -86,7 +95,7 @@ def translate(vocab, word, language):
               Given the input dictionary, this function returns the
               value associated with the input word and language.
     """
-    return
+    return vocab[word][language]
 
 def nestedDictionary():
     """
@@ -96,7 +105,16 @@ def nestedDictionary():
               lowercase characters from a to z, and each key has a value
               of an empty dictionary. Returns the new dictionary D.
     """
-    return
+    D = {}
+    letter = 'a'
+    i = 0
+
+    while letter <= 'z':
+        D.update({letter : {}})
+        letter = (chr(ord(letter) + 1))
+        i += 1
+
+    return D
 
 def nestedDictionary3D(L1, L2):
     """
@@ -107,7 +125,16 @@ def nestedDictionary3D(L1, L2):
               has keys of each item of list L2 and corresponding
               values of empty dictionaries. Returns the new dictionary D.
     """
-    return
+    D = {}
+    j = 0
+    for i in range(len(L1)):
+        while j <= range(len(L1)):
+            k = 0
+            while k <= range(len(L2)):
+                D.update({L1[j] : {L2[j] : {}}})
+                k += 1
+            j += 1
+    return D
 
 def valueFrom3D(D, K1, K2, K3):
     """
@@ -119,7 +146,7 @@ def valueFrom3D(D, K1, K2, K3):
               with the innermost dictionary accessed using keys K1, K2, and K3,
               in that order.
     """
-    return
+    return D[K1][K2][K3]
 
 def keysIn2D(D, L1, L2):
     """
@@ -130,14 +157,23 @@ def keysIn2D(D, L1, L2):
               is associated with a dictionary that contains the last
               item of list L2 as a key.
     """
-    return
+    L1_checker = L1[-1]
+    L2_checker = L2[-1]
+
+    if (L1_checker in D) and (L1_checker in L2) and (L2_checker in D):
+        return True
+    return False
 
 def newCopy(L1):
     """Function 13.
     Given a List L1, return a tuple of (L1, L2) where L2 is an exact copy of L1
     but with this appended value: 183
     """
-    return
+
+    L2 = L1[:]
+    L2.append(183)
+
+    return L1, L2
 
 
 # -----------------------------------------------------------------------------
