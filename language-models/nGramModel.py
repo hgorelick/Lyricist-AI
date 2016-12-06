@@ -2,6 +2,7 @@ import random
 import sys
 sys.path.append('../data')
 from musicData import *
+import copy
 
 
 
@@ -48,7 +49,7 @@ class NGramModel(object):
         """
 
         # Makes copy of list text
-        textCopy = text[:]
+        textCopy = copy.deepcopy(text)
 
         # iterates through textCopy and inserts/appends symbols
         for i in range(len(textCopy)):
@@ -162,7 +163,48 @@ class NGramModel(object):
 
                   Please note that this function is for the reach only.
         """
-        return ()
+        allCandidates = self.getCandidateDictionary(musicalSentence)
+
+        constrainedCandidates = {}
+
+        # Prevents symbols from being counted
+        exclude = {'^::^', '^:::^', '$:::$'}
+
+        keys = allCandidates.keys()
+
+        filtered_keys = []
+        append = filtered_keys.append
+
+        for i in range(len(keys)):
+            if keys[i] not in exclude:
+                if keys[i][0][1] == ('b' or '#'):
+                    if len(keys[i][0]) > 2:
+                        append(keys[i][0][:-1])
+                    else:
+                        append(keys[i])
+                elif len(keys[i][0]) > 1:
+                    append(keys[i][0][:-1])
+                else:
+                    append(keys[i][0])
+            elif keys[i] == '$:::$':
+                append(keys[i])
+
+        values = allCandidates.values()
+
+        update = constrainedCandidates.update
+
+        for i in range(len(filtered_keys)):
+            if filtered_keys[i] in possiblePitches:
+                update({keys[i]: values[i]})
+            if keys[i] == '$':
+                update({keys[i]: values[i]})
+
+        if constrainedCandidates != {}:
+            return self.weightedChoice(constrainedCandidates)
+        else:
+            next_note = random.choice(possiblePitches) + '4'
+            note_duration = random.choice(NOTE_DURATIONS)
+            return next_note, note_duration
 
 
 
