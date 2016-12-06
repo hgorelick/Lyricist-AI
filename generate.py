@@ -169,11 +169,11 @@ def runLyricsGenerator(models):
     # Generates each verse and chorus
     for i in range(len(append)):
         for j in range(4):
-            new_line = generateSentence(models, 6)
+            new_line = generateSentence(models, 7)
             append[i](new_line)
             new_line = []
 
-    printSongLyrics(verseOne, verseTwo, chorus)
+    return printSongLyrics(verseOne, verseTwo, chorus)
 
 
 
@@ -193,7 +193,7 @@ def trainMusicModels(musicDirectory):
               unigramModel objects.
     """
     dataLoader = DataLoader()
-    dataLoader.loadMusic(musicDirectory) # music stored in dataLoader.songs
+    dataLoader.loadMusic(musicDirectory)  # music stored in dataLoader.songs
 
     # Creates instances of each nGramModel
     unigramModel = UnigramModel()
@@ -219,9 +219,44 @@ def generateMusicalSentence(models, desiredLength, possiblePitches):
               function instead of getNextToken(). Everything else
               should be exactly the same as the core.
     """
-    sentence = ['^::^', '^:::^']
 
-    # add rest of generateMusicalSentence implementation here
+    # Initializes sentence with starting symbols
+    # then assigns the proper nGramModel
+    # to selected_model
+    sentence = ['^::^', '^:::^']
+    selected_model = selectNGramModel(models, sentence)
+
+    # Assigns functions to append/remove to avoid
+    # calling dot operator in every loop
+    # which enhances efficiency
+    append = sentence.append
+    remove = sentence.remove
+
+    # This loop first chooses and adds a next_word
+    # based on the current sentence and
+    # selected_model, then it checks if the
+    # sentence contains any symbols and
+    # removes them if necessary before
+    # returning the completed sentence
+    for i in range(desiredLength):
+        next_note = selected_model.getNextNote(sentence, possiblePitches)
+        append(next_note)
+        if i == 0:
+            remove('^::^')
+        if i == 1:
+            remove('^:::^')
+        if sentence[-1] == '$:::$':
+            if '^:::^' in sentence:
+                remove('^:::^')
+                continue
+            else:
+                remove('$:::$')
+                return sentence
+        elif sentenceTooLong(desiredLength, len(sentence)):
+            if '^:::^' in sentence:
+                continue
+            return sentence
+        selected_model = selectNGramModel(models, sentence)
 
     return sentence
 
@@ -233,7 +268,11 @@ def runMusicGenerator(models, songName):
 
               Note: For the core, this should print "Under construction".
     """
-    print 'Under construction'
+    key_signature = random.choice(KEY_SIGNATURES.values())
+
+    song = generateMusicalSentence(models, 60, key_signature)
+
+    pysynth.make_wav(song, fn=songName)
 
 
 
@@ -318,6 +357,9 @@ if __name__ == '__main__':
     unigramModel = UnigramModel()
     bigramModel = BigramModel()
     trigramModel = TrigramModel()
+    #print runLyricsGenerator(trainLyricsModels('Coldplay'))
+    #print trainMusicModels('gamecube')
+    #print runMusicGenerator(trainMusicModels('gamecube'), 'Test')
 
 
 
