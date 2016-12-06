@@ -1,5 +1,6 @@
 import random
 from nGramModel import *
+import copy
 
 
 # -----------------------------------------------------------------------------
@@ -37,23 +38,26 @@ class TrigramModel(NGramModel):
         """
 
         # Makes a copy of text, then passes it through prepData
-        trigram_text = text[:]
+        trigram_text = copy.deepcopy(text)
         trigram_text = self.prepData(trigram_text)
 
         # Counts frequency of each trigram in text_copy
         # then updates the self.nGramCounts dictionary
         # as specified by the spec
+        trigram_count = 1
         for i in range(len(trigram_text)):
             for j in range(len(trigram_text[i]) - 2):
                 word1 = trigram_text[i][j]
                 word2 = trigram_text[i][j + 1]
                 word3 = trigram_text[i][j + 2]
-                trigram_count = 1
                 if word1 in self.nGramCounts:
                     if word2 in self.nGramCounts[word1]:
-                        self.nGramCounts[word1][word2][word3] = trigram_count + 1
+                        if word3 in self.nGramCounts[word1][word2]:
+                            self.nGramCounts[word1][word2][word3] += 1
+                        else:
+                            self.nGramCounts[word1][word2].update({word3: trigram_count + 1})
                     else:
-                        self.nGramCounts[word1][word2] = {word3: trigram_count + 1}
+                        self.nGramCounts[word1].update({word2: {word3: trigram_count + 1}})
                 else:
                     self.nGramCounts.update({word1: {word2: {word3: trigram_count + 1}}})
 
@@ -91,7 +95,8 @@ class TrigramModel(NGramModel):
         # Creates empty candidates dictionary
         candidates = {}
 
-        # Checks every word in sentence up to the last.
+        # Checks checks the second to last
+        # and last words of the sentence.
         # If that word exists as a key in self.nGramCounts
         # then updates dictionary candidates with that
         # key's value

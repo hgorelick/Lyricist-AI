@@ -1,6 +1,7 @@
 import random
 from nGramModel import *
 from collections import Counter
+import copy
 
 
 # -----------------------------------------------------------------------------
@@ -37,7 +38,7 @@ class UnigramModel(NGramModel):
         """
 
         # Makes a copy of text, then passes it through prepData
-        unigram_text = text[:]
+        unigram_text = copy.deepcopy(text)
         unigram_text = self.prepData(unigram_text)
 
         # Prevents symbols from being counted
@@ -45,7 +46,8 @@ class UnigramModel(NGramModel):
 
         # Uses Counter function with a list comprehension
         # to make a dictionary of each word and its count
-        self.nGramCounts = Counter(word for sublist in unigram_text for word in sublist if word not in exclude)
+        self.nGramCounts = Counter(word for sublist in unigram_text
+                                   for word in sublist if word not in exclude)
 
         return self.nGramCounts
 
