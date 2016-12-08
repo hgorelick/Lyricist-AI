@@ -354,11 +354,11 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
-    unigramModel = UnigramModel()
-    bigramModel = BigramModel()
-    trigramModel = TrigramModel()
-    #print runLyricsGenerator(trainLyricsModels('Coldplay'))
+    #main()
+    #unigramModel = UnigramModel()
+    #bigramModel = BigramModel()
+    #trigramModel = TrigramModel()
+    print runLyricsGenerator(trainLyricsModels('Coldplay'))
     #print trainMusicModels('gamecube')
     #print runMusicGenerator(trainMusicModels('gamecube'), 'Test')
 
