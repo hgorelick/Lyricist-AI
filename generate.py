@@ -16,6 +16,7 @@ from musicData import *
 # Core ------------------------------------------------------------------------
 # Functions to implement: trainLyricsModels, selectNGramModel,
 # generateSentence, and runLyricsGenerator
+''' test'''
 
 def trainLyricsModels(lyricsDirectory):
     """
