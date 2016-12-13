@@ -117,9 +117,6 @@ def generateSentence(models, desiredLength, sentence1=None):
     append = sentence.append
     remove = sentence.remove
 
-    # this word
-    ignore = 'instrumental'
-
     # This loop generates a sentence
     # up to the final word, then it checks if the
     # sentence contains any symbols, if so
@@ -334,7 +331,7 @@ def generateRhymingSentence(models, rhyme_scheme, sentence1, desiredLength):
     remove = sentence2.remove
     insert = sentence2.insert
 
-    selected_model = models[1]###
+    selected_model = models[1]
     try:
         next_word = selected_model.getNextRhymingToken(sentence1, sentence2)
         insert(0, next_word)
@@ -538,10 +535,17 @@ def runRhymingLyricsGenerator(models):
                         while len(stanzas[i]) < stanza_length - 1:
                             sentence1 = stanzas[i][line]
                             model = models[1]
-                            new_line = generateRhymingSentence(model, rhyme_scheme, sentence1, desiredLength)
-                            append[i](new_line)
-                            new_line = []
-                            line = 1
+                            try:
+                                new_line = generateRhymingSentence(model, rhyme_scheme, sentence1, desiredLength)
+                                append[i](new_line)
+                                new_line = []
+                                line = 1
+                            except IndexError:
+                                model = models[0]
+                                new_line = generateSentence(model, desiredLength)
+                                append[i](new_line)
+                                new_line = []
+                                line = 1
                 else:
                     sentence1 = stanzas[i][line]
                     model = models[0]
@@ -717,6 +721,8 @@ def main():
     while userInput != 3:
         print '\n',
         if userInput == 1:
+            print 'Your song will be ready shortly!'
+            print "And it's going to rhyme too!"
             runRhymingLyricsGenerator(lyricsModels)
         elif userInput == 2:
             songName = raw_input('What would you like to name your song? ')
@@ -731,15 +737,11 @@ def main():
 
 if __name__ == '__main__':
     main()
-    #test_sentence = ['you', 'cant', 'hurt', 'me']
     unigramModel = UnigramModel()
     bigramModel = BigramModel()
     trigramModel = TrigramModel()
-    #trainLyricsModels('Coldplay')
     #runRhymingLyricsGenerator(trainLyricsModels('Coldplay'))
-    #print trainMusicModels('gamecube')
-    #print runMusicGenerator(trainMusicModels('gamecube'), 'Test')
-   # print pronouncing.rhymes("yellow")
+
 
 
 
