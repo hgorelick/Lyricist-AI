@@ -162,7 +162,7 @@ class BigramModel(NGramModel):
         Effects:  returns True if this n-gram model can be used to choose
                   the next rhyming token for the sentence.
         """
-        rhyme_library = open('rhymeLibrary.txt', 'rb')
+        rhyme_library = open(r'C:\Users\hgore\Creative_AI_31_Repository\data', 'rb')
         rhyme_dict = pickle.load(rhyme_library)
 
         # checks if self.nGramCounts

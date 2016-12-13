@@ -113,7 +113,7 @@ class UnigramModel(NGramModel):
                   the candidate words will rhyme with the last word
                   of the compared sentence.
         """
-        rhyme_library = open('rhymeLibrary.txt', 'rb')
+        rhyme_library = open(r'C:\Users\hgore\Creative_AI_31_Repository\data', 'rb')
         rhyme_dict = pickle.load(rhyme_library)
 
         # Makes allCandidates the returned dictionary of getCandidateDictionary
@@ -166,7 +166,7 @@ class UnigramModel(NGramModel):
                   of the sentences in the verse or the
                   chorus can rhyme
         """
-        rhyme_library = open('rhymeLibrary.txt', 'rb')
+        rhyme_library = open(r'C:\Users\hgore\Creative_AI_31_Repository\data', 'rb')
         rhyme_dict = pickle.load(rhyme_library)
 
         # Makes allCandidates the returned dictionary of getCandidateDictionary
