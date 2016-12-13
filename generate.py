@@ -419,7 +419,7 @@ def checkRhymableSentence(models, sentence):
               of sentence are in self.nGramCounts
     """
 
-    rhyme_library = open(r'Users\hgore\Creative_AI_31_Repository\data\'rhymeLibrary.txt', 'r')
+    rhyme_library = open('rhymeLibrary.txt', 'r')
     rhyme_dict = pickle.load(rhyme_library)
 
     # Assigns proper nGramModel class to selected_model
@@ -445,7 +445,7 @@ def checkForRhyme(sentence1, sentence2):
              as a condition before a sentence is returned
     """
 
-    rhyme_library = open(r'Users\hgore\Creative_AI_31_Repository\data\'rhymeLibrary.txt', 'r')
+    rhyme_library = open('rhymeLibrary.txt', 'r')
     rhyme_dict = pickle.load(rhyme_library)
 
     # See effects section of docstring
