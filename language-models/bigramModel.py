@@ -162,7 +162,7 @@ class BigramModel(NGramModel):
         Effects:  returns True if this n-gram model can be used to choose
                   the next rhyming token for the sentence.
         """
-        rhyme_library = open(r'Users\hgore\Creative_AI_31_Repository\data', 'r')
+        rhyme_library = open(r'Users\hgore\Creative_AI_31_Repository\data\'rhymeLibrary.txt', 'r')
         rhyme_dict = pickle.load(rhyme_library)
 
         # checks if self.nGramCounts
@@ -212,7 +212,7 @@ class BigramModel(NGramModel):
                   the candidate words will rhyme with the last word
                   of the compared sentence.
         """
-        rhyme_library = open(r'Users\hgore\Creative_AI_31_Repository\data', 'r')
+        rhyme_library = open(r'Users\hgore\Creative_AI_31_Repository\data\'rhymeLibrary.txt', 'r')
         rhyme_dict = pickle.load(rhyme_library)
 
         # Makes allCandidates the returned dictionary of getCandidateDictionary
@@ -273,7 +273,7 @@ class BigramModel(NGramModel):
                   of the sentences in the verse or the
                   chorus can rhyme
         """
-        rhyme_library = open(r'Users\hgore\Creative_AI_31_Repository\data', 'r')
+        rhyme_library = open(r'Users\hgore\Creative_AI_31_Repository\data\'rhymeLibrary.txt', 'r')
         rhyme_dict = pickle.load(rhyme_library)
 
         # Makes allCandidates the returned dictionary of getCandidateDictionary
