@@ -740,7 +740,7 @@ if __name__ == '__main__':
     bigramModel = BigramModel()
     trigramModel = TrigramModel()
     #trainLyricsModels('Coldplay')
-    runRhymingLyricsGenerator(trainLyricsModels('Coldplay'))
+    #runRhymingLyricsGenerator(trainLyricsModels('Coldplay'))
     #print trainMusicModels('gamecube')
     #print runMusicGenerator(trainMusicModels('gamecube'), 'Test')
    # print pronouncing.rhymes("yellow")
