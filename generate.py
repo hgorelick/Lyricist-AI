@@ -420,7 +420,7 @@ def checkRhymableSentence(models, sentence):
     """
 
     rhyme_library = open(
-        r'C:\Users\hgore\Documents\Michigan\Senior\EECS\Creative_AI_31_Repository\Creative_AI_31_Repository\data\rhymeLibrary.txt',
+        r'Creative_AI_31_Repository\data\rhymeLibrary.txt',
         'rb')
     rhyme_dict = pickle.load(rhyme_library)
 
@@ -448,7 +448,7 @@ def checkForRhyme(sentence1, sentence2):
     """
 
     rhyme_library = open(
-        r'C:\Users\hgore\Documents\Michigan\Senior\EECS\Creative_AI_31_Repository\Creative_AI_31_Repository\data\rhymeLibrary.txt',
+        r'Creative_AI_31_Repository\data\rhymeLibrary.txt',
         'rb')
     rhyme_dict = pickle.load(rhyme_library)
 

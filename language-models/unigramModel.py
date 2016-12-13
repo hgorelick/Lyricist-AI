@@ -114,7 +114,7 @@ class UnigramModel(NGramModel):
                   of the compared sentence.
         """
         rhyme_library = open(
-            r'C:\Users\hgore\Documents\Michigan\Senior\EECS\Creative_AI_31_Repository\Creative_AI_31_Repository\data\rhymeLibrary.txt',
+            r'Creative_AI_31_Repository\data\rhymeLibrary.txt',
             'rb')
         rhyme_dict = pickle.load(rhyme_library)
 
@@ -169,7 +169,7 @@ class UnigramModel(NGramModel):
                   chorus can rhyme
         """
         rhyme_library = open(
-            r'C:\Users\hgore\Documents\Michigan\Senior\EECS\Creative_AI_31_Repository\Creative_AI_31_Repository\data\rhymeLibrary.txt',
+            r'Creative_AI_31_Repository\data\rhymeLibrary.txt',
             'rb')
         rhyme_dict = pickle.load(rhyme_library)
 
