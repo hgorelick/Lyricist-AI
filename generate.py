@@ -669,11 +669,10 @@ def main():
 
 
 if __name__ == '__main__':
-    #main()
+    main()
     unigramModel = UnigramModel()
     bigramModel = BigramModel()
     trigramModel = TrigramModel()
-    runRhymingLyricsGenerator(trainLyricsModels('Coldplay'))
 
 
 
