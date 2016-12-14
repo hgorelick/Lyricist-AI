@@ -48,8 +48,6 @@ def api(word):
     # and assings this new list to rhymes
     rhymes = [i.encode('UTF8') for i in u_rhymes]
 
-    #time.sleep(1)
-
     return rhymes
 
 

@@ -6,10 +6,12 @@ import rhymeApi
 from requests.exceptions import ConnectionError
 import copy
 
+# both lists will not return any rhymes. dealt with in fixIt(word)
 contractions = ['wont', 'dont', 'cant', 'wouldnt', 'shouldnt',
                 'couldnt', 'hasnt', 'havent']
 exceptions = ['oooon', 'oooo', 'oooooo', 'oh', 'ohoh', 'ooooooooh', 'oooohooohoooohoh',
               'youooooooooooh', 'lalalalalalalalaiy', 'ahahahahahahahah']
+
 def libraryWriter(LyricsDirectory):
     """
     What it does: loops through ever word in the Coldplay
@@ -17,19 +19,30 @@ def libraryWriter(LyricsDirectory):
                   then writes that rhyme list and corresponding
                   word to rhymeLibrary.txt
     """
-    dataLoader = DataLoader()
+
+    dataLoader = DataLoader() # makes dataLoader an instance of the DataLoader class
     dataLoader.loadLyrics(LyricsDirectory)  # lyrics stored in dataLoader.
 
-    # makes copy of list text
-    textCopy = copy.deepcopy(dataLoader.lyrics)
+    # makes text_copy a copy of list text
+    text_copy = copy.deepcopy(dataLoader.lyrics)
 
+    # makes rhyme_dict an empty dictionary
     rhyme_dict = {}
+
+    # assigns update function to update to avoid calling
+    # dot operator in every loop, which enhances efficiency
     update = rhyme_dict.update
+
+    # opens rhymeLibrary.txt to be written
     file_name = open('rhymeLibrary.txt', 'wb')
-    for i in range(len(textCopy)):
+
+    # loops through text_copy. every word in text_copy
+    # is created as a key in rhyme_dict. each keys' value
+    # is a list of words that rhyme with that key
+    for i in range(len(text_copy)):
         print i
-        for j in range(len(textCopy[i])):
-            word = textCopy[i][j]
+        for j in range(len(text_copy[i])):
+            word = text_copy[i][j]
             if word in rhyme_dict:
                 continue
             elif checkWordNeedsFixing(word):
@@ -50,14 +63,22 @@ def libraryWriter(LyricsDirectory):
                     file_name.close()
                     print i
                     exit(1)
+
+    # writes rhyme_dict to rhymeLibrary.txt then closes the file
     pickle.dump(rhyme_dict, file_name)
     file_name.close()
-        #i += 1
-    #file = open('rhymeLibrary.txt', 'r+')
-    #file.write(rhyme_dict)
-    #file.close()
 
 def fixIt(word):
+    """
+    Requires: word is a string in either list
+              contractions or exceptions
+    Modifies: fixed
+    Effects:  rhymeApi.api() will return an empty list
+              if any of these words are used as the input.
+              therefore, this function returns fixed, which
+              is a word that can be used as a substitute word
+              in rhymeApi.api()
+    """
     if word in contractions:
         if word == (contractions[0] or contractions[1]):
             fixed = 'note'
@@ -95,6 +116,12 @@ def fixIt(word):
             return fixed
 
 def checkWordNeedsFixing(word):
+    """
+    Requires: word is a string
+    Modifies: nothing
+    Effects:  returns true if and only if word is
+              in contractions or exceptions
+    """
     if word in contractions:
         return True
     if word in exceptions:

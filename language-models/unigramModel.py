@@ -60,7 +60,7 @@ class UnigramModel(NGramModel):
                   is determined for the UnigramModel, see the spec.
         """
 
-        # Checks if self.nGramCounts is an empty dictionary
+        # checks if self.nGramCounts is an empty dictionary
         # then returns true or false based on condition
         if self.nGramCounts != {}:
             return True
@@ -85,7 +85,7 @@ class UnigramModel(NGramModel):
                   must exist in each nGramModel child class
         """
 
-        # Checks if self.nGramCounts is an empty dictionary
+        # checks if self.nGramCounts is an empty dictionary
         # then returns true or false based on condition
         if self.nGramCounts != {}:
             return True
@@ -99,41 +99,57 @@ class UnigramModel(NGramModel):
                   must exist in each nGramModel child class
         """
 
-        # Checks if self.nGramCounts is an empty dictionary
+        # checks if self.nGramCounts is an empty dictionary
         # then returns true or false based on condition
         if self.nGramCounts != {}:
             return True
         return False
 
-    def getRhymingCandidateDictionary(self, sentence1, sentence2):
+    def getRhymingCandidateDictionary(self, sentence1, sentence2, finalLine=False):
         """
-        Requires: same as getCandidateDictionary
+        Requires: same as getCandidateDictionary and rhymeLibrary
+                  is a txt file containing a pickle dictionary.
+                  see README for more info on rhymeLibrary
         Modifies: nothing
         Effects:  same as getCandidateDictionary except the
                   the candidate words will rhyme with the last word
                   of the compared sentence.
         """
+
+        # opens rhymeLibrary and loads the dictionary into rhyme_dict
         rhyme_library = open('rhymeLibrary.txt', 'r')
         rhyme_dict = pickle.load(rhyme_library)
 
-        # Makes allCandidates the returned dictionary of getCandidateDictionary
+        # makes allCandidates the returned dictionary of getCandidateDictionary
         allCandidates = self.getCandidateDictionary(sentence2)
 
-        # Filters out symbol, it can't rhyme so
-        # shouldn't be returned
+        # filters out '$:::$', it can't rhyme so shouldn't be included
         exclude = '$:::$'
         if exclude in allCandidates:
             del allCandidates[exclude]
 
+        # if generating the final line of a stanza,
+        # makes sure the last word isn't one of these
+        if finalLine:
+            bad_endings = [
+                'for', 'nor', 'and', 'but', 'or', 'although', 'as', 'if',
+                'because', 'than', 'that', 'unless', 'until', 'til', 'when',
+                'where', 'whether', 'which', 'while', 'who', 'both', 'such', 'rather'
+            ]
+            for i in range(len(bad_endings)):
+                if bad_endings[i] in allCandidates:
+                    del allCandidates[bad_endings[i]]
+
         keys = allCandidates.keys()
 
-        # Makes constrainedCandidates an empty dictionary
+        # makes constrainedCandidates an empty dictionary
         constrainedCandidates = {}
 
-        # Helps optimize for loop
+        # assigns update function to update to avoid calling
+        # dot operator in every loop, which enhances efficiency
         update = constrainedCandidates.update
 
-        # Checks if any of the words in allCandidates
+        # checks if any of the words in allCandidates
         # rhymes with the last word in sentence1.
         # if so, updates constrainedCandidates with
         # that key value pair
@@ -158,7 +174,9 @@ class UnigramModel(NGramModel):
 
     def getRhymables(self, sentence):
         """
-        Requires: sentence is a list of strings
+        Requires: sentence is a list of strings and rhymeLibrary
+                  is a txt file containing a pickle dictionary.
+                  see README for more info on rhymeLibrary
         Modifies: nothing
         Effects:  only used for the last word of
                   sentence in generateSentence. ensures
@@ -166,25 +184,27 @@ class UnigramModel(NGramModel):
                   of the sentences in the verse or the
                   chorus can rhyme
         """
+
+        # opens rhymeLibrary and loads the dictionary into rhyme_dict
         rhyme_library = open('rhymeLibrary.txt', 'r')
         rhyme_dict = pickle.load(rhyme_library)
 
-        # Makes allCandidates the returned dictionary of getCandidateDictionary
+        # makes allCandidates the returned dictionary of getCandidateDictionary
         allCandidates = self.getCandidateDictionary(sentence)
 
-        # Filters out symbol, it can't rhyme so
-        # shouldn't be returned
+        # filters out '$:::$', it can't rhyme so shouldn't be included
         exclude = '$:::$'
         if exclude in allCandidates:
             del allCandidates[exclude]
 
-        # Makes constrainedCandidates an empty dictionary
+        # makes constrainedCandidates an empty dictionary
         constrainedCandidates = {}
 
-        # Helps optimize for loop
+        # assigns update function to update to avoid calling
+        # dot operator in every loop, which enhances efficiency
         update = constrainedCandidates.update
 
-        # Checks if any of the words in allCandidates
+        # checks if any of the words in allCandidates
         # rhymes with the last word in sentence1.
         # if so, updates constrainedCandidates with
         # that key value pair

@@ -213,15 +213,15 @@ class NGramModel(object):
                   same ending sentence conditions
         """
 
-        # Makes copy of list text
-        textCopy = copy.deepcopy(text)
+        # makes text_copy a copy of list text
+        text_copy = copy.deepcopy(text)
 
         # iterates through textCopy and inserts/appends symbols
-        for i in range(len(textCopy)):
-            textCopy[i].insert(0, '$:::$')
-            textCopy[i].append('$:::$')
+        for i in range(len(text_copy)):
+            text_copy[i].insert(0, '$:::$')
+            text_copy[i].append('$:::$')
 
-        return textCopy
+        return text_copy
 
     def trainRhymingModel(self, text):
         """
@@ -253,7 +253,7 @@ class NGramModel(object):
         return False
 
 
-    def getRhymingCandidateDictionary(self, sentence1, sentence2):
+    def getRhymingCandidateDictionary(self, sentence1, sentence2, finalLine=False):
         """
         Requires: same as getCandidateDictionary
         Modifies: nothing

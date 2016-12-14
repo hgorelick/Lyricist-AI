@@ -37,34 +37,33 @@ class BigramModel(NGramModel):
                   self.nGramCounts. For more details, see the spec.
         """
 
-        # Makes a copy of text, then passes it through prepData
+        # makes a copy of text, then passes it through prepData
         bigram_text = copy.deepcopy(text)
         bigram_text = self.prepData(bigram_text)
 
-        # Updates self.nGramCounts with known key value pairs
+        # updates self.nGramCounts with known key value pairs
         self.nGramCounts.update({'^::^': {'^:::^': len(bigram_text)}})
 
-        # Prevents symbols from being counted again
+        # prevents symbols from being counted again
         exclude = {'^::^', '^:::^'}
 
-        # Helps optimize for loop
+        # assigns update function to update to avoid calling
+        # dot operator in every loop, which enhances efficiency
         update = self.nGramCounts.update
 
-        # Counts frequency of each bigram in text_copy
-        # then updates the self.nGramCounts dictionary
-        # as specified by the spec
+        # updates self.nGramCounts with bigram frequencies
         bigram_count = 1
         for i in range(len(bigram_text)):
             for j in range(len(bigram_text[i]) - 1):
-                word1 = bigram_text[i][j]
-                word2 = bigram_text[i][j + 1]
+                word1 = bigram_text[i][j]       # makes words 1/2 a two-word sequence (a bigram) in text.
+                word2 = bigram_text[i][j + 1]   # loop ensures that every two-word sequence is checked
                 if word1 and word2 not in exclude:
                     if word1 in self.nGramCounts:
                         if word2 in self.nGramCounts[word1]:
-                            self.nGramCounts[word1][word2] += 1
-                        else:
+                            self.nGramCounts[word1][word2] += 1   # changes only an existing bigram's value
+                        else:   # adds a new second word to an existing unigram
                             self.nGramCounts[word1].update({word2: bigram_count + 1})
-                    else:
+                    else:   # adds a brand new bigram
                         update({word1: {word2: bigram_count + 1}})
 
         return self.nGramCounts
@@ -78,7 +77,7 @@ class BigramModel(NGramModel):
                   is determined for the BigramModel, see the spec.
         """
 
-        # checks for the last element of sentence in keys
+        # checks for the last word of sentence is a key in self.nGramCounts
         if sentence[-1] in self.nGramCounts.keys():
             return True
         return False
@@ -96,10 +95,9 @@ class BigramModel(NGramModel):
         # creates empty candidates dictionary
         candidates = {}
 
-        # checks last word of the sentence.
-        # If that word exists as a key in self.nGramCounts
-        # then updates dictionary candidates with that
-        # key's value
+        # checks last word of the sentence. if that word exists
+        # as a key in self.nGramCounts then updates dictionary
+        # candidates with that key's value
         if sentence[-1] in self.nGramCounts:
             candidates.update(self.nGramCounts[sentence[-1]])
 
@@ -117,29 +115,21 @@ class BigramModel(NGramModel):
                   going backwards.
         """
 
-        # makes bigram_text a copy of text with
-        # words in each sublist in reverse order
+        # makes bigram_text a copy of text, then passes it through prepRhymingData
         bigram_text = copy.deepcopy(text)
-        #reversed_bigram = [sublist[::-1] for sublist in bigram_text]
         bigram_text = self.prepRhymingData(bigram_text)
 
-        # Updates self.nGramCounts with known key value pairs
-        # self.nGramCounts.update({'^::^': {'^:::^': len(reversed_bigram)}})
-
-        # symbols shouldn't be counted because
-        # they won't be needed to produce sentence
-        # in reverse order
+        # symbols shouldn't be counted because they won't
+        # be needed to produce sentence in reverse order
         exclude = {'^::^', '^:::^'}
 
-        # Helps optimize for loop
+        # assigns update function to update to avoid calling
+        # dot operator in every loop, which enhances efficiency
         update = self.nGramCounts.update
 
-        # Counts frequency of each reversed bigram
-        # in reversed_bigram then updates the
-        # self.nGramCounts dictionary as specified by the spec
         bigram_count = 1
-        for i in range(len(bigram_text)):
-            j = len(bigram_text[i]) - 1
+        for i in range(len(bigram_text)):   # updates self.nGramCounts with bigram frequencies exactly
+            j = len(bigram_text[i]) - 1     # like trainModel (see lines 55-67), except in reverse
             while j > 0:
                 word1 = bigram_text[i][j]
                 word2 = bigram_text[i][j - 1]
@@ -158,27 +148,27 @@ class BigramModel(NGramModel):
     def trainingDataHasRhymingNGram(self, sentence1, sentence2=None):
         """
         Requires: sentence is a list of strings, and len(sentence) >= 2
+                  and rhymeLibrary is a txt file containing a pickle dictionary.
+                  see README for more info on rhymeLibrary
         Modifies: nothing
         Effects:  returns True if this n-gram model can be used to choose
                   the next rhyming token for the sentence.
         """
+
+        # opens rhymeLibrary and loads the dictionary into rhyme_dict
         rhyme_library = open('rhymeLibrary.txt', 'r')
         rhyme_dict = pickle.load(rhyme_library)
 
-        # checks if self.nGramCounts
-        # contains words that rhyme with
-        # the last word of sentence
-        # if so, returns true
+        # checks if self.nGramCounts contains words that rhyme
+        # with the last word of sentence if so, returns true
         if sentence2 is None:
             rhyming_list = rhyme_dict[sentence1[-1]]
             for i in range(len(rhyming_list)):
                 word = rhyming_list[i]
                 if word in self.nGramCounts[sentence1[-1]]:
                     return True
-        # checks the same conditions as above,
-        # and then checks if the words in rhyming_list
-        # als rhymes with the last word of sentence.
-        # if so, returns true
+        # checks the same conditions as above, except that
+        # it uses sentence1 as the rhyme-reference line
         else:
             keys = self.nGramCounts[sentence2[-1]]
             rhyming_list = rhyme_dict[sentence2[-1]]
@@ -198,40 +188,56 @@ class BigramModel(NGramModel):
                   must exist in each nGramModel child class
         """
 
-        # checks for the last element of sentence in keys
-        if sentence[-1] in self.nGramCounts.keys():
+        # checks for the first word of sentence is a key in self.nGramCounts
+        if sentence[1] in self.nGramCounts.keys():
             return True
         return False
 
 
-    def getRhymingCandidateDictionary(self, sentence1, sentence2):
+    def getRhymingCandidateDictionary(self, sentence1, sentence2, finalLine=False):
         """
-        Requires: same as getCandidateDictionary
+        Requires: same as getCandidateDictionary and rhymeLibrary
+                  is a txt file containing a pickle dictionary.
+                  see README for more info on rhymeLibrary
         Modifies: nothing
         Effects:  same as getCandidateDictionary except the
                   the candidate words will rhyme with the last word
                   of the compared sentence.
         """
+
+        # opens rhymeLibrary and loads the dictionary into rhyme_dict
         rhyme_library = open('rhymeLibrary.txt', 'r')
         rhyme_dict = pickle.load(rhyme_library)
 
-        # Makes allCandidates the returned dictionary of getCandidateDictionary
+        # makes allCandidates the returned dictionary of getCandidateDictionary
         allCandidates = self.getCandidateDictionary(sentence2)
 
-        # Filters out symbol, it can't rhyme so
-        # shouldn't be returned
+        # filters out '$:::$', it can't rhyme so shouldn't be included
         exclude = '$:::$'
         if exclude in allCandidates:
             del allCandidates[exclude]
 
-        # Makes constrainedCandidates an empty dictionary
+        # if generating the final line of a stanza,
+        # makes sure the last word isn't one of these
+        if finalLine:
+            bad_endings = [
+                'for', 'nor', 'and', 'but', 'or', 'although', 'as', 'if',
+                'because', 'than', 'that', 'unless', 'until', 'til', 'when',
+                'where', 'whether', 'which', 'while', 'who', 'both', 'such', 'rather'
+            ]
+            for i in range(len(bad_endings)):
+                if bad_endings[i] in allCandidates:
+                    del allCandidates[bad_endings[i]]
+
+        # makes constrainedCandidates an empty dictionary
         constrainedCandidates = {}
 
-        # Helps optimize for loop
+        # assigns update function to update to avoid calling
+        # dot operator in every loop, which enhances efficiency
         update = constrainedCandidates.update
 
-        # Checks if any of the words in allCandidates
-        # rhymes with the last word in sentence1.
+        # checks if any of the words in allCandidates
+        # rhyme with the last word in sentence1.
         # if so, updates constrainedCandidates with
         # that key value pair
         rhyming_list = rhyme_dict[sentence1[-1]]
@@ -254,8 +260,8 @@ class BigramModel(NGramModel):
         # creates empty candidates dictionary
         candidates = {}
 
-        # checks first word of the sentence.
-        # If that word exists as a key in self.nGramCounts
+        # checks first word of the sentence. if that
+        # word exists as a key in self.nGramCounts
         # then updates dictionary candidates with that
         # key's value
         if sentence[0] in self.nGramCounts:
@@ -265,7 +271,9 @@ class BigramModel(NGramModel):
 
     def getRhymables(self, sentence):
         """
-        Requires: sentence is a list of strings
+        Requires: sentence is a list of strings and rhymeLibrary
+                  is a txt file containing a pickle dictionary.
+                  see README for more info on rhymeLibrary
         Modifies: nothing
         Effects:  only used for the last word of
                   sentence in generateSentence. ensures
@@ -273,27 +281,29 @@ class BigramModel(NGramModel):
                   of the sentences in the verse or the
                   chorus can rhyme
         """
+
+        # opens rhymeLibrary and loads the dictionary into rhyme_dict
         rhyme_library = open('rhymeLibrary.txt', 'r')
         rhyme_dict = pickle.load(rhyme_library)
 
-        # Makes allCandidates the returned dictionary of getCandidateDictionary
+        # makes allCandidates the returned dictionary of getCandidateDictionary
         allCandidates = self.getCandidateDictionary(sentence)
 
-        # Filters out symbol, it can't rhyme so
-        # shouldn't be returned
+        # filters out '$:::$', it can't rhyme so shouldn't be included
         exclude = '$:::$'
         if exclude in allCandidates:
             del allCandidates[exclude]
 
         keys = allCandidates.keys()
 
-        # Makes constrainedCandidates an empty dictionary
+        # makes constrainedCandidates an empty dictionary
         constrainedCandidates = {}
 
-        # Helps optimize for loop
+        # assigns update function to update to avoid calling
+        # dot operator in every loop, which enhances efficiency
         update = constrainedCandidates.update
 
-        # Checks if any of the words in allCandidates
+        # checks if any of the words in allCandidates
         # rhymes with the last word in sentence1.
         # if so, updates constrainedCandidates with
         # that key value pair
@@ -301,8 +311,9 @@ class BigramModel(NGramModel):
             rhyming_list = rhyme_dict[keys[i]]
             for j in range(len(rhyming_list)):
                 word = rhyming_list[j]
-                if word in self.getDictionary():
-                    update({word: allCandidates[keys[i]]})
+                if word in self.nGramCounts:
+                    if '$:::$' in self.nGramCounts[word]:        # ensures that a rhyming word can
+                        update({word: allCandidates[keys[i]]})   # be chosen in subsequent lines
 
         return constrainedCandidates
 
