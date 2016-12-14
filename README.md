@@ -25,7 +25,7 @@ like they could be colplay lyrics. They rhyme as well! <br><br>
 1. Our program runs best in *Command Prompt* or *Terminal*, please do not try
 to run it in Git Bash.<br>
 
-2. Click [here](https://github.com/eecs183/Creative_AI_31_Repository.git) to download our repository. If the link doesn't work, please scroll to
+2. Click [here](https://github.com/eecs183/Creative_AI_31_Repository/archive/master.zip) to download our repository. If the link doesn't work, please scroll to
 the top of the page and click the green "clone or download" button.<br>
 
 3. Once downloaded, unzip the folder. Next, open Command Prompt or Terminal
