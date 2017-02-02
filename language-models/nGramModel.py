@@ -144,63 +144,6 @@ class NGramModel(object):
         """
         return self.weightedChoice(self.getCandidateDictionary(sentence))
 
-    def getNextNote(self, musicalSentence, possiblePitches):
-        """
-        Requires: musicalSentence is a list of PySynth tuples,
-                  possiblePitches is a list of possible pitches for this
-                  line of music (in other words, a key signature), and this
-                  model can be used to choose the next note for the current
-                  musical sentence
-        Modifies: nothing
-        Effects:  returns the next note to be added to the "musical sentence".
-                  For details on how to do this and how this will differ
-                  from the getNextToken function from the core, see the spec.
-
-                  Please note that this function is for the reach only.
-        """
-        allCandidates = self.getCandidateDictionary(musicalSentence)
-
-        constrainedCandidates = {}
-
-        # Prevents symbols from being counted
-        exclude = {'^::^', '^:::^', '$:::$'}
-
-        keys = allCandidates.keys()
-
-        filtered_keys = []
-        append = filtered_keys.append
-
-        for i in range(len(keys)):
-            if keys[i] not in exclude:
-                if keys[i][0][1] == ('b' or '#'):
-                    if len(keys[i][0]) > 2:
-                        append(keys[i][0][:-1])
-                    else:
-                        append(keys[i])
-                elif len(keys[i][0]) > 1:
-                    append(keys[i][0][:-1])
-                else:
-                    append(keys[i][0])
-            elif keys[i] == '$:::$':
-                append(keys[i])
-
-        values = allCandidates.values()
-
-        update = constrainedCandidates.update
-
-        for i in range(len(filtered_keys)):
-            if filtered_keys[i] in possiblePitches:
-                update({keys[i]: values[i]})
-            if keys[i] == '$':
-                update({keys[i]: values[i]})
-
-        if constrainedCandidates != {}:
-            return self.weightedChoice(constrainedCandidates)
-        else:
-            next_note = random.choice(possiblePitches) + '4'
-            note_duration = random.choice(NOTE_DURATIONS)
-            return next_note, note_duration
-
     def prepRhymingData(self, text):
         """
         Requires: text is a list of lists of strings
@@ -331,10 +274,10 @@ if __name__ == '__main__':
     choices = { 'the': 2, 'quick': 1, 'brown': 1 }
     sentence = ['brown']
     nGramModel = NGramModel()
-    print nGramModel.prepData(text)
-    print nGramModel.weightedChoice(choices)
-    print nGramModel.getNextToken(sentence)
-    print nGramModel.getNextNote()
+    print(nGramModel.prepData(text))
+    print(nGramModel.weightedChoice(choices))
+    print(nGramModel.getNextToken(sentence))
+    print(nGramModel.getNextNote())
 
 
 

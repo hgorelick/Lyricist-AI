@@ -3,8 +3,6 @@
 import sys
 sys.path.append('./language-models')
 sys.path.append('./data')
-sys.path.append('./pysynth')
-import pysynth
 import random
 from dataLoader import *
 
@@ -15,7 +13,7 @@ from trigramModel import *
 from musicData import *
 from rhymeData import *
 
-import cPickle as pickle
+import pickle
 
 # -----------------------------------------------------------------------------
 # Core ------------------------------------------------------------------------
@@ -198,11 +196,11 @@ def printSongLyrics(verseOne, verseTwo, chorus):
     """
 
     verses = [verseOne, chorus, verseTwo, chorus]
-    print '\n',
+    print('\n',)
     for verse in verses:
         for line in verse:
-            print (' '.join(line)).capitalize()
-        print '\n',
+            print(' '.join(line)).capitalize()
+        print('\n',)
 
 def runLyricsGenerator(models):
     """
@@ -573,23 +571,6 @@ def generateMusicalSentence(models, desiredLength, possiblePitches):
 
     return sentence
 
-def runMusicGenerator(models, songName):
-    """
-    Requires: models is a list of trained models
-    Modifies: nothing
-    Effects:  runs the music generator as following the details in the spec.
-
-              Note: For the core, this should print "Under construction".
-    """
-    key_signature = random.choice(KEY_SIGNATURES.values())
-
-    song = generateMusicalSentence(models, 60, key_signature)
-
-    return pysynth.make_wav(song, fn=songName)
-
-
-
-
 # -----------------------------------------------------------------------------
 # Main ------------------------------------------------------------------------
 
@@ -604,7 +585,7 @@ def getUserInput(teamName, lyricsSource, musicSource):
 
               Note: this function is for the reach only. It is done for you.
     """
-    print 'Welcome to the', teamName, 'music generator!\n'
+    print('Welcome to the', teamName, 'music generator!\n')
     prompt = 'Here are the menu options:\n' + \
              '(1) Generate song lyrics by ' + lyricsSource + '\n' \
              '(2) Generate a song using data from ' + musicSource + '\n' \
@@ -612,8 +593,8 @@ def getUserInput(teamName, lyricsSource, musicSource):
 
     userInput = -1
     while userInput < 1 or userInput > 3:
-        print prompt
-        userInput = raw_input('Please enter a choice between 1 and 3: ')
+        print(prompt)
+        userInput = input('Please enter a choice between 1 and 3: ')
         try:
             userInput = int(userInput)
         except ValueError:
@@ -638,33 +619,27 @@ def main():
               Also note that you can change the values of the first five
               variables based on your team's name, artist name, etc.
     """
-    teamName = 'Coldplay Creative AI'
-    lyricsSource = 'Coldplay'
-    musicSource = 'Nintendo Gamecube'
+    program_name = 'Lyricist AI'
+    lyricsSource = 'Coldplay' #eliminate, make it work for everything
     lyricsDirectory = 'Coldplay'
-    musicDirectory = 'gamecube'
 
-    print 'Starting program and loading data...'
+    print('Starting program and loading data...')
     lyricsModels = trainLyricsModels(lyricsDirectory)
-    musicModels = trainMusicModels(musicDirectory)
-    print 'Data successfully loaded\n'
+    print('Data successfully loaded\n')
 
-    userInput = getUserInput(teamName, lyricsSource, musicSource)
+    userInput = getUserInput(program_name, lyricsSource)
 
-    while userInput != 3:
-        print '\n',
+    while userInput != 2:
+        print('\n',)
         if userInput == 1:
-            print 'Your song will be ready shortly!'
-            print "And it's going to rhyme too!\n"
+            print('Your song will be ready shortly!')
+            print("And it's going to rhyme too!\n")
             runRhymingLyricsGenerator(lyricsModels)
-        elif userInput == 2:
-            songName = raw_input('What would you like to name your song? ')
-            runMusicGenerator(musicModels, 'wav/' + songName + '.wav')
 
-        print '\n',
-        userInput = getUserInput(teamName, lyricsSource, musicSource)
+        print('\n',)
+        userInput = getUserInput(program_name, lyricsSource)
 
-    print '\nThank you for using the', teamName, 'music generator!'
+    print('\nThank you for using the ', program_name, '!')
 
 
 
