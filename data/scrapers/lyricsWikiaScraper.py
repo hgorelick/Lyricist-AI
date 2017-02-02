@@ -162,25 +162,24 @@ class LyricsWikiaScraper(BaseScraper):
         artistFirstPageHtml = self.getPageHtml(artistUrlSuffix)
 
         if not self.artistExistsOnSite(artistFirstPageHtml):
-            print "\nThe artist", formattedArtistName, "does not exist on",
-            print self.hostUrl, "at", artistUrlSuffix
-            print "If you think this artist should exist on this site,",
-            print "try checking for capitalization or spelling errors"
+            print("\nThe artist", formattedArtistName, "does not exist on",)
+            print(self.hostUrl, "at", artistUrlSuffix)
+            print("If you think this artist should exist on this site,",)
+            print("try checking for capitalization or spelling errors")
             return
 
         urlByTitle = self.getSongUrls(artistFirstPageHtml)
         # get all the next pages, if they exist, and add them to url list
         paginatedUrls = self.getSongUrlsWithPagination(artistFirstPageHtml)
         urlByTitle.update(paginatedUrls)
-        print "\nFound", len(urlByTitle), "songs by", formattedArtistName,
-        print "with lyrics at", self.hostUrl
+        print("\nFound", len(urlByTitle), "songs by", formattedArtistName,)
+        print("with lyrics at", self.hostUrl)
 
         # make artistDir (data/music/<artist>) and then save files of
         # song lyrics to that directory
         # scriptDir is the absolute path to this script, baseScraper.py
         scriptDir = os.path.dirname(os.path.abspath(__file__))
-        artistDir = os.path.join(scriptDir, '../lyrics', \
-                                 re.sub(" ", "_", artist))
+        artistDir = os.path.join(scriptDir, '../lyrics', re.sub(" ", "_", artist))
 
         # avoid remaking an existing directory
         if not os.path.exists(artistDir):
@@ -191,12 +190,12 @@ class LyricsWikiaScraper(BaseScraper):
             progress = self.updateProgressBar(progress, title, len(urlByTitle))
             self.saveLyrics(title, urlByTitle[title], artistDir)
 
-        print "\nLyrics acquired from", self.hostUrl
+        print("\nLyrics acquired from", self.hostUrl)
 
 
 if __name__ == "__main__":
     scraper = LyricsWikiaScraper()
-    artist = raw_input("Enter the name of the artist you wish to search for: ").decode('utf-8')
+    artist = input("Enter the name of the artist you wish to search for: ").decode('utf-8')
     scraper.scrape(artist)
     # scrapers gonna scrape, scrape, scrape, scrape, scrape
 
