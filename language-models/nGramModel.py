@@ -277,8 +277,6 @@ if __name__ == '__main__':
     print(nGramModel.prepData(text))
     print(nGramModel.weightedChoice(choices))
     print(nGramModel.getNextToken(sentence))
-    print(nGramModel.getNextNote())
-
 
 
 
