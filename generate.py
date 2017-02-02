@@ -10,7 +10,6 @@ from unigramModel import *
 from bigramModel import *
 from trigramModel import *
 
-from musicData import *
 from rhymeData import *
 
 import pickle
@@ -202,35 +201,6 @@ def printSongLyrics(verseOne, verseTwo, chorus):
             print(' '.join(line)).capitalize()
         print('\n',)
 
-def runLyricsGenerator(models):
-    """
-    Requires: models is a list of a trained nGramModel child class objects
-    Modifies: nothing
-    Effects:  generates a verse one, a verse two, and a chorus, then
-              calls printSongLyrics to print the song out.
-    """
-
-    # creates verse/chorus lists
-    verseOne = []
-    verseTwo = []
-    chorus = []
-
-    # assigns functions to each append to avoid calling
-    # dot operator in every loop, which enhances efficiency
-    append1 = verseOne.append
-    append2 = verseTwo.append
-    append_c = chorus.append
-    append = [append1, append2, append_c]
-
-    # Generates each verse and chorus
-    for i in range(len(append)):
-        for j in range(4):
-            new_line = generateSentence(models, 7)
-            append[i](new_line)
-            new_line = []
-
-    return printSongLyrics(verseOne, verseTwo, chorus)
-
 def selectRhymingNGramModel(models, sentence1, sentence2=None):
     """
     Requires: models is a list of NGramModel objects sorted by descending
@@ -403,7 +373,7 @@ def chooseRhymeScheme(rhyme_schemes):
     """
     return random.choice(rhyme_schemes)
 
-def runRhymingLyricsGenerator(models):
+def runRhymingLyricsGenerator(models): #### REMOVE 0110 ###
     """
     Requires: models is a list of a trained nGramModel child class objects
     Modifies: nothing

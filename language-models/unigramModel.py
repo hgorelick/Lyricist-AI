@@ -2,7 +2,7 @@ import random
 from nGramModel import *
 from collections import Counter
 import copy
-import cPickle as pickle
+import pickle
 
 # -----------------------------------------------------------------------------
 # UnigramModel class ----------------------------------------------------------
@@ -232,9 +232,9 @@ if __name__ == '__main__':
     text = [ ['the', 'quick', 'brown', 'fox'], ['jumps', 'over'], ['the', 'lazy', 'dog'] ]
     sentence = [ 'brown' ]
     unigramModel = UnigramModel()
-    print unigramModel.trainModel(text)
-    print unigramModel.trainingDataHasNGram(sentence)
-    print unigramModel.getCandidateDictionary(sentence)
+    print(unigramModel.trainModel(text))
+    print(unigramModel.trainingDataHasNGram(sentence))
+    print(unigramModel.getCandidateDictionary(sentence))
 
 
 

@@ -1,7 +1,6 @@
 import random
 import sys
 sys.path.append('../data')
-from musicData import *
 import copy
 
 

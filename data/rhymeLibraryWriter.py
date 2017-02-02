@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import cPickle as pickle
+import pickle
 from dataLoader import *
 import rhymeApi
 from requests.exceptions import ConnectionError
@@ -40,7 +40,7 @@ def libraryWriter(LyricsDirectory):
     # is created as a key in rhyme_dict. each keys' value
     # is a list of words that rhyme with that key
     for i in range(len(text_copy)):
-        print i
+        print(i)
         for j in range(len(text_copy[i])):
             word = text_copy[i][j]
             if word in rhyme_dict:
@@ -52,7 +52,7 @@ def libraryWriter(LyricsDirectory):
                 except ConnectionError:
                     pickle.dump(rhyme_dict, file_name)
                     file_name.close()
-                    print i
+                    print(i)
                     exit(1)
             else:
                 try:
@@ -61,7 +61,7 @@ def libraryWriter(LyricsDirectory):
                 except ConnectionError:
                     pickle.dump(rhyme_dict, file_name)
                     file_name.close()
-                    print i
+                    print(i)
                     exit(1)
 
     # writes rhyme_dict to rhymeLibrary.txt then closes the file

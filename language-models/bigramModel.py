@@ -1,7 +1,7 @@
 import random
 from nGramModel import *
 import copy
-import cPickle as pickle
+import pickle
 
 # -----------------------------------------------------------------------------
 # BigramModel class -----------------------------------------------------------
@@ -341,9 +341,9 @@ if __name__ == '__main__':
     sentenceA = ['mother', 'mary', 'comes', 'to', 'me']
     sentenceB = ['let', 'it']
     bigramModel = BigramModel()
-    print bigramModel.trainModel(text)
-    print bigramModel.trainingDataHasNGram(sentence)
-    print bigramModel.getCandidateDictionary(sentence)
-    print bigramModel.getRhymingCandidateDictionary(sentenceA, sentenceB)
+    print(bigramModel.trainModel(text))
+    print(bigramModel.trainingDataHasNGram(sentence))
+    print(bigramModel.getCandidateDictionary(sentence))
+    print(bigramModel.getRhymingCandidateDictionary(sentenceA, sentenceB))
 
 

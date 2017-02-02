@@ -1,7 +1,7 @@
 import random
 from nGramModel import *
 import copy
-import cPickle as pickle
+import pickle
 
 # -----------------------------------------------------------------------------
 # TrigramModel class ----------------------------------------------------------
@@ -361,7 +361,7 @@ if __name__ == '__main__':
     text = [ ['the', 'quick', 'brown', 'fox'], ['the', 'lazy', 'dog'] ]
     sentence = [ 'the', 'quick', 'brown' ]
     trigramModel = TrigramModel()
-    print trigramModel.trainModel(text)
-    print trigramModel.trainingDataHasNGram(sentence)
-    print trigramModel.getCandidateDictionary(sentence)
+    print(trigramModel.trainModel(text))
+    print(trigramModel.trainingDataHasNGram(sentence))
+    print(trigramModel.getCandidateDictionary(sentence))
 

@@ -52,4 +52,4 @@ def api(word):
 
 
 if __name__ == '__main__':
-    print api('test')
+    print(api('test'))
