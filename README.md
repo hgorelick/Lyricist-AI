@@ -25,18 +25,16 @@ like they could be Colplay lyrics. They rhyme as well! <br><br>
   the local dictionary to find rhymes quickly and efficiently. <br><br>
 
 ### **How to Run**
-1. My program runs best in *Command Prompt* or *Terminal*, please do not try
-to run it in Git Bash.<br>
 
-2. Click [here](https://github.com/hgorelick/Lyricist-AI/archive/master.zip) to download the repository. If the link doesn't work, please scroll to
+1. Click [here](https://github.com/hgorelick/Lyricist-AI/archive/master.zip) to download the repository. If the link doesn't work, please scroll to
 the top of the page and click the green "clone or download" button.<br>
 
-3. Once downloaded, unzip the folder. Next, open Command Prompt or Terminal
+2. Once downloaded, unzip the folder. Next, open Command Prompt or Terminal
 and navigate to the folder containing our repository.<br>
 
-4. Now, enter "python generate.py" (without the quotes) into the command line.
+3. Now, enter "python generate.py" (without the quotes) into the command line.
 
-5. Follow prompts and enjoy!
+4. Follow prompts and enjoy!
 
 ### **Future Goals**
 I intend on editing the code so that the user can input an artist of their choice and receive the same results. I also will need to adapt/develop a grammar model in order to ensure that the lines not only rhyme, but make sense as well.
