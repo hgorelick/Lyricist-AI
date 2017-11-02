@@ -5,7 +5,7 @@ is an artificial intelligence that can generate song lyrics that sound
 like they could be Colplay lyrics. They rhyme as well! <br><br>
 
 ### **Important Info**
-  This originates from the completed version of the final project from EECS 183 at the University of Michigan, which I took in the fall   semester of 2016. Click [here](https://github.com/eecs183/creative-ai/wiki) for the original specifications. <br><br>
+  This originates from the completed version of the final project from EECS 183 at the University of Michigan, which I took in the fall   semester of 2016.<br><br>
 
 ### **rhymeLibrary.txt**
   My greatest challenge was getting a song's stanzas to have
