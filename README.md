@@ -1,7 +1,7 @@
 # Lyricist AI
 
 **Lyricist AI**
-is procedural song lyric generator that produces rhyming, original lyrics written
+is a procedural song lyric generator that produces rhyming, original lyrics written
 in the style of Coldplay.<br><br>
 
 ### **Important Info**
