@@ -1,8 +1,8 @@
 # Lyricist AI
 
 **Lyricist AI**
-is an artificial intelligence that can generate original song lyrics written
-in the style of Coldplay. They rhyme as well! <br><br>
+is an artificial intelligence that can generate original, rhyming song lyrics written
+in the style of Coldplay.<br><br>
 
 ### **Important Info**
   This originates from the completed version of the final project from EECS 183 at the University of Michigan, which I took in the fall   semester of 2016.<br><br>
